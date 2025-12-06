@@ -20,16 +20,7 @@ export default function KlippyApp() {
   const [progress, setProgress] = useState(0);
   const [currentStep, setCurrentStep] = useState('');
   const [clips, setClips] = useState<Clip[]>([]);
-  const [scrollY, setScrollY] = useState(0);
   const [stats, setStats] = useState({ clips: 0, score: 0, time: '0.0', videos: 0 });
-  const [isInView, setIsInView] = useState(false);
-  const graphRef = useRef(null);
-
-  useEffect(() => {
-    const handleScroll = () => setScrollY(window.scrollY);
-    window.addEventListener('scroll', handleScroll);
-    return () => window.removeEventListener('scroll', handleScroll);
-  }, []);
 
   useEffect(() => {
     if (activeTab === 'landing') {
@@ -39,23 +30,6 @@ export default function KlippyApp() {
       return () => clearTimeout(timer);
     }
   }, [activeTab]);
-
-  useEffect(() => {
-    const observer = new IntersectionObserver(
-      ([entry]) => {
-        if (entry.isIntersecting) {
-          setIsInView(true);
-        }
-      },
-      { threshold: 0.3 }
-    );
-
-    if (graphRef.current) {
-      observer.observe(graphRef.current);
-    }
-
-    return () => observer.disconnect();
-  }, []);
 
   const animateStats = () => {
     let clipsCount = 0;
@@ -206,43 +180,27 @@ export default function KlippyApp() {
     );
   };
 
-  const FloatingCard = ({ children, delay = 0 }: { children: React.ReactNode; delay?: number }) => {
-    return (
-      <div
-        className="animate-fadeInUp"
-        style={{
-          animationDelay: delay + 'ms',
-          animationFillMode: 'backwards'
-        }}
-      >
-        {children}
-      </div>
-    );
-  };
-
   return (
     <div className="min-h-screen text-white overflow-hidden relative" style={{ backgroundColor: '#0B1A2A' }}>
       <div className="fixed inset-0 pointer-events-none overflow-hidden">
         <div
-          className="absolute rounded-full blur-[150px] transition-all duration-1000"
+          className="absolute rounded-full blur-[150px]"
           style={{
             top: '10%',
             left: '20%',
             width: '600px',
             height: '600px',
-            background: 'radial-gradient(circle, rgba(106, 111, 255, 0.08) 0%, transparent 70%)',
-            transform: 'translate(' + (scrollY * 0.1) + 'px, ' + (scrollY * 0.15) + 'px)'
+            background: 'radial-gradient(circle, rgba(106, 111, 255, 0.08) 0%, transparent 70%)'
           }}
         />
         <div
-          className="absolute rounded-full blur-[150px] transition-all duration-1000"
+          className="absolute rounded-full blur-[150px]"
           style={{
             bottom: '10%',
             right: '20%',
             width: '600px',
             height: '600px',
-            background: 'radial-gradient(circle, rgba(212, 175, 55, 0.06) 0%, transparent 70%)',
-            transform: 'translate(' + (-scrollY * 0.08) + 'px, ' + (-scrollY * 0.12) + 'px)'
+            background: 'radial-gradient(circle, rgba(212, 175, 55, 0.06) 0%, transparent 70%)'
           }}
         />
       </div>
@@ -271,7 +229,7 @@ export default function KlippyApp() {
       {activeTab === 'landing' && (
         <div className="relative">
           <section className="min-h-screen max-w-6xl mx-auto px-8 pt-32 pb-24 text-center relative flex flex-col justify-center">
-            <FloatingCard delay={0}>
+            <div className="opacity-0 animate-fade-in-up" style={{ animationDelay: '0ms', animationFillMode: 'forwards' }}>
               <div
                 className="inline-flex items-center gap-2 px-5 py-2.5 rounded-full mb-10 border transition-all duration-300 hover:scale-105 backdrop-blur-sm"
                 style={{
@@ -282,31 +240,26 @@ export default function KlippyApp() {
                 <Sparkles className="w-4 h-4" style={{ color: '#6A6FFF' }} />
                 <span className="text-sm font-medium" style={{ color: '#6A6FFF' }}>AI-Powered Clip Generation</span>
               </div>
-            </FloatingCard>
+            </div>
 
-            <FloatingCard delay={100}>
-              <h1 className="text-7xl md:text-8xl font-bold mb-6 tracking-tight leading-[1.05]">
-                Your content. Viral.
-                <br />
-                <span style={{
-                  background: 'linear-gradient(135deg, #6A6FFF 0%, #d4af37 100%)',
-                  WebkitBackgroundClip: 'text',
-                  WebkitTextFillColor: 'transparent',
-                  backgroundClip: 'text'
-                }}>
-                  In minutes.
-                </span>
-              </h1>
-            </FloatingCard>
+            <h1 className="opacity-0 animate-fade-in-up text-7xl md:text-8xl font-bold mb-6 tracking-tight leading-[1.05]" style={{ animationDelay: '100ms', animationFillMode: 'forwards' }}>
+              Your content. Viral.
+              <br />
+              <span style={{
+                background: 'linear-gradient(135deg, #6A6FFF 0%, #d4af37 100%)',
+                WebkitBackgroundClip: 'text',
+                WebkitTextFillColor: 'transparent',
+                backgroundClip: 'text'
+              }}>
+                In minutes.
+              </span>
+            </h1>
 
-            <FloatingCard delay={200}>
-              <p className="text-xl text-gray-400 mb-16 max-w-3xl mx-auto leading-relaxed">
-                No editing. No guesswork. Automatically detect highlights, track faces, add captions, and reframe your long-form content into 8–15 short viral clips.
-              </p>
-            </FloatingCard>
+            <p className="opacity-0 animate-fade-in-up text-xl text-gray-400 mb-16 max-w-3xl mx-auto leading-relaxed" style={{ animationDelay: '200ms', animationFillMode: 'forwards' }}>
+              No editing. No guesswork. Automatically detect highlights, track faces, add captions, and reframe your long-form content into 8–15 short viral clips.
+            </p>
 
-            <FloatingCard delay={300}>
-              <div className="max-w-2xl mx-auto mb-20">
+            <div className="opacity-0 animate-fade-in-up max-w-2xl mx-auto mb-20" style={{ animationDelay: '300ms', animationFillMode: 'forwards' }}>
                 <div className="relative group">
                   <div
                     className="absolute inset-0 rounded-2xl blur-xl opacity-0 group-hover:opacity-50 transition-all duration-500"
@@ -338,8 +291,7 @@ export default function KlippyApp() {
                     </button>
                   </div>
                 </div>
-              </div>
-            </FloatingCard>
+            </div>
 
             <div className="grid grid-cols-4 gap-6 max-w-5xl mx-auto">
               {[
@@ -348,7 +300,7 @@ export default function KlippyApp() {
                 { value: stats.videos + '', label: "Clips Per Video", icon: Target },
                 { value: '<' + stats.time + 'min', label: "Processing Time", icon: Clock }
               ].map((stat, i) => (
-                <FloatingCard key={i} delay={400 + i * 100}>
+                <div key={i} className="opacity-0 animate-fade-in-up" style={{ animationDelay: `${400 + i * 100}ms`, animationFillMode: 'forwards' }}>
                   <div
                     className="rounded-2xl p-8 backdrop-blur-sm border transition-all duration-300 hover:scale-105 transform group cursor-pointer relative overflow-hidden"
                     style={{
@@ -368,7 +320,7 @@ export default function KlippyApp() {
                     </div>
                     <div className="text-sm text-gray-500">{stat.label}</div>
                   </div>
-                </FloatingCard>
+                </div>
               ))}
             </div>
           </section>
@@ -413,7 +365,7 @@ export default function KlippyApp() {
                   color: "#d4af37"
                 }
               ].map((feature, i) => (
-                <FloatingCard key={i} delay={i * 150}>
+                <div key={i}>
                   <div
                     className="rounded-2xl p-10 backdrop-blur-sm border transition-all duration-500 hover:scale-105 transform group cursor-pointer relative overflow-hidden"
                     style={{
@@ -435,12 +387,12 @@ export default function KlippyApp() {
                     <h3 className="text-2xl font-bold mb-4 relative z-10">{feature.title}</h3>
                     <p className="text-gray-400 leading-relaxed relative z-10">{feature.desc}</p>
                   </div>
-                </FloatingCard>
+                </div>
               ))}
             </div>
           </section>
 
-          <section ref={graphRef} className="max-w-6xl mx-auto px-8 py-32 relative">
+          <section className="max-w-6xl mx-auto px-8 py-32 relative">
             <div
               className="rounded-3xl p-12 backdrop-blur-sm border transition-all duration-300"
               style={{
@@ -493,9 +445,7 @@ export default function KlippyApp() {
                     strokeDasharray="6,6"
                   />
 
-                  {isInView && (
-                    <>
-                      <path
+                  <path
                         d="M 80 260 L 200 210 L 320 160 L 440 110 L 560 80 L 680 65 L 800 60"
                         stroke="url(#lineGradient)"
                         strokeWidth="4"
@@ -518,21 +468,19 @@ export default function KlippyApp() {
                         }}
                       />
 
-                      {[[80, 260], [200, 210], [320, 160], [440, 110], [560, 80], [680, 65], [800, 60]].map(([x, y], i) => (
-                        <circle
-                          key={i}
-                          cx={x}
-                          cy={y}
-                          r="6"
-                          fill="#6A6FFF"
-                          style={{
-                            opacity: 0,
-                            animation: 'fadeIn 0.5s ease-out ' + (1.5 + i * 0.1) + 's forwards'
-                          }}
-                        />
-                      ))}
-                    </>
-                  )}
+                  {[[80, 260], [200, 210], [320, 160], [440, 110], [560, 80], [680, 65], [800, 60]].map(([x, y], i) => (
+                    <circle
+                      key={i}
+                      cx={x}
+                      cy={y}
+                      r="6"
+                      fill="#6A6FFF"
+                      style={{
+                        opacity: 0,
+                        animation: 'fadeIn 0.5s ease-out ' + (1.5 + i * 0.1) + 's forwards'
+                      }}
+                    />
+                  ))}
                 </svg>
 
                 <div className="absolute bottom-2 left-16 text-xs text-gray-600 font-mono">0</div>
@@ -550,56 +498,52 @@ export default function KlippyApp() {
                   </div>
                 </div>
 
-                {isInView && (
-                  <div
-                    className="absolute top-1/3 right-1/4 rounded-xl px-5 py-4 backdrop-blur-xl border"
-                    style={{
-                      background: 'rgba(11, 26, 42, 0.9)',
-                      borderColor: 'rgba(106, 111, 255, 0.3)',
-                      animation: 'slideInRight 0.8s ease-out 2s forwards',
-                      opacity: 0
-                    }}
-                  >
-                    <div className="text-3xl font-bold mb-1" style={{ color: '#6A6FFF' }}>+247%</div>
-                    <div className="text-xs text-gray-400">Avg Increase</div>
-                  </div>
-                )}
+                <div
+                  className="absolute top-1/3 right-1/4 rounded-xl px-5 py-4 backdrop-blur-xl border"
+                  style={{
+                    background: 'rgba(11, 26, 42, 0.9)',
+                    borderColor: 'rgba(106, 111, 255, 0.3)',
+                    animation: 'slideInRight 0.8s ease-out 2s forwards',
+                    opacity: 0
+                  }}
+                >
+                  <div className="text-3xl font-bold mb-1" style={{ color: '#6A6FFF' }}>+247%</div>
+                  <div className="text-xs text-gray-400">Avg Increase</div>
+                </div>
               </div>
             </div>
           </section>
 
           <section className="max-w-4xl mx-auto px-8 py-32 text-center relative">
-            <FloatingCard>
+            <div
+              className="rounded-3xl p-16 backdrop-blur-sm border relative overflow-hidden"
+              style={{
+                background: 'rgba(15, 34, 53, 0.4)',
+                borderColor: 'rgba(106, 111, 255, 0.2)'
+              }}
+            >
               <div
-                className="rounded-3xl p-16 backdrop-blur-sm border relative overflow-hidden"
+                className="absolute inset-0 opacity-10"
+                style={{ background: 'radial-gradient(circle at center, #6A6FFF 0%, transparent 70%)' }}
+              />
+              <h2 className="text-5xl font-bold mb-6 relative z-10">
+                Ready to go viral?
+              </h2>
+              <p className="text-xl text-gray-400 mb-10 relative z-10">
+                Join 500K+ creators making viral content with AI
+              </p>
+              <button
+                onClick={() => document.querySelector('input')?.focus()}
+                className="px-10 py-5 rounded-xl text-lg font-semibold transition-all duration-300 transform hover:scale-105 hover:shadow-2xl relative overflow-hidden group z-10"
                 style={{
-                  background: 'rgba(15, 34, 53, 0.4)',
-                  borderColor: 'rgba(106, 111, 255, 0.2)'
+                  background: 'linear-gradient(135deg, #6A6FFF 0%, #d4af37 100%)',
+                  boxShadow: '0 10px 40px rgba(106, 111, 255, 0.3)'
                 }}
               >
-                <div
-                  className="absolute inset-0 opacity-10"
-                  style={{ background: 'radial-gradient(circle at center, #6A6FFF 0%, transparent 70%)' }}
-                />
-                <h2 className="text-5xl font-bold mb-6 relative z-10">
-                  Ready to go viral?
-                </h2>
-                <p className="text-xl text-gray-400 mb-10 relative z-10">
-                  Join 500K+ creators making viral content with AI
-                </p>
-                <button
-                  onClick={() => document.querySelector('input')?.focus()}
-                  className="px-10 py-5 rounded-xl text-lg font-semibold transition-all duration-300 transform hover:scale-105 hover:shadow-2xl relative overflow-hidden group z-10"
-                  style={{
-                    background: 'linear-gradient(135deg, #6A6FFF 0%, #d4af37 100%)',
-                    boxShadow: '0 10px 40px rgba(106, 111, 255, 0.3)'
-                  }}
-                >
-                  <span className="relative z-10">Make Your First Viral Clip</span>
-                  <div className="absolute inset-0 bg-white/20 transform scale-x-0 group-hover:scale-x-100 transition-transform duration-300 origin-left" />
-                </button>
-              </div>
-            </FloatingCard>
+                <span className="relative z-10">Make Your First Viral Clip</span>
+                <div className="absolute inset-0 bg-white/20 transform scale-x-0 group-hover:scale-x-100 transition-transform duration-300 origin-left" />
+              </button>
+            </div>
           </section>
         </div>
       )}
