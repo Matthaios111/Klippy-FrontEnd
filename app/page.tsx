@@ -208,9 +208,8 @@ export default function KlippyApp() {
       <header className="relative border-b border-white/5 backdrop-blur-xl z-50">
         <div className="max-w-7xl mx-auto px-8 py-5 flex items-center justify-between">
           <div className="flex items-center gap-3">
-            <div className="w-10 h-10 rounded-xl flex items-center justify-center relative overflow-hidden group" style={{ background: 'linear-gradient(135deg, #6A6FFF 0%, #8B5CF6 100%)' }}>
-              <Video className="w-6 h-6 relative z-10" />
-              <div className="absolute inset-0 bg-white/20 transform scale-0 group-hover:scale-100 transition-transform duration-300 rounded-xl" />
+            <div className="w-10 h-10 rounded-xl flex items-center justify-center" style={{ background: 'linear-gradient(135deg, #6A6FFF 0%, #8B5CF6 100%)' }}>
+              <Video className="w-6 h-6" />
             </div>
             <span className="text-xl font-bold">Klippy</span>
           </div>
@@ -218,9 +217,8 @@ export default function KlippyApp() {
             <a href="#features" className="text-sm text-gray-400 hover:text-white transition">Features</a>
             <a href="#pricing" className="text-sm text-gray-400 hover:text-white transition">Pricing</a>
             <a href="#examples" className="text-sm text-gray-400 hover:text-white transition">Examples</a>
-            <button className="px-6 py-2.5 rounded-xl text-sm font-medium transition-all duration-300 transform hover:scale-105 hover:shadow-lg relative overflow-hidden group" style={{ background: 'linear-gradient(135deg, #6A6FFF 0%, #8B5CF6 100%)' }}>
-              <span className="relative z-10">Try for Free</span>
-              <div className="absolute inset-0 bg-white/20 transform scale-x-0 group-hover:scale-x-100 transition-transform duration-300 origin-left" />
+            <button className="px-6 py-2.5 rounded-xl text-sm font-medium" style={{ background: 'linear-gradient(135deg, #6A6FFF 0%, #8B5CF6 100%)' }}>
+              Try for Free
             </button>
           </nav>
         </div>
@@ -260,13 +258,8 @@ export default function KlippyApp() {
             </p>
 
             <div className="opacity-0 animate-fade-in-up max-w-2xl mx-auto mb-20" style={{ animationDelay: '300ms', animationFillMode: 'forwards' }}>
-                <div className="relative group">
                   <div
-                    className="absolute inset-0 rounded-2xl blur-xl opacity-0 group-hover:opacity-50 transition-all duration-500"
-                    style={{ background: 'linear-gradient(135deg, #6A6FFF 0%, #8B5CF6 100%)' }}
-                  />
-                  <div
-                    className="relative flex items-center gap-3 rounded-2xl p-2 border transition-all duration-300 focus-within:scale-[1.02] backdrop-blur-sm"
+                    className="flex items-center gap-3 rounded-2xl p-2 border backdrop-blur-sm"
                     style={{
                       background: 'rgba(15, 34, 53, 0.6)',
                       borderColor: 'rgba(255, 255, 255, 0.1)'
@@ -282,15 +275,13 @@ export default function KlippyApp() {
                     <button
                       onClick={handleGenerate}
                       disabled={!videoUrl}
-                      className="px-8 py-4 rounded-xl font-medium transition-all duration-300 disabled:opacity-50 disabled:cursor-not-allowed flex items-center gap-2 whitespace-nowrap transform hover:scale-105 hover:shadow-lg relative overflow-hidden group"
+                      className="px-8 py-4 rounded-xl font-medium disabled:opacity-50 disabled:cursor-not-allowed flex items-center gap-2 whitespace-nowrap"
                       style={{ background: 'linear-gradient(135deg, #6A6FFF 0%, #8B5CF6 100%)' }}
                     >
-                      <span className="relative z-10">Generate</span>
-                      <ArrowRight className="w-5 h-5 relative z-10 group-hover:translate-x-1 transition-transform" />
-                      <div className="absolute inset-0 bg-white/10 transform scale-x-0 group-hover:scale-x-100 transition-transform duration-300 origin-left" />
+                      Generate
+                      <ArrowRight className="w-5 h-5" />
                     </button>
                   </div>
-                </div>
             </div>
 
             <div className="grid grid-cols-4 gap-6 max-w-5xl mx-auto">
@@ -534,14 +525,13 @@ export default function KlippyApp() {
               </p>
               <button
                 onClick={() => document.querySelector('input')?.focus()}
-                className="px-10 py-5 rounded-xl text-lg font-semibold transition-all duration-300 transform hover:scale-105 hover:shadow-2xl relative overflow-hidden group z-10"
+                className="px-10 py-5 rounded-xl text-lg font-semibold"
                 style={{
                   background: 'linear-gradient(135deg, #6A6FFF 0%, #d4af37 100%)',
                   boxShadow: '0 10px 40px rgba(106, 111, 255, 0.3)'
                 }}
               >
-                <span className="relative z-10">Make Your First Viral Clip</span>
-                <div className="absolute inset-0 bg-white/20 transform scale-x-0 group-hover:scale-x-100 transition-transform duration-300 origin-left" />
+                Make Your First Viral Clip
               </button>
             </div>
           </section>
