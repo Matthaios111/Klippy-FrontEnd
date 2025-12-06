@@ -336,9 +336,9 @@ export default function KlippyApp() {
               ].map((feature, i) => (
                 <div key={i}>
                   <div
-                    className="rounded-2xl p-10 backdrop-blur-sm border transition-all duration-500 hover:scale-105 transform group cursor-pointer relative overflow-hidden"
+                    className="rounded-2xl p-10 border group cursor-pointer relative overflow-hidden"
                     style={{
-                      background: 'rgba(20, 25, 35, 0.6)',
+                      background: 'rgba(20, 25, 35, 0.95)',
                       borderColor: 'rgba(255, 255, 255, 0.08)',
                       boxShadow: '0 8px 32px rgba(0, 0, 0, 0.3)'
                     }}
@@ -348,7 +348,7 @@ export default function KlippyApp() {
                       style={{ background: 'radial-gradient(circle at center, ' + feature.color + ' 0%, transparent 70%)' }}
                     />
                     <div
-                      className="w-16 h-16 rounded-2xl flex items-center justify-center mb-6 transition-all duration-300 group-hover:scale-110 relative z-10"
+                      className="w-16 h-16 rounded-2xl flex items-center justify-center mb-6 relative z-10"
                       style={{ background: feature.color + '15' }}
                     >
                       <feature.icon className="w-8 h-8" style={{ color: feature.color }} />
@@ -363,9 +363,9 @@ export default function KlippyApp() {
 
           <section className="max-w-6xl mx-auto px-8 py-32 relative">
             <div
-              className="rounded-3xl p-12 backdrop-blur-sm border transition-all duration-300"
+              className="rounded-3xl p-12 border"
               style={{
-                background: 'rgba(15, 34, 53, 0.4)',
+                background: 'rgba(15, 34, 53, 0.95)',
                 borderColor: 'rgba(255, 255, 255, 0.05)'
               }}
             >
@@ -468,9 +468,9 @@ export default function KlippyApp() {
                 </div>
 
                 <div
-                  className="absolute top-1/3 right-1/4 rounded-xl px-5 py-4 backdrop-blur-xl border"
+                  className="absolute top-1/3 right-1/4 rounded-xl px-5 py-4 border"
                   style={{
-                    background: 'rgba(11, 26, 42, 0.9)',
+                    background: 'rgba(11, 26, 42, 0.98)',
                     borderColor: 'rgba(106, 111, 255, 0.3)',
                     animation: 'slideInRight 0.8s ease-out 2s forwards',
                     opacity: 0
@@ -485,9 +485,9 @@ export default function KlippyApp() {
 
           <section className="max-w-4xl mx-auto px-8 py-32 text-center relative">
             <div
-              className="rounded-3xl p-16 backdrop-blur-sm border relative overflow-hidden"
+              className="rounded-3xl p-16 border relative overflow-hidden"
               style={{
-                background: 'rgba(15, 34, 53, 0.4)',
+                background: 'rgba(15, 34, 53, 0.95)',
                 borderColor: 'rgba(106, 111, 255, 0.2)'
               }}
             >
@@ -604,7 +604,7 @@ export default function KlippyApp() {
                 setVideoUrl('');
                 setClips([]);
               }}
-              className="px-6 py-3 rounded-xl border transition-all duration-300 hover:scale-105"
+              className="px-6 py-3 rounded-xl border"
               style={{
                 background: 'rgba(15, 34, 53, 0.6)',
                 borderColor: 'rgba(255, 255, 255, 0.1)'
@@ -616,20 +616,20 @@ export default function KlippyApp() {
 
           <div className="grid md:grid-cols-2 gap-6">
             {clips.map((clip: any) => (
-              <div key={clip.id} className="group rounded-2xl overflow-hidden border backdrop-blur-sm transition-all duration-300 hover:scale-[1.02]" style={{
-                background: 'rgba(15, 34, 53, 0.4)',
+              <div key={clip.id} className="group rounded-2xl overflow-hidden border" style={{
+                background: 'rgba(15, 34, 53, 0.95)',
                 borderColor: 'rgba(255, 255, 255, 0.05)'
               }}>
                 <div className="relative aspect-video">
                   <img
                     src={clip.thumbnail}
                     alt={clip.title}
-                    className="w-full h-full object-cover group-hover:scale-105 transition duration-700"
+                    className="w-full h-full object-cover"
                   />
                   <div className="absolute inset-0" style={{ background: 'linear-gradient(to top, #0B1A2A 0%, transparent 50%)' }} />
 
                   <div className="absolute inset-0 flex items-center justify-center opacity-0 group-hover:opacity-100 transition">
-                    <button className="w-16 h-16 bg-white rounded-full flex items-center justify-center hover:scale-110 transition">
+                    <button className="w-16 h-16 bg-white rounded-full flex items-center justify-center">
                       <Play className="w-8 h-8 ml-1" style={{ color: '#0B1A2A' }} fill="currentColor" />
                     </button>
                   </div>
@@ -655,7 +655,7 @@ export default function KlippyApp() {
                     <ViralScoreChart score={clip.score} />
                   </div>
 
-                  <button className="w-full px-6 py-3 rounded-xl font-medium transition-all duration-300 hover:scale-105 flex items-center justify-center gap-2" style={{ background: 'linear-gradient(135deg, #6A6FFF 0%, #8B5CF6 100%)' }}>
+                  <button className="w-full px-6 py-3 rounded-xl font-medium flex items-center justify-center gap-2" style={{ background: 'linear-gradient(135deg, #6A6FFF 0%, #8B5CF6 100%)' }}>
                     <Download className="w-5 h-5" />
                     Download Clip
                   </button>
