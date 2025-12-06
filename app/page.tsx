@@ -182,25 +182,27 @@ export default function KlippyApp() {
 
   return (
     <div className="min-h-screen text-white overflow-hidden relative" style={{ backgroundColor: '#0B1A2A' }}>
-      <div className="fixed inset-0 pointer-events-none overflow-hidden">
+      <div className="absolute inset-0 pointer-events-none overflow-hidden -z-10">
         <div
-          className="absolute rounded-full blur-[150px]"
+          className="absolute rounded-full blur-[60px]"
           style={{
             top: '10%',
             left: '20%',
             width: '600px',
             height: '600px',
-            background: 'radial-gradient(circle, rgba(106, 111, 255, 0.08) 0%, transparent 70%)'
+            background: 'radial-gradient(circle, rgba(106, 111, 255, 0.08) 0%, transparent 70%)',
+            willChange: 'transform'
           }}
         />
         <div
-          className="absolute rounded-full blur-[150px]"
+          className="absolute rounded-full blur-[60px]"
           style={{
             bottom: '10%',
             right: '20%',
             width: '600px',
             height: '600px',
-            background: 'radial-gradient(circle, rgba(212, 175, 55, 0.06) 0%, transparent 70%)'
+            background: 'radial-gradient(circle, rgba(212, 175, 55, 0.06) 0%, transparent 70%)',
+            willChange: 'transform'
           }}
         />
       </div>
