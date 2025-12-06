@@ -182,32 +182,8 @@ export default function KlippyApp() {
 
   return (
     <div className="min-h-screen text-white overflow-hidden relative" style={{ backgroundColor: '#0B1A2A' }}>
-      <div className="absolute inset-0 pointer-events-none overflow-hidden -z-10">
-        <div
-          className="absolute rounded-full blur-[60px]"
-          style={{
-            top: '10%',
-            left: '20%',
-            width: '600px',
-            height: '600px',
-            background: 'radial-gradient(circle, rgba(106, 111, 255, 0.08) 0%, transparent 70%)',
-            willChange: 'transform'
-          }}
-        />
-        <div
-          className="absolute rounded-full blur-[60px]"
-          style={{
-            bottom: '10%',
-            right: '20%',
-            width: '600px',
-            height: '600px',
-            background: 'radial-gradient(circle, rgba(212, 175, 55, 0.06) 0%, transparent 70%)',
-            willChange: 'transform'
-          }}
-        />
-      </div>
 
-      <header className="relative border-b border-white/5 backdrop-blur-xl z-50">
+      <header className="relative border-b border-white/5 z-50" style={{ background: 'rgba(11, 26, 42, 0.95)' }}>
         <div className="max-w-7xl mx-auto px-8 py-5 flex items-center justify-between">
           <div className="flex items-center gap-3">
             <div className="w-10 h-10 rounded-xl flex items-center justify-center" style={{ background: 'linear-gradient(135deg, #6A6FFF 0%, #8B5CF6 100%)' }}>
@@ -231,7 +207,7 @@ export default function KlippyApp() {
           <section className="min-h-screen max-w-6xl mx-auto px-8 pt-32 pb-24 text-center relative flex flex-col justify-center">
             <div>
               <div
-                className="inline-flex items-center gap-2 px-5 py-2.5 rounded-full mb-10 border backdrop-blur-sm"
+                className="inline-flex items-center gap-2 px-5 py-2.5 rounded-full mb-10 border"
                 style={{
                   background: 'rgba(106, 111, 255, 0.08)',
                   borderColor: 'rgba(106, 111, 255, 0.2)'
@@ -261,7 +237,7 @@ export default function KlippyApp() {
 
             <div className="max-w-2xl mx-auto mb-20">
                   <div
-                    className="flex items-center gap-3 rounded-2xl p-2 border backdrop-blur-sm"
+                    className="flex items-center gap-3 rounded-2xl p-2 border"
                     style={{
                       background: 'rgba(15, 34, 53, 0.6)',
                       borderColor: 'rgba(255, 255, 255, 0.1)'
@@ -295,7 +271,7 @@ export default function KlippyApp() {
               ].map((stat, i) => (
                 <div key={i}>
                   <div
-                    className="rounded-2xl p-8 backdrop-blur-sm border group cursor-pointer relative overflow-hidden"
+                    className="rounded-2xl p-8 border group cursor-pointer relative overflow-hidden"
                     style={{
                       background: 'rgba(20, 25, 35, 0.6)',
                       borderColor: 'rgba(255, 255, 255, 0.08)',
