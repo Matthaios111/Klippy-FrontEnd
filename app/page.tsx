@@ -270,7 +270,7 @@ export default function KlippyApp() {
 
       {activeTab === 'landing' && (
         <div className="relative">
-          <section className="max-w-6xl mx-auto px-8 pt-32 pb-24 text-center relative">
+          <section className="min-h-screen max-w-6xl mx-auto px-8 pt-32 pb-24 text-center relative flex flex-col justify-center">
             <FloatingCard delay={0}>
               <div
                 className="inline-flex items-center gap-2 px-5 py-2.5 rounded-full mb-10 border transition-all duration-300 hover:scale-105 backdrop-blur-sm"
@@ -285,13 +285,7 @@ export default function KlippyApp() {
             </FloatingCard>
 
             <FloatingCard delay={100}>
-              <h1
-                className="text-7xl md:text-8xl font-bold mb-6 tracking-tight leading-[1.05]"
-                style={{
-                  opacity: Math.max(0.3, 1 - scrollY / 500),
-                  transform: 'translateY(' + (scrollY * 0.2) + 'px)'
-                }}
-              >
+              <h1 className="text-7xl md:text-8xl font-bold mb-6 tracking-tight leading-[1.05]">
                 Your content. Viral.
                 <br />
                 <span style={{
@@ -306,10 +300,7 @@ export default function KlippyApp() {
             </FloatingCard>
 
             <FloatingCard delay={200}>
-              <p
-                className="text-xl text-gray-400 mb-16 max-w-3xl mx-auto leading-relaxed"
-                style={{ opacity: Math.max(0.3, 1 - scrollY / 600) }}
-              >
+              <p className="text-xl text-gray-400 mb-16 max-w-3xl mx-auto leading-relaxed">
                 No editing. No guesswork. Automatically detect highlights, track faces, add captions, and reframe your long-form content into 8–15 short viral clips.
               </p>
             </FloatingCard>
