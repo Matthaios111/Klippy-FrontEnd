@@ -229,9 +229,9 @@ export default function KlippyApp() {
       {activeTab === 'landing' && (
         <div className="relative">
           <section className="min-h-screen max-w-6xl mx-auto px-8 pt-32 pb-24 text-center relative flex flex-col justify-center">
-            <div className="opacity-0 animate-fade-in-up" style={{ animationDelay: '0ms', animationFillMode: 'forwards' }}>
+            <div>
               <div
-                className="inline-flex items-center gap-2 px-5 py-2.5 rounded-full mb-10 border transition-all duration-300 hover:scale-105 backdrop-blur-sm"
+                className="inline-flex items-center gap-2 px-5 py-2.5 rounded-full mb-10 border backdrop-blur-sm"
                 style={{
                   background: 'rgba(106, 111, 255, 0.08)',
                   borderColor: 'rgba(106, 111, 255, 0.2)'
@@ -242,7 +242,7 @@ export default function KlippyApp() {
               </div>
             </div>
 
-            <h1 className="opacity-0 animate-fade-in-up text-7xl md:text-8xl font-bold mb-6 tracking-tight leading-[1.05]" style={{ animationDelay: '100ms', animationFillMode: 'forwards' }}>
+            <h1 className="text-7xl md:text-8xl font-bold mb-6 tracking-tight leading-[1.05]">
               Your content. Viral.
               <br />
               <span style={{
@@ -255,11 +255,11 @@ export default function KlippyApp() {
               </span>
             </h1>
 
-            <p className="opacity-0 animate-fade-in-up text-xl text-gray-400 mb-16 max-w-3xl mx-auto leading-relaxed" style={{ animationDelay: '200ms', animationFillMode: 'forwards' }}>
+            <p className="text-xl text-gray-400 mb-16 max-w-3xl mx-auto leading-relaxed">
               No editing. No guesswork. Automatically detect highlights, track faces, add captions, and reframe your long-form content into 8–15 short viral clips.
             </p>
 
-            <div className="opacity-0 animate-fade-in-up max-w-2xl mx-auto mb-20" style={{ animationDelay: '300ms', animationFillMode: 'forwards' }}>
+            <div className="max-w-2xl mx-auto mb-20">
                   <div
                     className="flex items-center gap-3 rounded-2xl p-2 border backdrop-blur-sm"
                     style={{
@@ -293,9 +293,9 @@ export default function KlippyApp() {
                 { value: stats.videos + '', label: "Clips Per Video", icon: Target },
                 { value: '<' + stats.time + 'min', label: "Processing Time", icon: Clock }
               ].map((stat, i) => (
-                <div key={i} className="opacity-0 animate-fade-in-up" style={{ animationDelay: `${400 + i * 100}ms`, animationFillMode: 'forwards' }}>
+                <div key={i}>
                   <div
-                    className="rounded-2xl p-8 backdrop-blur-sm border transition-all duration-300 hover:scale-105 transform group cursor-pointer relative overflow-hidden"
+                    className="rounded-2xl p-8 backdrop-blur-sm border group cursor-pointer relative overflow-hidden"
                     style={{
                       background: 'rgba(20, 25, 35, 0.6)',
                       borderColor: 'rgba(255, 255, 255, 0.08)',
