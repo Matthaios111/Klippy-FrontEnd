@@ -666,6 +666,15 @@ export default function KlippyApp() {
         </div>
       )}
 
+      <footer className="border-t px-8 py-10" style={{ borderColor: 'rgba(255, 255, 255, 0.08)' }}>
+        <div className="max-w-6xl mx-auto flex flex-wrap items-center justify-center gap-x-8 gap-y-3 text-sm text-gray-400">
+          <span>More from us:</span>
+          <a href="https://usefella.com" target="_blank" rel="noopener noreferrer" className="hover:text-white transition">Fella — iPhone app blocker</a>
+          <a href="https://leadline.dev" target="_blank" rel="noopener noreferrer" className="hover:text-white transition">Leadline — Reddit lead generation</a>
+          <a href="https://rankpad.app" target="_blank" rel="noopener noreferrer" className="hover:text-white transition">Rankpad — AI visibility tracking</a>
+        </div>
+      </footer>
+
       <style dangerouslySetInnerHTML={{__html: '@keyframes drawLine { to { stroke-dashoffset: 0; } } @keyframes fadeIn { to { opacity: 1; } } @keyframes slideInRight { from { transform: translateX(20px); opacity: 0; } to { transform: translateX(0); opacity: 1; } } @keyframes fadeInUp { from { opacity: 0; transform: translateY(30px); } to { opacity: 1; transform: translateY(0); } } .animate-fadeInUp { animation: fadeInUp 0.8s ease-out; }'}} />
     </div>
   );
