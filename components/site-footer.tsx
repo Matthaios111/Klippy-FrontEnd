@@ -1,6 +1,7 @@
 import { Check } from "lucide-react";
 import { getDictionary } from "../lib/i18n/dictionaries";
 import { localizePath } from "../lib/i18n/routing";
+import LanguagePicker from "./language-picker";
 
 type Props = {
   locale: string;
@@ -39,6 +40,10 @@ export default function SiteFooter({ locale }: Props) {
           </a>
         ))}
       </nav>
+      <div className="mx-auto mt-6 flex max-w-7xl flex-wrap items-center justify-between gap-4 border-t border-black/[0.06] pt-6">
+        <p className="text-sm text-[#777]">© 2026 Klippy</p>
+        <LanguagePicker locale={locale} />
+      </div>
     </footer>
   );
 }
