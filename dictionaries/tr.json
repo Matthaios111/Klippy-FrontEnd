@@ -1,0 +1,778 @@
+{
+  "site": {
+    "name": "Klippy",
+    "title": "Klippy | Daha sakin bir telefon için ücretsiz araçlar",
+    "description": "Sizi sürekli geri çeken telefon alışkanlıklarını değiştirmek için basit, ücretsiz araçlar."
+  },
+  "header": {
+    "howItWorks": "Nasıl çalışır",
+    "guides": "Rehberler",
+    "about": "Hakkında",
+    "calculator": "Hesaplayıcı",
+    "tryFella": "Fella'yı Dene",
+    "homeAria": "Klippy ana sayfa"
+  },
+  "footer": {
+    "privacy": "Gizlilik",
+    "terms": "Koşullar",
+    "support": "Destek",
+    "builtByFella": "Fella tarafından geliştirildi",
+    "guidesLabel": "Rehberler",
+    "guidesAria": "Ekran süresi rehberleri"
+  },
+  "guides": [
+    {
+      "label": "Yaşa göre ekran süresi",
+      "slug": "screen-time-by-age-calculator"
+    },
+    {
+      "label": "Gün cinsinden ekran süresi",
+      "slug": "screen-time-in-days"
+    },
+    {
+      "label": "Telefon kullanım hesaplayıcısı",
+      "slug": "phone-use-calculator"
+    },
+    {
+      "label": "Sosyal medya süresi",
+      "slug": "social-media-time-calculator"
+    },
+    {
+      "label": "iPhone'da Ekran Süresini Kontrol Etme",
+      "slug": "how-to-check-screen-time-iphone"
+    },
+    {
+      "label": "iPhone'da Ekran Süresini Azaltma",
+      "slug": "how-to-reduce-screen-time-iphone"
+    },
+    {
+      "label": "iPhone'da sosyal medyayı sınırlama",
+      "slug": "how-to-limit-social-media-on-iphone"
+    },
+    {
+      "label": "Dijital detoks planı",
+      "slug": "digital-detox-plan"
+    },
+    {
+      "label": "Telefonu sürekli kontrol etmeyi bırak",
+      "slug": "stop-checking-phone"
+    },
+    {
+      "label": "Ekran Süresi ve uygulama engelleyici",
+      "slug": "screen-time-vs-app-blocker"
+    }
+  ],
+  "home": {
+    "title": "Telefonunu\nbırakmayı kolaylaştır.",
+    "lead": "Sizi sürekli geri çeken telefon alışkanlığını bulmak için ücretsiz bir araç. Sonra gününüze gerçekten uyan daha küçük bir sınır seçin.",
+    "cta": "Ücretsiz aracı dene",
+    "sub": "Giriş yok. İndirme yok. Sadece işe yarayan bir başlangıç noktası.",
+    "howItWorksAria": "Nasıl çalışır",
+    "steps": [
+      {
+        "number": "01",
+        "title": "Anı adlandır",
+        "description": "Belirsiz bir \"telefonu daha az kullanma\" hedefinden çok, belirli bir alışkanlığı değiştirmek daha kolaydır."
+      },
+      {
+        "number": "02",
+        "title": "Daha küçük bir sınır seç",
+        "description": "İhtiyacınız olan uygulamalar kalsın. Sadece otomatik kontrolün başladığı yere sürtünme ekleyin."
+      },
+      {
+        "number": "03",
+        "title": "Gerçek hayatta dene",
+        "description": "Sonucu pratik bir başlangıç noktası olarak kullanın, sonra gerçek gününüze göre ayarlayın."
+      }
+    ],
+    "aboutEyebrow": "Daha sakin bir telefon küçük adımlarla başlar.",
+    "aboutTitle": "Tüm dijital hayatınızı silmenize gerek yok.",
+    "aboutCopy": "Klippy, önce değiştirilmeye değer birkaç uygulama ve anı belirlemenize yardımcı olan basit ücretsiz araçları keşfediyor.",
+    "aboutCta": "Fella'yı Keşfet"
+  },
+  "about": {
+    "metaTitle": "Klippy Hakkında — Daha sakin bir telefon için küçük araçlar",
+    "metaDescription": "Klippy, telefon alışkanlıklarınızı net bir şekilde görmenize ve daha küçük, gerçekçi bir sonraki adım seçmenize yardımcı olacak ücretsiz ve gizlilik odaklı araçlar geliştirir.",
+    "eyebrow": "Klippy Hakkında",
+    "h1": "Daha işe yarar hissettiren bir telefon için küçük araçlar.",
+    "lead": "Klippy, telefon alışkanlığını tam zamanlı bir projeye dönüştürmeden değiştirmek isteyenler içindir. Araçlar basit bir soruyla başlar ve tek bir işe yarar cevap hedefler.",
+    "whyEyebrow": "Klippy neden var",
+    "whyTitle": "Çoğu telefon tavsiyesi çok erken, çok fazla şey ister.",
+    "whyParagraphs": [
+      "Telefonu daha az kullanmanız gerektiğini söylemek kolay. Telefonunuzun aynı zamanda insanlarla konuştuğunuz, yol tarifi aldığınız, ödeme yaptığınız, çalıştığınız, öğrendiğiniz ve rahatladığınız araç olduğu normal bir günde bunun ne anlama geldiğine karar vermek çok daha zordur.",
+      "Klippy daha dar bir bakış açısıyla başlar. Telefonunuzun bazı kısımları faydalıdır. Bazı uygulamalar veya anlar ise sizi sizin seçmediğiniz bir alışkanlığa çekiyor olabilir. Bunlar farklı sorunlardır ve farklı cevapları hak eder.",
+      "Amaç, teknolojiyi ahlaki bir başarısızlık gibi hissettirmek değil. Seçimlerinizi daha görünür kılmak, böylece neyi değiştirmeye değer olduğuna kendiniz karar verebilmenizdir."
+    ],
+    "values": [
+      {
+        "title": "Önce ücretsiz",
+        "copy": "Bir sonuç, bir kayıt formunun arkasında kalmamalı. Klippy araçları hesap, ödeme veya uygulama yüklemeden çalışacak şekilde tasarlandı."
+      },
+      {
+        "title": "Varsayılan olarak gizli",
+        "copy": "Ekran süresi hesaplayıcısı tarayıcınızda yazdığınız değerlerle çalışır. iPhone'unuza bağlanmaz ve özel aktivite verilerinize ihtiyaç duymaz."
+      },
+      {
+        "title": "Zorlayıcı satış olmadan faydalı",
+        "copy": "Bir araç tek başına işe yaramalı. Sonrasında başka bir ürün gerçekten faydalıysa, o sonraki adım açık ve isteğe bağlı olmalı."
+      }
+    ],
+    "nextEyebrow": "Sırada ne var",
+    "nextTitle": "Alışkanlığın dürüst bir resmiyle başlayın.",
+    "nextParagraphs": [
+      "Klippy'nin ilk aracı bir ekran süresi hesaplayıcısıdır. Ortalama günlük bir sayıyı hafta, yıl ve daha uzun bir döneme yayılan toplamlara dönüştürür. Hangi saatlerin kalmaya değer olduğunu size söyleyemez. Kendiniz buna karar vermeniz için daha net bir başlangıç noktası sunabilir.",
+      "Gelecekteki araçlar da aynı ilkeyi izleyecek. Bir dakikada kullanılacak kadar basit ve gerçek bir seçime yardımcı olacak kadar spesifik olmalılar. Genel bir puan yok. Tek bir ayarın her şeyi çözeceği vaadi yok."
+    ],
+    "nextCta": "Ekran süresi hesaplayıcısını kullan",
+    "fellaEyebrow": "Fella ile geliştirildi",
+    "fellaTitle": "Cevap birkaç uygulamaya daha güçlü bir sınır koymaksa, Fella bir sonraki adım için orada.",
+    "fellaCopy": "Fella, seçili dikkat dağıtıcı uygulamalar için bir iPhone uygulama engelleyicisidir. Seçmediğiniz uygulamalar erişilebilir kalabilir, böylece telefonunuzun faydalı kısımları siz istemedikçe sınırın parçası olmaz.",
+    "fellaCta": "Fella'yı Keşfet"
+  },
+  "howItWorks": {
+    "metaTitle": "Klippy nasıl çalışır — Sıfırlamayla değil, alışkanlıkla başlayın",
+    "metaDescription": "Klippy nasıl çalışır: Günlük telefon sürenizi faydalı bir sonraki adıma dönüştüren ücretsiz, gizli tarayıcı araçları — hesap yok, takip yok.",
+    "eyebrow": "Nasıl çalışır",
+    "h1": "Büyük bir sıfırlamayla değil, alışkanlıkla başlayın.",
+    "lead": "Klippy, telefon alışkanlıklarına daha pratik bir açıdan bakmak için basit ücretsiz araçlar geliştirir. Amaç, ekrandaki her dakikayı kötü hissettirmek değil. Fazla düşünmeden gerçekleşen anları fark edip sizin için hâlâ işe yarayıp yaramadığına karar vermenizdir.",
+    "ideaEyebrow": "Temel fikir",
+    "ideaTitle": "Faydalı bir cevap, sizden bir şey istemeden önce net olmalı.",
+    "ideaCopy": "Bu yüzden Klippy araçları tarayıcınızda çalışır. Sonuç için hesap oluşturmanız, ödeme ekranına ulaşmanız veya özel telefon verilerinize bağlanmanız gerekmez. Az miktarda bilgi girersiniz ve onu düşünmek için somut bir yol elde edersiniz.",
+    "steps": [
+      {
+        "number": "01",
+        "title": "Tek bir ana odaklan",
+        "copy": "Belirli bir uygulama, günün bir saati veya bir durumla başlayın. Yatakta bir akışı kontrol etmek, genel bir \"telefonu daha az kullanma\" planından daha kolay anlaşılır."
+      },
+      {
+        "number": "02",
+        "title": "Sayıyı işe yarar hale getir",
+        "copy": "Ekran süresi hesaplayıcısı ortalama günlük sayıyı haftalık, yıllık ve daha uzun vadeli toplamlara dönüştürür. Hesap basit. Her şeyi tek bir yerde görmek, dengeyi fark etmeyi kolaylaştırabilir."
+      },
+      {
+        "number": "03",
+        "title": "En küçük sonraki adımı seç",
+        "copy": "Her şeyi olduğu gibi bırakabilirsiniz. Bir uygulamayı taşıyabilir, bir tetikleyiciyi sessize alabilir veya bir dikkat dağıtıcıyı açmayı biraz zorlaştırabilirsiniz. İşe yarayan değişiklik, gerçek gününüze uyan değişikliktir."
+      }
+    ],
+    "calcEyebrow": "Hesaplayıcı ne yapar",
+    "calcTitle": "Tanıdık bir sayıyı gözünüzde canlandırmanızı kolaylaştırır.",
+    "calcParagraphs": [
+      "Ortalama günlük ekran süresi saatinizi girin. Klippy buna karşılık gelen haftalık, aylık ve yıllık toplamları hesaplar, ardından bu oranın mevcut yaşınızdan 75 yaşına kadar nasıl görüneceğini tahmin eder.",
+      "Hesaplayıcı hangi uygulamaları kullandığınızı, ne iş yaptığınızı veya telefonunuzdaki zamanın keyifli, gerekli ya da dikkat dağıtıcı olup olmadığını bilmez. Her saati aynı sayar. Bu bilinçli bir tercihtir. Bu basit bir farkındalık aracıdır, bir puan veya teşhis değil.",
+      "Sonuç yüksek gelirse, bir sonraki soru bu sürenin tamamını nasıl sileceğiniz olmak zorunda değil. Daha iyi bir soru, bunun hangi kısmının otomatik, plansız veya bir kez başladığında durdurması zor hissettirdiğidir."
+    ],
+    "calcCta": "Ekran süresi hesaplayıcısını kullan",
+    "faqEyebrow": "Genellikle sorulan sorular",
+    "faqTitle": "Daha küçük bir sınır da önemli olabilir.",
+    "faqs": [
+      {
+        "question": "Hesap oluşturmam gerekiyor mu?",
+        "answer": "Hayır. Klippy araçları tarayıcınızda anında çalışacak şekilde tasarlandı. Hesaplayıcı kayıt veya ödeme gerektirmez."
+      },
+      {
+        "question": "Klippy telefon aktivitelerimi okuyor mu?",
+        "answer": "Hayır. Yalnızca hesaplayıcıya yazdığınız sayıyı kullanır. iPhone'unuza bağlanmaz ve uygulama bazında bir döküm toplamaz."
+      },
+      {
+        "question": "Sonucumu gördükten sonra ne yapmalıyım?",
+        "answer": "Tek bir net kalıp arayın. İş sırasında kontrol ettiğiniz bir uygulama, yatakta açtığınız bir akış veya bir şey beklerken başlayan bir alışkanlık olabilir."
+      },
+      {
+        "question": "Telefonumun çoğuna hâlâ ihtiyacım varsa ne olacak?",
+        "answer": "Bu çok normal. Faydalı bir sınır, telefonunuzun tamamını erişilemez kılmak zorunda değil. Soruna neden olan birkaç uygulama veya an ile başlayın."
+      }
+    ],
+    "fellaEyebrow": "Birkaç uygulama sorunsa",
+    "fellaTitle": "Fella, seçili dikkat dağıtıcı iPhone uygulamalarını varsayılan olarak engelli tutarken seçmedikleriniz erişilebilir kalabilir.",
+    "fellaCopy": "Bu, ekran sürenizi hesaplamaktan farklı bir adımdır. Daha az otomatik hale getirmek istediğiniz uygulamaları zaten belirlediğinizde faydalı olabilir.",
+    "fellaCta": "Fella'yı Keşfet"
+  },
+  "calculator": {
+    "metaTitle": "Ekran Süresi Hesaplayıcısı — Telefon sürenizi hafta, yıl ve 75 yaşına kadar görün",
+    "metaDescription": "Ücretsiz ekran süresi hesaplayıcısı: Haftalık, yıllık ve ömürlük toplamları görmek için günlük saat ve yaşınızı girin. Gizli, giriş yok, tarayıcınızda çalışır.",
+    "eyebrow": "Ücretsiz ekran süresi hesaplayıcısı",
+    "h1": "Telefon sürenizin nasıl biriktiğini görün.",
+    "lead": "Ortalama günlük ekran sürenizi girin. Saat, gün ve yıl olarak nasıl biriktiğine dair basit bir görünüm alın — sonra denemek için küçük bir değişiklik seçin.",
+    "inputLabel": "Ortalama günlük ekran süresi",
+    "reduceAria": "Ekran süresini azalt",
+    "increaseAria": "Ekran süresini artır",
+    "help": "Ne gireceğinizden emin değilseniz iPhone'unuzda Ayarlar → Ekran Süresi'ne bakın. En iyi veya en kötü gününüzü değil, tipik bir günü baz alın.",
+    "ageLabel": "Yaşınız",
+    "ageHelp": "Yalnızca şu an ile 75 yaş arasındaki ekran süresini tahmin etmek için kullanılır. Hiçbir şey kaydedilmez.",
+    "calcCta": "Süremi hesapla",
+    "results": {
+      "everyWeek": "Her hafta",
+      "everyMonth": "Her ay",
+      "everyYear": "Her yıl",
+      "fullDays": "Her yıl tam gün"
+    },
+    "atThisRate": "Bu hızla",
+    "atThisRateValue": "Şu andan 75 yaşına kadar yaklaşık {years} yıllık ekran süresi.",
+    "atThisRateCopy": "Bu tahmin her saati eşit sayar. Telefonunuzu nasıl kullandığınıza dair bir yargı değil, kabaca bir farkındalık aracıdır.",
+    "wakingLabel": "16 saatlik uyanık gün içindeki payı",
+    "smallReductionTitle": "Küçük bir azaltma bile birikir",
+    "smallReductionCopy": "Günde bir saat daha az kullanım, her yıl yaklaşık {days} tam gün kazandırır.",
+    "smallReductionDesc": "Her ekranı kaldırmak zorunda değilsiniz. Plansız bir seansa dönüşen tek bir uygulama veya an ile başlayın.",
+    "fellaTitle": "Sorun birkaç uygulamaysa",
+    "fellaCopyTitle": "Fella, sizi sürekli geri çeken seçili uygulamaları engelleyebilir.",
+    "fellaCopy": "Seçmediğiniz uygulamalar erişilebilir kalabilir, böylece telefonunuzun faydalı kısımları faydalı kalır.",
+    "fellaCta": "Fella'yı App Store'da Görüntüle",
+    "faqTitle": "Ekran süresi hesaplayıcısı SSS",
+    "axisLabels": {
+      "zero": "0 sa",
+      "middle": "8 sa",
+      "max": "16 sa"
+    },
+    "faqs": [
+      {
+        "question": "Tahmin nasıl hesaplanıyor?",
+        "answer": "Günlük ortalamanızı hafta/ay/yıl için 7, 30,44 ve 365 ile, ömürlük görünüm için ise yaşınızdan 75'e kadar olan yıllarla çarpıyoruz. Tam gün için yıllık saatleri 24'e bölüyoruz."
+      },
+      {
+        "question": "Bu araç iPhone'umu takip ediyor mu?",
+        "answer": "Hayır. Hesaplama, girdiğiniz sayı kullanılarak tarayıcınızda gerçekleşir. Hiçbir şey telefonunuza bağlanmaz veya Klippy tarafından kaydedilmez."
+      },
+      {
+        "question": "iPhone ekran süremi nerede bulabilirim?",
+        "answer": "Ayarlar → Ekran Süresi → Tüm Uygulama ve Web Sitesi Etkinliğini Gör'ü açın. Tipik bir günlük ortalama bulmak için Gün ve Hafta arasında geçiş yapın."
+      },
+      {
+        "question": "Sonuçla ne yapmalıyım?",
+        "answer": "En az bilinçli zamana odaklanın — beklerken açtığınız bir akış, bir işten kaçmak için oynadığınız bir oyun veya uzayıp giden gece kaydırmaları — ve orada küçük bir sınır deneyin."
+      }
+    ]
+  },
+  "seoPages": {
+    "screen-time-by-age-calculator": {
+      "title": "Yaşa Göre Ekran Süresi Hesaplayıcısı — Şimdiden 75 yaşına kadar ne kadar? | Klippy",
+      "description": "Günlük ekran sürenizin mevcut yaşınızdan 75 yaşına kadar nasıl biriktiğini görün. Gizli ve anında bir tahmin için günlük saat ve yaşınızı girin.",
+      "eyebrow": "Yaşa göre ekran süresi hesaplayıcısı",
+      "h1": "Ekran sürenizin şimdiden 75 yaşına kadar ne kadar biriktiğini görün.",
+      "lead": "Günlük bir ortalama, önünüzdeki yılların yanında farklı görünür. Basit ve gizli bir tahmin için yaşınızı ve günlük ekran sürenizi girin — sonra denemek için bir alışkanlık seçin.",
+      "answer": "Klippy, günlük ortalamanızı mevcut yaşınızdan 75 yaşına kadar olan yıllarla çarpar. Her saati eşit sayar, bu yüzden bunu bir puan olarak değil, farkındalık için bir başlangıç noktası olarak görün.",
+      "sections": [
+        {
+          "title": "Yaş görünümü neden yardımcı olur",
+          "paragraphs": [
+            "Aynı günlük alışkanlık, daha gençken tekrarlamak için daha fazla zamana sahiptir. 75 yaşına kadar olan toplamı görmek, soyut bir rutini endişe yaratmadan somut hale getirir.",
+            "Toplamı gördüğünüzde daha dar bir soru sorabilirsiniz: Otomatik zamanın çoğunu yaratan tek bir uygulama, günün bir saati veya tetikleyici var mı? Orada küçük bir sınır, geniş bir kısıtlamadan daha kolay korunur."
+          ]
+        },
+        {
+          "title": "Faydalı kılın, yargılayıcı değil",
+          "paragraphs": [
+            "Hesaplayıcı hangi saatlerin iş, aile, öğrenme veya rahatlama için olduğunu bilmez. Sayıyı, değer verdiğiniz telefon kullanımı ile net bir nedeni olmadan gerçekleşen kontrolleri ayırmak için kullanın.",
+            "Sonuç sizi şaşırttıysa, en az bilinçli zamanla başlayın. Telefonunuzun faydalı kısımlarını koruyun ve yalnızca otomatik kontrolün başladığı yere sürtünme ekleyin. Ayrıca bakın: tam gün cinsinden ekran süresi ve iPhone'da ortalamanızı nasıl bulacağınız."
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "title": "Günlük ortalamanızı kontrol edin",
+          "copy": "Ayarlar → Ekran Süresi → Tüm Etkinliği Gör'ü açın ve tipik bir günlük sayı kullanın."
+        },
+        {
+          "title": "Yaşınızı girin",
+          "copy": "Yalnızca 75 yaşına kadar olan tahmin için kullanılır. Hiçbir şey kaydedilmez."
+        },
+        {
+          "title": "Küçük bir değişiklik seçin",
+          "copy": "Otomatik hissettiren bir uygulama veya an seçin, her şeyi bir anda değil."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Tahmin kesin mi?",
+          "answer": "Hayır. Girdiğiniz günlük sayıdan yola çıkan basit bir matematik hesabıdır ve 75 yaşına kadar olan yıllarla çarpılır. Bunu kesin bir öngörü olarak değil, farkındalık için kullanın."
+        },
+        {
+          "question": "Klippy telefon verilerimi görüyor mu?",
+          "answer": "Hayır. Araç tarayıcınızda çalışır ve asla iPhone'unuza bağlanmaz."
+        },
+        {
+          "question": "Sonrasında ne denemeliyim?",
+          "answer": "Bir hafta boyunca tek bir sınırı test edin — örneğin yatakta sosyal akış yok veya iş sırasında daha sessiz bildirimler — ve işe yarayanı koruyun."
+        }
+      ]
+    },
+    "screen-time-in-days": {
+      "title": "Gün Cinsinden Ekran Süresi — Saatleri tam 24 saatlik günlere dönüştürün | Klippy",
+      "description": "Günlük ekran süresini hafta, ay ve yıl bazında tam güne dönüştürün. Yıllık saatleri 24 saatlik gün olarak görün — ücretsiz ve gizli.",
+      "eyebrow": "Gün cinsinden ekran süresi",
+      "h1": "Ekran sürenizi tam günlere dönüştürün.",
+      "lead": "Güne yayılmış saatler sıradan gelebilir. Klippy, günlük ortalamanızı yılda tam 24 saatlik günlere dönüştürür, böylece dengeyi gözünüzde canlandırmanız kolaylaşır.",
+      "answer": "Günlük saatlerinizi yıllık saat için 365 ile çarpar, sonra 24'e böleriz. Bu, tam gün karşılığını verir. Hesaplama tarayıcınızda anında yapılır.",
+      "sections": [
+        {
+          "title": "Tam günler neden daha kolay canlandırılır",
+          "paragraphs": [
+            "Günde dört saat, yılda 60+ tam gün olarak görene kadar az gelebilir. Gün görünümü aynı süreyi israf olarak etiketlemeden yeniden çerçeveler.",
+            "Bu günlere iş, haritalar, mesajlar, öğrenme ve dinlenme dahildir. Amaç tüm ekran süresini kötü olarak etiketlemek değil, toplamı görüp değiştirmek istediğiniz bir kısmı seçebilmenizdir. Daha uzun vadeli bir resim isterseniz yaşa göre görünüme de bakın."
+          ]
+        },
+        {
+          "title": "Sayı sizi şaşırttıysa",
+          "paragraphs": [
+            "En az bilinçli zamanla başlayın: beklerken açılan bir akış, bir işten kaçmak için oynanan bir oyun veya uzayıp giden gece kaydırmaları.",
+            "Gününüze uyan en küçük sınırı test edin. Gerekli uygulamaları erişilebilir tutun ve yalnızca en fazla sürtünme yaratan anı değiştirin. iPhone'da azaltmanın pratik yolları yardımcı olabilir."
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "title": "Ortalamanızı bulun",
+          "copy": "iPhone Ekran Süresi'ndeki günlük ortalamayı kullanın (Gün/Hafta görünümü)."
+        },
+        {
+          "title": "Yıllık toplamı görün",
+          "copy": "Hesaplayıcı saatleri ve 24 saatlik gün karşılığını gösterir."
+        },
+        {
+          "title": "Bir deneme seçin",
+          "copy": "Mükemmel bir sayı peşinde koşmak yerine tek bir otomatik kontrolü azaltın."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Tam günler nasıl hesaplanıyor?",
+          "answer": "Yıllık saat ÷ 24. Örneğin, 4 sa/gün × 365 = 1.460 sa/yıl ÷ 24 ≈ 60,8 tam gün."
+        },
+        {
+          "question": "Bu ekran süresinin boşa gittiği anlamına mı geliyor?",
+          "answer": "Hayır. Gün görünümü tarafsız bir yeniden çerçevelemedir. İş, aile ve dinlenme de ekranda gerçekleşebilir."
+        },
+        {
+          "question": "Bunu tek bir uygulama için yapabilir miyim?",
+          "answer": "Evet. Ekran Süresi dökümünden tek bir uygulama veya kategori için günlük ortalamayı girin."
+        }
+      ]
+    },
+    "phone-use-calculator": {
+      "title": "Telefon Kullanım Hesaplayıcısı — Günlükten yıllığa telefon süresi | Klippy",
+      "description": "Günlük telefon sürenizin hafta, ay ve yıl boyunca nasıl biriktiğini görün. Tek bir sayı, anında toplamlar — giriş yok.",
+      "eyebrow": "Telefon kullanım hesaplayıcısı",
+      "h1": "Telefon süreniz için basit bir hesaplayıcı.",
+      "lead": "Tek bir günlük ortalama girin ve haftalık, aylık ve yıllık toplamlar olarak görün. Telefon kullanımınızın gerçekten değiştirmek istediğiniz kısmını fark etmek için kullanın.",
+      "answer": "Klippy, günlük telefon saatlerinizi haftalık (×7), aylık (×30,44) ve yıllık (×365) toplamlara dönüştürür. Hesap yok, takip yok — sadece tarayıcınızda matematik.",
+      "sections": [
+        {
+          "title": "Telefonunuz tek bir şey değil",
+          "paragraphs": [
+            "O bir harita, kamera, mesajlaşma aracı, cüzdan ve rahatlama yeridir. Tek bir toplam, hangi kullanımların sizin için önemli olduğuna karar veremez.",
+            "Toplamı, korumak istediğiniz zamanın otomatik pilotta gerçekleşen kontroller tarafından kalabalıklaştırılıp kalabalıklaştırılmadığını sormak için kullanın. Bu ayrım, tek bir ekran süresi puanından daha faydalıdır."
+          ]
+        },
+        {
+          "title": "Kurallardan önce kalıplara bakın",
+          "paragraphs": [
+            "Uygulama açılmadan önceki tetikleyiciye dikkat edin: can sıkıntısı, bir bildirim, görevler arası bir mola veya zorlu bir iş.",
+            "Tetikleyiciyle eşleşen bir kural daha iyi çalışır — daha sessiz bildirimler, farklı bir ana ekran veya tek bir uygulama etrafında bir sınır. Özellikle sosyal medyayı sınırlamak istiyorsanız sosyal medya süresi ve iPhone'da nasıl sınırlayacağınıza bakın."
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "title": "Günlük telefon kullanımınızı girin",
+          "copy": "En iyi veya en kötü gününüzü değil, tipik bir günü kullanın."
+        },
+        {
+          "title": "Toplamları okuyun",
+          "copy": "Alışkanlığı ölçekli görmek için haftalık ve yıllık değerlere bakın."
+        },
+        {
+          "title": "Değiştirilecek kısmı bulun",
+          "copy": "Faydalı kullanımı planlamadığınız kontrollerden ayırın."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Ücretsiz mi?",
+          "answer": "Evet. Hesap veya ödeme olmadan tarayıcınızda çalışır."
+        },
+        {
+          "question": "Günlük ortalamamı nerede bulurum?",
+          "answer": "Ayarlar → Ekran Süresi → Tüm Uygulama ve Web Sitesi Etkinliğini Gör. Gün veya Hafta görünümünü kullanın."
+        },
+        {
+          "question": "Uygulamalarımı görebilir mi?",
+          "answer": "Hayır. Sayıyı kendiniz girersiniz; Klippy asla telefonunuza bağlanmaz."
+        }
+      ]
+    },
+    "social-media-time-calculator": {
+      "title": "Sosyal Medya Süresi Hesaplayıcısı — Haftalık, aylık ve yıllık toplamlar | Klippy",
+      "description": "Sosyal medya süresini hafta, ay ve yıl bazında hesaplayın. Tek bir uygulama veya tüm sosyal medya için günlük ortalamayı girin — gizli ve anında.",
+      "eyebrow": "Sosyal medya süresi hesaplayıcısı",
+      "h1": "Sosyal medya sürenizin nasıl biriktiğini görün.",
+      "lead": "Günlük sosyal medya ortalamanızı girin ve haftalık, aylık ve yıllık toplamlar olarak görün. Değer verdiğinizi koruyun, otomatik geleni değiştirin.",
+      "answer": "iPhone Ekran Süresi'nde sosyal uygulamalarınızı toplayın, günlük ortalamayı girin, Klippy bunu daha uzun vadeli toplamlara dönüştürsün. Tek bir uygulama veya tüm kategori için kullanın.",
+      "sections": [
+        {
+          "title": "Bir toplam, bir histen daha nettir",
+          "paragraphs": [
+            "“Sosyal medyada çok fazla zaman harcıyorum” cümlesiyle harekete geçmek zordur. Bir sayı — örneğin, günde 1,5 saat ≈ yılda 22 tam gün — düşünmeniz için somut bir şey verir.",
+            "Bunun hepsi boşa gitmiş değildir; sosyal medya aynı zamanda birçok insanın çalıştığı, öğrendiği ve iletişimde kaldığı yerdir. Faydalı soru, sürenin niyetinizle eşleşip eşleşmediğidir."
+          ]
+        },
+        {
+          "title": "Sonraki adımı spesifik yapın",
+          "paragraphs": [
+            "Hızlı bir kontrolü daha uzun bir seansa dönüştüren bir uygulamayı seçin. Ne zaman açtığınızı ve hemen öncesinde ne yaptığınızı not edin.",
+            "Bir sınır eklemeye karar verirseniz, faydalı uygulamaları açık tutun ve sizi geri çeken birkaç uygulamaya odaklanın. iPhone seçenekleri için iPhone'da sosyal medyayı nasıl sınırlayacağınıza ve Ekran Süresi ve uygulama engelleyici karşılaştırmasına bakın."
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "title": "Dökümü açın",
+          "copy": "Ekran Süresi'nde Sosyal kategorisini veya tek bir uygulamayı kontrol edin."
+        },
+        {
+          "title": "Günlük ortalamayı girin",
+          "copy": "Tek bir uygulama veya birleşik toplamı kullanın."
+        },
+        {
+          "title": "Bir sınır seçin",
+          "copy": "En otomatik hissettiren uygulamayla başlayın."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Tek bir uygulamayı hesaplayabilir miyim?",
+          "answer": "Evet. Instagram, TikTok, YouTube vb. için ortalamayı veya birleşik bir toplamı girin."
+        },
+        {
+          "question": "Klippy sosyal medya kullanımımı topluyor mu?",
+          "answer": "Hayır. Hiçbir şey Klippy'ye veya hesaplarınıza gönderilmez."
+        },
+        {
+          "question": "İş için ihtiyacım varsa ne olacak?",
+          "answer": "İş kullanımını koruyun ve sınırı bu amaç dışındaki kontrollere odaklayın."
+        }
+      ]
+    },
+    "how-to-check-screen-time-iphone": {
+      "title": "iPhone'da Ekran Süresi Nasıl Kontrol Edilir — Günlük, haftalık ve uygulama bazında | Klippy",
+      "description": "iPhone'da Ekran Süresi nasıl bulunur: Günlük ortalama, haftalık toplam ve uygulama bazında dökümü görün, ardından Klippy hesaplayıcısında kullanın.",
+      "eyebrow": "iPhone'da ekran süresi nasıl kontrol edilir",
+      "h1": "iPhone'unuzda Ekran Sürenizi nasıl bulacağınız.",
+      "lead": "iPhone'unuz zaten günlük ortalama, haftalık trend ve uygulama bazında dökümü takip eder. Nerede bulacağınız ve hesaplayıcıda hangi sayıyı kullanacağınız burada.",
+      "answer": "Ayarlar → Ekran Süresi → Tüm Uygulama ve Web Sitesi Etkinliğini Gör'e gidin. Tipik bir ortalama bulmak için Gün/Hafta arasında geçiş yapın. Uygulama bazında döküm aynı ekrandadır.",
+      "sections": [
+        {
+          "title": "Tek bir gün yerine tipik bir haftayı seçin",
+          "paragraphs": [
+            "Tek bir gün yanıltıcı olabilir — seyahat, uzun bir arama veya hafta sonu aşırı kullanım ortalamayı bozabilir. Hafta görünümü bu uç değerleri yumuşatır.",
+            "Hafta için en üstte gösterilen günlük ortalamayı kullanın. Bu, hesaplayıcı ve gün görünümü için en faydalı girdidir."
+          ]
+        },
+        {
+          "title": "Yalnızca toplama değil, döküme de bakın",
+          "paragraphs": [
+            "Toplam ne kadar olduğunu, döküm ise nerede olduğunu söyler. Bilinçli kullandığınız uygulamaları planlamadan açtıklarınızla karşılaştırın.",
+            "Bu ayrım, genel bir “telefonu daha az kullan” hedefi yerine tek bir gerçekçi sonraki adım seçmenize yardımcı olur."
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "title": "Ayarlar'ı açın",
+          "copy": "Ana Ayarlar listesinde Ekran Süresi'ne dokunun."
+        },
+        {
+          "title": "Uygulama ve Web Sitesi Etkinliğini açın",
+          "copy": "Gün/Hafta ve uygulama listesini görmek için Tümünü Gör'ü seçin."
+        },
+        {
+          "title": "Tipik bir günlük sayıyı kopyalayın",
+          "copy": "Haftalık/yıllık toplamları görmek için hesaplayıcıda kullanın."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Tek bir uygulamanın süresini görebilir miyim?",
+          "answer": "Evet. Etkinlik listesi her uygulamayı ve kategoriyi gösterir; günlük/haftalık detay için bir uygulamaya dokunun."
+        },
+        {
+          "question": "Ekran Süresi neden görünmüyor?",
+          "answer": "Kapalı olabilir. Ekran Süresi'nde Aç'a dokunun ve cihazınızı seçin."
+        },
+        {
+          "question": "Haftalık toplamı kullanabilir miyim?",
+          "answer": "Evet. Günlük ortalama için haftalık toplamı 7'ye bölün."
+        }
+      ]
+    },
+    "how-to-reduce-screen-time-iphone": {
+      "title": "iPhone'da Ekran Süresi Nasıl Azaltılır (aşırı engelleme olmadan) | Klippy",
+      "description": "iPhone'da ekran süresini azaltmanın pratik yolları: tetikleyiciyi bulun, bildirimleri sessize alın, Odak'ı kullanın veya tek bir uygulama için sınır ekleyin.",
+      "eyebrow": "iPhone'da ekran süresi nasıl azaltılır",
+      "h1": "Ekran süresini önce tek bir işe yarar şeyi değiştirerek azaltın.",
+      "lead": "“Telefonu daha az kullan” belirsizdir. Daha az bildirim, bir Odak planı veya tek bir uygulama için bir sınır gibi daha küçük bir değişiklik, korunması ve ölçülmesi daha kolaydır.",
+      "answer": "Ekran Süresi dökümünüzle başlayın, tekrarlayan bir tetikleyici seçin (bildirimler, can sıkıntısı, günün bir saati) ve aracı eşleştirin: sessiz bildirimler, Odak, Uygulama Sınırları/Kapalı Kalma Süresi veya otomatik açılan birkaç uygulama için seçili uygulama engelleyici.",
+      "sections": [
+        {
+          "title": "Bir sayıya değil, bir davranışa odaklanın",
+          "paragraphs": [
+            "“Saat 22'den sonra TikTok'u açma” demek, “telefonu günde 1 saat daha az kullan” demekten daha nettir. İlki bir ayara işaret eder; ikincisi o anda irade gerektirir.",
+            "Davranış spesifik olduğunda, faydalı uygulamaları rahat bırakabilir ve kuralı yalnızca sorunun olduğu yerde uygulayabilirsiniz."
+          ]
+        },
+        {
+          "title": "Kurulumu pratik tutun",
+          "paragraphs": [
+            "Bir kural ihtiyacınız olan uygulamaları engelliyorsa onu atlatacaksınız. Otomatik kontrolü yaratan 1-2 uygulamaya odaklanın.",
+            "Kurulumu neden bıraktığınızı fark edin — çok geniş, görmezden gelmesi çok kolay veya yanlış tetikleyiciyi çözüyor. Motivasyonunuzu değil, bunu ayarlayın. Doğru aracı seçmek için Ekran Süresi ve seçili uygulama engelleyici karşılaştırmasına bakın."
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "title": "Tekrarlayan anı bulun",
+          "copy": "Tek bir alışkanlığı tespit etmek için Ekran Süresi'ni kullanın (örn. iş, yatma zamanı, bekleme)."
+        },
+        {
+          "title": "Mümkünse tetikleyiciyi kaldırın",
+          "copy": "Bildirim tetiklemeli kontroller için bildirim ayarlarını veya Odak'ı deneyin."
+        },
+        {
+          "title": "Gerekirse bir sınır ekleyin",
+          "copy": "Otomatik açma için Uygulama Sınırları/Kapalı Kalma Süresi veya bir engelleyici kullanın."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Uygulama Sınırları kullanmalı mıyım?",
+          "answer": "Zaman bütçesi yardımcı olduğunda kullanın. Aynı uygulama gün boyunca rastgele zamanlarda açılıyorsa, seçili uygulama sınırı daha uygun olabilir."
+        },
+        {
+          "question": "Aramaları ve mesajları koruyabilir miyim?",
+          "answer": "Evet. Telefon, Mesajlar ve temel uygulamaları herhangi bir kısıtlamanın dışında bırakın."
+        },
+        {
+          "question": "En küçük faydalı değişiklik nedir?",
+          "answer": "Telefonunuzun geri kalanını zorlaştırmadan gerçek bir sorunu hedefleyen değişiklik."
+        }
+      ]
+    },
+    "how-to-limit-social-media-on-iphone": {
+      "title": "iPhone'da Sosyal Medya Nasıl Sınırlanır — Temel uygulamalar açık kalsın | Klippy",
+      "description": "iPhone'da sosyal medyayı tüm telefonunuzu engellemeden sınırlayın: bildirimler, Odak, Uygulama Sınırları, Kapalı Kalma Süresi ve uygulama engelleyiciler karşılaştırmalı.",
+      "eyebrow": "iPhone'da sosyal medyayı sınırlama",
+      "h1": "Tüm telefonunuzu sınırlamadan sosyal medyayı sınırlayın.",
+      "lead": "Her şeyi ya da hiçbir şeyi engelleyen bir kurala ihtiyacınız yok. Daha az bildirim, günlük bir kota, planlı bir mola veya seçili uygulamaları açmayı zorlaştırmak isteyip istemediğinize karar verin.",
+      "answer": "Aracı tetikleyiciyle eşleştirin: bildirimler → sessiz bildirimler/Odak; zaman bütçesi → Uygulama Sınırları; öngörülebilir program → Kapalı Kalma Süresi; tekrarlayan otomatik açılışlar → seçili uygulama engelleyici. Seçilmeyen uygulamaları erişilebilir tutun.",
+      "sections": [
+        {
+          "title": "Farklı araçlar, farklı sorunlar",
+          "paragraphs": [
+            "Bildirimler bir tetikleyicidir, Uygulama Sınırları bir bütçedir, Kapalı Kalma Süresi bir programdır ve seçili uygulama engelleyici bu uygulamaları varsayılan olarak kullanılamaz hale getirir. Bunlar birbirinin yerine geçmez.",
+            "Aynı uygulama bildirim veya program olmadan açılıyorsa, engelleyici genellikle uzatabileceğiniz bir zamanlayıcıdan daha doğrudan bir çözümdür. Her birinin ne zaman yardımcı olduğunu Ekran Süresi ve uygulama engelleyici karşılaştırmasında görün."
+          ]
+        },
+        {
+          "title": "İhtiyacınız olanı koruyun",
+          "paragraphs": [
+            "Haritalar, Mesajlar, aramalar, bankacılık ve aile uygulamalarının nadiren bir sosyal medya kuralının parçası olması gerekir.",
+            "Dar bir kurala uymak daha kolaydır çünkü her normal görevi zorlaştırmadan sorunlu uygulamayı değiştirir. Emin değilseniz, gerçekte ne kadar sosyal medya süreniz olduğuna bakarak başlayın."
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "title": "Sorunlu uygulamayı adlandırın",
+          "copy": "Hızlı bir kontrolü uzun bir seansa dönüştüreni bulun."
+        },
+        {
+          "title": "Ayarı eşleştirin",
+          "copy": "Bildirimler, sınırlar, program veya engelleyici arasından bilinçli bir seçim yapın."
+        },
+        {
+          "title": "Temel uygulamaları açık tutun",
+          "copy": "Faydalı uygulamaları kuralın dışında bırakın."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Odak uygulamaları engelleyebilir mi?",
+          "answer": "Odak bildirimleri azaltır ve Ana Ekran sayfalarını gizleyebilir, ancak genellikle bir uygulamanın açılmasını engellemez."
+        },
+        {
+          "question": "Mesajları koruyabilir miyim?",
+          "answer": "Evet. Seçili uygulama yaklaşımında, seçilmeyen uygulamalar erişilebilir kalır."
+        },
+        {
+          "question": "İş için ihtiyacım varsa ne olacak?",
+          "answer": "İş kullanımını koruyun ve sınırı yalnızca bu zaman aralıklarının dışında uygulayın."
+        }
+      ]
+    },
+    "digital-detox-plan": {
+      "title": "Dijital Detoks Planı — Sürdürebileceğiniz daha küçük bir sıfırlama | Klippy",
+      "description": "Gerçekçi bir dijital detoks planı oluşturun: Bir hafta boyunca test etmek için bir neden, bir tetikleyici ve küçük bir sınır seçin.",
+      "eyebrow": "Dijital detoks planı",
+      "h1": "Gerçek hayata uyabilen bir dijital detoks planı.",
+      "lead": "Her şeyi silmenize veya bir haftalığına uzaklaşmanıza gerek yok. Gününüzün geri kazanmak istediğiniz bir bölümünü ve değiştirmek için bir tetikleyici seçin, sonra test edin.",
+      "answer": "Bir neden (örn. işte daha az kesinti, daha sakin bir yatma zamanı), bir tetikleyici (bir uygulama, bildirim veya zaman aralığı) ve yedi gün boyunca koruyabileceğiniz bir sınır seçin. Gözden geçirin ve ayarlayın.",
+      "sections": [
+        {
+          "title": "Ya hep ya hiç tuzağından kaçının",
+          "paragraphs": [
+            "Geniş detokslar kararlı görünür ama telefonunuza hâlâ iş, aile ve seyahat için ihtiyacınız olduğunda genellikle başarısız olur.",
+            "Dar bir test daha iyi veri verir. Sorun gece kaydırmalarıysa, gün boyu her uygulamayı değil, yalnızca o zaman aralığını değiştirin. Tetikleyici fikirleri için telefon kontrolünü nasıl azaltacağınıza bakın."
+          ]
+        },
+        {
+          "title": "Ne için yer açtığınıza karar verin",
+          "paragraphs": [
+            "Bir plan, net bir amaçla daha iyi tutar: daha odaklı çalışma, daha anda kalınan yemekler veya daha kolay bir uyku öncesi gevşeme.",
+            "Sınırı seçmek için bu amacı kullanın. Hayatınızı desteklemeli, kızdığınız başka bir kurala dönüşmemeli."
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "title": "Bir neden seçin",
+          "copy": "Gününüzün korumak istediğiniz bölümünü adlandırın."
+        },
+        {
+          "title": "Bir tetikleyici seçin",
+          "copy": "Sürekli araya giren uygulamayı, bildirimi veya yeri seçin."
+        },
+        {
+          "title": "Bir sınır test edin",
+          "copy": "Gerçek bir hafta boyunca kullanabilecek kadar küçük tutun."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Detoks ne kadar sürmeli?",
+          "answer": "Sürdüremeyeceğiniz geniş bir plandan çok, bir haftalık bir test daha faydalıdır. Yalnızca işe yarayanı uzatın."
+        },
+        {
+          "question": "Sosyal medyayı silmem gerekiyor mu?",
+          "answer": "Genellikle hayır. Otomatik anların etrafına bir sınır koymak çoğu zaman yeterlidir."
+        },
+        {
+          "question": "Telefonuma iş için ihtiyacım varsa ne olacak?",
+          "answer": "İş işlevlerini koruyun ve detoksu bunun dışındaki dikkat dağıtıcı kontrollere odaklayın."
+        }
+      ]
+    },
+    "stop-checking-phone": {
+      "title": "Telefonunuzu Sürekli Kontrol Etmeyi Nasıl Bırakırsınız — Kontrol öncesi tetikleyici | Klippy",
+      "description": "Telefon kontrolünü tetikleyiciyi değiştirerek bırakın: bildirimler, can sıkıntısı veya alışkanlık döngüleri. Bugün test edebileceğiniz pratik adımlar.",
+      "eyebrow": "Telefon kontrolünü bırak",
+      "h1": "Kontrol etmeden önceki anı değiştirerek kontrol etmeyi bırakın.",
+      "lead": "Çoğu kontrol, telefonunuzu kullanma kararı değildir. Bir duraklama, bildirim veya can sıkıntısı anında otomatik bir uzanmadır — ve bu tetikleyici değiştirilebilir.",
+      "answer": "Tetikleyiciyi fark edin, sonra etrafındaki düzeni değiştirin: onu tetikleyen bildirimleri sessize alın, uygulamayı biraz açması zor hale getirin veya aynı yere daha faydalı bir sonraki eylem koyun.",
+      "sections": [
+        {
+          "title": "Kontrol genellikle bir döngüdür, bir seçim değil",
+          "paragraphs": [
+            "El, telefondan ne istediğinize karar vermeden hareket eder. Bu yüzden o anda irade zor gelir.",
+            "Tetikleyiciyi, erişimi veya ortamı değiştirerek küçük bir duraklama yaratın — mükemmel kontrole güvenmek yerine seçebilmek için yeterli bir alan."
+          ]
+        },
+        {
+          "title": "Daha iyi eylemi kolaylaştırın",
+          "paragraphs": [
+            "Beklerken kontrol ediyorsanız, oraya bir kitap veya defter koyun. Yatakta kontrol ediyorsanız, telefonu odanın dışında şarj edin. Alternatifi eski alışkanlık kadar kolay hale getirin.",
+            "Tek bir uygulama her zamanki varış noktasıysa, seçili uygulama sınırı o otomatik açılışı daha az kullanışlı hale getirirken geri kalan her şey açık kalabilir. Araçları Ekran Süresi ve uygulama engelleyici karşılaştırmasında karşılaştırın."
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "title": "Tetikleyiciyi fark edin",
+          "copy": "Uzanmadan hemen önce gelen zaman, duygu veya bildirim nedir?"
+        },
+        {
+          "title": "Döngünün bir parçasını değiştirin",
+          "copy": "Bildirimi sessize alın, uygulamayı taşıyın veya mesafe ekleyin."
+        },
+        {
+          "title": "Gerçek sonucu gözden geçirin",
+          "copy": "İşe yarayanı koruyun, hayatı zorlaştıranı ayarlayın."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Neden bildirim olmadan da kontrol ediyorum?",
+          "answer": "Kontrol etme, sadece bildirimlere değil, duraklamalara, strese veya can sıkıntısına öğrenilmiş bir tepki haline gelebilir."
+        },
+        {
+          "question": "Tüm bildirimleri kapatmalı mıyım?",
+          "answer": "Sizi istenmeyen kontrollere çeken birkaç bildirimle başlayın; faydalı olanları koruyun."
+        },
+        {
+          "question": "Bir engelleyici yardımcı olabilir mi?",
+          "answer": "Evet, aynı 1-2 uygulama tekrarlanan varış noktası olduğunda."
+        }
+      ]
+    },
+    "screen-time-vs-app-blocker": {
+      "title": "Ekran Süresi ve Uygulama Engelleyici — Alışkanlığınıza hangi iPhone aracı uyar? | Klippy",
+      "description": "Ekran Süresi Uygulama Sınırları ve Kapalı Kalma Süresi ile Odak ve seçili uygulama engelleyici karşılaştırması. Tetikleyicinize hangi iPhone aracının uyduğunu öğrenin.",
+      "eyebrow": "Ekran Süresi ve uygulama engelleyici",
+      "h1": "Ekran Süresi ve uygulama engelleyiciler farklı sorunları çözer.",
+      "lead": "Uygulama Sınırları, Kapalı Kalma Süresi, Odak ve seçili uygulama engelleyici çoğu zaman karıştırılır. Doğru seçim, bir bütçeye, programa, daha az bildirime veya seçili uygulamaları varsayılan olarak kullanılamaz hale getirmeye ihtiyacınız olup olmadığına bağlıdır.",
+      "answer": "Raporlar, Uygulama Sınırları ve Kapalı Kalma Süresi için Ekran Süresi'ni; bildirimler ve Ana Ekran için Odak'ı; birkaç uygulamanın varsayılan olarak engelli kalması gerekirken telefonunuzun geri kalanının faydalı kalmasını istediğinizde seçili uygulama engelleyiciyi kullanın.",
+      "sections": [
+        {
+          "title": "Ekran Süresi ne zaman iyi uyum sağlar",
+          "paragraphs": [
+            "Uygulama Sınırları günlük bir kota belirler, Kapalı Kalma Süresi bir program belirler ve Ekran Süresi zamanın nereye gittiğini gösterir. Farkındalık, bütçeler ve öngörülebilir zaman aralıkları için harikadır.",
+            "Aynı 1-2 uygulamanın rastgele, otomatik açılışları için zaman bütçesi kolayca uzatılabilir olabilir — varsayılan bir engel daha doğrudandır."
+          ]
+        },
+        {
+          "title": "Seçili uygulama sınırı ne zaman iyi uyum sağlar",
+          "paragraphs": [
+            "Bir engelleyici şunu sorar: Hangi yüklü uygulamalar soruna neden oluyor ve geri kalanı faydalı kalabilir mi? Fella, seçtiğiniz uygulamaları varsayılan olarak engelli tutar; seçilmeyen uygulamalar erişilebilir kalır.",
+            "Bu bir web sitesi engelleyicisi veya MDM sistemi değildir. Nasıl azaltacağınız veya detoks planınızdaki alışkanlık için adlandırdığınız dar bir sınırdır."
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "title": "Sorunu adlandırın",
+          "copy": "Bildirimler, günlük toplam, program veya tekrarlayan otomatik açılışlar mı?"
+        },
+        {
+          "title": "Eşleşen aracı seçin",
+          "copy": "Odak, Uygulama Sınırları/Kapalı Kalma Süresi veya bir engelleyici."
+        },
+        {
+          "title": "Dar tutun",
+          "copy": "Faydalı uygulamaları erişilebilir bırakın."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Ekran Süresi uygulamaları engelleyebilir mi?",
+          "answer": "Uygulama Sınırları ve Kapalı Kalma Süresi vardır. Bunları bütçeler/programlar için kullanın; engelleyici varsayılan olarak kullanılamayan seçili uygulamalar içindir."
+        },
+        {
+          "question": "Odak uygulamaları engeller mi?",
+          "answer": "Odak bildirimleri sessize alır ve sayfaları gizleyebilir, ancak genellikle bir uygulamanın açılmasını engellemez."
+        },
+        {
+          "question": "Aramaları ve mesajları koruyabilir miyim?",
+          "answer": "Evet. Seçili uygulama yaklaşımında, yalnızca seçtiğiniz uygulamalar engellenir."
+        }
+      ]
+    }
+  },
+  "guidePage": {
+    "shortAnswer": "Kısa cevap",
+    "nextStepEyebrow": "Pratik bir sonraki adım",
+    "useCalculatorCta": "Ekran süresi hesaplayıcısını kullan",
+    "faqTitle": "Sık sorulan sorular"
+  },
+  "notFound": {
+    "title": "Sayfa bulunamadı",
+    "description": "Aradığınız sayfa mevcut değil."
+  }
+}

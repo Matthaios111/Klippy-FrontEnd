@@ -1,0 +1,778 @@
+{
+  "site": {
+    "name": "Klippy",
+    "title": "Klippy | Instrumente gratuite pentru un telefon mai calm",
+    "description": "Instrumente simple și gratuite pentru a schimba obiceiurile legate de telefon care te atrag înapoi."
+  },
+  "header": {
+    "howItWorks": "Cum funcționează",
+    "guides": "Ghiduri",
+    "about": "Despre",
+    "calculator": "Calculator",
+    "tryFella": "Încearcă Fella",
+    "homeAria": "Prima pagină Klippy"
+  },
+  "footer": {
+    "privacy": "Confidențialitate",
+    "terms": "Termeni",
+    "support": "Suport",
+    "builtByFella": "Creat de Fella",
+    "guidesLabel": "Ghiduri",
+    "guidesAria": "Ghiduri despre timpul pe ecran"
+  },
+  "guides": [
+    {
+      "label": "Timpul pe ecran în funcție de vârstă",
+      "slug": "screen-time-by-age-calculator"
+    },
+    {
+      "label": "Timpul pe ecran în zile",
+      "slug": "screen-time-in-days"
+    },
+    {
+      "label": "Calculator utilizare telefon",
+      "slug": "phone-use-calculator"
+    },
+    {
+      "label": "Timpul pe rețelele sociale",
+      "slug": "social-media-time-calculator"
+    },
+    {
+      "label": "Cum verifici Timpul pe ecran pe iPhone",
+      "slug": "how-to-check-screen-time-iphone"
+    },
+    {
+      "label": "Cum reduci Timpul pe ecran pe iPhone",
+      "slug": "how-to-reduce-screen-time-iphone"
+    },
+    {
+      "label": "Cum limitezi rețelele sociale pe iPhone",
+      "slug": "how-to-limit-social-media-on-iphone"
+    },
+    {
+      "label": "Plan de detox digital",
+      "slug": "digital-detox-plan"
+    },
+    {
+      "label": "Nu-ți mai verifica telefonul întruna",
+      "slug": "stop-checking-phone"
+    },
+    {
+      "label": "Timp pe ecran vs blocator de aplicații",
+      "slug": "screen-time-vs-app-blocker"
+    }
+  ],
+  "home": {
+    "title": "Fă-ți telefonul\nmai ușor de lăsat din mână.",
+    "lead": "Un instrument gratuit care te ajută să descoperi obiceiul legat de telefon care te atrage înapoi. Apoi alege o limită mai mică, care chiar se potrivește zilei tale.",
+    "cta": "Încearcă instrumentul gratuit",
+    "sub": "Fără cont. Fără descărcare. Doar un punct de pornire util.",
+    "howItWorksAria": "Cum funcționează",
+    "steps": [
+      {
+        "number": "01",
+        "title": "Numește momentul",
+        "description": "Un obicei specific este mai ușor de schimbat decât un obiectiv vag de a folosi mai puțin telefonul."
+      },
+      {
+        "number": "02",
+        "title": "Alege o limită mai mică",
+        "description": "Păstrează aplicațiile de care ai nevoie. Adaugă un obstacol doar acolo unde începe verificarea automată."
+      },
+      {
+        "number": "03",
+        "title": "Testează în viața reală",
+        "description": "Folosește rezultatul ca punct de plecare practic, apoi ajustează-l în funcție de ziua ta reală."
+      }
+    ],
+    "aboutEyebrow": "Un telefon mai calm începe cu pași mici.",
+    "aboutTitle": "Nu trebuie să-ți ștergi toată viața digitală.",
+    "aboutCopy": "Klippy explorează instrumente gratuite și simple care te ajută să identifici primele aplicații și momente care merită schimbate.",
+    "aboutCta": "Descoperă Fella"
+  },
+  "about": {
+    "metaTitle": "Despre Klippy — Instrumente mici pentru un telefon mai calm",
+    "metaDescription": "Klippy creează instrumente gratuite și private care te ajută să-ți vezi clar obiceiurile legate de telefon și să alegi un pas următor mic și realist.",
+    "eyebrow": "Despre Klippy",
+    "h1": "Instrumente mici pentru un telefon care se simte mai util.",
+    "lead": "Klippy este pentru cei care vor să schimbe un obicei legat de telefon fără să transforme asta într-un proiect cu normă întreagă. Instrumentele pornesc de la o întrebare simplă și urmăresc un singur răspuns util.",
+    "whyEyebrow": "De ce există Klippy",
+    "whyTitle": "Majoritatea sfaturilor despre telefon cer prea mult, prea devreme.",
+    "whyParagraphs": [
+      "E ușor să spui că ar trebui să folosești mai puțin telefonul. E mult mai greu să decizi ce înseamnă asta într-o zi obișnuită, când telefonul este și felul în care vorbești cu oamenii, îți găsești direcția, plătești lucruri, lucrezi, înveți și te relaxezi.",
+      "Klippy pornește dintr-o perspectivă mai restrânsă. Unele părți ale telefonului sunt utile. Unele aplicații sau momente te pot atrage într-un obicei pe care nu l-ai ales. Sunt probleme diferite și merită răspunsuri diferite.",
+      "Scopul nu este să facă tehnologia să pară un eșec moral. Este să facă compromisurile mai vizibile, ca să poți decide ce merită schimbat."
+    ],
+    "values": [
+      {
+        "title": "Gratuit înainte de orice",
+        "copy": "Un rezultat nu ar trebui să fie ascuns în spatele unui formular de înregistrare. Instrumentele Klippy sunt create să funcționeze fără cont, plată sau instalare de aplicații."
+      },
+      {
+        "title": "Privat în mod implicit",
+        "copy": "Calculatorul pentru timpul pe ecran rulează cu valorile pe care le introduci în browser. Nu se conectează la iPhone-ul tău și nu are nevoie de datele tale private de activitate."
+      },
+      {
+        "title": "Util fără a te presa să cumperi",
+        "copy": "Un instrument ar trebui să fie util de unul singur. Dacă un alt produs este cu adevărat util după aceea, acel pas următor ar trebui să fie evident și opțional."
+      }
+    ],
+    "nextEyebrow": "Ce urmează",
+    "nextTitle": "Începe cu o imagine sinceră a obiceiului.",
+    "nextParagraphs": [
+      "Primul instrument Klippy este un calculator pentru timpul pe ecran. Transformă un număr zilnic mediu în totaluri pe care le poți vedea pe o săptămână, un an și o perioadă mai lungă. Nu-ți poate spune care ore merită păstrate. Îți poate oferi un punct de plecare mai clar pentru a decide tu însuți.",
+      "Instrumentele viitoare vor urma același principiu. Ar trebui să fie suficient de simple pentru a fi folosite într-un minut și suficient de specifice pentru a ajuta la o alegere reală. Fără scor generic. Fără promisiunea că o singură setare rezolvă totul."
+    ],
+    "nextCta": "Folosește calculatorul pentru timpul pe ecran",
+    "fellaEyebrow": "Creat împreună cu Fella",
+    "fellaTitle": "Când răspunsul este o limită mai fermă în jurul câtorva aplicații, Fella este acolo pentru pasul următor.",
+    "fellaCopy": "Fella este un blocator de aplicații pentru iPhone, pentru aplicațiile selectate care îți distrag atenția. Aplicațiile pe care nu le selectezi pot rămâne disponibile, astfel încât părțile utile ale telefonului tău nu fac parte din limitare decât dacă alegi tu asta.",
+    "fellaCta": "Descoperă Fella"
+  },
+  "howItWorks": {
+    "metaTitle": "Cum funcționează Klippy — Începe cu obiceiul, nu cu o resetare totală",
+    "metaDescription": "Cum funcționează Klippy: instrumente gratuite și private în browser care transformă un număr zilnic despre telefon într-un pas următor util — fără cont, fără urmărire.",
+    "eyebrow": "Cum funcționează",
+    "h1": "Începe cu obiceiul, nu cu o resetare uriașă.",
+    "lead": "Klippy creează instrumente gratuite și simple pentru a privi obiceiurile legate de telefon într-un mod mai practic. Ideea nu este ca fiecare minut petrecut pe ecran să pară ceva rău. Ci să observi momentele care se întâmplă fără să te gândești prea mult și să decizi dacă mai funcționează pentru tine.",
+    "ideaEyebrow": "Ideea de bază",
+    "ideaTitle": "Un răspuns util ar trebui să fie clar înainte să-ți ceară ceva.",
+    "ideaCopy": "De aceea instrumentele Klippy rulează în browserul tău. Nu există cont de creat, nu există ecran de plată pentru a vedea rezultatul și nicio conexiune la datele tale private de pe telefon. Introduci o cantitate mică de informații și primești un mod concret de a te gândi la ele.",
+    "steps": [
+      {
+        "number": "01",
+        "title": "Privește un singur moment",
+        "copy": "Începe cu o aplicație specifică, un moment al zilei sau o situație. Să verifici un feed în pat este mai ușor de înțeles decât un plan general de a folosi mai puțin telefonul."
+      },
+      {
+        "number": "02",
+        "title": "Fă numărul util",
+        "copy": "Calculatorul pentru timpul pe ecran transformă un număr mediu zilnic în totaluri săptămânale, anuale și pe termen mai lung. Calculul este simplu. Să vezi totul într-un singur loc poate face compromisul mai ușor de observat."
+      },
+      {
+        "number": "03",
+        "title": "Alege cel mai mic pas următor",
+        "copy": "Poți păstra totul așa cum este. Poți muta o aplicație, dezactiva o notificare sau face o distragere puțin mai greu de deschis. Schimbarea utilă este cea care se potrivește zilei tale reale."
+      }
+    ],
+    "calcEyebrow": "Ce face calculatorul",
+    "calcTitle": "Face un număr familiar mai ușor de vizualizat.",
+    "calcParagraphs": [
+      "Introdu un număr mediu de ore zilnice petrecute pe ecran. Klippy calculează totalurile săptămânale, lunare și anuale corespunzătoare, apoi estimează cum arată acel ritm între vârsta ta actuală și 75 de ani.",
+      "Calculatorul nu știe ce aplicații folosești, cu ce te ocupi sau dacă timpul petrecut pe telefon este plăcut, necesar sau doar o distragere. Tratează fiecare oră la fel. Asta este intenționat. Este un instrument simplu de conștientizare, nu un scor sau un diagnostic.",
+      "Dacă rezultatul ți se pare mare, următoarea întrebare nu este neapărat cum să elimini tot acel timp. O întrebare mai bună este ce parte din el pare automată, neplanificată sau greu de oprit odată ce a început."
+    ],
+    "calcCta": "Folosește calculatorul pentru timpul pe ecran",
+    "faqEyebrow": "Întrebări frecvente",
+    "faqTitle": "Și o limită mică poate conta.",
+    "faqs": [
+      {
+        "question": "Trebuie să-mi creez un cont?",
+        "answer": "Nu. Instrumentele Klippy sunt făcute să funcționeze imediat în browser. Calculatorul nu necesită înregistrare sau plată."
+      },
+      {
+        "question": "Klippy îmi citește activitatea de pe telefon?",
+        "answer": "Nu. Folosește doar numărul pe care îl introduci în calculator. Nu se conectează la iPhone-ul tău și nu colectează o detaliere pe aplicații."
+      },
+      {
+        "question": "Ce ar trebui să fac după ce văd rezultatul?",
+        "answer": "Caută un tipar clar. Poate fi o aplicație pe care o verifici în timpul muncii, un feed pe care îl deschizi în pat sau un obicei care începe ori de câte ori aștepți ceva."
+      },
+      {
+        "question": "Dar dacă tot am nevoie de mare parte din telefon?",
+        "answer": "Este normal. O limită utilă nu trebuie să-ți facă tot telefonul indisponibil. Începe cu puținele aplicații sau momente care creează problema."
+      }
+    ],
+    "fellaEyebrow": "Când câteva aplicații sunt problema",
+    "fellaTitle": "Fella menține aplicațiile selectate care distrag atenția blocate în mod implicit, în timp ce aplicațiile pe care le lași neselectate pot rămâne disponibile.",
+    "fellaCopy": "Este un pas diferit față de calcularea timpului pe ecran. Poate fi util când ai identificat deja aplicațiile pe care vrei să le faci mai puțin automate.",
+    "fellaCta": "Descoperă Fella"
+  },
+  "calculator": {
+    "metaTitle": "Calculator Timp pe Ecran — Vezi timpul pe telefon pe săptămână, an și până la 75 de ani | Klippy",
+    "metaDescription": "Calculator gratuit pentru timpul pe ecran: introdu orele zilnice și vârsta ca să vezi totalurile săptămânale, anuale și pe viață. Privat, fără cont, rulează în browser.",
+    "eyebrow": "Calculator gratuit pentru timpul pe ecran",
+    "h1": "Vezi cum se adună timpul petrecut pe telefon.",
+    "lead": "Introdu timpul mediu zilnic petrecut pe ecran. Obține o imagine simplă a orelor, zilelor și anilor pe care îi poate însuma — apoi alege o mică schimbare pe care să o testezi.",
+    "inputLabel": "Timpul mediu zilnic pe ecran",
+    "reduceAria": "Reduce timpul pe ecran",
+    "increaseAria": "Mărește timpul pe ecran",
+    "help": "Verifică Configurări → Timp pe ecran pe iPhone dacă nu ești sigur ce să introduci. Folosește o zi tipică, nu cea mai bună sau cea mai rea.",
+    "ageLabel": "Vârsta ta",
+    "ageHelp": "Folosită doar pentru a estima timpul pe ecran de acum până la 75 de ani. Nimic nu este salvat.",
+    "calcCta": "Calculează-mi timpul",
+    "results": {
+      "everyWeek": "În fiecare săptămână",
+      "everyMonth": "În fiecare lună",
+      "everyYear": "În fiecare an",
+      "fullDays": "Zile întregi în fiecare an"
+    },
+    "atThisRate": "În acest ritm",
+    "atThisRateValue": "Aproximativ {years} ani de timp pe ecran de acum până la 75 de ani.",
+    "atThisRateCopy": "Această estimare numără fiecare oră în mod egal. Este un instrument aproximativ de conștientizare, nu o judecată despre cum îți folosești telefonul.",
+    "wakingLabel": "Procent dintr-o zi de veghe de 16 ore",
+    "smallReductionTitle": "O mică reducere se adună",
+    "smallReductionCopy": "Cu o oră mai puțin pe zi economisești aproximativ {days} zile întregi în fiecare an.",
+    "smallReductionDesc": "Nu trebuie să renunți la fiecare ecran. Începe cu singura aplicație sau momentul care se transformă într-o sesiune neplanificată.",
+    "fellaTitle": "Dacă problema sunt câteva aplicații",
+    "fellaCopyTitle": "Fella poate bloca aplicațiile selectate care te atrag înapoi.",
+    "fellaCopy": "Aplicațiile pe care le lași neselectate pot rămâne disponibile, astfel încât telefonul tău util rămâne util.",
+    "fellaCta": "Vezi Fella în App Store",
+    "faqTitle": "Întrebări frecvente despre calculatorul pentru timpul pe ecran",
+    "axisLabels": {
+      "zero": "0h",
+      "middle": "8h",
+      "max": "16h"
+    },
+    "faqs": [
+      {
+        "question": "Cum se calculează estimarea?",
+        "answer": "Înmulțim media ta zilnică cu 7, 30,44 și 365 pentru săptămână/lună/an, și cu anii de la vârsta ta până la 75 de ani pentru perspectiva pe viață. Împărțim orele anuale la 24 pentru zilele întregi."
+      },
+      {
+        "question": "Acest instrument îmi urmărește iPhone-ul?",
+        "answer": "Nu. Calculul are loc în browserul tău folosind numărul pe care îl introduci. Nimic nu este conectat la telefonul tău și nimic nu este salvat de Klippy."
+      },
+      {
+        "question": "Unde îmi găsesc timpul pe ecran pe iPhone?",
+        "answer": "Deschide Configurări → Timp pe ecran → Vezi toată activitatea pentru aplicații și site-uri web. Comută între Zi și Săptămână pentru a găsi o medie zilnică tipică."
+      },
+      {
+        "question": "Ce să fac cu rezultatul?",
+        "answer": "Caută timpul cel mai puțin intenționat — un feed pe care îl deschizi în timp ce aștepți, un joc folosit ca să eviți o sarcină sau scroll-ul târziu în noapte — și testează o mică limită acolo."
+      }
+    ]
+  },
+  "seoPages": {
+    "screen-time-by-age-calculator": {
+      "title": "Calculator Timp pe Ecran după Vârstă — Cât se adună de acum până la 75 de ani? | Klippy",
+      "description": "Vezi cum se adună timpul zilnic pe ecran de la vârsta ta actuală până la 75 de ani. Introdu orele zilnice și vârsta pentru o estimare privată și instantanee.",
+      "eyebrow": "Calculator timp pe ecran după vârstă",
+      "h1": "Vezi cât se adună timpul pe ecran de acum până la 75 de ani.",
+      "lead": "O medie zilnică arată diferit lângă anii care urmează. Introdu vârsta și timpul zilnic pe ecran pentru o estimare simplă și privată — apoi alege un obicei pe care să-l testezi.",
+      "answer": "Klippy înmulțește media ta zilnică cu anii de la vârsta actuală până la 75 de ani. Numără fiecare oră în mod egal, așa că tratează rezultatul ca pe un punct de plecare pentru conștientizare, nu ca pe un scor.",
+      "sections": [
+        {
+          "title": "De ce ajută perspectiva pe vârstă",
+          "paragraphs": [
+            "Același obicei zilnic are mai mult timp să se repete când ești mai tânăr. Să vezi totalul până la 75 de ani face ca o rutină abstractă să devină concretă, fără să fie nevoie să devină alarmantă.",
+            "Odată ce vezi totalul, poți pune o întrebare mai precisă: există o singură aplicație, un moment al zilei sau un declanșator care creează cea mai mare parte a timpului automat? O limită mică acolo este mai ușor de păstrat decât o restricție generală."
+          ]
+        },
+        {
+          "title": "Fă-l util, nu acuzator",
+          "paragraphs": [
+            "Calculatorul nu știe care ore sunt pentru muncă, familie, învățare sau relaxare. Folosește numărul ca să separi utilizarea telefonului pe care o apreciezi de verificările care se întâmplă fără un motiv clar.",
+            "Dacă rezultatul te surprinde, începe cu timpul cel mai puțin intenționat. Păstrează părțile utile ale telefonului și adaugă un obstacol doar acolo unde începe verificarea automată. Vezi și: timpul pe ecran în zile întregi și cum să-ți afli media pe iPhone."
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "title": "Verifică-ți media zilnică",
+          "copy": "Deschide Configurări → Timp pe ecran → Vezi toată activitatea și folosește un număr zilnic tipic."
+        },
+        {
+          "title": "Introdu vârsta",
+          "copy": "Folosită doar pentru estimarea până la 75 de ani. Nimic nu este salvat."
+        },
+        {
+          "title": "Alege o mică schimbare",
+          "copy": "Alege o singură aplicație sau un moment care pare automat, nu totul deodată."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Estimarea este exactă?",
+          "answer": "Nu. Este un calcul simplu din numărul zilnic pe care îl introduci, înmulțit cu anii până la 75 de ani. Folosește-o pentru conștientizare, nu ca pe o prognoză precisă."
+        },
+        {
+          "question": "Klippy îmi vede datele de pe telefon?",
+          "answer": "Nu. Instrumentul rulează în browserul tău și nu se conectează niciodată la iPhone-ul tău."
+        },
+        {
+          "question": "Ce ar trebui să încerc după aceea?",
+          "answer": "Testează o limită timp de o săptămână — de exemplu, fără feed de social media în pat sau notificări mai silențioase în timpul muncii — și păstrează ce ajută."
+        }
+      ]
+    },
+    "screen-time-in-days": {
+      "title": "Timpul pe Ecran în Zile — Convertește orele în zile întregi de 24 de ore | Klippy",
+      "description": "Convertește timpul zilnic pe ecran în zile întregi pe săptămână, lună și an. Vezi orele anuale ca zile de 24 de ore — gratuit și privat.",
+      "eyebrow": "Timpul pe ecran în zile",
+      "h1": "Transformă timpul pe ecran în zile întregi.",
+      "lead": "Orele răspândite pe parcursul unei zile pot părea obișnuite. Klippy convertește media ta zilnică în zile întregi de 24 de ore pe an, ca să poți vizualiza mai ușor compromisul.",
+      "answer": "Înmulțim orele tale zilnice cu 365 pentru orele anuale, apoi împărțim la 24. Astfel obții echivalentul în zile întregi. Calculul este instant în browser.",
+      "sections": [
+        {
+          "title": "De ce zilele întregi sunt mai ușor de vizualizat",
+          "paragraphs": [
+            "Patru ore pe zi par puține până când le vezi ca peste 60 de zile întregi pe an. Perspectiva în zile reformulează același timp fără a-l numi timp pierdut.",
+            "Acele zile includ munca, hărțile, mesajele, învățarea și odihna. Ideea nu este să etichetezi tot timpul pe ecran ca fiind rău, ci să vezi totalul ca să poți alege o parte pe care să o schimbi. Încearcă vizualizarea pe vârstă dacă vrei o perspectivă pe termen mai lung."
+          ]
+        },
+        {
+          "title": "Dacă numărul te surprinde",
+          "paragraphs": [
+            "Începe cu timpul cel mai puțin intenționat: un feed deschis în timp ce aștepți, un joc folosit ca să eviți o sarcină sau scroll-ul târziu în noapte care se prelungește.",
+            "Testează cea mai mică limită care se potrivește zilei tale. Păstrează aplicațiile esențiale disponibile și schimbă doar momentul care creează cea mai mare fricțiune. Modalitățile practice de a reduce timpul pe iPhone te pot ajuta."
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "title": "Află-ți media",
+          "copy": "Folosește media zilnică din Timpul pe ecran de pe iPhone (vizualizarea Zi/Săptămână)."
+        },
+        {
+          "title": "Vezi totalul anual",
+          "copy": "Calculatorul arată orele și echivalentul în zile de 24 de ore."
+        },
+        {
+          "title": "Alege un experiment",
+          "copy": "Redu o verificare automată în loc să urmărești un număr perfect."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Cum se calculează zilele întregi?",
+          "answer": "Ore anuale ÷ 24. De exemplu, 4h/zi × 365 = 1.460h/an ÷ 24 ≈ 60,8 zile întregi."
+        },
+        {
+          "question": "Înseamnă asta că timpul pe ecran este timp pierdut?",
+          "answer": "Nu. Perspectiva în zile este o reformulare neutră. Munca, familia și odihna pot avea loc toate pe ecran."
+        },
+        {
+          "question": "Pot face asta pentru o singură aplicație?",
+          "answer": "Da. Introdu media zilnică pentru o singură aplicație sau categorie din detalierea Timpului pe ecran."
+        }
+      ]
+    },
+    "phone-use-calculator": {
+      "title": "Calculator Utilizare Telefon — Timpul zilnic la telefon pe săptămână, lună și an | Klippy",
+      "description": "Vezi cum se adună timpul zilnic la telefon pe o săptămână, lună și an. Un singur număr, totaluri instant — fără cont.",
+      "eyebrow": "Calculator utilizare telefon",
+      "h1": "Un calculator simplu pentru timpul petrecut la telefon.",
+      "lead": "Introdu o singură medie zilnică și vezi-o ca totaluri săptămânale, lunare și anuale. Folosește-o ca să identifici partea din utilizarea telefonului pe care chiar ai vrea să o schimbi.",
+      "answer": "Klippy convertește orele zilnice la telefon în totaluri săptămânale (×7), lunare (×30,44) și anuale (×365). Fără cont, fără urmărire — doar calcul în browser.",
+      "sections": [
+        {
+          "title": "Telefonul tău nu este un singur lucru",
+          "paragraphs": [
+            "Este o hartă, o cameră, un mesager, un portofel și un loc unde te relaxezi. Un singur total nu poate decide ce utilizări contează pentru tine.",
+            "Folosește totalul ca să te întrebi dacă timpul pe care vrei să-l păstrezi este înghesuit de verificări care se întâmplă pe pilot automat. Această distincție este mai utilă decât un singur scor al timpului pe ecran."
+          ]
+        },
+        {
+          "title": "Caută tipare înainte de reguli",
+          "paragraphs": [
+            "Observă declanșatorul înainte să se deschidă aplicația: plictiseala, o notificare, o pauză între sarcini sau o parte dificilă de muncă.",
+            "O regulă care se potrivește declanșatorului funcționează mai bine — notificări mai silențioase, un ecran principal diferit sau o limită în jurul unei singure aplicații. Dacă vrei să limitezi în special rețelele sociale, vezi timpul pe rețelele sociale și cum să-l limitezi pe iPhone."
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "title": "Introdu utilizarea zilnică a telefonului",
+          "copy": "Folosește o zi tipică, nu cea mai bună sau cea mai rea."
+        },
+        {
+          "title": "Citește totalurile",
+          "copy": "Verifică săptămânal și anual ca să vezi obiceiul la scară mare."
+        },
+        {
+          "title": "Găsește partea de schimbat",
+          "copy": "Separă utilizarea utilă de verificările pe care nu le-ai planificat."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Este gratuit?",
+          "answer": "Da. Rulează în browserul tău fără cont sau plată."
+        },
+        {
+          "question": "Unde îmi găsesc media zilnică?",
+          "answer": "Configurări → Timp pe ecran → Vezi toată activitatea pentru aplicații și site-uri web. Folosește vizualizarea Zi sau Săptămână."
+        },
+        {
+          "question": "Îmi poate vedea aplicațiile?",
+          "answer": "Nu. Tu introduci singur numărul; Klippy nu se conectează niciodată la telefonul tău."
+        }
+      ]
+    },
+    "social-media-time-calculator": {
+      "title": "Calculator Timp pe Rețelele Sociale — Totaluri săptămânale, lunare și anuale | Klippy",
+      "description": "Calculează timpul pe rețelele sociale pe săptămână, lună și an. Introdu media zilnică pentru o singură aplicație sau pentru toate — privat și instant.",
+      "eyebrow": "Calculator timp pe rețelele sociale",
+      "h1": "Vezi cum se adună timpul pe rețelele sociale.",
+      "lead": "Introdu media ta zilnică pe rețelele sociale și vezi-o ca totaluri săptămânale, lunare și anuale. Păstrează ce apreciezi, schimbă ce pare automat.",
+      "answer": "Adună aplicațiile sociale în Timpul pe ecran de pe iPhone, introdu media zilnică, iar Klippy o convertește în totaluri pe termen mai lung. Folosește-l pentru o singură aplicație sau pentru o întreagă categorie.",
+      "sections": [
+        {
+          "title": "Un total este mai clar decât o senzație",
+          "paragraphs": [
+            "„Petrec prea mult timp pe rețelele sociale” este greu de pus în practică. Un număr — de exemplu, 1,5h/zi ≈ 22 de zile întregi pe an — îți oferă ceva concret la care să reflectezi.",
+            "Nu totul este timp pierdut; rețelele sociale sunt și felul în care mulți oameni lucrează, învață și țin legătura. Întrebarea utilă este dacă timpul se potrivește cu ceea ce ai intenționat."
+          ]
+        },
+        {
+          "title": "Fă pasul următor specific",
+          "paragraphs": [
+            "Alege o aplicație care transformă o verificare rapidă într-o sesiune mai lungă. Notează când o deschizi și ce făceai chiar înainte.",
+            "Dacă decizi să adaugi o limită, păstrează aplicațiile utile deschise și concentrează-te pe puținele care te atrag înapoi. Pentru opțiunile de pe iPhone, vezi cum să limitezi rețelele sociale pe iPhone și Timp pe ecran vs blocator de aplicații."
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "title": "Deschide detalierea",
+          "copy": "În Timpul pe ecran, verifică categoria Social sau o singură aplicație."
+        },
+        {
+          "title": "Introdu media zilnică",
+          "copy": "Folosește o singură aplicație sau totalul combinat."
+        },
+        {
+          "title": "Alege o limită",
+          "copy": "Începe cu aplicația care pare cea mai automată."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Pot calcula pentru o singură aplicație?",
+          "answer": "Da. Introdu media pentru Instagram, TikTok, YouTube etc., sau un total combinat."
+        },
+        {
+          "question": "Klippy îmi colectează utilizarea rețelelor sociale?",
+          "answer": "Nu. Nimic nu este trimis către Klippy sau către conturile tale."
+        },
+        {
+          "question": "Dar dacă am nevoie de ele pentru muncă?",
+          "answer": "Păstrează utilizarea pentru muncă și concentrează limita pe verificările din afara acestui scop."
+        }
+      ]
+    },
+    "how-to-check-screen-time-iphone": {
+      "title": "Cum Verifici Timpul pe Ecran pe iPhone — Zilnic, săptămânal și pe aplicație | Klippy",
+      "description": "Cum găsești Timpul pe ecran pe iPhone: vezi media zilnică, totalul săptămânal și detalierea pe aplicații, apoi folosește-le în calculatorul Klippy.",
+      "eyebrow": "Cum verifici timpul pe ecran pe iPhone",
+      "h1": "Cum îți găsești Timpul pe ecran pe iPhone.",
+      "lead": "iPhone-ul tău urmărește deja o medie zilnică, o tendință săptămânală și o detaliere pe aplicații. Iată unde le găsești și ce număr să folosești în calculator.",
+      "answer": "Mergi la Configurări → Timp pe ecran → Vezi toată activitatea pentru aplicații și site-uri web. Comută între Zi/Săptămână pentru a găsi o medie tipică. Detalierea pe aplicații este pe același ecran.",
+      "sections": [
+        {
+          "title": "Alege o săptămână tipică, nu o singură zi",
+          "paragraphs": [
+            "O singură zi poate fi înșelătoare — o călătorie, un apel lung sau un maraton de weekend pot distorsiona datele. Vizualizarea Săptămână netezește aceste excepții.",
+            "Folosește media zilnică afișată în partea de sus pentru Săptămână. Acesta este cel mai util input pentru calculator și pentru vizualizarea în zile."
+          ]
+        },
+        {
+          "title": "Verifică detalierea, nu doar totalul",
+          "paragraphs": [
+            "Totalul îți spune cât, detalierea îți spune unde. Compară aplicațiile pe care le folosești intenționat cu cele pe care le deschizi fără să planifici.",
+            "Această împărțire te ajută să alegi un pas următor realist în loc de un obiectiv general de tipul „folosește mai puțin telefonul”."
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "title": "Deschide Configurări",
+          "copy": "Apasă pe Timp pe ecran în lista principală de Configurări."
+        },
+        {
+          "title": "Deschide Activitatea pentru aplicații și site-uri web",
+          "copy": "Alege Vezi tot pentru a vedea Zi/Săptămână și lista pe aplicații."
+        },
+        {
+          "title": "Copiază un număr zilnic tipic",
+          "copy": "Folosește-l în calculator ca să vezi totalurile săptămânale/anuale."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Pot vedea timpul pentru o singură aplicație?",
+          "answer": "Da. Lista de activitate arată fiecare aplicație și categorie; apasă pe o aplicație pentru detaliile zilnice/săptămânale."
+        },
+        {
+          "question": "De ce lipsește Timpul pe ecran?",
+          "answer": "Este posibil să fie dezactivat. În Timp pe ecran, apasă pe Activează și alege dispozitivul tău."
+        },
+        {
+          "question": "Pot folosi totalul săptămânal?",
+          "answer": "Da. Împarte totalul săptămânal la 7 ca să obții o medie zilnică."
+        }
+      ]
+    },
+    "how-to-reduce-screen-time-iphone": {
+      "title": "Cum să Reduci Timpul pe Ecran pe iPhone (fără a bloca excesiv) | Klippy",
+      "description": "Modalități practice de a reduce timpul pe ecran pe iPhone: găsește declanșatorul, dezactivează notificările, folosește Concentrare sau adaugă o limită pentru o singură aplicație.",
+      "eyebrow": "Cum reduci timpul pe ecran pe iPhone",
+      "h1": "Redu timpul pe ecran schimbând mai întâi un lucru util.",
+      "lead": "„Folosește mai puțin telefonul” este vag. O schimbare mai mică — mai puține alerte, un program Concentrare sau o limită pentru o singură aplicație — este mai ușor de păstrat și mai ușor de măsurat.",
+      "answer": "Începe cu detalierea Timpului pe ecran, alege un declanșator repetitiv (notificări, plictiseală, un moment al zilei) și potrivește instrumentul: dezactivează alertele, folosește Concentrare, Limite pentru aplicații/Timp de neutilizare sau un blocator pentru aplicații selectate, pentru puținele aplicații care se deschid automat.",
+      "sections": [
+        {
+          "title": "Alege un comportament, nu doar un număr",
+          "paragraphs": [
+            "„Nu mai deschide TikTok după ora 22:00” este mai clar decât „folosește telefonul cu 1 oră mai puțin”. Primul indică o setare; al doilea necesită voință în moment.",
+            "Odată ce comportamentul este specific, poți lăsa aplicațiile utile în pace și poți aplica regula doar acolo unde apare problema."
+          ]
+        },
+        {
+          "title": "Păstrează configurarea practică",
+          "paragraphs": [
+            "Dacă o regulă blochează aplicațiile de care ai nevoie, o vei ocoli. Concentrează-te pe 1-2 aplicații care creează verificarea automată.",
+            "Observă ce te face să abandonezi configurarea — prea largă, prea ușor de ignorat sau rezolvă declanșatorul greșit. Ajustează asta, nu motivația. Compară Timp pe ecran vs un blocator pentru aplicații selectate ca să alegi instrumentul potrivit."
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "title": "Găsește momentul repetitiv",
+          "copy": "Folosește Timpul pe ecran ca să identifici un obicei (de ex., la muncă, la culcare, în timp ce aștepți)."
+        },
+        {
+          "title": "Elimină declanșatorul dacă poți",
+          "copy": "Încearcă setările de notificări sau Concentrare pentru verificările declanșate de alerte."
+        },
+        {
+          "title": "Adaugă o limită dacă e nevoie",
+          "copy": "Folosește Limite pentru aplicații/Timp de neutilizare sau un blocator pentru deschiderea automată."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Ar trebui să folosesc Limite pentru aplicații?",
+          "answer": "Folosește-le când te ajută un buget de timp. Dacă aceeași aplicație se deschide la ore aleatorii toată ziua, o limită pentru aplicații selectate s-ar putea potrivi mai bine."
+        },
+        {
+          "question": "Pot păstra apelurile și mesajele?",
+          "answer": "Da. Lasă Telefon, Mesaje și aplicațiile esențiale în afara oricărei restricții."
+        },
+        {
+          "question": "Care este cea mai mică schimbare utilă?",
+          "answer": "Cea care vizează o problemă reală fără să facă restul telefonului incomod."
+        }
+      ]
+    },
+    "how-to-limit-social-media-on-iphone": {
+      "title": "Cum să Limitezi Rețelele Sociale pe iPhone — Păstrează aplicațiile esențiale deschise | Klippy",
+      "description": "Limitează rețelele sociale pe iPhone fără să-ți blochezi tot telefonul: alerte, Concentrare, Limite pentru aplicații, Timp de neutilizare și blocatoare de aplicații comparate.",
+      "eyebrow": "Limitează rețelele sociale pe iPhone",
+      "h1": "Limitează rețelele sociale fără să-ți limitezi tot telefonul.",
+      "lead": "Nu ai nevoie de o regulă de tipul totul sau nimic. Alege dacă vrei mai puține alerte, o limită zilnică, o pauză programată sau să faci aplicațiile selectate mai greu de deschis.",
+      "answer": "Potrivește instrumentul cu declanșatorul: notificări → alerte silențioase/Concentrare; buget de timp → Limite pentru aplicații; program previzibil → Timp de neutilizare; deschideri automate repetate → blocator pentru aplicații selectate. Păstrează aplicațiile neselectate disponibile.",
+      "sections": [
+        {
+          "title": "Instrumente diferite, probleme diferite",
+          "paragraphs": [
+            "Notificările sunt un declanșator, Limitele pentru aplicații sunt un buget, Timpul de neutilizare este un program, iar un blocator pentru aplicații selectate face acele aplicații indisponibile în mod implicit. Nu sunt interschimbabile.",
+            "Dacă aceeași aplicație se deschide fără notificare sau program, blocatorul este adesea mai direct decât un cronometru pe care îl poți prelungi. Vezi când ajută fiecare în Timp pe ecran vs blocator de aplicații."
+          ]
+        },
+        {
+          "title": "Păstrează ce ai nevoie",
+          "paragraphs": [
+            "Hărți, Mesaje, apeluri, aplicații bancare și cele pentru familie rareori trebuie să facă parte dintr-o regulă pentru rețelele sociale.",
+            "O regulă restrânsă este mai ușor de păstrat pentru că schimbă aplicația-problemă fără să facă fiecare sarcină normală incomodă. Dacă nu ești sigur, începe cu cât timp petreci de fapt pe rețelele sociale."
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "title": "Numește aplicația-problemă",
+          "copy": "Găsește-o pe cea care transformă o verificare rapidă într-o sesiune lungă."
+        },
+        {
+          "title": "Potrivește setarea",
+          "copy": "Alege în mod deliberat alerte, limite, program sau blocator."
+        },
+        {
+          "title": "Păstrează aplicațiile esențiale deschise",
+          "copy": "Lasă aplicațiile utile în afara regulii."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Poate Concentrare să blocheze aplicații?",
+          "answer": "Concentrare reduce notificările și poate ascunde pagini de pe ecranul principal, dar în general nu împiedică deschiderea unei aplicații."
+        },
+        {
+          "question": "Pot păstra Mesajele?",
+          "answer": "Da. Cu o abordare pentru aplicații selectate, aplicațiile neselectate rămân disponibile."
+        },
+        {
+          "question": "Dar dacă am nevoie de ele pentru muncă?",
+          "answer": "Păstrează utilizarea pentru muncă și aplică limita doar în afara acelor intervale."
+        }
+      ]
+    },
+    "digital-detox-plan": {
+      "title": "Plan de Detox Digital — O resetare mai mică pe care o poți păstra | Klippy",
+      "description": "Creează un plan realist de detox digital: alege un motiv, un declanșator și o mică limită pe care să o testezi timp de o săptămână.",
+      "eyebrow": "Plan de detox digital",
+      "h1": "Un plan de detox digital care se potrivește vieții reale.",
+      "lead": "Nu trebuie să ștergi totul sau să pleci pentru o săptămână. Alege o parte din zi pe care vrei să o recuperezi și un declanșator pe care să-l schimbi, apoi testează.",
+      "answer": "Alege un motiv (de ex., mai puține întreruperi la muncă, un culcare mai calmă), un declanșator (o aplicație, o notificare sau un interval de timp) și o limită pe care o poți păstra timp de șapte zile. Evaluează și ajustează.",
+      "sections": [
+        {
+          "title": "Evită capcana de tipul totul sau nimic",
+          "paragraphs": [
+            "Detoxurile generale par decisive, dar adesea eșuează când tot ai nevoie de telefon pentru muncă, familie și călătorii.",
+            "Un test restrâns oferă date mai bune. Dacă problema este scroll-ul târziu în noapte, schimbă doar acel interval — nu fiecare aplicație toată ziua. Vezi cum să nu mai verifici atât de des pentru idei despre declanșatori."
+          ]
+        },
+        {
+          "title": "Decide pentru ce faci loc",
+          "paragraphs": [
+            "Un plan se păstrează mai bine cu un scop clar: muncă mai concentrată, mese mai prezente sau o tranziție mai ușoară spre somn.",
+            "Folosește acel scop ca să alegi limita. Ar trebui să susțină viața pe care o dorești, nu să devină o altă regulă care te frustrează."
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "title": "Alege un motiv",
+          "copy": "Numește partea din zi pe care vrei să o protejezi."
+        },
+        {
+          "title": "Alege un declanșator",
+          "copy": "Alege aplicația, notificarea sau locul care îți stă în mod repetat în cale."
+        },
+        {
+          "title": "Testează o limită",
+          "copy": "Păstreaz-o suficient de mică pentru a o folosi o săptămână întreagă."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Cât ar trebui să dureze un detox?",
+          "answer": "Un test de o săptămână este mai util decât un plan general pe care nu-l poți păstra. Prelungește doar ce ajută."
+        },
+        {
+          "question": "Trebuie să șterg rețelele sociale?",
+          "answer": "De obicei nu. O limită în jurul momentelor automate este adesea suficientă."
+        },
+        {
+          "question": "Dar dacă am nevoie de telefon pentru muncă?",
+          "answer": "Păstrează funcțiile de muncă și concentrează detoxul pe verificările care distrag atenția din afara acestuia."
+        }
+      ]
+    },
+    "stop-checking-phone": {
+      "title": "Cum să Nu-ți mai Verifici Telefonul Atât de Des — Declanșatorul dinaintea verificării | Klippy",
+      "description": "Nu-ți mai verifica telefonul schimbând declanșatorul: alerte, plictiseală sau bucle de obicei. Pași practici pe care îi poți testa azi.",
+      "eyebrow": "Nu-ți mai verifica telefonul",
+      "h1": "Nu mai verifica schimbând momentul dinaintea verificării.",
+      "lead": "Majoritatea verificărilor nu sunt o decizie de a folosi telefonul. Sunt o întindere automată a mâinii într-o pauză, la o notificare sau într-un moment de plictiseală — iar acel declanșator poate fi schimbat.",
+      "answer": "Observă declanșatorul, apoi schimbă contextul din jurul lui: dezactivează alertele care îl provoacă, fă aplicația puțin mai greu de deschis sau pune o acțiune următoare mai utilă în același loc.",
+      "sections": [
+        {
+          "title": "O verificare este adesea o buclă, nu o alegere",
+          "paragraphs": [
+            "Mâna se mișcă înainte să fi decis ce vrei de la telefon. De aceea voința în moment pare dificilă.",
+            "Creează o mică pauză schimbând declanșatorul, accesul sau mediul — suficient cât să alegi, nu ca să te bazezi pe un control perfect."
+          ]
+        },
+        {
+          "title": "Fă acțiunea mai bună mai ușoară",
+          "paragraphs": [
+            "Dacă verifici în timp ce aștepți, pune o carte sau un carnet acolo. Dacă verifici în pat, încarcă telefonul în afara camerei. Fă alternativa la fel de ușoară ca vechiul obicei.",
+            "Dacă o singură aplicație este destinația obișnuită, o limită pentru aplicații selectate poate face acea deschidere automată mai puțin convenabilă, în timp ce totul altceva rămâne deschis. Compară instrumentele în Timp pe ecran vs blocator de aplicații."
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "title": "Observă declanșatorul",
+          "copy": "Ce moment, sentiment sau notificare apare chiar înainte de a întinde mâna?"
+        },
+        {
+          "title": "Schimbă o parte din buclă",
+          "copy": "Dezactivează alerta, mută aplicația sau adaugă distanță."
+        },
+        {
+          "title": "Evaluează rezultatul real",
+          "copy": "Păstrează ce ajută, ajustează ce face viața mai grea."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "De ce verific fără notificare?",
+          "answer": "Verificarea poate deveni un răspuns învățat la pauze, stres sau plictiseală — nu doar la alerte."
+        },
+        {
+          "question": "Ar trebui să dezactivez toate notificările?",
+          "answer": "Începe cu puținele care te atrag în verificări nedorite; păstrează-le pe cele utile."
+        },
+        {
+          "question": "Poate ajuta un blocator?",
+          "answer": "Da, când aceleași 1-2 aplicații sunt destinația repetată."
+        }
+      ]
+    },
+    "screen-time-vs-app-blocker": {
+      "title": "Timp pe Ecran vs Blocator de Aplicații — Ce instrument iPhone se potrivește obiceiului tău? | Klippy",
+      "description": "Limitele pentru aplicații și Timpul de neutilizare din Timpul pe ecran vs Concentrare vs un blocator pentru aplicații selectate. Află ce instrument iPhone se potrivește declanșatorului tău.",
+      "eyebrow": "Timp pe ecran vs blocator de aplicații",
+      "h1": "Timpul pe ecran și blocatoarele de aplicații rezolvă probleme diferite.",
+      "lead": "Limitele pentru aplicații, Timpul de neutilizare, Concentrare și un blocator pentru aplicații selectate sunt adesea confundate. Alegerea corectă depinde dacă ai nevoie de un buget, un program, mai puține alerte sau să faci aplicațiile selectate indisponibile în mod implicit.",
+      "answer": "Folosește Timpul pe ecran pentru rapoarte, Limite pentru aplicații și Timp de neutilizare; Concentrare pentru notificări și ecranul principal; un blocator pentru aplicații selectate când câteva aplicații trebuie să fie blocate în mod implicit în timp ce restul telefonului rămâne util.",
+      "sections": [
+        {
+          "title": "Când se potrivește bine Timpul pe ecran",
+          "paragraphs": [
+            "Limitele pentru aplicații stabilesc o limită zilnică, Timpul de neutilizare stabilește un program, iar Timpul pe ecran arată unde se duce timpul. Excelent pentru conștientizare, bugete și intervale previzibile.",
+            "Pentru deschideri automate aleatorii ale acelorași 1-2 aplicații, un buget de timp poate fi ușor de prelungit — o blocare implicită este mai directă."
+          ]
+        },
+        {
+          "title": "Când se potrivește bine o limită pentru aplicații selectate",
+          "paragraphs": [
+            "Un blocator întreabă: ce aplicații instalate creează problema și poate restul să rămână util? Fella menține aplicațiile pe care le selectezi blocate în mod implicit; aplicațiile neselectate rămân disponibile.",
+            "Nu este un blocator de site-uri web sau un sistem MDM. Este o limită restrânsă pentru obiceiul pe care l-ai numit în cum să reduci sau în planul tău de detox."
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "title": "Numește problema",
+          "copy": "Alerte, total zilnic, program sau deschideri automate repetate?"
+        },
+        {
+          "title": "Alege instrumentul potrivit",
+          "copy": "Concentrare, Limite pentru aplicații/Timp de neutilizare sau un blocator."
+        },
+        {
+          "title": "Păstrează-l restrâns",
+          "copy": "Lasă aplicațiile utile disponibile."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Poate Timpul pe ecran să blocheze aplicații?",
+          "answer": "Are Limite pentru aplicații și Timp de neutilizare. Folosește-le pentru bugete/programe; un blocator este pentru aplicații selectate indisponibile în mod implicit."
+        },
+        {
+          "question": "Poate Concentrare să blocheze aplicații?",
+          "answer": "Concentrare dezactivează notificările și poate ascunde pagini, dar în general nu blochează deschiderea unei aplicații."
+        },
+        {
+          "question": "Pot păstra apelurile și mesajele?",
+          "answer": "Da. Cu o abordare pentru aplicații selectate, doar aplicațiile pe care le selectezi sunt blocate."
+        }
+      ]
+    }
+  },
+  "guidePage": {
+    "shortAnswer": "Răspunsul pe scurt",
+    "nextStepEyebrow": "Un pas următor practic",
+    "useCalculatorCta": "Folosește calculatorul pentru timpul pe ecran",
+    "faqTitle": "Întrebări frecvente"
+  },
+  "notFound": {
+    "title": "Pagină negăsită",
+    "description": "Pagina pe care o cauți nu există."
+  }
+}

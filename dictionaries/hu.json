@@ -1,0 +1,778 @@
+{
+  "site": {
+    "name": "Klippy",
+    "title": "Klippy | Ingyenes eszközök egy nyugodtabb telefonhoz",
+    "description": "Egyszerű, ingyenes eszközök a telefonhasználati szokások megváltoztatásához, amelyek újra és újra visszahúznak."
+  },
+  "header": {
+    "howItWorks": "Hogyan működik",
+    "guides": "Útmutatók",
+    "about": "Rólunk",
+    "calculator": "Kalkulátor",
+    "tryFella": "Próbáld ki a Fellát",
+    "homeAria": "Klippy főoldal"
+  },
+  "footer": {
+    "privacy": "Adatvédelem",
+    "terms": "Felhasználási feltételek",
+    "support": "Támogatás",
+    "builtByFella": "Készítette a Fella",
+    "guidesLabel": "Útmutatók",
+    "guidesAria": "Képernyőidő útmutatók"
+  },
+  "guides": [
+    {
+      "label": "Képernyőidő életkor szerint",
+      "slug": "screen-time-by-age-calculator"
+    },
+    {
+      "label": "Képernyőidő napokban",
+      "slug": "screen-time-in-days"
+    },
+    {
+      "label": "Telefonhasználat-kalkulátor",
+      "slug": "phone-use-calculator"
+    },
+    {
+      "label": "Közösségi média idő",
+      "slug": "social-media-time-calculator"
+    },
+    {
+      "label": "Képernyőidő ellenőrzése iPhone-on",
+      "slug": "how-to-check-screen-time-iphone"
+    },
+    {
+      "label": "Képernyőidő csökkentése iPhone-on",
+      "slug": "how-to-reduce-screen-time-iphone"
+    },
+    {
+      "label": "Közösségi média korlátozása iPhone-on",
+      "slug": "how-to-limit-social-media-on-iphone"
+    },
+    {
+      "label": "Digitális detox terv",
+      "slug": "digital-detox-plan"
+    },
+    {
+      "label": "Ne nézegesd folyton a telefonod",
+      "slug": "stop-checking-phone"
+    },
+    {
+      "label": "Képernyőidő vs. appblokkoló",
+      "slug": "screen-time-vs-app-blocker"
+    }
+  ],
+  "home": {
+    "title": "Tedd könnyebbé\nletenni a telefonod.",
+    "lead": "Egy ingyenes eszköz, hogy megtaláld azt a telefonszokást, ami újra és újra visszahúz. Aztán válassz egy kisebb határt, ami tényleg belefér a napodba.",
+    "cta": "Próbáld ki az ingyenes eszközt",
+    "sub": "Nincs regisztráció. Nincs letöltés. Csak egy hasznos kiindulópont.",
+    "howItWorksAria": "Hogyan működik",
+    "steps": [
+      {
+        "number": "01",
+        "title": "Nevezd meg a pillanatot",
+        "description": "Egy konkrét szokást könnyebb megváltoztatni, mint egy homályos célt, hogy kevesebbet használd a telefonod."
+      },
+      {
+        "number": "02",
+        "title": "Válassz kisebb határt",
+        "description": "Tartsd meg a szükséges appokat. Csak ott vezess be súrlódást, ahol az automatikus ellenőrzés kezdődik."
+      },
+      {
+        "number": "03",
+        "title": "Próbáld ki a való életben",
+        "description": "Használd az eredményt gyakorlati kiindulópontként, majd igazítsd a saját napodhoz."
+      }
+    ],
+    "aboutEyebrow": "A nyugodtabb telefon kicsiben kezdődik.",
+    "aboutTitle": "Nem kell az egész digitális életedet törölnöd.",
+    "aboutCopy": "A Klippy egyszerű, ingyenes eszközöket fejleszt, amelyek segítenek azonosítani azt a néhány appot és pillanatot, amivel érdemes először foglalkozni.",
+    "aboutCta": "Fedezd fel a Fellát"
+  },
+  "about": {
+    "metaTitle": "A Klippy-ről — Apró eszközök egy nyugodtabb telefonhoz",
+    "metaDescription": "A Klippy ingyenes, privát eszközöket készít, hogy tisztán lásd telefonhasználati szokásaidat és egy kisebb, reális következő lépést válassz.",
+    "eyebrow": "A Klippy-ről",
+    "h1": "Apró eszközök egy hasznosabb érzetű telefonhoz.",
+    "lead": "A Klippy azoknak szól, akik egy telefonszokáson szeretnének változtatni anélkül, hogy ebből teljes munkaidős projekt lenne. Az eszközök egy egyszerű kérdéssel indulnak, és egy hasznos válaszra törekszenek.",
+    "whyEyebrow": "Miért létezik a Klippy",
+    "whyTitle": "A legtöbb telefonos tanács túl sokat kér, túl korán.",
+    "whyParagraphs": [
+      "Könnyű azt mondani, hogy kevesebbet kellene használni a telefonod. Sokkal nehezebb eldönteni, mit is jelent ez egy átlagos napon, amikor a telefon egyben a kapcsolattartás, a tájékozódás, a fizetés, a munka, a tanulás és a kikapcsolódás eszköze is.",
+      "A Klippy szűkebb nézőpontból indul ki. A telefonod egyes részei hasznosak. Néhány app vagy pillanat pedig olyan szokásba húzhat, amit nem te választottál. Ez két különböző probléma, és különböző válaszokat érdemelnek.",
+      "A cél nem az, hogy a technológia erkölcsi kudarcként jelenjen meg. Hanem hogy láthatóbbá tegyük a kompromisszumokat, hogy el tudd dönteni, min érdemes változtatni."
+    ],
+    "values": [
+      {
+        "title": "Először is ingyenes",
+        "copy": "Egy eredménynek nem szabad regisztrációs űrlap mögött lennie. A Klippy eszközei úgy készültek, hogy fiók, fizetés vagy apptelepítés nélkül működjenek."
+      },
+      {
+        "title": "Alapból privát",
+        "copy": "A képernyőidő-kalkulátor azokkal az értékekkel számol, amelyeket a böngésződben adsz meg. Nem kapcsolódik az iPhone-odhoz, és nincs szüksége a privát aktivitási adataidra."
+      },
+      {
+        "title": "Hasznos kemény eladás nélkül",
+        "copy": "Egy eszköznek önmagában is meg kell állnia a helyét. Ha utána egy másik termék valóban hasznos, akkor annak a következő lépésnek egyértelműnek és opcionálisnak kell lennie."
+      }
+    ],
+    "nextEyebrow": "Mi jön ezután",
+    "nextTitle": "Kezdd a szokás őszinte képével.",
+    "nextParagraphs": [
+      "A Klippy első eszköze egy képernyőidő-kalkulátor. Egy átlagos napi számot látható összesítéssé alakít egy hétre, egy évre és hosszabb időtávra. Nem tudja megmondani, mely órák megőrzése éri meg. Kiindulópontot adhat ahhoz, hogy ezt magad döntsd el.",
+      "A jövőbeli eszközök is ugyanezt az elvet követik. Elég egyszerűnek kell lenniük, hogy egy perc alatt használhasd őket, és elég konkrétnak, hogy egy valódi döntésben segítsenek. Nincs általános pontszám. Nincs ígéret, hogy egyetlen beállítás mindent megold."
+    ],
+    "nextCta": "Képernyőidő-kalkulátor használata",
+    "fellaEyebrow": "A Fellával készült",
+    "fellaTitle": "Amikor a válasz néhány app körüli erősebb határ, a Fella éppen erre a következő lépésre van ott.",
+    "fellaCopy": "A Fella egy iPhone appblokkoló a kiválasztott zavaró appokhoz. A ki nem választott appok elérhetők maradhatnak, így a telefonod hasznos részei nem kerülnek a határ mögé, hacsak te nem döntöd így.",
+    "fellaCta": "Fedezd fel a Fellát"
+  },
+  "howItWorks": {
+    "metaTitle": "Hogyan működik a Klippy — Kezdd a szokással, ne egy teljes újrakezdéssel",
+    "metaDescription": "Hogyan működik a Klippy: ingyenes, privát böngésző-eszközök, amelyek egy napi telefonszámot hasznos következő lépéssé alakítanak — fiók és követés nélkül.",
+    "eyebrow": "Hogyan működik",
+    "h1": "Kezdd a szokással, ne egy óriási újrakezdéssel.",
+    "lead": "A Klippy egyszerű, ingyenes eszközöket készít a telefonhasználati szokások gyakorlatiasabb szemléletéhez. Nem az a cél, hogy minden képernyőn töltött perc rossznak tűnjön. Hanem hogy észrevedd azokat a pillanatokat, amelyek különösebb átgondolás nélkül történnek, és eldöntsd, továbbra is megfelelnek-e neked.",
+    "ideaEyebrow": "Az alapötlet",
+    "ideaTitle": "Egy hasznos válasznak akkor is világosnak kell lennie, mielőtt bármit kérne tőled.",
+    "ideaCopy": "Ezért futnak a Klippy eszközei a böngésződben. Nincs fiók, amit létre kell hozni, nincs fizetési oldal az eredményig, és nincs kapcsolat a privát telefonadataiddal. Kevés információt adsz meg, és kapsz egy kézzelfogható gondolatmenetet.",
+    "steps": [
+      {
+        "number": "01",
+        "title": "Nézz meg egy pillanatot",
+        "copy": "Kezdj egy konkrét appal, napszakkal vagy helyzettel. Egy hírfolyam ágyban való görgetését könnyebb megérteni, mint egy általános tervet, hogy kevesebbet használd a telefonod."
+      },
+      {
+        "number": "02",
+        "title": "Tedd hasznossá a számot",
+        "copy": "A képernyőidő-kalkulátor egy átlagos napi számot heti, éves és hosszabb távú összesítéssé alakít. A matek egyszerű. Ha egy helyen látod, könnyebb észrevenni a kompromisszumot."
+      },
+      {
+        "number": "03",
+        "title": "Válaszd a legkisebb következő lépést",
+        "copy": "Megtarthatsz mindent úgy, ahogy van. Elmozdíthatsz egy appot, elnémíthatsz egy jelzést, vagy kicsit nehezebbé teheted egy zavaró app megnyitását. A hasznos változás az, ami belefér a valódi napodba."
+      }
+    ],
+    "calcEyebrow": "Mit csinál a kalkulátor",
+    "calcTitle": "Egy ismerős számot könnyebben elképzelhetővé tesz.",
+    "calcParagraphs": [
+      "Add meg a napi képernyőidő átlagos óraszámát. A Klippy kiszámolja a hozzá tartozó heti, havi és éves összesítést, majd megbecsüli, hogyan néz ki ez az arány a jelenlegi életkorod és 75 éves korod között.",
+      "A kalkulátor nem tudja, milyen appokat használsz, mivel foglalkozol, vagy hogy a telefonon töltött idő élvezetes, szükséges vagy éppen zavaró. Minden órát egyformán kezel. Ez szándékos. Ez egy egyszerű tudatosító eszköz, nem pontszám vagy diagnózis.",
+      "Ha az eredmény magasnak tűnik, a következő kérdés nem feltétlenül az, hogyan tüntesd el ezt az időt. Jobb kérdés, hogy mely része tűnik automatikusnak, nem tervezettnek, vagy olyannak, amit nehéz abbahagyni, ha egyszer elkezdődött."
+    ],
+    "calcCta": "Képernyőidő-kalkulátor használata",
+    "faqEyebrow": "Gyakori kérdések",
+    "faqTitle": "Egy kisebb határ is számíthat.",
+    "faqs": [
+      {
+        "question": "Létre kell hoznom egy fiókot?",
+        "answer": "Nem. A Klippy eszközei úgy készültek, hogy azonnal működjenek a böngésződben. A kalkulátorhoz nincs szükség regisztrációra vagy fizetésre."
+      },
+      {
+        "question": "A Klippy olvassa a telefonos aktivitásomat?",
+        "answer": "Nem. Csak azt a számot használja, amelyet beírsz a kalkulátorba. Nem kapcsolódik az iPhone-odhoz, és nem gyűjt apponkénti bontást."
+      },
+      {
+        "question": "Mit tegyek, miután láttam az eredményt?",
+        "answer": "Keress egy jól látható mintát. Lehet egy app, amit munka közben nézegetsz, egy hírfolyam, amit ágyban nyitsz meg, vagy egy szokás, ami mindig akkor indul, amikor várakozol valamire."
+      },
+      {
+        "question": "Mi van, ha a telefonom nagy részére továbbra is szükségem van?",
+        "answer": "Ez teljesen normális. Egy hasznos határnak nem kell az egész telefonod elérhetetlenné tennie. Kezdd azzal a néhány appal vagy pillanattal, ami a problémát okozza."
+      }
+    ],
+    "fellaEyebrow": "Amikor néhány app a probléma",
+    "fellaTitle": "A Fella alapértelmezetten blokkolva tartja a kiválasztott zavaró iPhone-appokat, miközben a ki nem választott appok elérhetők maradhatnak.",
+    "fellaCopy": "Ez egy másik lépés, mint a képernyőidő kiszámítása. Akkor lehet hasznos, ha már azonosítottad azokat az appokat, amelyeket kevésbé automatikussá szeretnél tenni.",
+    "fellaCta": "Fedezd fel a Fellát"
+  },
+  "calculator": {
+    "metaTitle": "Képernyőidő-kalkulátor — Nézd meg a telefonidődet hétre, évre és 75 éves korig",
+    "metaDescription": "Ingyenes képernyőidő-kalkulátor: add meg a napi órákat és az életkorod, és nézd meg a heti, éves és élettartamra vetített összesítést. Privát, nincs regisztráció, a böngésződben fut.",
+    "eyebrow": "Ingyenes képernyőidő-kalkulátor",
+    "h1": "Nézd meg, hogyan adódik össze a telefonidőd.",
+    "lead": "Add meg az átlagos napi képernyőidődet. Kapj egy egyszerű képet az órákról, napokról és évekről, amik összeadódnak — majd válassz egy apró változtatást kipróbálásra.",
+    "inputLabel": "Átlagos napi képernyőidő",
+    "reduceAria": "Képernyőidő csökkentése",
+    "increaseAria": "Képernyőidő növelése",
+    "help": "Nézd meg a Beállítások → Képernyőidő menüpontot az iPhone-odon, ha nem vagy biztos benne, mit írj be. Egy tipikus napot használj, ne a legjobbat vagy a legrosszabbat.",
+    "ageLabel": "Életkorod",
+    "ageHelp": "Csak a most és 75 éves kor közötti képernyőidő becslésére használjuk. Semmit nem mentünk.",
+    "calcCta": "Időm kiszámítása",
+    "results": {
+      "everyWeek": "Hetente",
+      "everyMonth": "Havonta",
+      "everyYear": "Évente",
+      "fullDays": "Teljes nap évente"
+    },
+    "atThisRate": "Ebben az ütemben",
+    "atThisRateValue": "Körülbelül {years} év képernyőidő mostantól 75 éves korodig.",
+    "atThisRateCopy": "Ez a becslés minden órát egyformán számol. Ez egy hozzávetőleges tudatosító eszköz, nem ítélet a telefonhasználatodról.",
+    "wakingLabel": "Egy 16 órás ébrenléti nap aránya",
+    "smallReductionTitle": "Egy kis csökkentés is összeadódik",
+    "smallReductionCopy": "Napi egy órával kevesebb körülbelül {days} teljes napot spórol évente.",
+    "smallReductionDesc": "Nem kell minden képernyőt elhagynod. Kezdd azzal az egy appal vagy pillanattal, ami nem tervezett görgetésbe torkollik.",
+    "fellaTitle": "Ha néhány app a gond",
+    "fellaCopyTitle": "A Fella blokkolni tudja a kiválasztott appokat, amelyek újra és újra visszahúznak.",
+    "fellaCopy": "A ki nem választott appok elérhetők maradhatnak, így a hasznos telefonod hasznos is marad.",
+    "fellaCta": "Fella megtekintése az App Store-ban",
+    "faqTitle": "GYIK a képernyőidő-kalkulátorról",
+    "axisLabels": {
+      "zero": "0ó",
+      "middle": "8ó",
+      "max": "16ó"
+    },
+    "faqs": [
+      {
+        "question": "Hogyan készül a becslés?",
+        "answer": "A napi átlagodat megszorozzuk 7-tel, 30,44-gyel és 365-tel a heti/havi/éves értékekhez, és az életkorodtól 75 éves korig hátralévő évekkel az élettartam-nézethez. Az éves órákat elosztjuk 24-gyel a teljes napokhoz."
+      },
+      {
+        "question": "Ez az eszköz követi az iPhone-omat?",
+        "answer": "Nem. A számítás a böngésződben történik a beírt szám alapján. Semmi nem kapcsolódik a telefonodhoz, és a Klippy semmit nem ment."
+      },
+      {
+        "question": "Hol találom az iPhone képernyőidőmet?",
+        "answer": "Nyisd meg a Beállítások → Képernyőidő → Összes app- és webhelytevékenység megjelenítése menüpontot. Válts a Nap és a Hét nézet között, hogy megtaláld a tipikus napi átlagot."
+      },
+      {
+        "question": "Mit kezdjek az eredménnyel?",
+        "answer": "Keresd a legkevésbé szándékos időt — egy hírfolyamot, amit várakozás közben nyitsz meg, egy játékot, amivel halogatsz egy feladatot, vagy egy késő esti görgetést — és tesztelj egy kis határt ott."
+      }
+    ]
+  },
+  "seoPages": {
+    "screen-time-by-age-calculator": {
+      "title": "Képernyőidő életkor szerinti kalkulátor — Mennyi mostantól 75 éves korig? | Klippy",
+      "description": "Nézd meg, hogyan adódik össze a napi képernyőidőd a jelenlegi életkorodtól 75 éves korodig. Add meg a napi órákat és az életkorod egy privát, azonnali becsléshez.",
+      "eyebrow": "Képernyőidő-kalkulátor életkor szerint",
+      "h1": "Nézd meg, mire jön ki a képernyőidőd mostantól 75 éves korig.",
+      "lead": "Egy napi átlag másképp mutat az előtted álló évek mellett. Add meg az életkorod és a napi képernyőidőd egy egyszerű, privát becsléshez — majd válassz egy szokást kipróbálásra.",
+      "answer": "A Klippy a napi átlagodat megszorozza a jelenlegi életkorodtól 75 éves korig hátralévő évekkel. Minden órát egyformán számol, ezért tekintsd tudatosító kiindulópontnak, nem pontszámnak.",
+      "sections": [
+        {
+          "title": "Miért segít az életkori nézet",
+          "paragraphs": [
+            "Ugyanaz a napi szokás több időn át ismétlődik, ha fiatalabb vagy. A 75 éves korig számolt összesítés kézzelfoghatóvá tesz egy elvont rutint anélkül, hogy riasztóvá kellene tenni.",
+            "Ha már látod az összesítést, szűkebb kérdést tehetsz fel: van-e egy app, napszak vagy jelzés, ami az automatikus idő nagy részét okozza? Egy kis határ ott könnyebben betartható, mint egy általános korlátozás."
+          ]
+        },
+        {
+          "title": "Tedd hasznossá, ne ítélkezővé",
+          "paragraphs": [
+            "A kalkulátor nem tudja, mely órák szólnak munkáról, családról, tanulásról vagy kikapcsolódásról. Használd a számot arra, hogy szétválaszd a telefonhasználat értékes részét azoktól az ellenőrzésektől, amelyek különösebb ok nélkül történnek.",
+            "Ha az eredmény meglep, kezdd a legkevésbé szándékos idővel. Tartsd meg a telefonod hasznos részeit, és csak ott vezess be súrlódást, ahol az automatikus ellenőrzés kezdődik. Lásd még: képernyőidő teljes napokban és hogyan találd meg az átlagod iPhone-on."
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "title": "Ellenőrizd a napi átlagod",
+          "copy": "Nyisd meg a Beállítások → Képernyőidő → Összes tevékenység megjelenítése menüpontot, és használj egy tipikus napi számot."
+        },
+        {
+          "title": "Add meg az életkorod",
+          "copy": "Csak a 75 éves korig szóló becsléshez használjuk. Semmit nem mentünk."
+        },
+        {
+          "title": "Válassz egy apró változtatást",
+          "copy": "Válassz egy appot vagy pillanatot, ami automatikusnak tűnik, ne mindent egyszerre."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Pontos a becslés?",
+          "answer": "Nem. Egyszerű matek a beírt napi számból, megszorozva a 75 éves korig hátralévő évekkel. Tájékozódásra használd, ne pontos előrejelzésként."
+        },
+        {
+          "question": "A Klippy látja a telefonadataimat?",
+          "answer": "Nem. Az eszköz a böngésződben fut, és soha nem kapcsolódik az iPhone-odhoz."
+        },
+        {
+          "question": "Mit próbáljak ki utána?",
+          "answer": "Tesztelj egy határt egy hétig — például nincs közösségi hírfolyam ágyban, vagy halkabb értesítések munka közben — és tartsd meg, ami segít."
+        }
+      ]
+    },
+    "screen-time-in-days": {
+      "title": "Képernyőidő napokban — Órák átváltása teljes 24 órás napokra | Klippy",
+      "description": "Váltsd át a napi képernyőidőt teljes napokra hetente, havonta és évente. Nézd meg az éves órákat 24 órás napokban — ingyenes és privát.",
+      "eyebrow": "Képernyőidő napokban",
+      "h1": "Váltsd át képernyőidődet teljes napokra.",
+      "lead": "A nap folyamán eloszló órák hétköznapinak tűnhetnek. A Klippy a napi átlagodat teljes 24 órás napokra váltja évente, hogy a kompromisszum könnyebben elképzelhető legyen.",
+      "answer": "A napi óráidat megszorozzuk 365-tel az éves órákhoz, majd elosztjuk 24-gyel. Ez adja a teljes napnak megfelelő értéket. A számítás azonnal a böngésződben történik.",
+      "sections": [
+        {
+          "title": "Miért könnyebb elképzelni teljes napokban",
+          "paragraphs": [
+            "Napi négy óra kevésnek hangzik, amíg nem látod, hogy évente több mint 60 teljes napnak felel meg. A nap-nézet más keretbe helyezi ugyanazt az időt anélkül, hogy elpazaroltnak nevezné.",
+            "Ezek a napok magukban foglalják a munkát, a térképet, az üzeneteket, a tanulást és a pihenést. Nem az a lényeg, hogy minden képernyőidőt rossznak bélyegezzünk, hanem hogy lásd az összesítést, így kiválaszthatod, min szeretnél változtatni. Próbáld ki az életkor szerinti nézetet, ha hosszabb távú képet szeretnél."
+          ]
+        },
+        {
+          "title": "Ha a szám meglep",
+          "paragraphs": [
+            "Kezdd a legkevésbé szándékos idővel: egy hírfolyam, amit várakozás közben nyitsz meg, egy játék, amivel halogatsz egy feladatot, vagy egy késő esti görgetés, ami elhúzódik.",
+            "Teszteld a legkisebb határt, ami belefér a napodba. Tartsd elérhetően az alapvető appokat, és csak azt a pillanatot változtasd, ami a legtöbb súrlódást okozza. A gyakorlati csökkentési módok iPhone-on segíthetnek."
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "title": "Találd meg az átlagod",
+          "copy": "Használd a napi átlagot az iPhone Képernyőidőjében (Napi/Heti nézet)."
+        },
+        {
+          "title": "Nézd meg az éves összesítést",
+          "copy": "A kalkulátor megmutatja az órákat és a 24 órás napnak megfelelő értéket."
+        },
+        {
+          "title": "Válassz egy kísérletet",
+          "copy": "Csökkents egy automatikus ellenőrzést ahelyett, hogy tökéletes számot hajszolnál."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Hogyan számoljuk a teljes napokat?",
+          "answer": "Éves órák ÷ 24. Például 4ó/nap × 365 = 1460ó/év ÷ 24 ≈ 60,8 teljes nap."
+        },
+        {
+          "question": "Ez azt jelenti, hogy a képernyőidő elpazarolt?",
+          "answer": "Nem. A nap-nézet semleges átkeretezés. Munka, család és pihenés is történhet képernyőn."
+        },
+        {
+          "question": "Megcsinálhatom ezt egyetlen appra?",
+          "answer": "Igen. Add meg egyetlen app vagy kategória napi átlagát a Képernyőidő bontásából."
+        }
+      ]
+    },
+    "phone-use-calculator": {
+      "title": "Telefonhasználat-kalkulátor — Napi telefonidőből éves összesítés | Klippy",
+      "description": "Nézd meg, hogyan adódik össze a napi telefonidőd egy hét, egy hónap és egy év alatt. Egy szám, azonnali összesítések — regisztráció nélkül.",
+      "eyebrow": "Telefonhasználat-kalkulátor",
+      "h1": "Egy egyszerű kalkulátor a telefonidődhöz.",
+      "lead": "Adj meg egy napi átlagot, és nézd meg heti, havi és éves összesítésként. Használd arra, hogy kiszúrd a telefonhasználat azon részét, amin valóban változtatni szeretnél.",
+      "answer": "A Klippy a napi telefonóráidat heti (×7), havi (×30,44) és éves (×365) összesítéssé alakítja. Nincs fiók, nincs követés — csak matek a böngésződben.",
+      "sections": [
+        {
+          "title": "A telefonod nem egyetlen dolog",
+          "paragraphs": [
+            "Térkép, kamera, üzenetküldő, pénztárca és kikapcsolódási hely egyben. Egyetlen összesítés nem tudja eldönteni, mely használatok számítanak neked.",
+            "Használd az összesítést annak megvizsgálására, hogy a megőrzendő időt nem szorítják-e háttérbe az automatikusan történő ellenőrzések. Ez a megkülönböztetés hasznosabb, mint egyetlen képernyőidő-pontszám."
+          ]
+        },
+        {
+          "title": "Keress mintákat a szabályok előtt",
+          "paragraphs": [
+            "Figyeld meg az app megnyitása előtti jelet: unalom, értesítés, két feladat közötti szünet vagy egy nehéz munka.",
+            "A jelhez illeszkedő szabály jobban működik — halkabb értesítések, más főképernyő vagy határ egy app körül. Ha kifejezetten a közösségit szeretnéd korlátozni, lásd a közösségi média időt és a korlátozás módját iPhone-on."
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "title": "Add meg a napi telefonhasználatot",
+          "copy": "Egy tipikus napot használj, ne a legjobbat vagy a legrosszabbat."
+        },
+        {
+          "title": "Olvasd el az összesítéseket",
+          "copy": "Nézd meg a heti és éves értékeket, hogy lásd a szokást nagyban."
+        },
+        {
+          "title": "Találd meg a változtatandó részt",
+          "copy": "Válaszd szét a hasznos használatot a nem tervezett ellenőrzésektől."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Ingyenes?",
+          "answer": "Igen. A böngésződben fut, fiók és fizetés nélkül."
+        },
+        {
+          "question": "Hol találom a napi átlagomat?",
+          "answer": "Beállítások → Képernyőidő → Összes app- és webhelytevékenység megjelenítése. Használd a Napi vagy Heti nézetet."
+        },
+        {
+          "question": "Látja az appjaimat?",
+          "answer": "Nem. Te magad adod meg a számot; a Klippy soha nem kapcsolódik a telefonodhoz."
+        }
+      ]
+    },
+    "social-media-time-calculator": {
+      "title": "Közösségi média idő kalkulátor — Heti, havi és éves összesítések | Klippy",
+      "description": "Számold ki a közösségi médiával töltött idődet hetente, havonta és évente. Add meg egy app vagy az összes közösségi app napi átlagát — privát és azonnali.",
+      "eyebrow": "Közösségi média idő kalkulátor",
+      "h1": "Nézd meg, hogyan adódik össze a közösségi médiával töltött idő.",
+      "lead": "Add meg a napi közösségi átlagod, és nézd meg heti, havi és éves összesítésként. Tartsd meg, amit értékelsz, változtass azon, ami automatikusnak tűnik.",
+      "answer": "Add össze a közösségi appjaidat az iPhone Képernyőidőben, add meg a napi átlagot, és a Klippy hosszabb távú összesítéssé alakítja. Használhatod egy appra vagy egy egész kategóriára.",
+      "sections": [
+        {
+          "title": "Egy összesítés világosabb, mint egy érzés",
+          "paragraphs": [
+            "A „túl sok időt töltök közösségi médiával” érzésen nehéz cselekedni. Egy szám — például 1,5ó/nap ≈ 22 teljes nap évente — ad valami kézzelfoghatót, amin elgondolkodhatsz.",
+            "Nem minden része kidobott idő; a közösségi média sokaknál a munka, a tanulás és a kapcsolattartás eszköze is. A hasznos kérdés az, hogy az idő megfelel-e annak, amit eredetileg szerettél volna."
+          ]
+        },
+        {
+          "title": "Tedd konkréttá a következő lépést",
+          "paragraphs": [
+            "Válassz egy appot, ami egy gyors ellenőrzésből hosszabb nézelődést csinál. Jegyezd fel, mikor nyitod meg, és mit csináltál közvetlenül előtte.",
+            "Ha határt szeretnél húzni, tartsd nyitva a hasznos appokat, és csak arra a néhányra koncentrálj, ami visszahúz. iPhone-lehetőségekhez lásd a közösségi média korlátozása iPhone-on és a Képernyőidő vs. appblokkoló oldalt."
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "title": "Nyisd meg a bontást",
+          "copy": "A Képernyőidőben nézd a Közösségi kategóriát vagy egyetlen appot."
+        },
+        {
+          "title": "Add meg a napi átlagot",
+          "copy": "Használj egy appot vagy az összesített értéket."
+        },
+        {
+          "title": "Válassz egy határt",
+          "copy": "Kezdd azzal az appal, ami a legautomatikusabbnak tűnik."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Számolhatok egyetlen appra?",
+          "answer": "Igen. Add meg az Instagram, TikTok, YouTube stb. átlagát, vagy egy összesített értéket."
+        },
+        {
+          "question": "A Klippy gyűjti a közösségi média használatodat?",
+          "answer": "Nem. Semmi nem kerül elküldésre a Klippyhez vagy a fiókjaidhoz."
+        },
+        {
+          "question": "Mi van, ha munkához kell?",
+          "answer": "Tartsd meg a munkához szükséges használatot, és csak az azon kívüli ellenőrzésekre húzz határt."
+        }
+      ]
+    },
+    "how-to-check-screen-time-iphone": {
+      "title": "Képernyőidő ellenőrzése iPhone-on — Napi, heti és apponkénti nézet | Klippy",
+      "description": "Hogyan találd meg a Képernyőidőt iPhone-on: nézd meg a napi átlagot, a heti összesítést és az apponkénti bontást, majd használd a Klippy kalkulátorában.",
+      "eyebrow": "Képernyőidő ellenőrzése iPhone-on",
+      "h1": "Így találod meg a Képernyőidőt az iPhone-odon.",
+      "lead": "Az iPhone-od már követi a napi átlagot, a heti trendet és az apponkénti bontást. Itt találod meg őket, és azt is, melyik számot használd a kalkulátorban.",
+      "answer": "Menj a Beállítások → Képernyőidő → Összes app- és webhelytevékenység megjelenítése menüpontra. Válts a Nap/Hét nézet között, hogy megtaláld a tipikus átlagot. Az apponkénti bontás ugyanazon a képernyőn van.",
+      "sections": [
+        {
+          "title": "Válassz tipikus hetet, ne egyetlen napot",
+          "paragraphs": [
+            "Egyetlen nap félrevezető lehet — egy utazás, egy hosszú hívás vagy egy hétvégi binge torzíthatja. A Heti nézet kisimítja ezeket a kiugrásokat.",
+            "Használd a Heti nézet tetején látható napi átlagot. Ez a leghasznosabb bemenet a kalkulátorhoz és a nap-nézethez."
+          ]
+        },
+        {
+          "title": "Nézd a bontást, ne csak az összesítést",
+          "paragraphs": [
+            "Az összesítés megmondja, mennyit, a bontás megmondja, hol. Hasonlítsd össze a tudatosan használt appokat azokkal, amelyeket tervezés nélkül nyitsz meg.",
+            "Ez a különbség segít egy reális következő lépést választani egy általános „használjam kevesebbet a telefont” cél helyett."
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "title": "Nyisd meg a Beállításokat",
+          "copy": "Koppints a Képernyőidőre a fő Beállítások listában."
+        },
+        {
+          "title": "Nyisd meg az App- és webhelytevékenységet",
+          "copy": "Válaszd az Összes megjelenítése lehetőséget a Napi/Heti és az apponkénti lista megtekintéséhez."
+        },
+        {
+          "title": "Másolj egy tipikus napi számot",
+          "copy": "Használd a kalkulátorban a heti/éves összesítésekhez."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Láthatom egyetlen app idejét?",
+          "answer": "Igen. A tevékenységi lista minden appot és kategóriát mutat; koppints egy appra a napi/heti részletekhez."
+        },
+        {
+          "question": "Miért hiányzik a Képernyőidő?",
+          "answer": "Lehet, hogy ki van kapcsolva. A Képernyőidőben koppints a Bekapcsolás gombra, és válaszd ki az eszközödet."
+        },
+        {
+          "question": "Használhatom a heti összesítést?",
+          "answer": "Igen. Oszd el a heti összesítést 7-tel, hogy megkapd a napi átlagot."
+        }
+      ]
+    },
+    "how-to-reduce-screen-time-iphone": {
+      "title": "Képernyőidő csökkentése iPhone-on (túlzott blokkolás nélkül) | Klippy",
+      "description": "Gyakorlati módok a képernyőidő csökkentésére iPhone-on: találd meg a kiváltó okot, halkítsd az értesítéseket, használd a Fókuszt, vagy vezess be határt egy appnál.",
+      "eyebrow": "Képernyőidő csökkentése iPhone-on",
+      "h1": "Csökkentsd a képernyőidőt úgy, hogy először egy hasznos dolgon változtatsz.",
+      "lead": "A „használjam kevesebbet a telefont” homályos. Egy kisebb változtatás — kevesebb értesítés, Fókusz-ütemezés vagy határ egy appnál — könnyebben betartható és könnyebben mérhető.",
+      "answer": "Kezd a Képernyőidő bontásával, válassz egy ismétlődő kiváltó okot (értesítések, unalom, napszak), és illeszd hozzá az eszközt: halkítsd az értesítéseket, Fókusz, Appkorlátok/Képernyőidő-pihenő, vagy kiválasztott appok blokkolása azokhoz az appokhoz, amelyek automatikusan megnyílnak.",
+      "sections": [
+        {
+          "title": "Válassz viselkedést, ne csak számot",
+          "paragraphs": [
+            "A „ne nyissam meg a TikTokot 22 óra után” világosabb, mint a „használjam 1 órával kevesebbet a telefont”. Az első egy beállításra mutat; a második akaraterőt igényel a pillanatban.",
+            "Ha már konkrét a viselkedés, a hasznos appokat békén hagyhatod, és csak ott alkalmazol szabályt, ahol a probléma jelentkezik."
+          ]
+        },
+        {
+          "title": "Tartsd gyakorlatiasan a beállítást",
+          "paragraphs": [
+            "Ha egy szabály a szükséges appokat is blokkolja, meg fogod kerülni. Koncentrálj arra az 1–2 appra, ami az automatikus ellenőrzést okozza.",
+            "Figyeld meg, mi miatt hagyod abba a beállítást — túl tág, túl könnyű figyelmen kívül hagyni, vagy rossz kiváltó okot céloz. Azt igazítsd, ne a motivációdat. Hasonlítsd össze a Képernyőidő vs. kiválasztott app blokkoló eszközöket, hogy megtaláld a megfelelőt."
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "title": "Találd meg az ismétlődő pillanatot",
+          "copy": "A Képernyőidővel szúrj ki egy szokást (pl. munka, lefekvés, várakozás)."
+        },
+        {
+          "title": "Szüntesd meg a kiváltó okot, ha tudod",
+          "copy": "Próbáld az értesítési beállításokat vagy a Fókuszt az értesítés-vezérelt ellenőrzésekhez."
+        },
+        {
+          "title": "Vezess be határt, ha kell",
+          "copy": "Használd az Appkorlátokat/Képernyőidő-pihenőt vagy blokkolót az automatikus megnyitáshoz."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Használjam az Appkorlátokat?",
+          "answer": "Használd, amikor egy időkeret segít. Ha ugyanaz az app a nap folyamán véletlenszerű időpontokban nyílik meg, egy kiválasztott appokra vonatkozó határ jobban illeszkedhet."
+        },
+        {
+          "question": "Megtarthatom a hívásokat és üzeneteket?",
+          "answer": "Igen. Hagyd a Telefont, az Üzeneteket és az alapvető appokat minden korlátozáson kívül."
+        },
+        {
+          "question": "Mi a legkisebb hasznos változás?",
+          "answer": "Az, amely egy valódi problémát céloz anélkül, hogy a telefonod többi részét kényelmetlenné tenné."
+        }
+      ]
+    },
+    "how-to-limit-social-media-on-iphone": {
+      "title": "Közösségi média korlátozása iPhone-on — Az alapvető appok nyitva tartása mellett | Klippy",
+      "description": "Korlátozd a közösségi médiát iPhone-on anélkül, hogy az egész telefonod blokkolnád: értesítések, Fókusz, Appkorlátok, Pihenőidő és appblokkolók összehasonlítva.",
+      "eyebrow": "Közösségi média korlátozása iPhone-on",
+      "h1": "Korlátozd a közösségi médiát anélkül, hogy az egész telefonod korlátoznád.",
+      "lead": "Nincs szükség mindent vagy semmit szabályra. Döntsd el, kevesebb értesítést, napi keretet, ütemezett szünetet szeretnél, vagy azt, hogy a kiválasztott appok nehezebben nyíljanak meg.",
+      "answer": "Illeszd az eszközt a kiváltó okhoz: értesítések → halkabb értesítések/Fókusz; időkeret → Appkorlátok; kiszámítható időbeosztás → Pihenőidő; ismétlődő automatikus megnyitások → kiválasztott appok blokkolása. A ki nem választott appok maradjanak elérhetők.",
+      "sections": [
+        {
+          "title": "Különböző eszközök, különböző problémák",
+          "paragraphs": [
+            "Az értesítések egy jelzés, az Appkorlátok egy keret, a Pihenőidő egy időbeosztás, a kiválasztott appok blokkolása pedig alapértelmezetten elérhetetlenné teszi az appokat. Nem felcserélhetők.",
+            "Ha ugyanaz az app értesítés vagy időbeosztás nélkül nyílik meg, a blokkoló gyakran közvetlenebb, mint egy meghosszabbítható időzítő. Nézd meg, mikor melyik segít a Képernyőidő vs. appblokkoló oldalon."
+          ]
+        },
+        {
+          "title": "Tartsd meg, amire szükséged van",
+          "paragraphs": [
+            "A Térképek, Üzenetek, hívások, banki és családi appok ritkán részei egy közösségi szabálynak.",
+            "Egy szűk szabály könnyebben betartható, mert a problémás appot változtatja meg anélkül, hogy minden hétköznapi feladatot kényelmetlenné tenne. Ha bizonytalan vagy, először nézd meg, mennyi közösségi időd van valójában."
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "title": "Nevezd meg a problémás appot",
+          "copy": "Találd meg azt, amelyik egy gyors ellenőrzésből hosszú nézelődést csinál."
+        },
+        {
+          "title": "Illeszd hozzá a beállítást",
+          "copy": "Válassz tudatosan értesítések, korlátok, időbeosztás vagy blokkoló közül."
+        },
+        {
+          "title": "Tartsd nyitva az alapvetőeket",
+          "copy": "Hagyd a hasznos appokat a szabályon kívül."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "A Fókusz tud appokat blokkolni?",
+          "answer": "A Fókusz csökkenti az értesítéseket és elrejtheti a főképernyő oldalait, de általában nem akadályozza meg egy app megnyitását."
+        },
+        {
+          "question": "Megtarthatom az Üzeneteket?",
+          "answer": "Igen. Kiválasztott appokra épülő megoldással a ki nem választott appok elérhetők maradnak."
+        },
+        {
+          "question": "Mi van, ha munkához kell?",
+          "answer": "Tartsd meg a munkához szükséges használatot, és csak azokon az időszakokon kívül alkalmazz határt."
+        }
+      ]
+    },
+    "digital-detox-plan": {
+      "title": "Digitális detox terv — Egy kisebb, betartható újrakezdés | Klippy",
+      "description": "Készíts reális digitális detox tervet: válassz egy okot, egy kiváltó okot és egy kis határt, amit egy hétig tesztelsz.",
+      "eyebrow": "Digitális detox terv",
+      "h1": "Digitális detox terv, ami belefér a való életbe.",
+      "lead": "Nem kell mindent törölnöd vagy egy hétre elvonulnod. Válassz egy napszakot, amit szeretnél visszakapni, és egy kiváltó okot, amin változtatsz, majd teszteld.",
+      "answer": "Válassz egy okot (pl. kevesebb megszakítás munka közben, nyugodtabb lefekvés), egy kiváltó okot (egy app, értesítés vagy időszak), és egy határt, amit hét napig be tudsz tartani. Értékeld, majd igazíts.",
+      "sections": [
+        {
+          "title": "Kerüld a mindent vagy semmit csapdát",
+          "paragraphs": [
+            "Az átfogó detoxok határozottnak tűnnek, de gyakran kudarcot vallanak, amikor a telefonodra továbbra is szükséged van munkához, családhoz és utazáshoz.",
+            "Egy szűk teszt jobb adatot ad. Ha a késő esti görgetés a gond, csak azt az időszakot változtasd — ne minden appot egész nap. Nézd meg, hogyan hagyd abba a gyakori ellenőrzést további ötletekért a kiváltó okokról."
+          ]
+        },
+        {
+          "title": "Döntsd el, minek csinálsz helyet",
+          "paragraphs": [
+            "Egy terv jobban kitart egy világos céllal: fókuszáltabb munka, jelenlévő étkezések vagy könnyebb esti lecsendesedés.",
+            "Használd ezt a célt a határ kiválasztásához. Az életet kell támogatnia, amit szeretnél, nem egy újabb szabállyá válnia, amit utálsz."
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "title": "Válassz egy okot",
+          "copy": "Nevezd meg a napod azon részét, amit szeretnél megvédeni."
+        },
+        {
+          "title": "Válassz egy kiváltó okot",
+          "copy": "Válaszd ki azt az appot, értesítést vagy helyet, ami újra és újra közbejön."
+        },
+        {
+          "title": "Tesztelj egy határt",
+          "copy": "Tartsd elég kicsiben ahhoz, hogy egy teljes hétig tudd használni."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Meddig tartson a detox?",
+          "answer": "Egy egyhetes teszt hasznosabb, mint egy átfogó terv, amit nem tudsz betartani. Csak azt hosszabbítsd meg, ami segít."
+        },
+        {
+          "question": "Törölnöm kell a közösségi médiát?",
+          "answer": "Általában nem. Az automatikus pillanatok körüli határ gyakran elég."
+        },
+        {
+          "question": "Mi van, ha a telefonom kell a munkához?",
+          "answer": "Tartsd meg a munkavégzéshez szükséges funkciókat, és csak az azon kívüli zavaró ellenőrzésekre koncentrálj a detox során."
+        }
+      ]
+    },
+    "stop-checking-phone": {
+      "title": "Hogyan hagyd abba a telefonod folytonos ellenőrzését — A jel az ellenőrzés előtt | Klippy",
+      "description": "Hagyd abba a telefonod ellenőrzését a kiváltó ok megváltoztatásával: értesítések, unalom vagy szokáshurkok. Gyakorlati lépések, amelyeket már ma kipróbálhatsz.",
+      "eyebrow": "Ne nézegesd folyton a telefonod",
+      "h1": "Hagyd abba az ellenőrzést az ellenőrzés előtti pillanat megváltoztatásával.",
+      "lead": "A legtöbb ellenőrzés nem tudatos döntés a telefon használatára. Egy automatikus nyúlás egy szünetben, egy értesítésnél vagy unalom pillanatában — és ez a jelzés megváltoztatható.",
+      "answer": "Figyeld meg a jelzést, majd változtass a körülményeken: halkítsd az azt kiváltó értesítéseket, tedd kicsit nehezebbé az app megnyitását, vagy tegyél egy hasznosabb következő lépést ugyanarra a helyre.",
+      "sections": [
+        {
+          "title": "Egy ellenőrzés gyakran hurok, nem döntés",
+          "paragraphs": [
+            "A kéz előbb mozdul, mint hogy eldöntötted volna, mit szeretnél a telefontól. Ezért olyan nehéz az akaraterő a pillanatban.",
+            "Teremts egy kis szünetet a jelzés, a hozzáférés vagy a környezet megváltoztatásával — annyit, hogy tudj választani, ne pedig tökéletes önkontrollra kelljen hagyatkoznod."
+          ]
+        },
+        {
+          "title": "Tedd könnyebbé a jobb cselekvést",
+          "paragraphs": [
+            "Ha várakozás közben nézegeted, tegyél oda egy könyvet vagy jegyzetfüzetet. Ha ágyban nézegeted, töltsd a telefont a szobán kívül. Tedd az alternatívát olyan könnyűvé, mint a régi szokás volt.",
+            "Ha egy app a szokásos célpont, egy kiválasztott appokra vonatkozó határ kevésbé kényelmessé teheti az automatikus megnyitást, miközben minden más nyitva marad. Hasonlítsd össze az eszközöket a Képernyőidő vs. appblokkoló oldalon."
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "title": "Figyeld meg a jelzést",
+          "copy": "Milyen időpont, érzés vagy értesítés jön közvetlenül a nyúlás előtt?"
+        },
+        {
+          "title": "Változtass a hurok egy részén",
+          "copy": "Némítsd az értesítést, helyezd át az appot, vagy növeld a távolságot."
+        },
+        {
+          "title": "Értékeld a valódi eredményt",
+          "copy": "Tartsd meg, ami segít, igazíts azon, ami megnehezíti az életet."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Miért nézem meg értesítés nélkül is?",
+          "answer": "Az ellenőrzés tanult reakcióvá válhat szünetekre, stresszre vagy unalomra — nem csak értesítésekre."
+        },
+        {
+          "question": "Kapcsoljam ki az összes értesítést?",
+          "answer": "Kezdd azzal a néhányal, ami nem kívánt ellenőrzésekbe húz; tartsd meg a hasznosakat."
+        },
+        {
+          "question": "Segíthet egy blokkoló?",
+          "answer": "Igen, amikor ugyanaz az 1–2 app az ismétlődő célpont."
+        }
+      ]
+    },
+    "screen-time-vs-app-blocker": {
+      "title": "Képernyőidő vs. appblokkoló — Melyik iPhone-eszköz illik a szokásodhoz? | Klippy",
+      "description": "Képernyőidő Appkorlátok és Pihenőidő vs. Fókusz vs. kiválasztott appok blokkolója. Tudj meg, melyik iPhone-eszköz illik a jelzésedhez.",
+      "eyebrow": "Képernyőidő vs. appblokkoló",
+      "h1": "A Képernyőidő és az appblokkolók különböző problémákat oldanak meg.",
+      "lead": "Az Appkorlátok, a Pihenőidő, a Fókusz és a kiválasztott appok blokkolója gyakran összekeveredik. A helyes választás attól függ, keretre, időbeosztásra, kevesebb értesítésre van-e szükséged, vagy arra, hogy a kiválasztott appok alapértelmezetten ne legyenek elérhetők.",
+      "answer": "Használd a Képernyőidőt jelentésekhez, Appkorlátokhoz és Pihenőidőhöz; a Fókuszt értesítésekhez és a főképernyőhöz; a kiválasztott appok blokkolóját, amikor néhány appot alapértelmezetten blokkolva kell tartani, miközben a telefonod többi része hasznos marad.",
+      "sections": [
+        {
+          "title": "Amikor a Képernyőidő jól illeszkedik",
+          "paragraphs": [
+            "Az Appkorlátok napi keretet adnak, a Pihenőidő időbeosztást, a Képernyőidő pedig megmutatja, hova megy az idő. Kiváló tudatosításra, keretekre és kiszámítható időszakokra.",
+            "Ugyanazon 1–2 app véletlenszerű, automatikus megnyitásainál egy időkeret könnyen meghosszabbítható — egy alapértelmezett blokkolás közvetlenebb."
+          ]
+        },
+        {
+          "title": "Amikor a kiválasztott appokra vonatkozó határ jól illeszkedik",
+          "paragraphs": [
+            "Egy blokkoló azt kérdezi: mely telepített appok okozzák a problémát, és a többi maradhat-e hasznos? A Fella a kiválasztott appokat alapértelmezetten blokkolva tartja; a ki nem választott appok elérhetők maradnak.",
+            "Ez nem webhelyblokkoló vagy MDM-rendszer. Egy szűk határ a szokáshoz, amelyet a csökkentésről szóló oldalon vagy a detox tervedben neveztél meg."
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "title": "Nevezd meg a problémát",
+          "copy": "Értesítések, napi összesítés, időbeosztás vagy ismétlődő automatikus megnyitások?"
+        },
+        {
+          "title": "Válaszd a hozzá illő eszközt",
+          "copy": "Fókusz, Appkorlátok/Pihenőidő vagy blokkoló."
+        },
+        {
+          "title": "Tartsd szűken",
+          "copy": "Hagyd a hasznos appokat elérhetően."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Tud a Képernyőidő appokat blokkolni?",
+          "answer": "Van Appkorlát és Pihenőidő funkciója. Használd őket keretekhez/időbeosztáshoz; a blokkoló az alapértelmezetten nem elérhető kiválasztott appokhoz való."
+        },
+        {
+          "question": "A Fókusz blokkolja az appokat?",
+          "answer": "A Fókusz halkítja az értesítéseket és elrejthet oldalakat, de általában nem akadályozza meg egy app megnyitását."
+        },
+        {
+          "question": "Megtarthatom a hívásokat és üzeneteket?",
+          "answer": "Igen. Kiválasztott appokra épülő megoldással csak a kiválasztott appok lesznek blokkolva."
+        }
+      ]
+    }
+  },
+  "guidePage": {
+    "shortAnswer": "Röviden",
+    "nextStepEyebrow": "Gyakorlati következő lépés",
+    "useCalculatorCta": "Képernyőidő-kalkulátor használata",
+    "faqTitle": "Gyakori kérdések"
+  },
+  "notFound": {
+    "title": "Az oldal nem található",
+    "description": "A keresett oldal nem létezik."
+  }
+}

@@ -1,0 +1,778 @@
+{
+  "site": {
+    "name": "Klippy",
+    "title": "Klippy | Công cụ miễn phí cho chiếc điện thoại nhẹ nhàng hơn",
+    "description": "Những công cụ đơn giản, miễn phí giúp bạn thay đổi thói quen dùng điện thoại cứ kéo bạn quay lại."
+  },
+  "header": {
+    "howItWorks": "Cách hoạt động",
+    "guides": "Hướng dẫn",
+    "about": "Giới thiệu",
+    "calculator": "Máy tính",
+    "tryFella": "Dùng thử Fella",
+    "homeAria": "Trang chủ Klippy"
+  },
+  "footer": {
+    "privacy": "Bảo mật",
+    "terms": "Điều khoản",
+    "support": "Hỗ trợ",
+    "builtByFella": "Được xây dựng bởi Fella",
+    "guidesLabel": "Hướng dẫn",
+    "guidesAria": "Hướng dẫn về thời gian dùng màn hình"
+  },
+  "guides": [
+    {
+      "label": "Thời gian dùng màn hình theo tuổi",
+      "slug": "screen-time-by-age-calculator"
+    },
+    {
+      "label": "Thời gian dùng màn hình tính theo ngày",
+      "slug": "screen-time-in-days"
+    },
+    {
+      "label": "Máy tính thời gian dùng điện thoại",
+      "slug": "phone-use-calculator"
+    },
+    {
+      "label": "Thời gian dùng mạng xã hội",
+      "slug": "social-media-time-calculator"
+    },
+    {
+      "label": "Cách xem Thời gian sử dụng trên iPhone",
+      "slug": "how-to-check-screen-time-iphone"
+    },
+    {
+      "label": "Cách giảm Thời gian sử dụng trên iPhone",
+      "slug": "how-to-reduce-screen-time-iphone"
+    },
+    {
+      "label": "Cách hạn chế mạng xã hội trên iPhone",
+      "slug": "how-to-limit-social-media-on-iphone"
+    },
+    {
+      "label": "Kế hoạch cai nghiện số",
+      "slug": "digital-detox-plan"
+    },
+    {
+      "label": "Ngừng kiểm tra điện thoại liên tục",
+      "slug": "stop-checking-phone"
+    },
+    {
+      "label": "Thời gian sử dụng so với trình chặn ứng dụng",
+      "slug": "screen-time-vs-app-blocker"
+    }
+  ],
+  "home": {
+    "title": "Để chiếc điện thoại\ndễ đặt xuống hơn.",
+    "lead": "Một công cụ miễn phí giúp bạn tìm ra thói quen dùng điện thoại cứ kéo bạn quay lại. Rồi chọn một giới hạn nhỏ hơn thực sự vừa với ngày của bạn.",
+    "cta": "Dùng thử công cụ miễn phí",
+    "sub": "Không cần đăng nhập. Không cần tải về. Chỉ là một nơi hữu ích để bắt đầu.",
+    "howItWorksAria": "Cách hoạt động",
+    "steps": [
+      {
+        "number": "01",
+        "title": "Gọi tên khoảnh khắc",
+        "description": "Một thói quen cụ thể sẽ dễ thay đổi hơn một mục tiêu mơ hồ là dùng điện thoại ít đi."
+      },
+      {
+        "number": "02",
+        "title": "Chọn một giới hạn nhỏ hơn",
+        "description": "Giữ lại những ứng dụng bạn cần. Chỉ thêm chút cản trở ở nơi thói quen kiểm tra tự động bắt đầu."
+      },
+      {
+        "number": "03",
+        "title": "Thử trong đời thực",
+        "description": "Hãy dùng kết quả như một điểm khởi đầu thực tế, rồi điều chỉnh cho vừa với nhịp sống hằng ngày của bạn."
+      }
+    ],
+    "aboutEyebrow": "Một chiếc điện thoại nhẹ nhàng hơn bắt đầu từ điều nhỏ.",
+    "aboutTitle": "Bạn không cần xóa bỏ cả cuộc sống số của mình.",
+    "aboutCopy": "Klippy đang khám phá những công cụ miễn phí đơn giản giúp bạn nhận ra vài ứng dụng và khoảnh khắc đáng thay đổi trước tiên.",
+    "aboutCta": "Khám phá Fella"
+  },
+  "about": {
+    "metaTitle": "Giới thiệu về Klippy — Công cụ nhỏ cho chiếc điện thoại nhẹ nhàng hơn",
+    "metaDescription": "Klippy tạo ra những công cụ miễn phí, riêng tư giúp bạn nhìn rõ thói quen dùng điện thoại và chọn bước tiếp theo nhỏ hơn, thực tế hơn.",
+    "eyebrow": "Về Klippy",
+    "h1": "Những công cụ nhỏ cho chiếc điện thoại hữu ích hơn.",
+    "lead": "Klippy dành cho những ai muốn thay đổi thói quen dùng điện thoại mà không biến nó thành một dự án toàn thời gian. Các công cụ bắt đầu bằng một câu hỏi đơn giản và hướng tới một câu trả lời hữu ích.",
+    "whyEyebrow": "Vì sao Klippy ra đời",
+    "whyTitle": "Hầu hết lời khuyên về điện thoại đều đòi hỏi quá nhiều, quá sớm.",
+    "whyParagraphs": [
+      "Nói rằng bạn nên dùng điện thoại ít đi thì rất dễ. Nhưng quyết định điều đó có nghĩa là gì trong một ngày bình thường — khi điện thoại cũng là cách bạn trò chuyện, tìm đường, thanh toán, làm việc, học tập và thư giãn — lại khó hơn nhiều.",
+      "Klippy bắt đầu từ góc nhìn hẹp hơn. Một số phần của điện thoại rất hữu ích. Một số ứng dụng hay khoảnh khắc có thể đang kéo bạn vào thói quen mà bạn không hề chọn. Đó là những vấn đề khác nhau, và chúng xứng đáng có những câu trả lời khác nhau.",
+      "Mục tiêu không phải là khiến công nghệ trở thành một lỗi lầm về đạo đức. Mục tiêu là làm cho sự đánh đổi trở nên rõ ràng hơn để bạn có thể quyết định điều gì đáng thay đổi."
+    ],
+    "values": [
+      {
+        "title": "Miễn phí là trên hết",
+        "copy": "Kết quả không nên nằm sau một biểu mẫu đăng ký. Các công cụ của Klippy được thiết kế để hoạt động mà không cần tài khoản, thanh toán hay cài đặt ứng dụng."
+      },
+      {
+        "title": "Riêng tư theo mặc định",
+        "copy": "Máy tính thời gian dùng màn hình chạy với những con số bạn nhập ngay trong trình duyệt. Nó không kết nối với iPhone của bạn và không cần dữ liệu hoạt động riêng tư."
+      },
+      {
+        "title": "Hữu ích mà không cần chào mời gắt gao",
+        "copy": "Một công cụ phải tự đứng vững được. Nếu sau đó có sản phẩm khác thực sự hữu ích, bước tiếp theo đó phải rõ ràng và hoàn toàn tùy chọn."
+      }
+    ],
+    "nextEyebrow": "Điều tiếp theo",
+    "nextTitle": "Bắt đầu với bức tranh trung thực về thói quen.",
+    "nextParagraphs": [
+      "Công cụ đầu tiên của Klippy là máy tính thời gian dùng màn hình. Nó biến con số trung bình mỗi ngày thành tổng thời gian bạn có thể thấy theo tuần, theo năm và trong thời gian dài hơn. Nó không thể cho bạn biết những giờ nào đáng giữ lại. Nó có thể cho bạn một điểm khởi đầu rõ ràng hơn để tự mình quyết định điều đó.",
+      "Những công cụ tương lai sẽ theo cùng nguyên tắc. Chúng phải đủ đơn giản để dùng trong một phút và đủ cụ thể để giúp bạn đưa ra một lựa chọn thực tế. Không có điểm số chung chung. Không hứa hẹn rằng một cài đặt sẽ giải quyết mọi thứ."
+    ],
+    "nextCta": "Dùng máy tính thời gian dùng màn hình",
+    "fellaEyebrow": "Được xây dựng cùng Fella",
+    "fellaTitle": "Khi câu trả lời là một giới hạn mạnh hơn quanh vài ứng dụng, Fella sẵn sàng cho bước tiếp theo đó.",
+    "fellaCopy": "Fella là ứng dụng chặn ứng dụng trên iPhone cho những ứng dụng gây xao nhãng mà bạn chọn. Những ứng dụng bạn không chọn vẫn có thể sử dụng bình thường, vì vậy phần hữu ích của điện thoại không nằm trong giới hạn trừ khi bạn muốn.",
+    "fellaCta": "Khám phá Fella"
+  },
+  "howItWorks": {
+    "metaTitle": "Klippy hoạt động như thế nào — Bắt đầu từ thói quen, không phải thiết lập lại toàn bộ",
+    "metaDescription": "Cách Klippy hoạt động: những công cụ miễn phí, riêng tư ngay trên trình duyệt biến con số điện thoại hằng ngày thành bước tiếp theo hữu ích — không cần tài khoản, không theo dõi.",
+    "eyebrow": "Cách hoạt động",
+    "h1": "Bắt đầu từ thói quen, không phải một cuộc thiết lập lại khổng lồ.",
+    "lead": "Klippy tạo ra những công cụ miễn phí đơn giản để bạn nhìn thói quen dùng điện thoại một cách thực tế hơn. Mục đích không phải là khiến mọi phút trên màn hình đều có cảm giác tệ. Mà là nhận ra những khoảnh khắc xảy ra gần như vô thức và quyết định liệu chúng còn phù hợp với bạn hay không.",
+    "ideaEyebrow": "Ý tưởng cơ bản",
+    "ideaTitle": "Một câu trả lời hữu ích phải rõ ràng trước khi đòi hỏi bất cứ điều gì từ bạn.",
+    "ideaCopy": "Đó là lý do các công cụ của Klippy chạy ngay trong trình duyệt của bạn. Không cần tạo tài khoản, không có màn hình thanh toán để xem kết quả, và không kết nối với dữ liệu điện thoại riêng tư. Bạn nhập một lượng thông tin nhỏ và nhận được một cách cụ thể để suy ngẫm về nó.",
+    "steps": [
+      {
+        "number": "01",
+        "title": "Nhìn vào một khoảnh khắc",
+        "copy": "Bắt đầu với một ứng dụng cụ thể, một thời điểm trong ngày hoặc một tình huống. Việc kiểm tra bảng tin trên giường sẽ dễ hiểu hơn một kế hoạch chung chung là dùng điện thoại ít đi."
+      },
+      {
+        "number": "02",
+        "title": "Biến con số thành hữu ích",
+        "copy": "Máy tính thời gian dùng màn hình biến con số trung bình mỗi ngày thành tổng theo tuần, theo năm và dài hạn hơn. Phép tính rất đơn giản. Việc thấy nó ở một nơi có thể khiến sự đánh đổi dễ nhận ra hơn."
+      },
+      {
+        "number": "03",
+        "title": "Chọn bước tiếp theo nhỏ nhất",
+        "copy": "Bạn có thể giữ nguyên mọi thứ. Bạn có thể di chuyển một ứng dụng, tắt một tín hiệu gợi ý, hoặc làm cho một thứ gây xao nhãng khó mở hơn một chút. Thay đổi hữu ích là thay đổi vừa với ngày thực tế của bạn."
+      }
+    ],
+    "calcEyebrow": "Máy tính làm gì",
+    "calcTitle": "Nó giúp một con số quen thuộc trở nên dễ hình dung hơn.",
+    "calcParagraphs": [
+      "Nhập số giờ trung bình dùng màn hình mỗi ngày. Klippy sẽ tính tổng tương ứng theo tuần, theo tháng và theo năm, rồi ước tính con số đó sẽ trông như thế nào từ tuổi hiện tại của bạn đến năm 75 tuổi.",
+      "Máy tính không biết bạn dùng ứng dụng nào, bạn làm công việc gì, hay thời gian trên điện thoại là thú vị, cần thiết hay gây xao nhãng. Nó coi mọi giờ như nhau. Đó là chủ ý. Đây là một công cụ nâng cao nhận thức đơn giản, không phải điểm số hay chẩn đoán.",
+      "Nếu kết quả có vẻ cao, câu hỏi tiếp theo không nhất thiết là làm sao để loại bỏ toàn bộ thời gian đó. Câu hỏi hay hơn là phần nào trong đó mang tính tự động, không có kế hoạch, hoặc khó dừng lại một khi đã bắt đầu."
+    ],
+    "calcCta": "Dùng máy tính thời gian dùng màn hình",
+    "faqEyebrow": "Những câu hỏi thường gặp",
+    "faqTitle": "Một giới hạn nhỏ hơn vẫn có thể tạo ra khác biệt.",
+    "faqs": [
+      {
+        "question": "Tôi có cần tạo tài khoản không?",
+        "answer": "Không. Các công cụ của Klippy được thiết kế để hoạt động ngay lập tức trong trình duyệt. Máy tính không yêu cầu đăng ký hay thanh toán."
+      },
+      {
+        "question": "Klippy có đọc hoạt động trên điện thoại của tôi không?",
+        "answer": "Không. Nó chỉ sử dụng con số bạn nhập vào máy tính. Nó không kết nối với iPhone của bạn hay thu thập bảng phân tích chi tiết theo ứng dụng."
+      },
+      {
+        "question": "Tôi nên làm gì sau khi thấy kết quả?",
+        "answer": "Hãy tìm một mô hình rõ ràng. Đó có thể là một ứng dụng bạn kiểm tra trong lúc làm việc, một bảng tin bạn mở trên giường, hay một thói quen bắt đầu mỗi khi bạn đang chờ đợi điều gì đó."
+      },
+      {
+        "question": "Nếu tôi vẫn cần dùng điện thoại cho hầu hết mọi việc thì sao?",
+        "answer": "Điều đó là bình thường. Một giới hạn hữu ích không cần khiến toàn bộ điện thoại của bạn không thể dùng được. Hãy bắt đầu với vài ứng dụng hoặc khoảnh khắc gây ra vấn đề."
+      }
+    ],
+    "fellaEyebrow": "Khi vài ứng dụng là vấn đề",
+    "fellaTitle": "Fella giữ các ứng dụng iPhone gây xao nhãng mà bạn đã chọn ở trạng thái bị chặn theo mặc định trong khi những ứng dụng bạn không chọn vẫn có thể sử dụng bình thường.",
+    "fellaCopy": "Đây là một bước khác so với việc tính toán thời gian dùng màn hình của bạn. Nó có thể hữu ích khi bạn đã xác định được những ứng dụng mình muốn bớt tự động hơn.",
+    "fellaCta": "Khám phá Fella"
+  },
+  "calculator": {
+    "metaTitle": "Máy tính Thời gian sử dụng — Xem thời gian dùng điện thoại theo tuần, năm và đến 75 tuổi",
+    "metaDescription": "Máy tính thời gian dùng màn hình miễn phí: nhập số giờ mỗi ngày và tuổi để xem tổng theo tuần, năm và cả đời. Riêng tư, không cần đăng nhập, chạy ngay trong trình duyệt.",
+    "eyebrow": "Máy tính thời gian dùng màn hình miễn phí",
+    "h1": "Xem thời gian dùng điện thoại của bạn cộng dồn như thế nào.",
+    "lead": "Nhập thời gian dùng màn hình trung bình mỗi ngày. Có ngay cái nhìn đơn giản về số giờ, số ngày và số năm mà nó có thể cộng dồn — rồi chọn một thay đổi nhỏ để thử.",
+    "inputLabel": "Thời gian dùng màn hình trung bình mỗi ngày",
+    "reduceAria": "Giảm thời gian dùng màn hình",
+    "increaseAria": "Tăng thời gian dùng màn hình",
+    "help": "Kiểm tra Cài đặt → Thời gian sử dụng trên iPhone nếu bạn không chắc nên nhập gì. Hãy dùng con số của một ngày điển hình, không phải ngày tốt nhất hay tệ nhất.",
+    "ageLabel": "Tuổi của bạn",
+    "ageHelp": "Chỉ dùng để ước tính thời gian dùng màn hình từ bây giờ đến 75 tuổi. Không có gì được lưu lại.",
+    "calcCta": "Tính thời gian của tôi",
+    "results": {
+      "everyWeek": "Mỗi tuần",
+      "everyMonth": "Mỗi tháng",
+      "everyYear": "Mỗi năm",
+      "fullDays": "Số ngày trọn vẹn mỗi năm"
+    },
+    "atThisRate": "Với tốc độ này",
+    "atThisRateValue": "Khoảng {years} năm thời gian dùng màn hình từ bây giờ đến 75 tuổi.",
+    "atThisRateCopy": "Ước tính này tính mọi giờ như nhau. Đây là công cụ nâng cao nhận thức mang tính tham khảo, không phải lời phán xét về cách bạn dùng điện thoại.",
+    "wakingLabel": "Tỷ lệ trong 16 giờ thức mỗi ngày",
+    "smallReductionTitle": "Giảm một chút cũng cộng dồn đáng kể",
+    "smallReductionCopy": "Giảm một giờ mỗi ngày sẽ tiết kiệm khoảng {days} ngày trọn vẹn mỗi năm.",
+    "smallReductionDesc": "Bạn không cần loại bỏ mọi màn hình. Hãy bắt đầu với một ứng dụng hoặc khoảnh khắc biến thành phiên dùng không có kế hoạch.",
+    "fellaTitle": "Nếu vài ứng dụng là vấn đề",
+    "fellaCopyTitle": "Fella có thể chặn những ứng dụng đã chọn cứ kéo bạn quay lại.",
+    "fellaCopy": "Những ứng dụng bạn không chọn vẫn có thể sử dụng bình thường, vì vậy chiếc điện thoại hữu ích của bạn vẫn hữu ích.",
+    "fellaCta": "Xem Fella trên App Store",
+    "faqTitle": "Câu hỏi thường gặp về máy tính thời gian dùng màn hình",
+    "axisLabels": {
+      "zero": "0h",
+      "middle": "8h",
+      "max": "16h"
+    },
+    "faqs": [
+      {
+        "question": "Ước tính được tính như thế nào?",
+        "answer": "Chúng tôi nhân số trung bình mỗi ngày của bạn với 7, 30,44 và 365 cho tuần/tháng/năm, và với số năm từ tuổi hiện tại đến 75 cho góc nhìn cả đời. Chia số giờ mỗi năm cho 24 để ra số ngày trọn vẹn."
+      },
+      {
+        "question": "Công cụ này có theo dõi iPhone của tôi không?",
+        "answer": "Không. Phép tính diễn ra trong trình duyệt của bạn bằng con số bạn nhập. Không có gì được kết nối với điện thoại hay được Klippy lưu lại."
+      },
+      {
+        "question": "Tôi tìm thời gian dùng màn hình iPhone ở đâu?",
+        "answer": "Mở Cài đặt → Thời gian sử dụng → Xem Tất cả Hoạt động Ứng dụng & Trang web. Chuyển đổi giữa Ngày và Tuần để tìm mức trung bình hằng ngày điển hình."
+      },
+      {
+        "question": "Tôi nên làm gì với kết quả?",
+        "answer": "Hãy tìm khoảng thời gian ít chủ ý nhất — một bảng tin bạn mở khi chờ đợi, một trò chơi dùng để né việc, hay một lần lướt đêm kéo dài — và thử một giới hạn nhỏ ở đó."
+      }
+    ]
+  },
+  "seoPages": {
+    "screen-time-by-age-calculator": {
+      "title": "Máy tính Thời gian sử dụng theo tuổi — Cộng dồn bao nhiêu từ bây giờ đến 75 tuổi? | Klippy",
+      "description": "Xem thời gian dùng màn hình hằng ngày của bạn cộng dồn từ tuổi hiện tại đến 75 tuổi như thế nào. Nhập số giờ mỗi ngày và tuổi để có ước tính riêng tư, tức thì.",
+      "eyebrow": "Máy tính thời gian sử dụng theo tuổi",
+      "h1": "Xem thời gian dùng màn hình của bạn cộng dồn từ bây giờ đến 75 tuổi.",
+      "lead": "Mức trung bình hằng ngày trông sẽ khác khi đặt cạnh những năm tháng phía trước. Nhập tuổi và thời gian dùng màn hình hằng ngày để có ước tính đơn giản, riêng tư — rồi chọn một thói quen để thử thay đổi.",
+      "answer": "Klippy nhân mức trung bình hằng ngày của bạn với số năm từ tuổi hiện tại đến 75 tuổi. Nó tính mọi giờ như nhau, vì vậy hãy coi đây là điểm khởi đầu để nâng cao nhận thức, không phải điểm số.",
+      "sections": [
+        {
+          "title": "Vì sao góc nhìn theo tuổi lại hữu ích",
+          "paragraphs": [
+            "Cùng một thói quen hằng ngày sẽ có nhiều thời gian hơn để lặp lại khi bạn còn trẻ. Việc thấy tổng đến năm 75 tuổi khiến một thói quen trừu tượng trở nên cụ thể mà không cần phải gây hoang mang.",
+            "Khi đã thấy tổng đó, bạn có thể đặt một câu hỏi hẹp hơn: có một ứng dụng, một thời điểm trong ngày hay một tín hiệu nào tạo ra phần lớn thời gian tự động không? Một giới hạn nhỏ ở đó sẽ dễ duy trì hơn một giới hạn chung chung."
+          ]
+        },
+        {
+          "title": "Để nó hữu ích, không phải để phán xét",
+          "paragraphs": [
+            "Máy tính không biết những giờ nào là cho công việc, gia đình, học tập hay thư giãn. Hãy dùng con số để phân biệt việc dùng điện thoại mà bạn trân trọng với những lần kiểm tra xảy ra không rõ lý do.",
+            "Nếu kết quả khiến bạn bất ngờ, hãy bắt đầu với khoảng thời gian ít chủ ý nhất. Giữ lại những phần hữu ích của điện thoại và chỉ thêm chút cản trở nơi thói quen kiểm tra tự động bắt đầu. Xem thêm: thời gian dùng màn hình tính theo ngày trọn vẹn và cách tìm mức trung bình trên iPhone."
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "title": "Kiểm tra mức trung bình hằng ngày",
+          "copy": "Mở Cài đặt → Thời gian sử dụng → Xem Tất cả Hoạt động và dùng con số điển hình hằng ngày."
+        },
+        {
+          "title": "Nhập tuổi của bạn",
+          "copy": "Chỉ dùng để ước tính đến 75 tuổi. Không có gì được lưu lại."
+        },
+        {
+          "title": "Chọn một thay đổi nhỏ",
+          "copy": "Chọn một ứng dụng hoặc khoảnh khắc mang tính tự động, đừng ôm đồm mọi thứ cùng lúc."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Ước tính có chính xác không?",
+          "answer": "Không. Đó là phép tính đơn giản từ con số hằng ngày bạn nhập, nhân với số năm đến 75 tuổi. Hãy dùng nó để nâng cao nhận thức, không phải như một dự báo chính xác."
+        },
+        {
+          "question": "Klippy có thấy dữ liệu điện thoại của tôi không?",
+          "answer": "Không. Công cụ chạy trong trình duyệt của bạn và không bao giờ kết nối với iPhone."
+        },
+        {
+          "question": "Tôi nên thử gì sau đó?",
+          "answer": "Hãy thử một giới hạn trong một tuần — ví dụ, không lướt bảng tin mạng xã hội trên giường, hoặc tắt thông báo ồn ào trong giờ làm việc — và giữ lại điều gì thực sự giúp ích."
+        }
+      ]
+    },
+    "screen-time-in-days": {
+      "title": "Thời gian sử dụng tính theo ngày — Đổi giờ thành ngày trọn vẹn 24 giờ | Klippy",
+      "description": "Đổi thời gian dùng màn hình hằng ngày thành số ngày trọn vẹn theo tuần, tháng và năm. Xem số giờ mỗi năm dưới dạng ngày 24 giờ — miễn phí và riêng tư.",
+      "eyebrow": "Thời gian sử dụng tính theo ngày",
+      "h1": "Đổi thời gian dùng màn hình của bạn thành số ngày trọn vẹn.",
+      "lead": "Số giờ rải rác trong ngày có thể trông rất bình thường. Klippy đổi mức trung bình hằng ngày của bạn thành số ngày trọn vẹn 24 giờ mỗi năm để sự đánh đổi dễ hình dung hơn.",
+      "answer": "Chúng tôi nhân số giờ mỗi ngày của bạn với 365 để ra số giờ mỗi năm, rồi chia cho 24. Đó là số ngày trọn vẹn tương đương. Phép tính diễn ra tức thì trong trình duyệt của bạn.",
+      "sections": [
+        {
+          "title": "Vì sao số ngày trọn vẹn lại dễ hình dung hơn",
+          "paragraphs": [
+            "Bốn giờ mỗi ngày nghe có vẻ nhỏ cho đến khi bạn thấy nó tương đương hơn 60 ngày trọn vẹn mỗi năm. Góc nhìn theo ngày giúp bạn nhìn lại cùng một khoảng thời gian mà không gán cho nó là lãng phí.",
+            "Những ngày đó bao gồm công việc, bản đồ, tin nhắn, học tập và nghỉ ngơi. Mục đích không phải là dán nhãn mọi thời gian trên màn hình là xấu, mà là thấy được tổng thể để bạn có thể chọn một phần để thay đổi. Hãy thử góc nhìn theo tuổi nếu bạn muốn bức tranh dài hạn hơn."
+          ]
+        },
+        {
+          "title": "Nếu con số khiến bạn bất ngờ",
+          "paragraphs": [
+            "Hãy bắt đầu với khoảng thời gian ít chủ ý nhất: một bảng tin mở ra khi đang chờ, một trò chơi dùng để né việc, hay một lần lướt đêm kéo dài.",
+            "Hãy thử giới hạn nhỏ nhất vừa với ngày của bạn. Giữ các ứng dụng thiết yếu luôn sẵn sàng và chỉ thay đổi khoảnh khắc gây nhiều cản trở nhất. Những cách thực tế để giảm thời gian trên iPhone có thể hữu ích."
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "title": "Tìm mức trung bình của bạn",
+          "copy": "Dùng mức trung bình hằng ngày trong Thời gian sử dụng trên iPhone (xem Ngày/Tuần)."
+        },
+        {
+          "title": "Xem tổng mỗi năm",
+          "copy": "Máy tính hiển thị số giờ và số ngày 24 giờ tương đương."
+        },
+        {
+          "title": "Chọn một thử nghiệm",
+          "copy": "Giảm một lần kiểm tra tự động thay vì đuổi theo một con số hoàn hảo."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Số ngày trọn vẹn được tính như thế nào?",
+          "answer": "Số giờ mỗi năm ÷ 24. Ví dụ, 4 giờ/ngày × 365 = 1.460 giờ/năm ÷ 24 ≈ 60,8 ngày trọn vẹn."
+        },
+        {
+          "question": "Điều này có nghĩa thời gian dùng màn hình là lãng phí sao?",
+          "answer": "Không. Góc nhìn theo ngày là một cách diễn đạt trung tính. Công việc, gia đình và nghỉ ngơi đều có thể diễn ra trên màn hình."
+        },
+        {
+          "question": "Tôi có thể tính cho một ứng dụng không?",
+          "answer": "Có. Hãy nhập mức trung bình hằng ngày cho một ứng dụng hoặc danh mục duy nhất từ bảng phân tích của Thời gian sử dụng."
+        }
+      ]
+    },
+    "phone-use-calculator": {
+      "title": "Máy tính Thời gian dùng điện thoại — Từ hằng ngày đến hằng năm | Klippy",
+      "description": "Xem thời gian dùng điện thoại hằng ngày của bạn cộng dồn theo tuần, tháng và năm như thế nào. Một con số, tổng tức thì — không cần đăng nhập.",
+      "eyebrow": "Máy tính thời gian dùng điện thoại",
+      "h1": "Một máy tính đơn giản cho thời gian dùng điện thoại của bạn.",
+      "lead": "Nhập một mức trung bình hằng ngày và xem nó dưới dạng tổng theo tuần, theo tháng và theo năm. Dùng nó để phát hiện phần nào trong việc dùng điện thoại mà bạn thực sự muốn thay đổi.",
+      "answer": "Klippy đổi số giờ dùng điện thoại hằng ngày của bạn thành tổng theo tuần (×7), theo tháng (×30,44) và theo năm (×365). Không cần tài khoản, không theo dõi — chỉ là phép tính trong trình duyệt.",
+      "sections": [
+        {
+          "title": "Điện thoại của bạn không chỉ là một thứ",
+          "paragraphs": [
+            "Nó là bản đồ, máy ảnh, ứng dụng nhắn tin, ví tiền và nơi để thư giãn. Một tổng duy nhất không thể quyết định những cách dùng nào quan trọng với bạn.",
+            "Hãy dùng tổng đó để tự hỏi liệu thời gian bạn muốn giữ lại có đang bị lấn át bởi những lần kiểm tra diễn ra một cách tự động hay không. Sự phân biệt đó hữu ích hơn một điểm số thời gian dùng màn hình duy nhất."
+          ]
+        },
+        {
+          "title": "Tìm mô hình trước khi đặt quy tắc",
+          "paragraphs": [
+            "Hãy chú ý tín hiệu trước khi ứng dụng mở ra: sự buồn chán, một thông báo, khoảng nghỉ giữa các việc, hay một phần việc khó.",
+            "Một quy tắc khớp với tín hiệu sẽ hiệu quả hơn — tắt bớt thông báo, màn hình chính khác đi, hay một giới hạn quanh một ứng dụng. Nếu bạn muốn hạn chế riêng mạng xã hội, hãy xem thời gian dùng mạng xã hội và cách hạn chế nó trên iPhone."
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "title": "Nhập thời gian dùng điện thoại hằng ngày",
+          "copy": "Dùng một ngày điển hình, không phải ngày tốt nhất hay tệ nhất."
+        },
+        {
+          "title": "Đọc các tổng",
+          "copy": "Kiểm tra theo tuần và theo năm để thấy thói quen ở quy mô lớn."
+        },
+        {
+          "title": "Tìm phần cần thay đổi",
+          "copy": "Tách việc dùng hữu ích khỏi những lần kiểm tra bạn không hề lên kế hoạch."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Có miễn phí không?",
+          "answer": "Có. Nó chạy trong trình duyệt của bạn mà không cần tài khoản hay thanh toán."
+        },
+        {
+          "question": "Tôi tìm mức trung bình hằng ngày ở đâu?",
+          "answer": "Cài đặt → Thời gian sử dụng → Xem Tất cả Hoạt động Ứng dụng & Trang web. Dùng chế độ xem Ngày hoặc Tuần."
+        },
+        {
+          "question": "Nó có thể thấy ứng dụng của tôi không?",
+          "answer": "Không. Bạn tự nhập con số; Klippy không bao giờ kết nối với điện thoại của bạn."
+        }
+      ]
+    },
+    "social-media-time-calculator": {
+      "title": "Máy tính Thời gian dùng mạng xã hội — Tổng theo tuần, tháng & năm | Klippy",
+      "description": "Tính thời gian dùng mạng xã hội theo tuần, tháng và năm. Nhập mức trung bình hằng ngày cho một ứng dụng hoặc tất cả mạng xã hội — riêng tư và tức thì.",
+      "eyebrow": "Máy tính thời gian dùng mạng xã hội",
+      "h1": "Xem thời gian dùng mạng xã hội cộng dồn như thế nào.",
+      "lead": "Nhập mức trung bình hằng ngày trên mạng xã hội và xem nó dưới dạng tổng theo tuần, theo tháng và theo năm. Giữ lại điều bạn trân trọng, thay đổi điều mang tính tự động.",
+      "answer": "Cộng dồn các ứng dụng mạng xã hội trong Thời gian sử dụng trên iPhone, nhập mức trung bình hằng ngày và Klippy sẽ đổi nó thành tổng dài hạn. Dùng cho một ứng dụng hoặc cả danh mục.",
+      "sections": [
+        {
+          "title": "Một con số rõ ràng hơn một cảm giác",
+          "paragraphs": [
+            "‘Tôi dành quá nhiều thời gian cho mạng xã hội’ thì khó hành động. Một con số — ví dụ, 1,5 giờ/ngày ≈ 22 ngày trọn vẹn mỗi năm — cho bạn thứ gì đó cụ thể để cân nhắc.",
+            "Không phải tất cả thời gian đó là lãng phí; mạng xã hội cũng là cách nhiều người làm việc, học tập và giữ liên lạc. Câu hỏi hữu ích là liệu thời gian đó có khớp với điều bạn thực sự muốn hay không."
+          ]
+        },
+        {
+          "title": "Làm cho bước tiếp theo trở nên cụ thể",
+          "paragraphs": [
+            "Chọn một ứng dụng biến lần kiểm tra nhanh thành phiên dùng kéo dài. Ghi chú khi bạn mở nó và bạn đang làm gì ngay trước đó.",
+            "Nếu bạn quyết định thêm một giới hạn, hãy giữ các ứng dụng hữu ích luôn mở và tập trung vào vài ứng dụng cứ kéo bạn quay lại. Để biết các lựa chọn trên iPhone, hãy xem cách hạn chế mạng xã hội trên iPhone và bài so sánh Thời gian sử dụng với trình chặn ứng dụng."
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "title": "Mở bảng phân tích",
+          "copy": "Trong Thời gian sử dụng, hãy kiểm tra danh mục Mạng xã hội hoặc một ứng dụng đơn lẻ."
+        },
+        {
+          "title": "Nhập mức trung bình hằng ngày",
+          "copy": "Dùng một ứng dụng hoặc tổng cộng dồn."
+        },
+        {
+          "title": "Chọn một giới hạn",
+          "copy": "Bắt đầu với ứng dụng mang tính tự động nhất."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Tôi có thể tính cho một ứng dụng không?",
+          "answer": "Có. Hãy nhập mức trung bình cho Instagram, TikTok, YouTube, v.v., hoặc một tổng cộng dồn."
+        },
+        {
+          "question": "Klippy có thu thập dữ liệu mạng xã hội của tôi không?",
+          "answer": "Không. Không có gì được gửi đến Klippy hay tài khoản của bạn."
+        },
+        {
+          "question": "Nếu tôi cần nó cho công việc thì sao?",
+          "answer": "Hãy giữ việc dùng cho công việc và tập trung giới hạn vào những lần kiểm tra ngoài mục đích đó."
+        }
+      ]
+    },
+    "how-to-check-screen-time-iphone": {
+      "title": "Cách xem Thời gian sử dụng trên iPhone — Theo ngày, tuần & theo ứng dụng | Klippy",
+      "description": "Cách tìm Thời gian sử dụng trên iPhone: xem mức trung bình hằng ngày, tổng theo tuần và bảng phân tích theo ứng dụng, rồi dùng nó trong máy tính của Klippy.",
+      "eyebrow": "Cách xem thời gian sử dụng trên iPhone",
+      "h1": "Cách tìm Thời gian sử dụng trên iPhone của bạn.",
+      "lead": "iPhone của bạn đã theo dõi mức trung bình hằng ngày, xu hướng theo tuần và bảng phân tích theo ứng dụng. Đây là nơi để tìm nó và con số nào nên dùng trong máy tính.",
+      "answer": "Vào Cài đặt → Thời gian sử dụng → Xem Tất cả Hoạt động Ứng dụng & Trang web. Chuyển đổi Ngày/Tuần để tìm mức trung bình điển hình. Bảng phân tích theo ứng dụng nằm ngay trên cùng màn hình đó.",
+      "sections": [
+        {
+          "title": "Chọn một tuần điển hình, không phải một ngày đơn lẻ",
+          "paragraphs": [
+            "Một ngày đơn lẻ có thể gây hiểu nhầm — đi lại, cuộc gọi dài hay xem liên tục cuối tuần có thể làm lệch số liệu. Chế độ xem Tuần làm mịn những ngoại lệ đó.",
+            "Hãy dùng mức trung bình hằng ngày hiển thị ở đầu trang cho chế độ Tuần. Đó là đầu vào hữu ích nhất cho máy tính và cho góc nhìn theo ngày."
+          ]
+        },
+        {
+          "title": "Xem bảng phân tích, không chỉ tổng",
+          "paragraphs": [
+            "Tổng cho bạn biết bao nhiêu, bảng phân tích cho bạn biết ở đâu. Hãy so sánh những ứng dụng bạn chủ ý dùng với những ứng dụng bạn mở mà không có kế hoạch.",
+            "Sự phân tách đó giúp bạn chọn một bước tiếp theo thực tế thay vì mục tiêu chung chung ‘dùng điện thoại ít đi’."
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "title": "Mở Cài đặt",
+          "copy": "Nhấn vào Thời gian sử dụng trong danh sách Cài đặt chính."
+        },
+        {
+          "title": "Mở Hoạt động Ứng dụng & Trang web",
+          "copy": "Chọn Xem Tất cả để xem Ngày/Tuần và danh sách theo ứng dụng."
+        },
+        {
+          "title": "Sao chép một con số hằng ngày điển hình",
+          "copy": "Dùng nó trong máy tính để xem tổng theo tuần/năm."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Tôi có thể xem thời gian cho một ứng dụng không?",
+          "answer": "Có. Danh sách hoạt động hiển thị từng ứng dụng và danh mục; hãy nhấn vào một ứng dụng để xem chi tiết theo ngày/tuần."
+        },
+        {
+          "question": "Vì sao Thời gian sử dụng bị thiếu?",
+          "answer": "Có thể nó đang tắt. Trong Thời gian sử dụng, hãy nhấn Bật và chọn thiết bị của bạn."
+        },
+        {
+          "question": "Tôi có thể dùng tổng theo tuần không?",
+          "answer": "Có. Chia tổng theo tuần cho 7 để ra mức trung bình hằng ngày."
+        }
+      ]
+    },
+    "how-to-reduce-screen-time-iphone": {
+      "title": "Cách giảm Thời gian sử dụng trên iPhone (mà không chặn quá mức) | Klippy",
+      "description": "Những cách thực tế để giảm thời gian dùng màn hình trên iPhone: tìm tín hiệu gợi ý, tắt bớt thông báo, dùng Tập trung, hoặc thêm giới hạn cho một ứng dụng.",
+      "eyebrow": "Cách giảm thời gian sử dụng trên iPhone",
+      "h1": "Giảm thời gian dùng màn hình bằng cách thay đổi một điều hữu ích trước tiên.",
+      "lead": "‘Dùng điện thoại ít đi’ là một câu mơ hồ. Một thay đổi nhỏ hơn — ít cảnh báo hơn, lịch Tập trung, hoặc giới hạn cho một ứng dụng — sẽ dễ duy trì hơn và dễ đo lường hơn.",
+      "answer": "Bắt đầu với bảng phân tích Thời gian sử dụng của bạn, chọn một tín hiệu lặp lại (thông báo, buồn chán, một thời điểm trong ngày), và chọn công cụ phù hợp: tắt bớt cảnh báo, Tập trung, Giới hạn Ứng dụng/Thời gian nghỉ, hoặc trình chặn ứng dụng đã chọn cho vài ứng dụng tự động mở.",
+      "sections": [
+        {
+          "title": "Chọn một hành vi, không chỉ một con số",
+          "paragraphs": [
+            "‘Ngừng mở TikTok sau 10 giờ tối’ rõ ràng hơn ‘dùng điện thoại ít đi 1 giờ’. Điều đầu tiên chỉ tới một cài đặt; điều thứ hai đòi hỏi ý chí ngay trong khoảnh khắc.",
+            "Khi hành vi đã cụ thể, bạn có thể để yên những ứng dụng hữu ích và chỉ áp dụng quy tắc ở nơi vấn đề xảy ra."
+          ]
+        },
+        {
+          "title": "Giữ cho thiết lập thực tế",
+          "paragraphs": [
+            "Nếu một quy tắc chặn những ứng dụng bạn cần, bạn sẽ vượt qua nó. Hãy tập trung vào 1–2 ứng dụng tạo ra lần kiểm tra tự động.",
+            "Hãy chú ý điều gì khiến bạn bỏ thiết lập — quá rộng, quá dễ bỏ qua, hay giải quyết sai tín hiệu. Hãy điều chỉnh điều đó, không phải động lực của bạn. So sánh Thời gian sử dụng với trình chặn ứng dụng đã chọn để chọn công cụ phù hợp."
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "title": "Tìm khoảnh khắc lặp lại",
+          "copy": "Dùng Thời gian sử dụng để phát hiện một thói quen (ví dụ: công việc, giờ đi ngủ, lúc chờ đợi)."
+        },
+        {
+          "title": "Loại bỏ tín hiệu nếu có thể",
+          "copy": "Thử cài đặt thông báo hoặc Tập trung cho những lần kiểm tra do cảnh báo kích hoạt."
+        },
+        {
+          "title": "Thêm giới hạn nếu cần",
+          "copy": "Dùng Giới hạn Ứng dụng/Thời gian nghỉ hoặc trình chặn cho lần mở tự động."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Tôi có nên dùng Giới hạn Ứng dụng không?",
+          "answer": "Hãy dùng khi ngân sách thời gian hữu ích. Nếu cùng một ứng dụng mở vào những thời điểm ngẫu nhiên cả ngày, một giới hạn ứng dụng đã chọn có thể phù hợp hơn."
+        },
+        {
+          "question": "Tôi có thể giữ cuộc gọi và tin nhắn không?",
+          "answer": "Có. Hãy để Điện thoại, Tin nhắn và những thứ thiết yếu nằm ngoài mọi hạn chế."
+        },
+        {
+          "question": "Thay đổi nhỏ nhất nhưng hữu ích là gì?",
+          "answer": "Là thay đổi nhắm đúng một vấn đề thực tế mà không khiến phần còn lại của điện thoại trở nên bất tiện."
+        }
+      ]
+    },
+    "how-to-limit-social-media-on-iphone": {
+      "title": "Cách hạn chế mạng xã hội trên iPhone — Vẫn giữ những gì thiết yếu | Klippy",
+      "description": "Hạn chế mạng xã hội trên iPhone mà không chặn toàn bộ điện thoại: cảnh báo, Tập trung, Giới hạn Ứng dụng, Thời gian nghỉ và trình chặn ứng dụng được so sánh.",
+      "eyebrow": "Hạn chế mạng xã hội trên iPhone",
+      "h1": "Hạn chế mạng xã hội mà không hạn chế cả chiếc điện thoại.",
+      "lead": "Bạn không cần một quy tắc tất cả hoặc không gì cả. Hãy chọn xem bạn muốn ít cảnh báo hơn, một hạn mức hằng ngày, một khoảng nghỉ theo lịch, hay làm cho các ứng dụng đã chọn khó mở hơn.",
+      "answer": "Chọn công cụ khớp với tín hiệu: thông báo → tắt bớt cảnh báo/Tập trung; ngân sách thời gian → Giới hạn Ứng dụng; lịch cố định → Thời gian nghỉ; lần mở tự động lặp lại → trình chặn ứng dụng đã chọn. Giữ các ứng dụng không được chọn luôn sẵn sàng.",
+      "sections": [
+        {
+          "title": "Những công cụ khác nhau, những vấn đề khác nhau",
+          "paragraphs": [
+            "Thông báo là một tín hiệu, Giới hạn Ứng dụng là một ngân sách, Thời gian nghỉ là một lịch trình, và trình chặn ứng dụng đã chọn khiến những ứng dụng đó mặc định không khả dụng. Chúng không thể thay thế cho nhau.",
+            "Nếu cùng một ứng dụng mở ra mà không có thông báo hay lịch trình, trình chặn thường trực tiếp hơn bộ hẹn giờ mà bạn có thể gia hạn. Xem khi nào mỗi công cụ hữu ích trong bài Thời gian sử dụng so với trình chặn ứng dụng."
+          ]
+        },
+        {
+          "title": "Giữ lại những gì bạn cần",
+          "paragraphs": [
+            "Bản đồ, Tin nhắn, cuộc gọi, ngân hàng và ứng dụng gia đình hiếm khi cần nằm trong quy tắc mạng xã hội.",
+            "Một quy tắc hẹp sẽ dễ duy trì hơn vì nó thay đổi ứng dụng có vấn đề mà không khiến mọi tác vụ bình thường trở nên bất tiện. Nếu bạn chưa chắc, hãy bắt đầu với việc xem bạn thực sự có bao nhiêu thời gian mạng xã hội."
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "title": "Gọi tên ứng dụng có vấn đề",
+          "copy": "Tìm ứng dụng biến lần kiểm tra nhanh thành phiên dùng kéo dài."
+        },
+        {
+          "title": "Chọn cài đặt phù hợp",
+          "copy": "Chọn cảnh báo, giới hạn, lịch trình hoặc trình chặn một cách có chủ ý."
+        },
+        {
+          "title": "Giữ những gì thiết yếu luôn mở",
+          "copy": "Để các ứng dụng hữu ích nằm ngoài quy tắc."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Chế độ Tập trung có chặn ứng dụng không?",
+          "answer": "Tập trung giảm thông báo và có thể ẩn các trang Màn hình chính, nhưng nhìn chung không ngăn bạn mở một ứng dụng."
+        },
+        {
+          "question": "Tôi có thể giữ Tin nhắn không?",
+          "answer": "Có. Với cách tiếp cận ứng dụng đã chọn, những ứng dụng không được chọn vẫn khả dụng."
+        },
+        {
+          "question": "Nếu tôi cần nó cho công việc thì sao?",
+          "answer": "Hãy giữ việc dùng cho công việc và chỉ áp dụng giới hạn ngoài những khung thời gian đó."
+        }
+      ]
+    },
+    "digital-detox-plan": {
+      "title": "Kế hoạch cai nghiện số — Một lần thiết lập lại nhỏ hơn mà bạn có thể duy trì | Klippy",
+      "description": "Xây dựng kế hoạch cai nghiện số thực tế: chọn một lý do, một tác nhân và một giới hạn nhỏ để thử trong một tuần.",
+      "eyebrow": "Kế hoạch cai nghiện số",
+      "h1": "Một kế hoạch cai nghiện số vừa với đời thực.",
+      "lead": "Bạn không cần xóa mọi thứ hay đi đâu đó một tuần. Hãy chọn một phần trong ngày bạn muốn lấy lại và một tác nhân cần thay đổi, rồi thử nó.",
+      "answer": "Chọn một lý do (ví dụ: ít bị gián đoạn hơn khi làm việc, buổi tối bình yên hơn), một tác nhân (một ứng dụng, thông báo hoặc khung thời gian), và một giới hạn bạn có thể giữ trong bảy ngày. Xem xét và điều chỉnh.",
+      "sections": [
+        {
+          "title": "Tránh cái bẫy tất cả-hoặc-không-gì-cả",
+          "paragraphs": [
+            "Những lần cai nghiện trên diện rộng có vẻ quyết đoán nhưng thường thất bại khi bạn vẫn cần điện thoại cho công việc, gia đình và di chuyển.",
+            "Một thử nghiệm hẹp cho dữ liệu tốt hơn. Nếu vấn đề là lướt đêm, hãy chỉ thay đổi khung thời gian đó — không phải mọi ứng dụng cả ngày. Xem cách ngừng kiểm tra quá thường xuyên để có ý tưởng về tín hiệu."
+          ]
+        },
+        {
+          "title": "Quyết định bạn đang dành chỗ cho điều gì",
+          "paragraphs": [
+            "Một kế hoạch sẽ bền vững hơn khi có mục đích rõ ràng: công việc tập trung hơn, bữa ăn hiện diện hơn, hay buổi tối dễ đi vào giấc ngủ hơn.",
+            "Hãy dùng mục đích đó để chọn giới hạn. Nó nên hỗ trợ cuộc sống bạn muốn, không trở thành một quy tắc khác khiến bạn khó chịu."
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "title": "Chọn một lý do",
+          "copy": "Gọi tên phần trong ngày bạn muốn bảo vệ."
+        },
+        {
+          "title": "Chọn một tác nhân",
+          "copy": "Chọn ứng dụng, thông báo hoặc địa điểm lặp lại gây cản trở."
+        },
+        {
+          "title": "Thử một giới hạn",
+          "copy": "Giữ nó đủ nhỏ để bạn có thể thực hiện trong một tuần thực tế."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Một đợt cai nghiện nên kéo dài bao lâu?",
+          "answer": "Một thử nghiệm một tuần hữu ích hơn một kế hoạch rộng mà bạn không thể duy trì. Chỉ kéo dài những gì thực sự giúp ích."
+        },
+        {
+          "question": "Tôi có cần xóa mạng xã hội không?",
+          "answer": "Thường thì không. Một giới hạn quanh những khoảnh khắc tự động thường là đủ."
+        },
+        {
+          "question": "Nếu tôi cần điện thoại cho công việc thì sao?",
+          "answer": "Hãy giữ các chức năng công việc và tập trung việc cai nghiện vào những lần kiểm tra gây xao nhãng ngoài phạm vi đó."
+        }
+      ]
+    },
+    "stop-checking-phone": {
+      "title": "Cách ngừng kiểm tra điện thoại quá nhiều — Tín hiệu trước lần kiểm tra | Klippy",
+      "description": "Ngừng kiểm tra điện thoại bằng cách thay đổi tín hiệu: cảnh báo, buồn chán hay vòng lặp thói quen. Những bước thực tế bạn có thể thử ngay hôm nay.",
+      "eyebrow": "Ngừng kiểm tra điện thoại",
+      "h1": "Ngừng kiểm tra bằng cách thay đổi khoảnh khắc trước lần kiểm tra.",
+      "lead": "Hầu hết lần kiểm tra không phải là quyết định dùng điện thoại. Chúng là phản xạ tự động trong lúc tạm dừng, khi có thông báo hoặc lúc buồn chán — và tín hiệu đó có thể thay đổi được.",
+      "answer": "Hãy chú ý tín hiệu, rồi thay đổi thiết lập xung quanh nó: tắt bớt những cảnh báo kích hoạt nó, làm cho ứng dụng khó mở hơn một chút, hoặc đặt một hành động hữu ích hơn vào đúng vị trí đó.",
+      "sections": [
+        {
+          "title": "Một lần kiểm tra thường là vòng lặp, không phải lựa chọn",
+          "paragraphs": [
+            "Bàn tay di chuyển trước khi bạn kịp quyết định mình muốn gì từ chiếc điện thoại. Đó là lý do ý chí ngay trong khoảnh khắc có cảm giác khó.",
+            "Hãy tạo một khoảng dừng nhỏ bằng cách thay đổi tín hiệu, cách tiếp cận hoặc môi trường — đủ để bạn lựa chọn, không phải dựa vào khả năng kiểm soát hoàn hảo."
+          ]
+        },
+        {
+          "title": "Làm cho hành động tốt hơn trở nên dễ hơn",
+          "paragraphs": [
+            "Nếu bạn kiểm tra khi đang chờ, hãy đặt một cuốn sách hay sổ tay ở đó. Nếu bạn kiểm tra trên giường, hãy sạc điện thoại bên ngoài phòng ngủ. Hãy làm cho lựa chọn thay thế dễ như thói quen cũ.",
+            "Nếu một ứng dụng là điểm đến quen thuộc, một giới hạn ứng dụng đã chọn có thể khiến lần mở tự động đó bớt tiện lợi trong khi mọi thứ khác vẫn mở. So sánh các công cụ trong bài Thời gian sử dụng so với trình chặn ứng dụng."
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "title": "Chú ý tín hiệu",
+          "copy": "Thời điểm, cảm xúc hay thông báo nào xuất hiện ngay trước khi bạn với lấy điện thoại?"
+        },
+        {
+          "title": "Thay đổi một phần của vòng lặp",
+          "copy": "Tắt cảnh báo, di chuyển ứng dụng, hoặc tạo khoảng cách."
+        },
+        {
+          "title": "Xem lại kết quả thực tế",
+          "copy": "Giữ lại điều giúp ích, điều chỉnh điều khiến cuộc sống khó hơn."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Vì sao tôi kiểm tra dù không có thông báo?",
+          "answer": "Việc kiểm tra có thể trở thành phản ứng đã học trước những khoảng dừng, căng thẳng hay buồn chán — không chỉ do cảnh báo."
+        },
+        {
+          "question": "Tôi có nên tắt tất cả thông báo không?",
+          "answer": "Hãy bắt đầu với vài thông báo kéo bạn vào những lần kiểm tra không mong muốn; giữ lại những thông báo hữu ích."
+        },
+        {
+          "question": "Trình chặn có giúp được không?",
+          "answer": "Có, khi cùng 1–2 ứng dụng là điểm đến lặp lại."
+        }
+      ]
+    },
+    "screen-time-vs-app-blocker": {
+      "title": "Thời gian sử dụng so với Trình chặn ứng dụng — Công cụ iPhone nào hợp với thói quen của bạn? | Klippy",
+      "description": "Giới hạn Ứng dụng & Thời gian nghỉ của Thời gian sử dụng so với Tập trung và trình chặn ứng dụng đã chọn. Tìm hiểu công cụ iPhone nào khớp với tín hiệu của bạn.",
+      "eyebrow": "Thời gian sử dụng so với trình chặn ứng dụng",
+      "h1": "Thời gian sử dụng và trình chặn ứng dụng giải quyết những vấn đề khác nhau.",
+      "lead": "Giới hạn Ứng dụng, Thời gian nghỉ, Tập trung và trình chặn ứng dụng đã chọn thường bị nhầm lẫn. Lựa chọn đúng phụ thuộc vào việc bạn cần một ngân sách, một lịch trình, ít cảnh báo hơn, hay làm cho các ứng dụng đã chọn mặc định không khả dụng.",
+      "answer": "Dùng Thời gian sử dụng cho báo cáo, Giới hạn Ứng dụng và Thời gian nghỉ; Tập trung cho thông báo và Màn hình chính; trình chặn ứng dụng đã chọn khi vài ứng dụng cần bị chặn theo mặc định trong khi phần còn lại của điện thoại vẫn hữu ích.",
+      "sections": [
+        {
+          "title": "Khi nào Thời gian sử dụng phù hợp",
+          "paragraphs": [
+            "Giới hạn Ứng dụng đặt hạn mức hằng ngày, Thời gian nghỉ đặt lịch trình, và Thời gian sử dụng cho thấy thời gian đi đâu. Rất tốt cho nhận thức, ngân sách và những khung thời gian có thể dự đoán.",
+            "Đối với những lần mở tự động, ngẫu nhiên của cùng 1–2 ứng dụng, ngân sách thời gian có thể dễ dàng được gia hạn — chặn mặc định sẽ trực tiếp hơn."
+          ]
+        },
+        {
+          "title": "Khi nào giới hạn ứng dụng đã chọn phù hợp",
+          "paragraphs": [
+            "Trình chặn đặt câu hỏi: những ứng dụng đã cài nào tạo ra vấn đề, và phần còn lại có thể vẫn hữu ích không? Fella giữ những ứng dụng bạn chọn ở trạng thái bị chặn theo mặc định; những ứng dụng không được chọn vẫn khả dụng.",
+            "Nó không phải trình chặn trang web hay hệ thống MDM. Nó là một giới hạn hẹp cho thói quen bạn đã gọi tên trong bài cách giảm thiểu hoặc kế hoạch cai nghiện của mình."
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "title": "Gọi tên vấn đề",
+          "copy": "Cảnh báo, tổng hằng ngày, lịch trình hay lần mở tự động lặp lại?"
+        },
+        {
+          "title": "Chọn công cụ phù hợp",
+          "copy": "Tập trung, Giới hạn Ứng dụng/Thời gian nghỉ hoặc trình chặn."
+        },
+        {
+          "title": "Giữ nó hẹp",
+          "copy": "Để các ứng dụng hữu ích luôn khả dụng."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Thời gian sử dụng có thể chặn ứng dụng không?",
+          "answer": "Nó có Giới hạn Ứng dụng và Thời gian nghỉ. Hãy dùng chúng cho ngân sách/lịch trình; trình chặn dành cho các ứng dụng đã chọn mặc định không khả dụng."
+        },
+        {
+          "question": "Chế độ Tập trung có chặn ứng dụng không?",
+          "answer": "Tập trung tắt tiếng thông báo và có thể ẩn các trang, nhưng nhìn chung không chặn việc mở ứng dụng."
+        },
+        {
+          "question": "Tôi có thể giữ cuộc gọi và tin nhắn không?",
+          "answer": "Có. Với cách tiếp cận ứng dụng đã chọn, chỉ những ứng dụng bạn chọn mới bị chặn."
+        }
+      ]
+    }
+  },
+  "guidePage": {
+    "shortAnswer": "Câu trả lời ngắn gọn",
+    "nextStepEyebrow": "Bước tiếp theo thực tế",
+    "useCalculatorCta": "Dùng máy tính thời gian dùng màn hình",
+    "faqTitle": "Câu hỏi thường gặp"
+  },
+  "notFound": {
+    "title": "Không tìm thấy trang",
+    "description": "Trang bạn đang tìm không tồn tại."
+  }
+}

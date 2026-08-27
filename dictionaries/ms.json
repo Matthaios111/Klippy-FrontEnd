@@ -1,0 +1,778 @@
+{
+  "site": {
+    "name": "Klippy",
+    "title": "Klippy | Alat percuma untuk telefon yang lebih tenang",
+    "description": "Alat ringkas dan percuma untuk mengubah tabiat telefon yang terus menarik anda kembali."
+  },
+  "header": {
+    "howItWorks": "Cara ia berfungsi",
+    "guides": "Panduan",
+    "about": "Tentang",
+    "calculator": "Kalkulator",
+    "tryFella": "Cuba Fella",
+    "homeAria": "Laman utama Klippy"
+  },
+  "footer": {
+    "privacy": "Privasi",
+    "terms": "Terma",
+    "support": "Sokongan",
+    "builtByFella": "Dibina oleh Fella",
+    "guidesLabel": "Panduan",
+    "guidesAria": "Panduan masa skrin"
+  },
+  "guides": [
+    {
+      "label": "Masa skrin mengikut umur",
+      "slug": "screen-time-by-age-calculator"
+    },
+    {
+      "label": "Masa skrin dalam hari",
+      "slug": "screen-time-in-days"
+    },
+    {
+      "label": "Kalkulator penggunaan telefon",
+      "slug": "phone-use-calculator"
+    },
+    {
+      "label": "Masa media sosial",
+      "slug": "social-media-time-calculator"
+    },
+    {
+      "label": "Cara menyemak Masa Skrin di iPhone",
+      "slug": "how-to-check-screen-time-iphone"
+    },
+    {
+      "label": "Cara mengurangkan Masa Skrin di iPhone",
+      "slug": "how-to-reduce-screen-time-iphone"
+    },
+    {
+      "label": "Cara mengehadkan media sosial di iPhone",
+      "slug": "how-to-limit-social-media-on-iphone"
+    },
+    {
+      "label": "Pelan detoks digital",
+      "slug": "digital-detox-plan"
+    },
+    {
+      "label": "Berhenti kerap menyemak telefon",
+      "slug": "stop-checking-phone"
+    },
+    {
+      "label": "Masa Skrin vs penyekat aplikasi",
+      "slug": "screen-time-vs-app-blocker"
+    }
+  ],
+  "home": {
+    "title": "Jadikan telefon anda\nlebih mudah diketepikan.",
+    "lead": "Alat percuma untuk mengenal pasti tabiat telefon yang terus menarik anda kembali. Kemudian pilih sempadan yang lebih kecil yang benar-benar sesuai dengan hari anda.",
+    "cta": "Cuba alat percuma",
+    "sub": "Tiada log masuk. Tiada muat turun. Hanya permulaan yang berguna.",
+    "howItWorksAria": "Cara ia berfungsi",
+    "steps": [
+      {
+        "number": "01",
+        "title": "Namakan momen tersebut",
+        "description": "Tabiat yang spesifik lebih mudah diubah berbanding matlamat umum untuk kurang menggunakan telefon."
+      },
+      {
+        "number": "02",
+        "title": "Pilih sempadan yang lebih kecil",
+        "description": "Kekalkan aplikasi yang anda perlukan. Tambahkan geseran hanya di tempat semakan automatik bermula."
+      },
+      {
+        "number": "03",
+        "title": "Cuba dalam kehidupan sebenar",
+        "description": "Gunakan hasilnya sebagai titik permulaan yang praktikal, kemudian sesuaikannya dengan rutin harian anda."
+      }
+    ],
+    "aboutEyebrow": "Telefon yang lebih tenang bermula daripada perkara kecil.",
+    "aboutTitle": "Anda tidak perlu memadam keseluruhan kehidupan digital anda.",
+    "aboutCopy": "Klippy meneroka alat percuma yang ringkas untuk membantu anda mengenal pasti beberapa aplikasi dan momen yang paling berbaloi diubah terlebih dahulu.",
+    "aboutCta": "Terokai Fella"
+  },
+  "about": {
+    "metaTitle": "Tentang Klippy — Alat kecil untuk telefon yang lebih tenang",
+    "metaDescription": "Klippy menyediakan alat percuma dan peribadi untuk membantu anda melihat tabiat telefon dengan lebih jelas dan memilih langkah seterusnya yang lebih kecil dan realistik.",
+    "eyebrow": "Tentang Klippy",
+    "h1": "Alat kecil untuk telefon yang terasa lebih berguna.",
+    "lead": "Klippy untuk mereka yang ingin mengubah tabiat telefon tanpa menjadikannya projek sepenuh masa. Alat ini bermula dengan soalan ringkas dan menyasarkan satu jawapan yang berguna.",
+    "whyEyebrow": "Mengapa Klippy wujud",
+    "whyTitle": "Kebanyakan nasihat tentang telefon menuntut terlalu banyak, terlalu awal.",
+    "whyParagraphs": [
+      "Mudah untuk mengatakan anda harus kurang menggunakan telefon. Jauh lebih sukar untuk menentukan apa maksudnya pada hari biasa sedangkan telefon juga merupakan cara anda berhubung dengan orang lain, mencari arah, membuat pembayaran, bekerja, belajar dan berehat.",
+      "Klippy bermula daripada pandangan yang lebih sempit. Sesetengah bahagian telefon anda memang berguna. Sesetengah aplikasi atau momen mungkin menarik anda ke dalam tabiat yang tidak anda pilih. Itu adalah masalah yang berbeza, dan memerlukan jawapan yang berbeza.",
+      "Matlamatnya bukan untuk menjadikan teknologi terasa seperti kegagalan moral. Matlamatnya adalah untuk menjadikan pertukaran itu lebih jelas supaya anda boleh memutuskan apa yang berbaloi untuk diubah."
+    ],
+    "values": [
+      {
+        "title": "Percuma sebelum perkara lain",
+        "copy": "Hasil tidak sepatutnya tersembunyi di sebalik borang pendaftaran. Alat Klippy direka untuk berfungsi tanpa akaun, tanpa bayaran atau pemasangan aplikasi."
+      },
+      {
+        "title": "Peribadi secara lalai",
+        "copy": "Kalkulator masa skrin berjalan dengan nilai yang anda masukkan di pelayar. Ia tidak bersambung ke iPhone anda atau memerlukan data aktiviti peribadi anda."
+      },
+      {
+        "title": "Berguna tanpa jualan keras",
+        "copy": "Sesebuah alat harus berdiri sendiri. Jika ada produk lain yang benar-benar berguna selepas itu, langkah seterusnya itu harus jelas dan pilihan anda."
+      }
+    ],
+    "nextEyebrow": "Apa yang seterusnya",
+    "nextTitle": "Mulakan dengan gambaran jujur tentang tabiat anda.",
+    "nextParagraphs": [
+      "Alat pertama Klippy ialah kalkulator masa skrin. Ia menukar nombor purata harian kepada jumlah yang boleh anda lihat merentas seminggu, setahun dan tempoh yang lebih panjang. Ia tidak dapat memberitahu anda jam mana yang berbaloi dikekalkan. Ia boleh memberi anda titik permulaan yang lebih jelas untuk memutuskannya sendiri.",
+      "Alat pada masa hadapan akan mengikut prinsip yang sama. Ia harus cukup ringkas untuk digunakan dalam seminit dan cukup spesifik untuk membantu membuat pilihan sebenar. Tiada skor generik. Tiada janji bahawa satu tetapan menyelesaikan segalanya."
+    ],
+    "nextCta": "Gunakan kalkulator masa skrin",
+    "fellaEyebrow": "Dibina bersama Fella",
+    "fellaTitle": "Apabila jawapannya ialah sempadan yang lebih kuat untuk beberapa aplikasi, Fella ada untuk langkah seterusnya.",
+    "fellaCopy": "Fella ialah penyekat aplikasi iPhone untuk aplikasi yang mengganggu yang anda pilih. Aplikasi yang tidak anda pilih boleh kekal tersedia, jadi bahagian telefon yang berguna tidak menjadi sebahagian daripada sempadan melainkan anda memilihnya.",
+    "fellaCta": "Terokai Fella"
+  },
+  "howItWorks": {
+    "metaTitle": "Bagaimana Klippy berfungsi — Mulakan dengan tabiat, bukan tetapan semula besar",
+    "metaDescription": "Bagaimana Klippy berfungsi: alat pelayar percuma dan peribadi yang menukar nombor telefon harian kepada langkah seterusnya yang berguna — tanpa akaun, tanpa penjejakan.",
+    "eyebrow": "Cara ia berfungsi",
+    "h1": "Mulakan dengan tabiat, bukan tetapan semula besar.",
+    "lead": "Klippy menyediakan alat percuma yang ringkas untuk melihat tabiat telefon dengan cara yang lebih praktikal. Tujuannya bukan untuk membuat setiap minit di skrin terasa buruk. Tujuannya adalah untuk menyedari momen yang berlaku tanpa banyak berfikir dan memutuskan sama ada ia masih sesuai untuk anda.",
+    "ideaEyebrow": "Idea asasnya",
+    "ideaTitle": "Jawapan yang berguna harus jelas sebelum ia meminta apa-apa daripada anda.",
+    "ideaCopy": "Sebab itulah alat Klippy berjalan di pelayar anda. Tiada akaun untuk dicipta, tiada skrin pembayaran untuk melihat hasil, dan tiada sambungan kepada data telefon peribadi anda. Anda masukkan sedikit maklumat dan mendapat cara konkrit untuk memikirkannya.",
+    "steps": [
+      {
+        "number": "01",
+        "title": "Lihat pada satu momen",
+        "copy": "Mulakan dengan aplikasi, waktu atau situasi tertentu. Menyemak suapan di katil lebih mudah difahami berbanding pelan umum untuk kurang menggunakan telefon."
+      },
+      {
+        "number": "02",
+        "title": "Jadikan nombor itu berguna",
+        "copy": "Kalkulator masa skrin menukar nombor purata harian kepada jumlah mingguan, tahunan dan jangka panjang. Kiraannya mudah. Melihat semuanya di satu tempat boleh membuat pertukaran lebih mudah disedari."
+      },
+      {
+        "number": "03",
+        "title": "Pilih langkah seterusnya yang paling kecil",
+        "copy": "Anda boleh kekalkan semuanya seperti sedia ada. Anda boleh mengalih aplikasi, menyenyapkan pencetus, atau menjadikan satu gangguan sedikit lebih sukar dibuka. Perubahan yang berguna ialah yang sesuai dengan hari sebenar anda."
+      }
+    ],
+    "calcEyebrow": "Apa yang kalkulator lakukan",
+    "calcTitle": "Ia menjadikan nombor yang biasa lebih mudah digambarkan.",
+    "calcParagraphs": [
+      "Masukkan purata jam masa skrin harian. Klippy mengira jumlah mingguan, bulanan dan tahunan yang sepadan, kemudian menganggarkan bagaimana kadar itu kelihatan antara umur anda sekarang hingga umur 75.",
+      "Kalkulator tidak tahu aplikasi apa yang anda gunakan, apa pekerjaan anda, atau sama ada masa di telefon itu menyeronokkan, perlu atau mengganggu. Ia menganggap setiap jam sama. Itu disengajakan. Ia adalah alat kesedaran yang ringkas, bukan skor atau diagnosis.",
+      "Jika hasilnya terasa tinggi, soalan seterusnya bukan semestinya bagaimana untuk membuang semua masa itu. Soalan yang lebih baik ialah bahagian mana yang terasa automatik, tidak dirancang atau sukar dihentikan setelah bermula."
+    ],
+    "calcCta": "Gunakan kalkulator masa skrin",
+    "faqEyebrow": "Soalan yang sering ditanya",
+    "faqTitle": "Sempadan yang lebih kecil pun masih bermakna.",
+    "faqs": [
+      {
+        "question": "Perlukah saya mencipta akaun?",
+        "answer": "Tidak. Alat Klippy direka untuk terus berfungsi di pelayar anda. Kalkulator tidak memerlukan pendaftaran atau bayaran."
+      },
+      {
+        "question": "Adakah Klippy membaca aktiviti telefon saya?",
+        "answer": "Tidak. Ia hanya menggunakan nombor yang anda taip ke dalam kalkulator. Ia tidak bersambung ke iPhone anda atau mengumpul pecahan mengikut aplikasi."
+      },
+      {
+        "question": "Apa yang perlu saya lakukan selepas melihat hasil saya?",
+        "answer": "Cari satu corak yang jelas. Ia mungkin aplikasi yang anda semak semasa bekerja, suapan yang anda buka di katil, atau tabiat yang bermula setiap kali anda menunggu sesuatu."
+      },
+      {
+        "question": "Bagaimana jika saya masih memerlukan kebanyakan fungsi telefon saya?",
+        "answer": "Itu normal. Sempadan yang berguna tidak perlu menjadikan keseluruhan telefon anda tidak tersedia. Mulakan dengan beberapa aplikasi atau momen yang menyebabkan masalah."
+      }
+    ],
+    "fellaEyebrow": "Apabila beberapa aplikasi menjadi masalah",
+    "fellaTitle": "Fella memastikan aplikasi iPhone yang mengganggu yang dipilih kekal disekat secara lalai manakala aplikasi yang tidak anda pilih boleh kekal tersedia.",
+    "fellaCopy": "Ia merupakan langkah yang berbeza daripada mengira masa skrin anda. Ia boleh berguna apabila anda telah mengenal pasti aplikasi yang ingin anda jadikan kurang automatik.",
+    "fellaCta": "Terokai Fella"
+  },
+  "calculator": {
+    "metaTitle": "Kalkulator Masa Skrin — Lihat masa telefon anda mengikut minggu, tahun dan hingga umur 75",
+    "metaDescription": "Kalkulator masa skrin percuma: masukkan jam harian dan umur untuk melihat jumlah mingguan, tahunan dan seumur hidup. Peribadi, tanpa log masuk, berjalan di pelayar anda.",
+    "eyebrow": "Kalkulator masa skrin percuma",
+    "h1": "Lihat bagaimana masa telefon anda terkumpul.",
+    "lead": "Masukkan purata masa skrin harian anda. Dapatkan gambaran ringkas tentang jam, hari dan tahun yang boleh terkumpul — kemudian pilih satu perubahan kecil untuk dicuba.",
+    "inputLabel": "Purata masa skrin harian",
+    "reduceAria": "Kurangkan masa skrin",
+    "increaseAria": "Tambah masa skrin",
+    "help": "Semak Tetapan → Masa Skrin pada iPhone anda jika anda tidak pasti apa yang perlu dimasukkan. Gunakan hari yang tipikal, bukan hari terbaik atau terburuk anda.",
+    "ageLabel": "Umur anda",
+    "ageHelp": "Hanya digunakan untuk menganggar masa skrin dari sekarang hingga umur 75. Tiada apa yang disimpan.",
+    "calcCta": "Kira masa saya",
+    "results": {
+      "everyWeek": "Setiap minggu",
+      "everyMonth": "Setiap bulan",
+      "everyYear": "Setiap tahun",
+      "fullDays": "Hari penuh setiap tahun"
+    },
+    "atThisRate": "Pada kadar ini",
+    "atThisRateValue": "Kira-kira {years} tahun masa skrin dari sekarang hingga umur 75.",
+    "atThisRateCopy": "Anggaran ini mengira setiap jam secara sama rata. Ia adalah alat kesedaran kasar, bukan penilaian tentang cara anda menggunakan telefon.",
+    "wakingLabel": "Bahagian daripada 16 jam waktu berjaga",
+    "smallReductionTitle": "Pengurangan kecil pun terkumpul",
+    "smallReductionCopy": "Satu jam kurang sehari menjimatkan kira-kira {days} hari penuh setiap tahun.",
+    "smallReductionDesc": "Anda tidak perlu membuang setiap skrin. Mulakan dengan satu aplikasi atau momen yang bertukar menjadi sesi tanpa dirancang.",
+    "fellaTitle": "Jika beberapa aplikasi menjadi masalah",
+    "fellaCopyTitle": "Fella boleh menyekat aplikasi pilihan yang terus menarik anda kembali.",
+    "fellaCopy": "Aplikasi yang tidak anda pilih boleh kekal tersedia, jadi telefon anda yang berguna kekal berguna.",
+    "fellaCta": "Lihat Fella di App Store",
+    "faqTitle": "Soalan lazim kalkulator masa skrin",
+    "axisLabels": {
+      "zero": "0j",
+      "middle": "8j",
+      "max": "16j"
+    },
+    "faqs": [
+      {
+        "question": "Bagaimana anggaran dikira?",
+        "answer": "Kami mendarabkan purata harian anda dengan 7, 30.44 dan 365 untuk minggu/bulan/tahun, dan dengan bilangan tahun dari umur anda hingga 75 untuk paparan seumur hidup. Bahagikan jam tahunan dengan 24 untuk hari penuh."
+      },
+      {
+        "question": "Adakah alat ini menjejaki iPhone saya?",
+        "answer": "Tidak. Pengiraan berlaku di pelayar anda menggunakan nombor yang anda masukkan. Tiada apa yang bersambung ke telefon anda atau disimpan oleh Klippy."
+      },
+      {
+        "question": "Di manakah saya boleh mencari masa skrin iPhone saya?",
+        "answer": "Buka Tetapan → Masa Skrin → Lihat Semua Aktiviti Aplikasi & Laman Web. Tukar antara Hari dan Minggu untuk mencari purata harian yang tipikal."
+      },
+      {
+        "question": "Apa yang perlu saya lakukan dengan hasilnya?",
+        "answer": "Cari masa yang paling tidak disengajakan — suapan yang anda buka semasa menunggu, permainan yang digunakan untuk mengelak tugasan, atau skrol lewat malam — dan cuba satu sempadan kecil di situ."
+      }
+    ]
+  },
+  "seoPages": {
+    "screen-time-by-age-calculator": {
+      "title": "Kalkulator Masa Skrin Mengikut Umur — Berapa banyak dari sekarang hingga 75? | Klippy",
+      "description": "Lihat bagaimana masa skrin harian anda terkumpul dari umur anda sekarang hingga 75. Masukkan jam harian dan umur untuk anggaran peribadi yang segera.",
+      "eyebrow": "Kalkulator masa skrin mengikut umur",
+      "h1": "Lihat berapa banyak masa skrin anda terkumpul dari sekarang hingga 75.",
+      "lead": "Purata harian kelihatan berbeza di samping tahun-tahun di hadapan. Masukkan umur dan masa skrin harian anda untuk anggaran ringkas dan peribadi — kemudian pilih satu tabiat untuk dicuba.",
+      "answer": "Klippy mendarabkan purata harian anda dengan bilangan tahun dari umur anda sekarang hingga 75. Ia mengira setiap jam secara sama rata, jadi anggap ia sebagai titik permulaan kesedaran, bukan skor.",
+      "sections": [
+        {
+          "title": "Mengapa paparan mengikut umur membantu",
+          "paragraphs": [
+            "Tabiat harian yang sama mempunyai lebih banyak masa untuk berulang apabila anda lebih muda. Melihat jumlah hingga 75 menjadikan rutin yang abstrak lebih konkrit tanpa perlu menjadikannya membimbangkan.",
+            "Sebaik sahaja anda melihat jumlahnya, anda boleh bertanya soalan yang lebih sempit: adakah satu aplikasi, waktu atau pencetus yang mencipta sebahagian besar masa automatik? Sempadan kecil di situ lebih mudah dikekalkan berbanding had umum."
+          ]
+        },
+        {
+          "title": "Jadikannya berguna, bukan menghakimi",
+          "paragraphs": [
+            "Kalkulator tidak tahu jam mana untuk kerja, keluarga, pembelajaran atau berehat. Gunakan nombor itu untuk membezakan penggunaan telefon yang anda hargai daripada semakan yang berlaku tanpa sebab yang jelas.",
+            "Jika hasilnya mengejutkan anda, mulakan dengan masa yang paling tidak disengajakan. Kekalkan bahagian telefon yang berguna dan tambahkan geseran hanya di tempat semakan automatik bermula. Lihat juga: masa skrin dalam hari penuh dan cara mencari purata anda di iPhone."
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "title": "Semak purata harian anda",
+          "copy": "Buka Tetapan → Masa Skrin → Lihat Semua Aktiviti dan gunakan nombor harian yang tipikal."
+        },
+        {
+          "title": "Masukkan umur anda",
+          "copy": "Hanya digunakan untuk anggaran hingga 75. Tiada apa yang disimpan."
+        },
+        {
+          "title": "Pilih satu perubahan kecil",
+          "copy": "Pilih satu aplikasi atau momen yang terasa automatik, bukan semuanya sekaligus."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Adakah anggarannya tepat?",
+          "answer": "Tidak. Ia adalah kiraan mudah daripada nombor harian yang anda masukkan, didarab dengan bilangan tahun hingga 75. Gunakan untuk kesedaran, bukan sebagai ramalan tepat."
+        },
+        {
+          "question": "Adakah Klippy melihat data telefon saya?",
+          "answer": "Tidak. Alat ini berjalan di pelayar anda dan tidak pernah bersambung ke iPhone anda."
+        },
+        {
+          "question": "Apa yang boleh saya cuba selepas itu?",
+          "answer": "Cuba satu sempadan selama seminggu — contohnya, tiada suapan sosial di katil, atau pemberitahuan yang lebih senyap semasa bekerja — dan kekalkan yang membantu."
+        }
+      ]
+    },
+    "screen-time-in-days": {
+      "title": "Masa Skrin dalam Hari — Tukar jam kepada hari penuh 24 jam | Klippy",
+      "description": "Tukar masa skrin harian kepada hari penuh seminggu, sebulan dan setahun. Lihat jam tahunan sebagai hari 24 jam — percuma dan peribadi.",
+      "eyebrow": "Masa skrin dalam hari",
+      "h1": "Tukarkan masa skrin anda kepada hari penuh.",
+      "lead": "Jam yang tersebar sepanjang hari boleh terasa biasa. Klippy menukar purata harian anda kepada hari penuh 24 jam setahun supaya pertukaran lebih mudah digambarkan.",
+      "answer": "Kami mendarabkan jam harian anda dengan 365 untuk jam tahunan, kemudian membahagikannya dengan 24. Itulah bersamaan hari penuh. Kiraannya segera di pelayar anda.",
+      "sections": [
+        {
+          "title": "Mengapa hari penuh lebih mudah digambarkan",
+          "paragraphs": [
+            "Empat jam sehari kedengaran kecil sehingga anda melihatnya sebagai 60+ hari penuh setahun. Paparan hari merangka semula masa yang sama tanpa melabelkannya sebagai terbuang.",
+            "Hari-hari itu termasuk kerja, peta, mesej, pembelajaran dan rehat. Tujuannya bukan untuk melabel semua masa skrin sebagai buruk, tetapi untuk melihat jumlahnya supaya anda boleh memilih satu bahagian untuk diubah. Cuba paparan mengikut umur jika anda mahu gambaran jangka panjang."
+          ]
+        },
+        {
+          "title": "Jika nombornya mengejutkan anda",
+          "paragraphs": [
+            "Mulakan dengan masa yang paling tidak disengajakan: suapan yang dibuka semasa menunggu, permainan yang digunakan untuk mengelak tugasan, atau skrol lewat malam yang berlanjutan.",
+            "Cuba sempadan terkecil yang sesuai dengan hari anda. Biarkan aplikasi penting tersedia dan ubah hanya momen yang paling menimbulkan geseran. Cara praktikal untuk mengurangkan di iPhone mungkin membantu."
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "title": "Cari purata anda",
+          "copy": "Gunakan purata harian dalam Masa Skrin iPhone (paparan Hari/Minggu)."
+        },
+        {
+          "title": "Lihat jumlah tahunan",
+          "copy": "Kalkulator menunjukkan jam dan bersamaan hari 24 jam."
+        },
+        {
+          "title": "Pilih satu eksperimen",
+          "copy": "Kurangkan satu semakan automatik dan bukannya mengejar nombor sempurna."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Bagaimana hari penuh dikira?",
+          "answer": "Jam tahunan ÷ 24. Contohnya, 4j/hari × 365 = 1,460j/tahun ÷ 24 ≈ 60.8 hari penuh."
+        },
+        {
+          "question": "Adakah ini bermakna masa skrin terbuang?",
+          "answer": "Tidak. Paparan hari ialah rangka semula yang neutral. Kerja, keluarga dan rehat semuanya boleh berlaku di skrin."
+        },
+        {
+          "question": "Bolehkah saya kiranya untuk satu aplikasi sahaja?",
+          "answer": "Ya. Masukkan purata harian untuk satu aplikasi atau kategori daripada pecahan Masa Skrin."
+        }
+      ]
+    },
+    "phone-use-calculator": {
+      "title": "Kalkulator Penggunaan Telefon — Harian kepada jumlah tahunan | Klippy",
+      "description": "Lihat bagaimana masa telefon harian anda terkumpul merentas seminggu, sebulan dan setahun. Satu nombor, jumlah segera — tanpa log masuk.",
+      "eyebrow": "Kalkulator penggunaan telefon",
+      "h1": "Kalkulator ringkas untuk masa telefon anda.",
+      "lead": "Masukkan satu purata harian dan lihat sebagai jumlah mingguan, bulanan dan tahunan. Gunakannya untuk mengesan bahagian penggunaan telefon yang sebenarnya ingin anda ubah.",
+      "answer": "Klippy menukar jam telefon harian anda kepada jumlah mingguan (×7), bulanan (×30.44) dan tahunan (×365). Tanpa akaun, tanpa penjejakan — hanya kiraan di pelayar anda.",
+      "sections": [
+        {
+          "title": "Telefon anda bukan satu perkara sahaja",
+          "paragraphs": [
+            "Ia adalah peta, kamera, messenger, dompet dan tempat untuk berehat. Satu jumlah sahaja tidak boleh menentukan penggunaan mana yang penting bagi anda.",
+            "Gunakan jumlah itu untuk bertanya sama ada masa yang ingin anda kekalkan sedang disesakkan oleh semakan yang berlaku secara automatik. Perbezaan itu lebih berguna daripada satu skor masa skrin."
+          ]
+        },
+        {
+          "title": "Cari corak sebelum peraturan",
+          "paragraphs": [
+            "Perhatikan pencetus sebelum aplikasi dibuka: kebosanan, pemberitahuan, rehat antara tugasan, atau bahagian kerja yang sukar.",
+            "Peraturan yang sepadan dengan pencetusnya berfungsi lebih baik — pemberitahuan yang lebih senyap, skrin utama yang berbeza, atau sempadan untuk satu aplikasi. Jika anda ingin mengehadkan sosial khususnya, lihat masa media sosial dan cara mengehadkannya di iPhone."
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "title": "Masukkan penggunaan telefon harian",
+          "copy": "Gunakan hari yang tipikal, bukan hari terbaik atau terburuk anda."
+        },
+        {
+          "title": "Baca jumlahnya",
+          "copy": "Semak mingguan dan tahunan untuk melihat tabiat dalam skala besar."
+        },
+        {
+          "title": "Cari bahagian untuk diubah",
+          "copy": "Asingkan penggunaan berguna daripada semakan yang tidak anda rancang."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Adakah ia percuma?",
+          "answer": "Ya. Ia berjalan di pelayar anda tanpa akaun atau bayaran."
+        },
+        {
+          "question": "Di manakah saya mencari purata harian saya?",
+          "answer": "Tetapan → Masa Skrin → Lihat Semua Aktiviti Aplikasi & Laman Web. Gunakan paparan Hari atau Minggu."
+        },
+        {
+          "question": "Bolehkah ia melihat aplikasi saya?",
+          "answer": "Tidak. Anda masukkan nombor itu sendiri; Klippy tidak pernah bersambung ke telefon anda."
+        }
+      ]
+    },
+    "social-media-time-calculator": {
+      "title": "Kalkulator Masa Media Sosial — Jumlah mingguan, bulanan & tahunan | Klippy",
+      "description": "Kira masa media sosial seminggu, sebulan dan setahun. Masukkan purata harian untuk satu aplikasi atau semua sosial — peribadi dan segera.",
+      "eyebrow": "Kalkulator masa media sosial",
+      "h1": "Lihat bagaimana masa media sosial terkumpul.",
+      "lead": "Masukkan purata harian sosial anda dan lihat sebagai jumlah mingguan, bulanan dan tahunan. Kekalkan apa yang anda hargai, ubah apa yang terasa automatik.",
+      "answer": "Jumlahkan aplikasi sosial anda dalam Masa Skrin iPhone, masukkan purata harian, dan Klippy menukarnya kepada jumlah jangka panjang. Gunakannya untuk satu aplikasi atau seluruh kategori.",
+      "sections": [
+        {
+          "title": "Jumlah lebih jelas daripada perasaan",
+          "paragraphs": [
+            "‘Saya menghabiskan terlalu banyak masa di media sosial’ sukar untuk diambil tindakan. Satu nombor — contohnya, 1.5j/hari ≈ 22 hari penuh setahun — memberi anda sesuatu yang konkrit untuk dipertimbangkan.",
+            "Tidak semuanya terbuang; media sosial juga cara ramai orang bekerja, belajar dan berhubung. Soalan yang berguna ialah sama ada masa itu sepadan dengan niat anda."
+          ]
+        },
+        {
+          "title": "Jadikan langkah seterusnya spesifik",
+          "paragraphs": [
+            "Pilih satu aplikasi yang menukar semakan pantas kepada sesi yang lebih panjang. Perhatikan bila anda membukanya dan apa yang anda lakukan sejurus sebelumnya.",
+            "Jika anda memutuskan untuk menambah sempadan, biarkan aplikasi berguna terbuka dan fokus pada beberapa yang menarik anda kembali. Untuk pilihan di iPhone, lihat cara mengehadkan media sosial di iPhone dan Masa Skrin vs penyekat aplikasi."
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "title": "Buka pecahannya",
+          "copy": "Dalam Masa Skrin, semak kategori Sosial atau satu aplikasi."
+        },
+        {
+          "title": "Masukkan purata harian",
+          "copy": "Gunakan satu aplikasi atau jumlah gabungan."
+        },
+        {
+          "title": "Pilih satu sempadan",
+          "copy": "Mulakan dengan aplikasi yang terasa paling automatik."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Bolehkah saya mengira satu aplikasi sahaja?",
+          "answer": "Ya. Masukkan purata untuk Instagram, TikTok, YouTube, dan lain-lain, atau jumlah gabungan."
+        },
+        {
+          "question": "Adakah Klippy mengumpul penggunaan sosial saya?",
+          "answer": "Tidak. Tiada apa yang dihantar kepada Klippy atau akaun anda."
+        },
+        {
+          "question": "Bagaimana jika saya memerlukannya untuk kerja?",
+          "answer": "Kekalkan penggunaan kerja dan fokuskan sempadan pada semakan di luar tujuan itu."
+        }
+      ]
+    },
+    "how-to-check-screen-time-iphone": {
+      "title": "Cara Menyemak Masa Skrin di iPhone — Harian, mingguan & mengikut aplikasi | Klippy",
+      "description": "Cara mencari Masa Skrin di iPhone: lihat purata harian, jumlah mingguan dan pecahan mengikut aplikasi, kemudian gunakannya dalam kalkulator Klippy.",
+      "eyebrow": "Cara menyemak masa skrin di iPhone",
+      "h1": "Cara mencari Masa Skrin di iPhone.",
+      "lead": "iPhone anda sudah menjejaki purata harian, trend mingguan dan pecahan mengikut aplikasi. Di sini tempat mencarinya dan nombor mana untuk digunakan dalam kalkulator.",
+      "answer": "Pergi ke Tetapan → Masa Skrin → Lihat Semua Aktiviti Aplikasi & Laman Web. Togol Hari/Minggu untuk mencari purata yang tipikal. Pecahan mengikut aplikasi ada di skrin yang sama.",
+      "sections": [
+        {
+          "title": "Pilih minggu yang tipikal, bukan satu hari sahaja",
+          "paragraphs": [
+            "Satu hari boleh mengelirukan — perjalanan, panggilan panjang atau tontonan berlebihan hujung minggu boleh memesongkannya. Paparan Minggu melicinkan outlier tersebut.",
+            "Gunakan purata harian yang ditunjukkan di atas untuk paparan Minggu. Ia adalah input paling berguna untuk kalkulator dan untuk paparan hari."
+          ]
+        },
+        {
+          "title": "Semak pecahannya, bukan hanya jumlahnya",
+          "paragraphs": [
+            "Jumlah memberitahu berapa banyak, pecahan memberitahu di mana. Bandingkan aplikasi yang anda gunakan secara sengaja dengan yang anda buka tanpa perancangan.",
+            "Perbezaan itu membantu anda memilih langkah seterusnya yang realistik dan bukannya matlamat umum ‘kurangkan penggunaan telefon’."
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "title": "Buka Tetapan",
+          "copy": "Ketik Masa Skrin dalam senarai Tetapan utama."
+        },
+        {
+          "title": "Buka Aktiviti Aplikasi & Laman Web",
+          "copy": "Pilih Lihat Semua untuk melihat Hari/Minggu dan senarai setiap aplikasi."
+        },
+        {
+          "title": "Salin nombor harian yang tipikal",
+          "copy": "Gunakannya dalam kalkulator untuk melihat jumlah mingguan/tahunan."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Bolehkah saya melihat masa untuk satu aplikasi?",
+          "answer": "Ya. Senarai aktiviti menunjukkan setiap aplikasi dan kategori; ketik aplikasi untuk butiran harian/mingguannya."
+        },
+        {
+          "question": "Mengapa Masa Skrin tiada?",
+          "answer": "Ia mungkin dimatikan. Di Masa Skrin, ketik Hidupkan dan pilih peranti anda."
+        },
+        {
+          "question": "Bolehkah saya menggunakan jumlah mingguan?",
+          "answer": "Ya. Bahagikan jumlah mingguan dengan 7 untuk mendapat purata harian."
+        }
+      ]
+    },
+    "how-to-reduce-screen-time-iphone": {
+      "title": "Cara Mengurangkan Masa Skrin di iPhone (tanpa menyekat berlebihan) | Klippy",
+      "description": "Cara praktikal mengurangkan masa skrin di iPhone: cari pencetus, senyapkan pemberitahuan, gunakan Fokus, atau tambah sempadan untuk satu aplikasi.",
+      "eyebrow": "Cara mengurangkan masa skrin di iPhone",
+      "h1": "Kurangkan masa skrin dengan mengubah satu perkara berguna terlebih dahulu.",
+      "lead": "‘Kurangkan penggunaan telefon’ itu terlalu umum. Perubahan yang lebih kecil — lebih sedikit makluman, jadual Fokus, atau sempadan untuk satu aplikasi — lebih mudah dikekalkan dan lebih mudah diukur.",
+      "answer": "Mulakan dengan pecahan Masa Skrin anda, pilih satu pencetus berulang (pemberitahuan, kebosanan, waktu tertentu), dan padankan alatnya: senyapkan makluman, Fokus, Had Aplikasi/Masa Henti, atau penyekat aplikasi terpilih untuk beberapa aplikasi yang terbuka secara automatik.",
+      "sections": [
+        {
+          "title": "Pilih tingkah laku, bukan sekadar nombor",
+          "paragraphs": [
+            "‘Berhenti membuka TikTok selepas 10 malam’ lebih jelas daripada ‘gunakan telefon 1j kurang’. Yang pertama menunjuk kepada tetapan; yang kedua memerlukan kekuatan kemahuan pada saat itu.",
+            "Apabila tingkah laku itu spesifik, anda boleh membiarkan aplikasi berguna tidak terusik dan membuat peraturan hanya di tempat masalah berlaku."
+          ]
+        },
+        {
+          "title": "Pastikan persediaan praktikal",
+          "paragraphs": [
+            "Jika peraturan menyekat aplikasi yang anda perlukan, anda akan memintasnya. Fokus pada 1–2 aplikasi yang mencipta semakan automatik.",
+            "Perhatikan apa yang membuat anda meninggalkan persediaan — terlalu luas, terlalu mudah diabaikan, atau menyelesaikan pencetus yang salah. Selaraskan itu, bukan motivasi anda. Bandingkan Masa Skrin vs penyekat aplikasi terpilih untuk memilih alat yang tepat."
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "title": "Cari momen berulang",
+          "copy": "Gunakan Masa Skrin untuk mengesan satu tabiat (contoh: kerja, waktu tidur, semasa menunggu)."
+        },
+        {
+          "title": "Buang pencetus jika boleh",
+          "copy": "Cuba tetapan pemberitahuan atau Fokus untuk semakan yang dicetuskan makluman."
+        },
+        {
+          "title": "Tambah sempadan jika perlu",
+          "copy": "Gunakan Had Aplikasi/Masa Henti atau penyekat untuk pembukaan automatik."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Perlukah saya menggunakan Had Aplikasi?",
+          "answer": "Gunakannya apabila bajet masa membantu. Jika aplikasi yang sama terbuka pada waktu rawak sepanjang hari, sempadan aplikasi terpilih mungkin lebih sesuai."
+        },
+        {
+          "question": "Bolehkah saya mengekalkan panggilan dan mesej?",
+          "answer": "Ya. Biarkan Telefon, Mesej dan yang penting di luar sebarang sekatan."
+        },
+        {
+          "question": "Apakah perubahan terkecil yang berguna?",
+          "answer": "Yang menyasarkan masalah sebenar tanpa menjadikan baki telefon anda menyusahkan."
+        }
+      ]
+    },
+    "how-to-limit-social-media-on-iphone": {
+      "title": "Cara Mengehadkan Media Sosial di iPhone — Kekalkan yang penting terbuka | Klippy",
+      "description": "Hadkan media sosial di iPhone tanpa menyekat seluruh telefon: makluman, Fokus, Had Aplikasi, Masa Henti dan penyekat aplikasi dibandingkan.",
+      "eyebrow": "Hadkan media sosial di iPhone",
+      "h1": "Hadkan media sosial tanpa mengehadkan seluruh telefon anda.",
+      "lead": "Anda tidak perlukan peraturan semua atau tiada. Pilih sama ada anda mahu lebih sedikit makluman, elaun harian, rehat berjadual, atau menjadikan aplikasi terpilih lebih sukar dibuka.",
+      "answer": "Padankan alat dengan pencetus: pemberitahuan → senyapkan makluman/Fokus; bajet masa → Had Aplikasi; jadual boleh diramal → Masa Henti; pembukaan automatik berulang → penyekat aplikasi terpilih. Biarkan aplikasi yang tidak dipilih tersedia.",
+      "sections": [
+        {
+          "title": "Alat berbeza untuk masalah berbeza",
+          "paragraphs": [
+            "Pemberitahuan ialah pencetus, Had Aplikasi ialah bajet, Masa Henti ialah jadual, dan penyekat aplikasi terpilih menjadikan aplikasi itu tidak tersedia secara lalai. Ia tidak boleh ditukar ganti.",
+            "Jika aplikasi yang sama terbuka tanpa pemberitahuan atau jadual, penyekat selalunya lebih langsung daripada pemasa yang boleh anda lanjutkan. Lihat bila setiap satu membantu dalam Masa Skrin vs penyekat aplikasi."
+          ]
+        },
+        {
+          "title": "Kekalkan apa yang anda perlukan",
+          "paragraphs": [
+            "Peta, Mesej, panggilan, perbankan dan aplikasi keluarga jarang perlu menjadi sebahagian daripada peraturan sosial.",
+            "Peraturan yang sempit lebih mudah dikekalkan kerana ia mengubah aplikasi bermasalah tanpa menjadikan setiap tugas biasa menyusahkan. Jika anda tidak pasti, mulakan dengan berapa banyak masa sosial yang anda sebenarnya ada."
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "title": "Namakan aplikasi bermasalah",
+          "copy": "Cari yang menukar semakan pantas kepada sesi panjang."
+        },
+        {
+          "title": "Padankan tetapannya",
+          "copy": "Pilih makluman, had, jadual atau penyekat dengan sengaja."
+        },
+        {
+          "title": "Biarkan yang penting terbuka",
+          "copy": "Biarkan aplikasi berguna di luar peraturan."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Bolehkah Fokus menyekat aplikasi?",
+          "answer": "Fokus mengurangkan pemberitahuan dan boleh menyembunyikan halaman Skrin Utama, tetapi secara amnya tidak menghalang pembukaan aplikasi."
+        },
+        {
+          "question": "Bolehkah saya mengekalkan Mesej?",
+          "answer": "Ya. Dengan pendekatan aplikasi terpilih, aplikasi yang tidak dipilih kekal tersedia."
+        },
+        {
+          "question": "Bagaimana jika saya memerlukannya untuk kerja?",
+          "answer": "Kekalkan penggunaan kerja dan gunakan sempadan hanya di luar tetingkap tersebut."
+        }
+      ]
+    },
+    "digital-detox-plan": {
+      "title": "Pelan Detoks Digital — Tetapan semula kecil yang boleh dikekalkan | Klippy",
+      "description": "Bina pelan detoks digital yang realistik: pilih satu sebab, satu pencetus dan satu sempadan kecil untuk dicuba selama seminggu.",
+      "eyebrow": "Pelan detoks digital",
+      "h1": "Pelan detoks digital yang sesuai dengan kehidupan sebenar.",
+      "lead": "Anda tidak perlu memadam semuanya atau pergi selama seminggu. Pilih satu bahagian hari anda yang ingin anda dapatkan semula dan satu pencetus untuk diubah, kemudian cubalah.",
+      "answer": "Pilih satu sebab (contoh: lebih sedikit gangguan semasa bekerja, waktu tidur yang lebih tenang), satu pencetus (aplikasi, pemberitahuan atau tetingkap masa), dan satu sempadan yang boleh anda kekalkan selama tujuh hari. Semak dan laraskan.",
+      "sections": [
+        {
+          "title": "Elakkan perangkap semua atau tiada",
+          "paragraphs": [
+            "Detoks yang terlalu luas terasa tegas tetapi sering gagal apabila anda masih memerlukan telefon untuk kerja, keluarga dan perjalanan.",
+            "Ujian yang sempit memberi data yang lebih baik. Jika isunya ialah skrol lewat malam, ubah hanya tetingkap itu — bukan setiap aplikasi sepanjang hari. Lihat cara berhenti menyemak terlalu kerap untuk idea pencetus."
+          ]
+        },
+        {
+          "title": "Tentukan untuk apa anda meluangkan ruang",
+          "paragraphs": [
+            "Pelan lebih mudah dikekalkan dengan tujuan yang jelas: kerja yang lebih fokus, waktu makan yang lebih hadir, atau rutin tidur yang lebih mudah.",
+            "Gunakan tujuan itu untuk memilih sempadan. Ia harus menyokong kehidupan yang anda mahukan, bukan menjadi peraturan lain yang anda benci."
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "title": "Pilih satu sebab",
+          "copy": "Namakan bahagian hari anda yang ingin anda lindungi."
+        },
+        {
+          "title": "Pilih satu pencetus",
+          "copy": "Pilih aplikasi, pemberitahuan atau tempat yang berulang kali menghalang."
+        },
+        {
+          "title": "Cuba satu sempadan",
+          "copy": "Buatnya cukup kecil untuk digunakan selama seminggu sebenar."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Berapa lama detoks harus berlangsung?",
+          "answer": "Ujian seminggu lebih berguna daripada pelan luas yang tidak dapat anda kekalkan. Lanjutkan hanya apa yang membantu."
+        },
+        {
+          "question": "Perlukah saya memadam media sosial?",
+          "answer": "Biasanya tidak. Sempadan di sekitar momen automatik selalunya sudah mencukupi."
+        },
+        {
+          "question": "Bagaimana jika saya memerlukan telefon untuk kerja?",
+          "answer": "Kekalkan fungsi kerja dan fokuskan detoks pada semakan yang mengganggu di luar itu."
+        }
+      ]
+    },
+    "stop-checking-phone": {
+      "title": "Cara Berhenti Kerap Menyemak Telefon — Pencetus sebelum semakan | Klippy",
+      "description": "Berhenti kerap menyemak telefon dengan mengubah pencetus: makluman, kebosanan atau gelung tabiat. Langkah praktikal yang boleh anda cuba hari ini.",
+      "eyebrow": "Berhenti kerap menyemak telefon",
+      "h1": "Berhenti menyemak dengan mengubah momen sebelum semakan.",
+      "lead": "Kebanyakan semakan bukan keputusan untuk menggunakan telefon. Ia adalah capaian automatik semasa jeda, pemberitahuan atau momen bosan — dan pencetus itu boleh diubah.",
+      "answer": "Perhatikan pencetus, kemudian ubah persediaan di sekelilingnya: senyapkan makluman yang mencetuskannya, jadikan aplikasi sedikit lebih sukar dibuka, atau letakkan tindakan seterusnya yang lebih berguna di tempat yang sama.",
+      "sections": [
+        {
+          "title": "Semakan selalunya ialah gelung, bukan pilihan",
+          "paragraphs": [
+            "Tangan bergerak sebelum anda memutuskan apa yang anda mahu daripada telefon. Sebab itulah kekuatan kemahuan pada saat itu terasa sukar.",
+            "Cipta jeda kecil dengan mengubah pencetus, akses atau persekitaran — cukup untuk memilih, bukan bergantung pada kawalan sempurna."
+          ]
+        },
+        {
+          "title": "Jadikan tindakan yang lebih baik lebih mudah",
+          "paragraphs": [
+            "Jika anda menyemak semasa menunggu, letakkan buku atau buku nota di situ. Jika anda menyemak di katil, cas telefon di luar bilik. Jadikan alternatif sama mudah dengan tabiat lama.",
+            "Jika satu aplikasi ialah destinasi biasa, sempadan aplikasi terpilih boleh menjadikan pembukaan automatik itu kurang selesa manakala yang lain kekal terbuka. Bandingkan alat dalam Masa Skrin vs penyekat aplikasi."
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "title": "Perhatikan pencetus",
+          "copy": "Waktu, perasaan atau pemberitahuan apa yang muncul sejurus sebelum capaian?"
+        },
+        {
+          "title": "Ubah satu bahagian gelung",
+          "copy": "Senyapkan makluman, alihkan aplikasi, atau tambah jarak."
+        },
+        {
+          "title": "Semak hasil sebenar",
+          "copy": "Kekalkan apa yang membantu, laraskan apa yang menyukarkan hidup."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Mengapa saya menyemak tanpa pemberitahuan?",
+          "answer": "Menyemak boleh menjadi tindak balas yang dipelajari terhadap jeda, tekanan atau kebosanan — bukan hanya makluman."
+        },
+        {
+          "question": "Perlukah saya mematikan semua pemberitahuan?",
+          "answer": "Mulakan dengan beberapa yang menarik anda ke semakan yang tidak diingini; kekalkan yang berguna."
+        },
+        {
+          "question": "Bolehkah penyekat membantu?",
+          "answer": "Ya, apabila 1–2 aplikasi yang sama ialah destinasi berulang."
+        }
+      ]
+    },
+    "screen-time-vs-app-blocker": {
+      "title": "Masa Skrin vs Penyekat Aplikasi — Alat iPhone mana sesuai dengan tabiat anda? | Klippy",
+      "description": "Had Aplikasi & Masa Henti Masa Skrin vs Fokus vs penyekat aplikasi terpilih. Ketahui alat iPhone mana yang sepadan dengan pencetus anda.",
+      "eyebrow": "Masa Skrin vs penyekat aplikasi",
+      "h1": "Masa Skrin dan penyekat aplikasi menyelesaikan masalah yang berbeza.",
+      "lead": "Had Aplikasi, Masa Henti, Fokus dan penyekat aplikasi terpilih sering dikelirukan. Pilihan yang tepat bergantung sama ada anda memerlukan bajet, jadual, lebih sedikit makluman, atau untuk menjadikan aplikasi terpilih tidak tersedia secara lalai.",
+      "answer": "Gunakan Masa Skrin untuk laporan, Had Aplikasi dan Masa Henti; Fokus untuk pemberitahuan dan Skrin Utama; penyekat aplikasi terpilih apabila beberapa aplikasi perlu disekat secara lalai manakala baki telefon anda kekal berguna.",
+      "sections": [
+        {
+          "title": "Apabila Masa Skrin paling sesuai",
+          "paragraphs": [
+            "Had Aplikasi menetapkan elaun harian, Masa Henti menetapkan jadual, dan Masa Skrin menunjukkan ke mana masa pergi. Bagus untuk kesedaran, bajet dan tetingkap yang boleh diramal.",
+            "Untuk pembukaan automatik rawak bagi 1–2 aplikasi yang sama, bajet masa mungkin mudah dilanjutkan — sekatan lalai lebih langsung."
+          ]
+        },
+        {
+          "title": "Apabila sempadan aplikasi terpilih paling sesuai",
+          "paragraphs": [
+            "Penyekat bertanya: aplikasi terpasang mana yang mencipta masalah, dan bolehkah yang lain kekal berguna? Fella memastikan aplikasi yang anda pilih kekal disekat secara lalai; aplikasi yang tidak dipilih kekal tersedia.",
+            "Ia bukan penyekat laman web atau sistem MDM. Ia adalah sempadan sempit untuk tabiat yang anda namakan dalam cara mengurangkan atau pelan detoks anda."
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "title": "Namakan masalahnya",
+          "copy": "Makluman, jumlah harian, jadual atau pembukaan automatik berulang?"
+        },
+        {
+          "title": "Pilih alat yang sepadan",
+          "copy": "Fokus, Had Aplikasi/Masa Henti atau penyekat."
+        },
+        {
+          "title": "Kekalkan ia sempit",
+          "copy": "Biarkan aplikasi berguna tersedia."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Bolehkah Masa Skrin menyekat aplikasi?",
+          "answer": "Ia mempunyai Had Aplikasi dan Masa Henti. Gunakannya untuk bajet/jadual; penyekat adalah untuk aplikasi terpilih yang tidak tersedia secara lalai."
+        },
+        {
+          "question": "Adakah Fokus menyekat aplikasi?",
+          "answer": "Fokus menyenyapkan pemberitahuan dan boleh menyembunyikan halaman, tetapi secara amnya tidak menyekat pembukaan aplikasi."
+        },
+        {
+          "question": "Bolehkah saya mengekalkan panggilan dan mesej?",
+          "answer": "Ya. Dengan pendekatan aplikasi terpilih, hanya aplikasi yang anda pilih disekat."
+        }
+      ]
+    }
+  },
+  "guidePage": {
+    "shortAnswer": "Jawapan ringkas",
+    "nextStepEyebrow": "Langkah praktikal seterusnya",
+    "useCalculatorCta": "Gunakan kalkulator masa skrin",
+    "faqTitle": "Soalan lazim"
+  },
+  "notFound": {
+    "title": "Halaman tidak ditemui",
+    "description": "Halaman yang anda cari tidak wujud."
+  }
+}

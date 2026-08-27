@@ -1,0 +1,778 @@
+{
+  "site": {
+    "name": "Klippy",
+    "title": "Klippy | Kostenlose Tools für ein ruhigeres Handy",
+    "description": "Einfache, kostenlose Tools für die Handy-Gewohnheiten, die dich immer wieder zurückholen."
+  },
+  "header": {
+    "howItWorks": "So funktioniert's",
+    "guides": "Ratgeber",
+    "about": "Über uns",
+    "calculator": "Rechner",
+    "tryFella": "Fella testen",
+    "homeAria": "Klippy Startseite"
+  },
+  "footer": {
+    "privacy": "Datenschutz",
+    "terms": "AGB",
+    "support": "Hilfe",
+    "builtByFella": "Entwickelt von Fella",
+    "guidesLabel": "Ratgeber",
+    "guidesAria": "Ratgeber zur Bildschirmzeit"
+  },
+  "guides": [
+    {
+      "label": "Bildschirmzeit nach Alter",
+      "slug": "screen-time-by-age-calculator"
+    },
+    {
+      "label": "Bildschirmzeit in Tagen",
+      "slug": "screen-time-in-days"
+    },
+    {
+      "label": "Handynutzungs-Rechner",
+      "slug": "phone-use-calculator"
+    },
+    {
+      "label": "Social-Media-Zeit",
+      "slug": "social-media-time-calculator"
+    },
+    {
+      "label": "Bildschirmzeit auf dem iPhone prüfen",
+      "slug": "how-to-check-screen-time-iphone"
+    },
+    {
+      "label": "Bildschirmzeit auf dem iPhone reduzieren",
+      "slug": "how-to-reduce-screen-time-iphone"
+    },
+    {
+      "label": "Social Media auf dem iPhone begrenzen",
+      "slug": "how-to-limit-social-media-on-iphone"
+    },
+    {
+      "label": "Digital-Detox-Plan",
+      "slug": "digital-detox-plan"
+    },
+    {
+      "label": "Weniger aufs Handy schauen",
+      "slug": "stop-checking-phone"
+    },
+    {
+      "label": "Bildschirmzeit vs. App-Blocker",
+      "slug": "screen-time-vs-app-blocker"
+    }
+  ],
+  "home": {
+    "title": "Mach dein Handy\neinfacher wegzulegen.",
+    "lead": "Ein kostenloses Tool, um die Handy-Gewohnheit zu finden, die dich immer wieder zurückholt. Und um eine kleinere Grenze zu wählen, die wirklich zu deinem Alltag passt.",
+    "cta": "Kostenloses Tool testen",
+    "sub": "Ohne Anmeldung. Ohne Download. Einfach ein sinnvoller Anfang.",
+    "howItWorksAria": "So funktioniert's",
+    "steps": [
+      {
+        "number": "01",
+        "title": "Den Moment benennen",
+        "description": "Eine konkrete Gewohnheit lässt sich leichter ändern als das vage Ziel, weniger am Handy zu sein."
+      },
+      {
+        "number": "02",
+        "title": "Eine kleinere Grenze wählen",
+        "description": "Behalte die Apps, die du brauchst. Baue nur dort eine Hürde ein, wo der automatische Griff beginnt."
+      },
+      {
+        "number": "03",
+        "title": "Im Alltag testen",
+        "description": "Nutze das Ergebnis als praktischen Ausgangspunkt und passe es an deinen echten Tagesablauf an."
+      }
+    ],
+    "aboutEyebrow": "Ein ruhigeres Handy fängt klein an.",
+    "aboutTitle": "Du musst nicht dein ganzes digitales Leben löschen.",
+    "aboutCopy": "Klippy entwickelt einfache, kostenlose Tools, die dir helfen, die wenigen Apps und Momente zu finden, bei denen sich eine Veränderung zuerst lohnt.",
+    "aboutCta": "Fella entdecken"
+  },
+  "about": {
+    "metaTitle": "Über Klippy — Kleine Tools für ein ruhigeres Handy",
+    "metaDescription": "Klippy bietet kostenlose, private Tools, die dir helfen, deine Handy-Gewohnheiten klar zu sehen und einen kleinen, realistischen nächsten Schritt zu wählen.",
+    "eyebrow": "Über Klippy",
+    "h1": "Kleine Tools für ein Handy, das sich nützlicher anfühlt.",
+    "lead": "Klippy ist für Menschen, die eine Handy-Gewohnheit ändern wollen, ohne daraus ein Vollzeitprojekt zu machen. Die Tools beginnen mit einer einfachen Frage und zielen auf eine hilfreiche Antwort.",
+    "whyEyebrow": "Warum es Klippy gibt",
+    "whyTitle": "Die meisten Ratschläge zum Handy verlangen zu viel auf einmal.",
+    "whyParagraphs": [
+      "Es ist leicht zu sagen, du solltest weniger am Handy sein. Viel schwerer ist es zu entscheiden, was das an einem normalen Tag bedeutet, an dem dein Handy auch dein Weg ist, mit Menschen zu sprechen, den Weg zu finden, zu bezahlen, zu arbeiten, zu lernen und zu entspannen.",
+      "Klippy geht von einer engeren Perspektive aus. Manche Dinge an deinem Handy sind nützlich. Manche Apps oder Momente ziehen dich vielleicht in eine Gewohnheit, die du nicht bewusst gewählt hast. Das sind unterschiedliche Probleme und sie verdienen unterschiedliche Antworten.",
+      "Ziel ist nicht, Technik wie ein moralisches Versagen wirken zu lassen. Sondern die Abwägungen sichtbarer zu machen, damit du selbst entscheiden kannst, was sich zu ändern lohnt."
+    ],
+    "values": [
+      {
+        "title": "Kostenlos an erster Stelle",
+        "copy": "Ein Ergebnis sollte nicht hinter einer Anmeldung versteckt sein. Klippy-Tools funktionieren ohne Konto, Bezahlung oder App-Installation."
+      },
+      {
+        "title": "Privat von Anfang an",
+        "copy": "Der Bildschirmzeit-Rechner arbeitet mit den Werten, die du in deinem Browser eingibst. Er verbindet sich nicht mit deinem iPhone und braucht keine privaten Aktivitätsdaten."
+      },
+      {
+        "title": "Nützlich ohne aufdringliches Verkaufen",
+        "copy": "Ein Tool sollte für sich stehen. Wenn danach ein anderes Produkt wirklich hilfreich ist, sollte dieser nächste Schritt naheliegend und optional sein."
+      }
+    ],
+    "nextEyebrow": "Wie es weitergeht",
+    "nextTitle": "Beginne mit einem ehrlichen Bild der Gewohnheit.",
+    "nextParagraphs": [
+      "Das erste Klippy-Tool ist ein Bildschirmzeit-Rechner. Er rechnet eine durchschnittliche Tageszahl in Werte für Woche, Jahr und längere Zeiträume um. Er kann dir nicht sagen, welche Stunden es wert sind, sie zu behalten. Aber er gibt dir einen klareren Ausgangspunkt, um das selbst zu entscheiden.",
+      "Künftige Tools folgen demselben Prinzip. Sie sollen einfach genug sein, um sie in einer Minute zu nutzen, und konkret genug, um bei einer echten Entscheidung zu helfen. Keine generische Bewertung. Kein Versprechen, dass eine einzige Einstellung alles löst."
+    ],
+    "nextCta": "Zum Bildschirmzeit-Rechner",
+    "fellaEyebrow": "Entwickelt mit Fella",
+    "fellaTitle": "Wenn die Antwort eine stärkere Grenze um wenige Apps ist, ist Fella für diesen nächsten Schritt da.",
+    "fellaCopy": "Fella ist ein iPhone App-Blocker für ausgewählte ablenkende Apps. Apps, die du nicht auswählst, bleiben verfügbar – das Nützliche an deinem Handy wird also nicht eingeschränkt, außer du willst es so.",
+    "fellaCta": "Fella entdecken"
+  },
+  "howItWorks": {
+    "metaTitle": "Wie Klippy funktioniert — Mit der Gewohnheit beginnen, nicht mit einem Neustart",
+    "metaDescription": "Wie Klippy funktioniert: kostenlose, private Browser-Tools, die eine tägliche Handy-Zahl in einen nützlichen nächsten Schritt verwandeln – ohne Konto, ohne Tracking.",
+    "eyebrow": "So funktioniert's",
+    "h1": "Beginne mit der Gewohnheit, nicht mit einem kompletten Neustart.",
+    "lead": "Klippy bietet einfache, kostenlose Tools, um Handy-Gewohnheiten praktischer zu betrachten. Es geht nicht darum, jede Minute am Bildschirm schlecht zu fühlen. Sondern darum, die Momente zu bemerken, die fast ohne Nachdenken passieren, und zu entscheiden, ob sie noch zu dir passen.",
+    "ideaEyebrow": "Die Grundidee",
+    "ideaTitle": "Eine hilfreiche Antwort sollte klar sein, bevor sie etwas von dir verlangt.",
+    "ideaCopy": "Deshalb laufen Klippy-Tools in deinem Browser. Es gibt kein Konto zum Anlegen, keinen Bezahlbildschirm bis zum Ergebnis und keine Verbindung zu deinen privaten Handydaten. Du gibst wenige Informationen ein und bekommst eine konkrete Einordnung.",
+    "steps": [
+      {
+        "number": "01",
+        "title": "Schau auf einen Moment",
+        "copy": "Beginne mit einer konkreten App, Tageszeit oder Situation. Einen Feed im Bett zu prüfen ist leichter zu verstehen als der breit gefasste Plan, insgesamt weniger am Handy zu sein."
+      },
+      {
+        "number": "02",
+        "title": "Mach die Zahl nützlich",
+        "copy": "Der Bildschirmzeit-Rechner rechnet eine durchschnittliche Tageszahl in Wochen-, Jahres- und Langzeitwerte um. Die Rechnung ist simpel. Sie an einem Ort zu sehen, kann die Abwägung leichter erkennbar machen."
+      },
+      {
+        "number": "03",
+        "title": "Wähle den kleinsten nächsten Schritt",
+        "copy": "Vielleicht lässt du alles wie es ist. Vielleicht verschiebst du eine App, stellst einen Hinweis stumm oder machst eine Ablenkung etwas schwerer zu öffnen. Die sinnvolle Veränderung ist die, die zu deinem echten Alltag passt."
+      }
+    ],
+    "calcEyebrow": "Was der Rechner macht",
+    "calcTitle": "Er macht eine vertraute Zahl besser vorstellbar.",
+    "calcParagraphs": [
+      "Gib eine durchschnittliche tägliche Bildschirmzeit in Stunden ein. Klippy berechnet die passenden Wochen-, Monats- und Jahreswerte und schätzt, wie sich dieser Wert zwischen deinem aktuellen Alter und 75 Jahren summiert.",
+      "Der Rechner weiß nicht, welche Apps du nutzt, was du beruflich machst oder ob Zeit am Handy angenehm, notwendig oder ablenkend ist. Er behandelt jede Stunde gleich. Das ist Absicht. Er ist ein einfaches Tool zur Bewusstmachung, keine Bewertung und keine Diagnose.",
+      "Wenn das Ergebnis hoch wirkt, ist die nächste Frage nicht unbedingt, wie du all diese Zeit streichst. Besser ist: Welcher Anteil davon fühlt sich automatisch, ungeplant oder schwer zu stoppen an, sobald er begonnen hat?"
+    ],
+    "calcCta": "Zum Bildschirmzeit-Rechner",
+    "faqEyebrow": "Fragen, die oft aufkommen",
+    "faqTitle": "Auch eine kleine Grenze kann etwas bewirken.",
+    "faqs": [
+      {
+        "question": "Muss ich ein Konto erstellen?",
+        "answer": "Nein. Klippy-Tools sollen sofort im Browser funktionieren. Der Rechner braucht keine Anmeldung und keine Bezahlung."
+      },
+      {
+        "question": "Liest Klippy meine Handy-Aktivitäten aus?",
+        "answer": "Nein. Er nutzt nur die Zahl, die du in den Rechner eingibst. Er verbindet sich nicht mit deinem iPhone und erstellt keine Aufschlüsselung nach Apps."
+      },
+      {
+        "question": "Was mache ich, nachdem ich mein Ergebnis gesehen habe?",
+        "answer": "Suche nach einem klaren Muster. Vielleicht ist es eine App, die du bei der Arbeit prüfst, ein Feed, den du im Bett öffnest, oder eine Gewohnheit, die immer dann startet, wenn du auf etwas wartest."
+      },
+      {
+        "question": "Was, wenn ich den Großteil meines Handys weiterhin brauche?",
+        "answer": "Das ist normal. Eine sinnvolle Grenze muss nicht dein ganzes Handy unbrauchbar machen. Beginne mit den wenigen Apps oder Momenten, die das Problem verursachen."
+      }
+    ],
+    "fellaEyebrow": "Wenn wenige Apps das Problem sind",
+    "fellaTitle": "Fella hält ausgewählte ablenkende iPhone-Apps standardmäßig blockiert, während nicht ausgewählte Apps verfügbar bleiben können.",
+    "fellaCopy": "Das ist ein anderer Schritt als das Berechnen deiner Bildschirmzeit. Er kann hilfreich sein, wenn du bereits erkannt hast, welche Apps du weniger automatisch machen willst.",
+    "fellaCta": "Fella entdecken"
+  },
+  "calculator": {
+    "metaTitle": "Bildschirmzeit-Rechner — Sieh deine Handyzeiten pro Woche, Jahr und bis 75",
+    "metaDescription": "Kostenloser Bildschirmzeit-Rechner: Gib tägliche Stunden und Alter ein und sieh Wochen-, Jahres- und Lebenszeit-Werte. Privat, ohne Anmeldung, direkt im Browser.",
+    "eyebrow": "Kostenloser Bildschirmzeit-Rechner",
+    "h1": "Sieh, wie sich deine Handyzeiten summieren.",
+    "lead": "Gib deine durchschnittliche tägliche Bildschirmzeit ein. Erhalte einen einfachen Überblick über Stunden, Tage und Jahre, die daraus werden können – und wähle dann eine kleine Veränderung zum Testen.",
+    "inputLabel": "Durchschnittliche tägliche Bildschirmzeit",
+    "reduceAria": "Bildschirmzeit verringern",
+    "increaseAria": "Bildschirmzeit erhöhen",
+    "help": "Schau unter Einstellungen → Bildschirmzeit auf deinem iPhone nach, wenn du dir nicht sicher bist, was du eingeben sollst. Nimm einen typischen Tag, nicht deinen besten oder schlechtesten.",
+    "ageLabel": "Dein Alter",
+    "ageHelp": "Wird nur verwendet, um die Bildschirmzeit von jetzt bis 75 zu schätzen. Nichts wird gespeichert.",
+    "calcCta": "Meine Zeit berechnen",
+    "results": {
+      "everyWeek": "Pro Woche",
+      "everyMonth": "Pro Monat",
+      "everyYear": "Pro Jahr",
+      "fullDays": "Volle Tage pro Jahr"
+    },
+    "atThisRate": "Bei diesem Wert",
+    "atThisRateValue": "Etwa {years} Jahre Bildschirmzeit von jetzt bis 75.",
+    "atThisRateCopy": "Diese Schätzung zählt jede Stunde gleich. Sie ist ein grobes Tool zur Bewusstmachung, kein Urteil darüber, wie du dein Handy nutzt.",
+    "wakingLabel": "Anteil an 16 Wachstunden",
+    "smallReductionTitle": "Eine kleine Reduktion summiert sich",
+    "smallReductionCopy": "Eine Stunde weniger pro Tag spart etwa {days} volle Tage pro Jahr.",
+    "smallReductionDesc": "Du musst nicht jeden Bildschirm streichen. Beginne mit der einen App oder dem einen Moment, der in eine ungeplante Session übergeht.",
+    "fellaTitle": "Wenn wenige Apps das Problem sind",
+    "fellaCopyTitle": "Fella kann die ausgewählten Apps blockieren, die dich immer wieder zurückholen.",
+    "fellaCopy": "Apps, die du nicht auswählst, können verfügbar bleiben – dein nützliches Handy bleibt also nützlich.",
+    "fellaCta": "Fella im App Store ansehen",
+    "faqTitle": "FAQ zum Bildschirmzeit-Rechner",
+    "axisLabels": {
+      "zero": "0 Std.",
+      "middle": "8 Std.",
+      "max": "16 Std."
+    },
+    "faqs": [
+      {
+        "question": "Wie wird die Schätzung berechnet?",
+        "answer": "Wir multiplizieren deinen Tagesdurchschnitt mit 7, 30,44 und 365 für Woche/Monat/Jahr und mit den Jahren von deinem Alter bis 75 für die Lebenszeit-Ansicht. Jahresstunden geteilt durch 24 ergeben volle Tage."
+      },
+      {
+        "question": "Trackt dieses Tool mein iPhone?",
+        "answer": "Nein. Die Berechnung passiert in deinem Browser mit der Zahl, die du eingibst. Nichts wird mit deinem Handy verbunden oder von Klippy gespeichert."
+      },
+      {
+        "question": "Wo finde ich meine iPhone-Bildschirmzeit?",
+        "answer": "Öffne Einstellungen → Bildschirmzeit → Alle App- & Website-Aktivitäten anzeigen. Wechsle zwischen Tag und Woche, um einen typischen Tagesdurchschnitt zu finden."
+      },
+      {
+        "question": "Was mache ich mit dem Ergebnis?",
+        "answer": "Achte auf die am wenigsten bewusste Zeit – einen Feed, den du beim Warten öffnest, ein Spiel zum Aufschieben einer Aufgabe oder spätes Scrollen am Abend – und teste dort eine kleine Grenze."
+      }
+    ]
+  },
+  "seoPages": {
+    "screen-time-by-age-calculator": {
+      "title": "Bildschirmzeit nach Alter Rechner — Wie viel bis 75? | Klippy",
+      "description": "Sieh, wie sich deine tägliche Bildschirmzeit von deinem aktuellen Alter bis 75 summiert. Gib tägliche Stunden und Alter für eine private Sofort-Schätzung ein.",
+      "eyebrow": "Bildschirmzeit nach Alter Rechner",
+      "h1": "Sieh, worauf sich deine Bildschirmzeit von jetzt bis 75 summiert.",
+      "lead": "Ein Tagesdurchschnitt wirkt anders neben den Jahren, die vor dir liegen. Gib dein Alter und deine tägliche Bildschirmzeit für eine einfache, private Schätzung ein – und wähle dann eine Gewohnheit zum Testen.",
+      "answer": "Klippy multipliziert deinen Tagesdurchschnitt mit den Jahren von deinem aktuellen Alter bis 75. Jede Stunde zählt gleich – betrachte es als Ausgangspunkt zur Bewusstmachung, nicht als Bewertung.",
+      "sections": [
+        {
+          "title": "Warum die Altersansicht hilft",
+          "paragraphs": [
+            "Dieselbe tägliche Gewohnheit hat mehr Zeit, sich zu wiederholen, wenn du jünger bist. Der Gesamtbetrag bis 75 macht eine abstrakte Routine konkret, ohne sie dramatisieren zu müssen.",
+            "Wenn du die Summe siehst, kannst du eine engere Frage stellen: Gibt es eine App, Tageszeit oder einen Auslöser, der den größten Teil der automatischen Zeit verursacht? Eine kleine Grenze dort lässt sich leichter halten als eine pauschale Beschränkung."
+          ]
+        },
+        {
+          "title": "Nützlich machen, nicht bewerten",
+          "paragraphs": [
+            "Der Rechner weiß nicht, welche Stunden für Arbeit, Familie, Lernen oder Entspannung sind. Nutze die Zahl, um die Handynutzung, die du schätzt, von den Checks ohne klaren Grund zu trennen.",
+            "Wenn dich das Ergebnis überrascht, beginne mit der am wenigsten bewussten Zeit. Behalte das Nützliche an deinem Handy und baue nur dort eine Hürde ein, wo der automatische Check beginnt. Siehe auch: Bildschirmzeit in vollen Tagen und wie du deinen Durchschnittswert auf dem iPhone findest."
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "title": "Prüfe deinen Tagesdurchschnitt",
+          "copy": "Öffne Einstellungen → Bildschirmzeit → Alle Aktivitäten anzeigen und nimm einen typischen Tageswert."
+        },
+        {
+          "title": "Gib dein Alter ein",
+          "copy": "Wird nur für die Schätzung bis 75 verwendet. Nichts wird gespeichert."
+        },
+        {
+          "title": "Wähle eine kleine Veränderung",
+          "copy": "Nimm eine App oder einen Moment, der sich automatisch anfühlt – nicht alles auf einmal."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Ist die Schätzung genau?",
+          "answer": "Nein. Es ist einfache Mathematik aus der Tageszahl, die du eingibst, multipliziert mit den Jahren bis 75. Nutze sie zur Einordnung, nicht als exakte Vorhersage."
+        },
+        {
+          "question": "Sieht Klippy meine Handydaten?",
+          "answer": "Nein. Das Tool läuft in deinem Browser und verbindet sich nie mit deinem iPhone."
+        },
+        {
+          "question": "Was sollte ich danach ausprobieren?",
+          "answer": "Teste eine Woche lang eine Grenze – zum Beispiel kein Social-Media-Feed im Bett oder ruhigere Benachrichtigungen während der Arbeit – und behalte, was hilft."
+        }
+      ]
+    },
+    "screen-time-in-days": {
+      "title": "Bildschirmzeit in Tagen — Stunden in volle 24-Stunden-Tage umrechnen | Klippy",
+      "description": "Rechne tägliche Bildschirmzeit in volle Tage pro Woche, Monat und Jahr um. Sieh Jahresstunden als 24-Stunden-Tage – kostenlos und privat.",
+      "eyebrow": "Bildschirmzeit in Tagen",
+      "h1": "Rechne deine Bildschirmzeit in volle Tage um.",
+      "lead": "Stunden über den Tag verteilt wirken oft harmlos. Klippy rechnet deinen Tagesdurchschnitt in volle 24-Stunden-Tage pro Jahr um, damit die Abwägung leichter vorstellbar wird.",
+      "answer": "Wir multiplizieren deine täglichen Stunden mit 365 für die Jahresstunden und teilen dann durch 24. Das ergibt das Äquivalent in vollen Tagen. Die Rechnung läuft sofort in deinem Browser.",
+      "sections": [
+        {
+          "title": "Warum volle Tage leichter vorstellbar sind",
+          "paragraphs": [
+            "Vier Stunden am Tag klingen wenig, bis du siehst, dass es über 60 volle Tage im Jahr sind. Die Tagesansicht rahmt dieselbe Zeit neu, ohne sie als verschwendet zu bezeichnen.",
+            "Diese Tage umfassen Arbeit, Karten, Nachrichten, Lernen und Erholung. Es geht nicht darum, alle Bildschirmzeit als schlecht zu labeln, sondern die Summe zu sehen, um einen Teil bewusst zu verändern. Probiere die Ansicht nach Alter für das langfristige Bild."
+          ]
+        },
+        {
+          "title": "Wenn dich die Zahl überrascht",
+          "paragraphs": [
+            "Beginne mit der am wenigsten bewussten Zeit: ein Feed, der beim Warten geöffnet wird, ein Spiel zum Aufschieben einer Aufgabe oder spätes Scrollen, das sich zieht.",
+            "Teste die kleinste Grenze, die zu deinem Alltag passt. Lass wichtige Apps verfügbar und verändere nur den Moment, der am meisten Reibung erzeugt. Praktische Wege zum Reduzieren auf dem iPhone können helfen."
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "title": "Finde deinen Durchschnittswert",
+          "copy": "Nutze den Tagesdurchschnitt in der iPhone-Bildschirmzeit (Tages-/Wochenansicht)."
+        },
+        {
+          "title": "Sieh die Jahressumme",
+          "copy": "Der Rechner zeigt Stunden und das Äquivalent in 24-Stunden-Tagen."
+        },
+        {
+          "title": "Wähle ein Experiment",
+          "copy": "Reduziere einen automatischen Check, statt einer perfekten Zahl hinterherzujagen."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Wie werden volle Tage berechnet?",
+          "answer": "Jahresstunden ÷ 24. Zum Beispiel 4 Std./Tag × 365 = 1.460 Std./Jahr ÷ 24 ≈ 60,8 volle Tage."
+        },
+        {
+          "question": "Bedeutet das, Bildschirmzeit ist verschwendet?",
+          "answer": "Nein. Die Tagesansicht ist eine neutrale Einordnung. Arbeit, Familie und Erholung können alle am Bildschirm stattfinden."
+        },
+        {
+          "question": "Kann ich das für eine einzelne App tun?",
+          "answer": "Ja. Gib den Tagesdurchschnitt für eine einzelne App oder Kategorie aus der Bildschirmzeit-Aufschlüsselung ein."
+        }
+      ]
+    },
+    "phone-use-calculator": {
+      "title": "Handynutzungs-Rechner — Tägliche bis jährliche Handyzeiten | Klippy",
+      "description": "Sieh, wie sich deine tägliche Handynutzung über Woche, Monat und Jahr summiert. Eine Zahl, sofortige Ergebnisse – ohne Anmeldung.",
+      "eyebrow": "Handynutzungs-Rechner",
+      "h1": "Ein einfacher Rechner für deine Handyzeiten.",
+      "lead": "Gib einen Tagesdurchschnitt ein und sieh ihn als Wochen-, Monats- und Jahreswerte. Nutze ihn, um den Teil der Handynutzung zu erkennen, den du wirklich ändern möchtest.",
+      "answer": "Klippy rechnet deine täglichen Handystunden in Wochen- (×7), Monats- (×30,44) und Jahreswerte (×365) um. Kein Konto, kein Tracking – nur Mathematik in deinem Browser.",
+      "sections": [
+        {
+          "title": "Dein Handy ist nicht nur eine Sache",
+          "paragraphs": [
+            "Es ist Karte, Kamera, Messenger, Geldbörse und Ort zum Entspannen. Eine Gesamtsumme kann nicht entscheiden, welche Nutzungen dir wichtig sind.",
+            "Nutze die Summe, um zu fragen, ob die Zeit, die du behalten willst, von Checks verdrängt wird, die automatisch passieren. Diese Unterscheidung ist nützlicher als ein pauschaler Bildschirmzeit-Wert."
+          ]
+        },
+        {
+          "title": "Achte auf Muster, bevor du Regeln aufstellst",
+          "paragraphs": [
+            "Achte auf den Auslöser, bevor sich die App öffnet: Langeweile, eine Benachrichtigung, eine Pause zwischen Aufgaben oder eine schwierige Arbeit, der du ausweichst.",
+            "Eine Regel, die zum Auslöser passt, funktioniert besser – leisere Benachrichtigungen, ein anderer Home-Bildschirm oder eine Grenze um eine App. Wenn du gezielt Social Media begrenzen willst, sieh dir Social-Media-Zeit und wie man sie auf dem iPhone begrenzt an."
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "title": "Gib die tägliche Handynutzung ein",
+          "copy": "Nimm einen typischen Tag, nicht deinen besten oder schlechtesten."
+        },
+        {
+          "title": "Lies die Gesamtsummen",
+          "copy": "Prüfe Woche und Jahr, um die Gewohnheit in größerem Maßstab zu sehen."
+        },
+        {
+          "title": "Finde den Teil zum Ändern",
+          "copy": "Trenne sinnvolle Nutzung von Checks, die du nicht geplant hast."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Ist es kostenlos?",
+          "answer": "Ja. Es läuft in deinem Browser ohne Konto oder Bezahlung."
+        },
+        {
+          "question": "Wo finde ich meinen Tagesdurchschnitt?",
+          "answer": "Einstellungen → Bildschirmzeit → Alle App- & Website-Aktivitäten anzeigen. Nutze die Tages- oder Wochenansicht."
+        },
+        {
+          "question": "Kann es meine Apps sehen?",
+          "answer": "Nein. Du gibst die Zahl selbst ein; Klippy verbindet sich nie mit deinem Handy."
+        }
+      ]
+    },
+    "social-media-time-calculator": {
+      "title": "Social-Media-Zeit Rechner — Wochen-, Monats- & Jahreswerte | Klippy",
+      "description": "Berechne Social-Media-Zeit pro Woche, Monat und Jahr. Gib den Tagesdurchschnitt für eine App oder alle Social Apps ein – privat und sofort.",
+      "eyebrow": "Social-Media-Zeit Rechner",
+      "h1": "Sieh, wie sich Social-Media-Zeit summiert.",
+      "lead": "Gib deinen täglichen Social-Media-Durchschnitt ein und sieh ihn als Wochen-, Monats- und Jahreswerte. Behalte, was du schätzt, und verändere, was automatisch wirkt.",
+      "answer": "Addiere deine Social Apps in der iPhone-Bildschirmzeit, gib den Tagesdurchschnitt ein und Klippy rechnet ihn in längere Zeiträume um. Nutze es für eine App oder eine ganze Kategorie.",
+      "sections": [
+        {
+          "title": "Eine Zahl ist klarer als ein Gefühl",
+          "paragraphs": [
+            "„Ich verbringe zu viel Zeit auf Social Media“ ist schwer umsetzbar. Eine Zahl – zum Beispiel 1,5 Std./Tag ≈ 22 volle Tage im Jahr – gibt dir etwas Konkretes zum Einordnen.",
+            "Nicht alles davon ist verschwendet; Social Media ist auch für viele Arbeit, Lernen und Kontaktpflege. Die sinnvolle Frage ist, ob die Zeit zu dem passt, was du eigentlich vorhattest."
+          ]
+        },
+        {
+          "title": "Mach den nächsten Schritt konkret",
+          "paragraphs": [
+            "Wähle eine App, bei der ein kurzer Check zu einer längeren Session wird. Achte darauf, wann du sie öffnest und was du kurz davor gemacht hast.",
+            "Wenn du eine Grenze einbauen willst, lass nützliche Apps offen und konzentriere dich auf die wenigen, die dich zurückholen. Für iPhone-Optionen sieh dir an, wie man Social Media auf dem iPhone begrenzt und Bildschirmzeit vs. App-Blocker."
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "title": "Öffne die Aufschlüsselung",
+          "copy": "Prüfe in der Bildschirmzeit die Kategorie Soziales oder eine einzelne App."
+        },
+        {
+          "title": "Gib den Tagesdurchschnitt ein",
+          "copy": "Nutze eine App oder die Gesamtsumme."
+        },
+        {
+          "title": "Wähle eine Grenze",
+          "copy": "Beginne mit der App, die sich am automatischsten anfühlt."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Kann ich eine einzelne App berechnen?",
+          "answer": "Ja. Gib den Durchschnitt für Instagram, TikTok, YouTube usw. oder eine Gesamtsumme ein."
+        },
+        {
+          "question": "Sammelt Klippy meine Social-Media-Nutzung?",
+          "answer": "Nein. Nichts wird an Klippy oder deine Konten gesendet."
+        },
+        {
+          "question": "Was, wenn ich es beruflich brauche?",
+          "answer": "Behalte die berufliche Nutzung und ziehe die Grenze nur bei Checks außerhalb dieses Zwecks."
+        }
+      ]
+    },
+    "how-to-check-screen-time-iphone": {
+      "title": "Bildschirmzeit auf dem iPhone prüfen — Tages-, Wochen- & App-Werte | Klippy",
+      "description": "So findest du die Bildschirmzeit auf dem iPhone: Tagesdurchschnitt, Wochensumme und Aufschlüsselung nach App ansehen und dann im Klippy-Rechner nutzen.",
+      "eyebrow": "Bildschirmzeit auf dem iPhone prüfen",
+      "h1": "So findest du deine Bildschirmzeit auf dem iPhone.",
+      "lead": "Dein iPhone erfasst bereits einen Tagesdurchschnitt, einen Wochentrend und eine Aufschlüsselung nach App. Hier siehst du, wo du das findest und welche Zahl du im Rechner nutzt.",
+      "answer": "Gehe zu Einstellungen → Bildschirmzeit → Alle App- & Website-Aktivitäten anzeigen. Wechsle zwischen Tag/Woche, um einen typischen Durchschnittswert zu finden. Die Aufschlüsselung nach App ist auf demselben Bildschirm.",
+      "sections": [
+        {
+          "title": "Nimm eine typische Woche, nicht einen einzelnen Tag",
+          "paragraphs": [
+            "Ein einzelner Tag kann täuschen – Reisen, ein langes Telefonat oder ein Wochenende mit viel Nutzung können verzerren. Die Wochenansicht glättet solche Ausreißer.",
+            "Nutze den oben angezeigten Tagesdurchschnitt für die Woche. Das ist der nützlichste Wert für den Rechner und für die Tagesansicht."
+          ]
+        },
+        {
+          "title": "Prüfe die Aufschlüsselung, nicht nur die Summe",
+          "paragraphs": [
+            "Die Summe sagt dir wie viel, die Aufschlüsselung sagt dir wo. Vergleiche die Apps, die du bewusst nutzt, mit denen, die du ohne Plan öffnest.",
+            "Diese Unterscheidung hilft dir, einen realistischen nächsten Schritt zu wählen statt eines allgemeinen „weniger am Handy“-Ziels."
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "title": "Einstellungen öffnen",
+          "copy": "Tippe in der Hauptliste der Einstellungen auf Bildschirmzeit."
+        },
+        {
+          "title": "App- & Website-Aktivitäten öffnen",
+          "copy": "Wähle Alle anzeigen, um Tag/Woche und die Liste pro App zu sehen."
+        },
+        {
+          "title": "Typischen Tageswert notieren",
+          "copy": "Nutze ihn im Rechner, um Wochen- und Jahreswerte zu sehen."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Kann ich die Zeit für eine einzelne App sehen?",
+          "answer": "Ja. Die Aktivitätsliste zeigt jede App und Kategorie; tippe auf eine App für Tages- und Wochendetails."
+        },
+        {
+          "question": "Warum fehlt die Bildschirmzeit?",
+          "answer": "Sie ist vielleicht ausgeschaltet. Tippe in der Bildschirmzeit auf Aktivieren und wähle dein Gerät."
+        },
+        {
+          "question": "Kann ich die Wochensumme nutzen?",
+          "answer": "Ja. Teile die Wochensumme durch 7, um einen Tagesdurchschnitt zu erhalten."
+        }
+      ]
+    },
+    "how-to-reduce-screen-time-iphone": {
+      "title": "Bildschirmzeit auf dem iPhone reduzieren (ohne zu viel zu blockieren) | Klippy",
+      "description": "Praktische Wege, die Bildschirmzeit auf dem iPhone zu reduzieren: Auslöser finden, Benachrichtigungen leiser stellen, Fokus nutzen oder eine Grenze für eine App setzen.",
+      "eyebrow": "Bildschirmzeit auf dem iPhone reduzieren",
+      "h1": "Reduziere Bildschirmzeit, indem du zuerst eine sinnvolle Sache änderst.",
+      "lead": "„Weniger am Handy sein“ ist vage. Eine kleinere Veränderung – weniger Hinweise, ein Fokus-Zeitplan oder eine Grenze für eine App – lässt sich leichter beibehalten und leichter messen.",
+      "answer": "Beginne mit deiner Bildschirmzeit-Aufschlüsselung, wähle einen sich wiederholenden Auslöser (Benachrichtigungen, Langeweile, Tageszeit) und pass das Tool dazu an: Hinweise leiser stellen, Fokus, App-Limits/Auszeit oder ein App-Blocker für ausgewählte Apps, die sich automatisch öffnen.",
+      "sections": [
+        {
+          "title": "Wähle ein Verhalten, nicht nur eine Zahl",
+          "paragraphs": [
+            "„TikTok nach 22 Uhr nicht mehr öffnen“ ist klarer als „1 Stunde weniger Handyzeiten“. Ersteres verweist auf eine Einstellung, letzteres erfordert Willenskraft im Moment.",
+            "Sobald das Verhalten konkret ist, kannst du nützliche Apps in Ruhe lassen und die Regel nur dort anwenden, wo das Problem auftritt."
+          ]
+        },
+        {
+          "title": "Halte die Einrichtung praktikabel",
+          "paragraphs": [
+            "Wenn eine Regel Apps blockiert, die du brauchst, wirst du sie umgehen. Konzentriere dich auf die 1–2 Apps, die den automatischen Check auslösen.",
+            "Achte darauf, warum du die Einrichtung aufgibst – zu breit gefasst, zu leicht zu ignorieren oder am falschen Auslöser angesetzt. Passe das an, nicht deine Motivation. Vergleiche Bildschirmzeit vs. App-Blocker, um das passende Tool zu wählen."
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "title": "Den sich wiederholenden Moment finden",
+          "copy": "Nutze die Bildschirmzeit, um eine Gewohnheit zu erkennen (z. B. Arbeit, Schlafenszeit, Warten)."
+        },
+        {
+          "title": "Den Auslöser wenn möglich entfernen",
+          "copy": "Probiere Benachrichtigungseinstellungen oder Fokus für Checks, die durch Hinweise ausgelöst werden."
+        },
+        {
+          "title": "Falls nötig eine Grenze setzen",
+          "copy": "Nutze App-Limits/Auszeit oder einen Blocker für das automatische Öffnen."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Sollte ich App-Limits nutzen?",
+          "answer": "Nutze sie, wenn ein Zeitbudget hilft. Wenn dieselbe App den ganzen Tag über zufällig geöffnet wird, passt eine Grenze für ausgewählte Apps oft besser."
+        },
+        {
+          "question": "Kann ich Anrufe und Nachrichten behalten?",
+          "answer": "Ja. Lass Telefon, Nachrichten und wichtige Apps außerhalb jeder Einschränkung."
+        },
+        {
+          "question": "Was ist die kleinste sinnvolle Veränderung?",
+          "answer": "Die, die ein echtes Problem angeht, ohne den Rest deines Handys umständlich zu machen."
+        }
+      ]
+    },
+    "how-to-limit-social-media-on-iphone": {
+      "title": "Social Media auf dem iPhone begrenzen — Wichtige Apps offen lassen | Klippy",
+      "description": "Social Media auf dem iPhone begrenzen, ohne das ganze Handy zu blockieren: Hinweise, Fokus, App-Limits, Auszeit und App-Blocker im Vergleich.",
+      "eyebrow": "Social Media auf dem iPhone begrenzen",
+      "h1": "Social Media begrenzen, ohne dein ganzes Handy einzuschränken.",
+      "lead": "Du brauchst keine Alles-oder-nichts-Regel. Entscheide, ob du weniger Hinweise, ein tägliches Kontingent, eine geplante Pause oder schwerer zu öffnende ausgewählte Apps willst.",
+      "answer": "Passe das Tool an den Auslöser an: Benachrichtigungen → Hinweise leiser stellen/Fokus; Zeitbudget → App-Limits; fester Zeitplan → Auszeit; wiederholtes automatisches Öffnen → App-Blocker für ausgewählte Apps. Lass nicht ausgewählte Apps verfügbar.",
+      "sections": [
+        {
+          "title": "Unterschiedliche Tools für unterschiedliche Probleme",
+          "paragraphs": [
+            "Benachrichtigungen sind ein Auslöser, App-Limits sind ein Budget, Auszeit ist ein Zeitplan und ein App-Blocker für ausgewählte Apps macht diese Apps standardmäßig nicht verfügbar. Sie sind nicht austauschbar.",
+            "Wenn dieselbe App ohne Benachrichtigung oder Zeitplan geöffnet wird, ist der Blocker oft direkter als ein Timer, den du verlängern kannst. Sieh, wann welches hilft unter Bildschirmzeit vs. App-Blocker."
+          ]
+        },
+        {
+          "title": "Behalte, was du brauchst",
+          "paragraphs": [
+            "Karten, Nachrichten, Anrufe, Banking und Familien-Apps müssen selten Teil einer Social-Media-Regel sein.",
+            "Eine enge Regel lässt sich leichter beibehalten, weil sie die Problem-App verändert, ohne jede normale Aufgabe umständlich zu machen. Wenn du unsicher bist, beginne damit, wie viel Social-Media-Zeit du tatsächlich hast."
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "title": "Die Problem-App benennen",
+          "copy": "Finde die eine, bei der ein kurzer Check zu einer langen Session wird."
+        },
+        {
+          "title": "Die passende Einstellung wählen",
+          "copy": "Wähle bewusst zwischen Hinweisen, Limits, Zeitplan oder Blocker."
+        },
+        {
+          "title": "Wichtige Apps offen lassen",
+          "copy": "Lass nützliche Apps außerhalb der Regel."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Kann Fokus Apps blockieren?",
+          "answer": "Fokus reduziert Benachrichtigungen und kann Home-Bildschirm-Seiten ausblenden, verhindert aber meist nicht das Öffnen einer App."
+        },
+        {
+          "question": "Kann ich Nachrichten behalten?",
+          "answer": "Ja. Bei einem Ansatz mit ausgewählten Apps bleiben nicht ausgewählte Apps verfügbar."
+        },
+        {
+          "question": "Was, wenn ich es beruflich brauche?",
+          "answer": "Behalte die berufliche Nutzung und wende die Grenze nur außerhalb dieser Zeiten an."
+        }
+      ]
+    },
+    "digital-detox-plan": {
+      "title": "Digital-Detox-Plan — Ein kleinerer Reset, den du beibehalten kannst | Klippy",
+      "description": "Erstelle einen realistischen Digital-Detox-Plan: Wähle einen Grund, einen Auslöser und eine kleine Grenze zum Testen für eine Woche.",
+      "eyebrow": "Digital-Detox-Plan",
+      "h1": "Ein Digital-Detox-Plan, der in den Alltag passt.",
+      "lead": "Du musst nicht alles löschen oder eine Woche wegfahren. Wähle einen Teil deines Tages, den du zurückgewinnen willst, und einen Auslöser, den du änderst – dann teste es.",
+      "answer": "Wähle einen Grund (z. B. weniger Unterbrechungen bei der Arbeit, ruhigerer Abend), einen Auslöser (eine App, Benachrichtigung oder Zeitfenster) und eine Grenze, die du sieben Tage lang halten kannst. Danach auswerten und anpassen.",
+      "sections": [
+        {
+          "title": "Vermeide die Alles-oder-nichts-Falle",
+          "paragraphs": [
+            "Breit angelegte Detox-Versuche wirken entschlossen, scheitern aber oft, wenn du dein Handy weiterhin für Arbeit, Familie und unterwegs brauchst.",
+            "Ein enger Test liefert bessere Erkenntnisse. Wenn spätes Scrollen das Problem ist, ändere nur dieses Zeitfenster – nicht jede App den ganzen Tag. Sieh dir an, wie du seltener prüfst, für Ideen zu Auslösern."
+          ]
+        },
+        {
+          "title": "Entscheide, wofür du Raum schaffen willst",
+          "paragraphs": [
+            "Ein Plan hält besser mit einem klaren Ziel: fokussierteres Arbeiten, bewusstere Mahlzeiten oder ein leichteres Abschalten am Abend.",
+            "Nutze dieses Ziel, um die Grenze zu wählen. Sie soll das Leben unterstützen, das du willst, nicht zu einer weiteren Regel werden, die dich ärgert."
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "title": "Einen Grund wählen",
+          "copy": "Benenne den Teil deines Tages, den du schützen willst."
+        },
+        {
+          "title": "Einen Auslöser wählen",
+          "copy": "Wähle die App, Benachrichtigung oder den Ort, der immer wieder stört."
+        },
+        {
+          "title": "Eine Grenze testen",
+          "copy": "Halte sie klein genug, um sie eine echte Woche lang zu nutzen."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Wie lange sollte ein Detox dauern?",
+          "answer": "Ein einwöchiger Test ist nützlicher als ein breit angelegter Plan, den du nicht halten kannst. Verlängere nur, was hilft."
+        },
+        {
+          "question": "Muss ich Social Media löschen?",
+          "answer": "Meist nicht. Eine Grenze um die automatischen Momente reicht oft aus."
+        },
+        {
+          "question": "Was, wenn ich mein Handy beruflich brauche?",
+          "answer": "Behalte berufliche Funktionen und konzentriere den Detox auf die ablenkenden Checks außerhalb davon."
+        }
+      ]
+    },
+    "stop-checking-phone": {
+      "title": "Weniger aufs Handy schauen — Der Auslöser vor dem Griff | Klippy",
+      "description": "Weniger aufs Handy schauen, indem du den Auslöser änderst: Hinweise, Langeweile oder Gewohnheitsschleifen. Praktische Schritte, die du heute testen kannst.",
+      "eyebrow": "Weniger aufs Handy schauen",
+      "h1": "Weniger schauen, indem du den Moment vor dem Griff änderst.",
+      "lead": "Die meisten Checks sind keine Entscheidung, das Handy zu nutzen. Sie sind ein automatischer Griff in einer Pause, bei einer Benachrichtigung oder aus Langeweile – und diesen Auslöser kannst du ändern.",
+      "answer": "Erkenne den Auslöser und verändere dann das Umfeld: Stelle die Hinweise leiser, die ihn auslösen, mach die App etwas schwerer zu öffnen oder lege eine nützlichere Alternative an dieselbe Stelle.",
+      "sections": [
+        {
+          "title": "Ein Check ist oft eine Schleife, keine Entscheidung",
+          "paragraphs": [
+            "Die Hand bewegt sich, bevor du entschieden hast, was du vom Handy willst. Deshalb fühlt sich Willenskraft im Moment so schwer an.",
+            "Schaffe eine kleine Pause, indem du Auslöser, Zugang oder Umgebung veränderst – genug zum Auswählen, nicht um auf perfekte Kontrolle zu setzen."
+          ]
+        },
+        {
+          "title": "Mach die bessere Alternative leichter",
+          "paragraphs": [
+            "Wenn du beim Warten prüfst, lege ein Buch oder Notizbuch dorthin. Wenn du im Bett prüfst, lade das Handy außerhalb des Schlafzimmers. Mach die Alternative so leicht wie die alte Gewohnheit.",
+            "Wenn eine App das übliche Ziel ist, kann eine Grenze für ausgewählte Apps dieses automatische Öffnen weniger bequem machen, während alles andere offen bleibt. Vergleiche Tools unter Bildschirmzeit vs. App-Blocker."
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "title": "Den Auslöser erkennen",
+          "copy": "Welche Zeit, welches Gefühl oder welche Benachrichtigung kommt direkt vor dem Griff?"
+        },
+        {
+          "title": "Einen Teil der Schleife ändern",
+          "copy": "Stelle den Hinweis stumm, verschiebe die App oder schaffe Abstand."
+        },
+        {
+          "title": "Das echte Ergebnis prüfen",
+          "copy": "Behalte, was hilft, und passe an, was das Leben schwerer macht."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Warum schaue ich ohne Benachrichtigung aufs Handy?",
+          "answer": "Das Prüfen kann zu einer erlernten Reaktion auf Pausen, Stress oder Langeweile werden – nicht nur auf Hinweise."
+        },
+        {
+          "question": "Sollte ich alle Benachrichtigungen ausschalten?",
+          "answer": "Beginne mit den wenigen, die dich zu ungewollten Checks ziehen; behalte die nützlichen."
+        },
+        {
+          "question": "Kann ein Blocker helfen?",
+          "answer": "Ja, wenn dieselben 1–2 Apps das wiederholte Ziel sind."
+        }
+      ]
+    },
+    "screen-time-vs-app-blocker": {
+      "title": "Bildschirmzeit vs. App-Blocker — Welches iPhone-Tool passt zu deiner Gewohnheit? | Klippy",
+      "description": "Bildschirmzeit App-Limits & Auszeit vs. Fokus vs. App-Blocker für ausgewählte Apps. Erfahre, welches iPhone-Tool zu deinem Auslöser passt.",
+      "eyebrow": "Bildschirmzeit vs. App-Blocker",
+      "h1": "Bildschirmzeit und App-Blocker lösen unterschiedliche Probleme.",
+      "lead": "App-Limits, Auszeit, Fokus und ein App-Blocker für ausgewählte Apps werden oft verwechselt. Die richtige Wahl hängt davon ab, ob du ein Budget, einen Zeitplan, weniger Hinweise brauchst oder ausgewählte Apps standardmäßig nicht verfügbar machen willst.",
+      "answer": "Nutze Bildschirmzeit für Berichte, App-Limits und Auszeit; Fokus für Benachrichtigungen und Home-Bildschirm; einen Blocker für ausgewählte Apps, wenn wenige Apps standardmäßig blockiert sein sollen, während der Rest deines Handys nützlich bleibt.",
+      "sections": [
+        {
+          "title": "Wann Bildschirmzeit gut passt",
+          "paragraphs": [
+            "App-Limits setzen ein Tageskontingent, Auszeit legt einen Zeitplan fest und Bildschirmzeit zeigt, wohin die Zeit geht. Ideal für Bewusstmachung, Budgets und planbare Zeitfenster.",
+            "Bei zufälligem, automatischem Öffnen derselben 1–2 Apps lässt sich ein Zeitbudget leicht verlängern – eine Standard-Blockierung ist direkter."
+          ]
+        },
+        {
+          "title": "Wann eine Grenze für ausgewählte Apps gut passt",
+          "paragraphs": [
+            "Ein Blocker fragt: Welche installierten Apps verursachen das Problem und kann der Rest nützlich bleiben? Fella hält die von dir ausgewählten Apps standardmäßig blockiert; nicht ausgewählte Apps bleiben verfügbar.",
+            "Es ist kein Website-Blocker oder MDM-System. Es ist eine enge Grenze für die Gewohnheit, die du unter weniger Bildschirmzeit oder in deinem Detox-Plan benannt hast."
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "title": "Das Problem benennen",
+          "copy": "Hinweise, Tagessumme, Zeitplan oder wiederholtes automatisches Öffnen?"
+        },
+        {
+          "title": "Das passende Tool wählen",
+          "copy": "Fokus, App-Limits/Auszeit oder Blocker."
+        },
+        {
+          "title": "Eng halten",
+          "copy": "Nützliche Apps verfügbar lassen."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Kann Bildschirmzeit Apps blockieren?",
+          "answer": "Sie hat App-Limits und Auszeit. Nutze sie für Budgets/Zeitpläne; ein Blocker ist für standardmäßig nicht verfügbare ausgewählte Apps."
+        },
+        {
+          "question": "Blockiert Fokus Apps?",
+          "answer": "Fokus stellt Benachrichtigungen leiser und kann Seiten ausblenden, blockiert aber meist nicht das Öffnen einer App."
+        },
+        {
+          "question": "Kann ich Anrufe und Nachrichten behalten?",
+          "answer": "Ja. Bei einem Ansatz mit ausgewählten Apps werden nur die von dir ausgewählten Apps blockiert."
+        }
+      ]
+    }
+  },
+  "guidePage": {
+    "shortAnswer": "Die Kurzantwort",
+    "nextStepEyebrow": "Ein praktischer nächster Schritt",
+    "useCalculatorCta": "Zum Bildschirmzeit-Rechner",
+    "faqTitle": "Häufige Fragen"
+  },
+  "notFound": {
+    "title": "Seite nicht gefunden",
+    "description": "Die gesuchte Seite existiert nicht."
+  }
+}

@@ -1,0 +1,778 @@
+{
+  "site": {
+    "name": "Klippy",
+    "title": "Klippy | Free tools for a calmer phone",
+    "description": "Simple, free tools for changing the phone habits that keep pulling you back."
+  },
+  "header": {
+    "howItWorks": "How it works",
+    "guides": "Guides",
+    "about": "About",
+    "calculator": "Calculator",
+    "tryFella": "Try Fella",
+    "homeAria": "Klippy home"
+  },
+  "footer": {
+    "privacy": "Privacy",
+    "terms": "Terms",
+    "support": "Support",
+    "builtByFella": "Built by Fella",
+    "guidesLabel": "Guides",
+    "guidesAria": "Screen time guides"
+  },
+  "guides": [
+    {
+      "label": "Screen time by age",
+      "slug": "screen-time-by-age-calculator"
+    },
+    {
+      "label": "Screen time in days",
+      "slug": "screen-time-in-days"
+    },
+    {
+      "label": "Phone use calculator",
+      "slug": "phone-use-calculator"
+    },
+    {
+      "label": "Social media time",
+      "slug": "social-media-time-calculator"
+    },
+    {
+      "label": "Check Screen Time on iPhone",
+      "slug": "how-to-check-screen-time-iphone"
+    },
+    {
+      "label": "Reduce Screen Time on iPhone",
+      "slug": "how-to-reduce-screen-time-iphone"
+    },
+    {
+      "label": "Limit social media on iPhone",
+      "slug": "how-to-limit-social-media-on-iphone"
+    },
+    {
+      "label": "Digital detox plan",
+      "slug": "digital-detox-plan"
+    },
+    {
+      "label": "Stop checking your phone",
+      "slug": "stop-checking-phone"
+    },
+    {
+      "label": "Screen Time vs app blocker",
+      "slug": "screen-time-vs-app-blocker"
+    }
+  ],
+  "home": {
+    "title": "Make your phone\neasier to put down.",
+    "lead": "A free tool for finding the phone habit that keeps pulling you back. Then choose a smaller boundary that actually fits your day.",
+    "cta": "Try the free tool",
+    "sub": "No login. No download. Just a useful place to start.",
+    "howItWorksAria": "How it works",
+    "steps": [
+      {
+        "number": "01",
+        "title": "Name the moment",
+        "description": "A specific habit is easier to change than a vague goal to use your phone less."
+      },
+      {
+        "number": "02",
+        "title": "Choose a smaller boundary",
+        "description": "Keep the apps you need. Add friction only where the automatic check starts."
+      },
+      {
+        "number": "03",
+        "title": "Try it in real life",
+        "description": "Use the result as a practical starting point, then adjust it around your actual day."
+      }
+    ],
+    "aboutEyebrow": "A calmer phone starts small.",
+    "aboutTitle": "You do not need to delete your whole digital life.",
+    "aboutCopy": "Klippy is exploring simple free tools that help you identify the few apps and moments worth changing first.",
+    "aboutCta": "Explore Fella"
+  },
+  "about": {
+    "metaTitle": "About Klippy — Small tools for a calmer phone",
+    "metaDescription": "Klippy makes free, private tools to help you see your phone habits clearly and choose a smaller, realistic next step.",
+    "eyebrow": "About Klippy",
+    "h1": "Small tools for a phone that feels more useful.",
+    "lead": "Klippy is for people who want to change a phone habit without turning that into a full-time project. The tools start with a simple question and aim for one useful answer.",
+    "whyEyebrow": "Why Klippy exists",
+    "whyTitle": "Most phone advice asks too much, too early.",
+    "whyParagraphs": [
+      "It is easy to say that you should use your phone less. It is much harder to decide what that means on a normal day when your phone is also how you talk to people, get directions, pay for things, work, learn, and unwind.",
+      "Klippy starts from a narrower view. Some parts of your phone are useful. Some apps or moments may be pulling you into a habit you did not choose. Those are different problems, and they deserve different answers.",
+      "The goal is not to make technology feel like a moral failure. It is to make the tradeoffs more visible so you can decide what is worth changing."
+    ],
+    "values": [
+      {
+        "title": "Free before anything else",
+        "copy": "A result should not sit behind a sign-up form. Klippy tools are designed to work without an account, payment, or app installation."
+      },
+      {
+        "title": "Private by default",
+        "copy": "The screen time calculator runs with the values you type in your browser. It does not connect to your iPhone or need your private activity data."
+      },
+      {
+        "title": "Useful without a hard sell",
+        "copy": "A tool should stand on its own. If another product is genuinely useful afterward, that next step should be obvious and optional."
+      }
+    ],
+    "nextEyebrow": "What comes next",
+    "nextTitle": "Start with an honest picture of the habit.",
+    "nextParagraphs": [
+      "The first Klippy tool is a screen time calculator. It turns an average daily number into totals you can see across a week, year, and longer period. It cannot tell you which hours are worth keeping. It can give you a clearer starting point for deciding that yourself.",
+      "Future tools will follow the same principle. They should be simple enough to use in a minute and specific enough to help with a real choice. No generic score. No promise that one setting solves everything."
+    ],
+    "nextCta": "Use the screen time calculator",
+    "fellaEyebrow": "Built with Fella",
+    "fellaTitle": "When the answer is a stronger boundary around a few apps, Fella is there for that next step.",
+    "fellaCopy": "Fella is an iPhone app blocker for selected distracting apps. Apps you do not select can remain available, so the useful parts of your phone are not part of the boundary unless you choose them.",
+    "fellaCta": "Explore Fella"
+  },
+  "howItWorks": {
+    "metaTitle": "How Klippy works — Start with the habit, not a reset",
+    "metaDescription": "How Klippy works: free, private browser tools that turn a daily phone number into a useful next step — no account, no tracking.",
+    "eyebrow": "How it works",
+    "h1": "Start with the habit, not a giant reset.",
+    "lead": "Klippy makes simple free tools for looking at phone habits in a more practical way. The point is not to make every minute on a screen feel bad. It is to notice the moments that happen without much thought and decide whether they still work for you.",
+    "ideaEyebrow": "The basic idea",
+    "ideaTitle": "A useful answer should be clear before it asks anything from you.",
+    "ideaCopy": "That is why Klippy tools run in your browser. There is no account to create, no payment screen to reach the result, and no connection to your private phone data. You enter a small amount of information and get a concrete way to think about it.",
+    "steps": [
+      {
+        "number": "01",
+        "title": "Look at one moment",
+        "copy": "Start with a specific app, time of day, or situation. Checking a feed in bed is easier to understand than a broad plan to use your phone less."
+      },
+      {
+        "number": "02",
+        "title": "Make the number useful",
+        "copy": "The screen time calculator turns an average daily number into weekly, yearly, and longer-term totals. The math is simple. Seeing it in one place can make the tradeoff easier to notice."
+      },
+      {
+        "number": "03",
+        "title": "Choose the smallest next step",
+        "copy": "You might keep everything as it is. You might move an app, silence a cue, or make one distraction a little harder to open. The useful change is the one that fits your real day."
+      }
+    ],
+    "calcEyebrow": "What the calculator does",
+    "calcTitle": "It makes a familiar number easier to picture.",
+    "calcParagraphs": [
+      "Enter an average number of daily screen time hours. Klippy calculates the matching weekly, monthly, and yearly totals, then estimates what that rate looks like between your current age and age 75.",
+      "The calculator does not know which apps you use, what you do for work, or whether time on your phone is enjoyable, necessary, or distracting. It treats every hour the same. That is intentional. It is a simple awareness tool, not a score or a diagnosis.",
+      "If the result feels high, the next question is not necessarily how to remove all of that time. A better question is which part of it feels automatic, unplanned, or hard to stop once it starts."
+    ],
+    "calcCta": "Use the screen time calculator",
+    "faqEyebrow": "Questions people usually have",
+    "faqTitle": "A smaller boundary can still matter.",
+    "faqs": [
+      {
+        "question": "Do I need to create an account?",
+        "answer": "No. Klippy tools are meant to work immediately in your browser. The calculator does not require a sign-up or payment."
+      },
+      {
+        "question": "Does Klippy read my phone activity?",
+        "answer": "No. It only uses the number you type into the calculator. It does not connect to your iPhone or collect an app-by-app breakdown."
+      },
+      {
+        "question": "What should I do after I see my result?",
+        "answer": "Look for one clear pattern. It might be an app you check during work, a feed you open in bed, or a habit that starts whenever you are waiting for something."
+      },
+      {
+        "question": "What if I still need most of my phone?",
+        "answer": "That is normal. A useful boundary does not have to make your whole phone unavailable. Start with the few apps or moments that cause the problem."
+      }
+    ],
+    "fellaEyebrow": "When a few apps are the problem",
+    "fellaTitle": "Fella keeps selected distracting iPhone apps blocked by default while the apps you leave unselected can remain available.",
+    "fellaCopy": "It is a different step from calculating your screen time. It can be useful when you have already identified the apps you want to make less automatic.",
+    "fellaCta": "Explore Fella"
+  },
+  "calculator": {
+    "metaTitle": "Screen Time Calculator — See your phone time by week, year and to age 75",
+    "metaDescription": "Free screen time calculator: enter daily hours and age to see weekly, yearly and lifetime totals. Private, no login, runs in your browser.",
+    "eyebrow": "Free screen time calculator",
+    "h1": "See how your phone time adds up.",
+    "lead": "Enter your average daily screen time. Get a simple view of the hours, days, and years it can add up to — then pick one small change to test.",
+    "inputLabel": "Average daily screen time",
+    "reduceAria": "Reduce screen time",
+    "increaseAria": "Increase screen time",
+    "help": "Check Settings → Screen Time on your iPhone if you are not sure what to enter. Use a typical day, not your best or worst.",
+    "ageLabel": "Your age",
+    "ageHelp": "Used only to estimate screen time between now and age 75. Nothing is saved.",
+    "calcCta": "Calculate my time",
+    "results": {
+      "everyWeek": "Every week",
+      "everyMonth": "Every month",
+      "everyYear": "Every year",
+      "fullDays": "Full days each year"
+    },
+    "atThisRate": "At this rate",
+    "atThisRateValue": "About {years} years of screen time from now to age 75.",
+    "atThisRateCopy": "That estimate counts every hour equally. It is a rough awareness tool, not a judgement about how you use your phone.",
+    "wakingLabel": "Share of a 16 hour waking day",
+    "smallReductionTitle": "A small reduction adds up",
+    "smallReductionCopy": "One hour less per day saves about {days} full days each year.",
+    "smallReductionDesc": "You do not have to remove every screen. Start with the one app or moment that turns into an unplanned session.",
+    "fellaTitle": "If a few apps are the issue",
+    "fellaCopyTitle": "Fella can block the selected apps that keep pulling you back.",
+    "fellaCopy": "Apps you leave unselected can remain available, so your useful phone stays useful.",
+    "fellaCta": "View Fella on the App Store",
+    "faqTitle": "Screen time calculator FAQ",
+    "axisLabels": {
+      "zero": "0h",
+      "middle": "8h",
+      "max": "16h"
+    },
+    "faqs": [
+      {
+        "question": "How is the estimate calculated?",
+        "answer": "We multiply your daily average by 7, 30.44 and 365 for week/month/year, and by the years from your age to 75 for the lifetime view. Divide yearly hours by 24 for full days."
+      },
+      {
+        "question": "Does this tool track my iPhone?",
+        "answer": "No. The calculation happens in your browser using the number you enter. Nothing is connected to your phone or saved by Klippy."
+      },
+      {
+        "question": "Where can I find my iPhone screen time?",
+        "answer": "Open Settings → Screen Time → See All App & Website Activity. Switch between Day and Week to find a typical daily average."
+      },
+      {
+        "question": "What should I do with the result?",
+        "answer": "Look for the least intentional time — a feed you open while waiting, a game used to avoid a task, or a late-night scroll — and test one small boundary there."
+      }
+    ]
+  },
+  "seoPages": {
+    "screen-time-by-age-calculator": {
+      "title": "Screen Time by Age Calculator — How much from now to 75? | Klippy",
+      "description": "See how your daily screen time adds up from your current age to 75. Enter daily hours and age for a private, instant estimate.",
+      "eyebrow": "Screen time by age calculator",
+      "h1": "See what your screen time adds up to from now to 75.",
+      "lead": "A daily average looks different beside the years ahead. Enter your age and daily screen time for a simple, private estimate — then choose one habit to test.",
+      "answer": "Klippy multiplies your daily average by the years from your current age to 75. It counts every hour equally, so treat it as an awareness starting point, not a score.",
+      "sections": [
+        {
+          "title": "Why the age view helps",
+          "paragraphs": [
+            "The same daily habit has more time to repeat when you are younger. Seeing the total to 75 makes an abstract routine concrete without needing to make it alarming.",
+            "Once you see the total, you can ask a narrower question: is there one app, time of day, or cue that creates most of the automatic time? A small boundary there is easier to keep than a broad limit."
+          ]
+        },
+        {
+          "title": "Make it useful, not judgmental",
+          "paragraphs": [
+            "The calculator does not know which hours are for work, family, learning or unwinding. Use the number to separate the phone use you value from the checks that happen without a clear reason.",
+            "If the result surprises you, start with the least intentional time. Keep the useful parts of your phone and add friction only where the automatic check starts. See also: screen time in full days and how to find your average on iPhone."
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "title": "Check your daily average",
+          "copy": "Open Settings → Screen Time → See All Activity and use a typical daily number."
+        },
+        {
+          "title": "Enter your age",
+          "copy": "Used only for the estimate to 75. Nothing is saved."
+        },
+        {
+          "title": "Choose one small change",
+          "copy": "Pick one app or moment that feels automatic, not everything at once."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Is the estimate exact?",
+          "answer": "No. It is simple math from the daily number you enter, multiplied by the years to 75. Use it for awareness, not as a precise forecast."
+        },
+        {
+          "question": "Does Klippy see my phone data?",
+          "answer": "No. The tool runs in your browser and never connects to your iPhone."
+        },
+        {
+          "question": "What should I try after?",
+          "answer": "Test one boundary for a week — for example, no social feed in bed, or quieter notifications during work — and keep what helps."
+        }
+      ]
+    },
+    "screen-time-in-days": {
+      "title": "Screen Time in Days — Convert hours to full 24-hour days | Klippy",
+      "description": "Convert daily screen time to full days per week, month and year. See yearly hours as 24-hour days — free and private.",
+      "eyebrow": "Screen time in days",
+      "h1": "Turn your screen time into full days.",
+      "lead": "Hours spread across a day can feel ordinary. Klippy converts your daily average into full 24-hour days per year so the tradeoff is easier to picture.",
+      "answer": "We multiply your daily hours by 365 for yearly hours, then divide by 24. That gives the full-day equivalent. The math is instant in your browser.",
+      "sections": [
+        {
+          "title": "Why full days are easier to picture",
+          "paragraphs": [
+            "Four hours a day sounds small until you see it as 60+ full days a year. The day view reframes the same time without calling it wasted.",
+            "Those days include work, maps, messages, learning and rest. The point is not to label all screen time as bad, but to see the total so you can choose one part to change. Try the by-age view if you want the longer-term picture."
+          ]
+        },
+        {
+          "title": "If the number surprises you",
+          "paragraphs": [
+            "Start with the least intentional time: a feed opened while waiting, a game used to avoid a task, or a late-night scroll that runs long.",
+            "Test the smallest boundary that fits your day. Keep essential apps available and change only the moment that creates the most friction. Practical ways to reduce on iPhone may help."
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "title": "Find your average",
+          "copy": "Use the daily average in iPhone Screen Time (Day/Week view)."
+        },
+        {
+          "title": "See the yearly total",
+          "copy": "The calculator shows hours and the 24-hour day equivalent."
+        },
+        {
+          "title": "Pick one experiment",
+          "copy": "Reduce one automatic check instead of chasing a perfect number."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "How are full days calculated?",
+          "answer": "Yearly hours ÷ 24. For example, 4h/day × 365 = 1,460h/year ÷ 24 ≈ 60.8 full days."
+        },
+        {
+          "question": "Does this mean screen time is wasted?",
+          "answer": "No. The day view is a neutral reframe. Work, family and rest can all happen on screen."
+        },
+        {
+          "question": "Can I do this for one app?",
+          "answer": "Yes. Enter the daily average for a single app or category from Screen Time's breakdown."
+        }
+      ]
+    },
+    "phone-use-calculator": {
+      "title": "Phone Use Calculator — Daily to yearly phone time | Klippy",
+      "description": "See how your daily phone time adds up across a week, month and year. One number, instant totals — no login.",
+      "eyebrow": "Phone use calculator",
+      "h1": "A simple calculator for your phone time.",
+      "lead": "Enter one daily average and see it as weekly, monthly and yearly totals. Use it to spot the part of phone use you would actually like to change.",
+      "answer": "Klippy converts your daily phone hours into weekly (×7), monthly (×30.44) and yearly (×365) totals. No account, no tracking — just math in your browser.",
+      "sections": [
+        {
+          "title": "Your phone is not one thing",
+          "paragraphs": [
+            "It is a map, camera, messenger, wallet and place to unwind. A single total cannot decide which uses matter to you.",
+            "Use the total to ask whether the time you want to keep is being crowded by checks that happen on autopilot. That distinction is more useful than a single screen-time score."
+          ]
+        },
+        {
+          "title": "Look for patterns before rules",
+          "paragraphs": [
+            "Notice the cue before the app opens: boredom, a notification, a break between tasks, or a difficult piece of work.",
+            "A rule that matches the cue works better — quieter notifications, a different home screen, or a boundary around one app. If you want to limit social in particular, see social media time and how to limit it on iPhone."
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "title": "Enter daily phone use",
+          "copy": "Use a typical day, not your best or worst."
+        },
+        {
+          "title": "Read the totals",
+          "copy": "Check weekly and yearly to see the habit at scale."
+        },
+        {
+          "title": "Find the part to change",
+          "copy": "Separate useful use from checks you did not plan."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Is it free?",
+          "answer": "Yes. It runs in your browser with no account or payment."
+        },
+        {
+          "question": "Where do I find my daily average?",
+          "answer": "Settings → Screen Time → See All App & Website Activity. Use the Day or Week view."
+        },
+        {
+          "question": "Can it see my apps?",
+          "answer": "No. You enter the number yourself; Klippy never connects to your phone."
+        }
+      ]
+    },
+    "social-media-time-calculator": {
+      "title": "Social Media Time Calculator — Weekly, monthly & yearly totals | Klippy",
+      "description": "Calculate social media time per week, month and year. Enter daily average for one app or all social — private and instant.",
+      "eyebrow": "Social media time calculator",
+      "h1": "See how social media time adds up.",
+      "lead": "Enter your daily social average and see it as weekly, monthly and yearly totals. Keep what you value, change what feels automatic.",
+      "answer": "Add up your social apps in iPhone Screen Time, enter the daily average, and Klippy converts it to longer-term totals. Use it for one app or a whole category.",
+      "sections": [
+        {
+          "title": "A total is clearer than a feeling",
+          "paragraphs": [
+            "‘I spend too much time on social media’ is hard to act on. A number — for example, 1.5h/day ≈ 22 full days a year — gives you something concrete to consider.",
+            "Not all of that is wasted; social is also how many people work, learn and keep in touch. The useful question is whether the time matches what you intended."
+          ]
+        },
+        {
+          "title": "Make the next step specific",
+          "paragraphs": [
+            "Pick one app that turns a quick check into a longer session. Note when you open it and what you were doing right before.",
+            "If you decide to add a boundary, keep useful apps open and focus on the few that pull you back. For iPhone options, see how to limit social media on iPhone and Screen Time vs app blocker."
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "title": "Open the breakdown",
+          "copy": "In Screen Time, check the Social category or a single app."
+        },
+        {
+          "title": "Enter the daily average",
+          "copy": "Use one app or the combined total."
+        },
+        {
+          "title": "Choose one boundary",
+          "copy": "Start with the app that feels most automatic."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Can I calculate one app?",
+          "answer": "Yes. Enter the average for Instagram, TikTok, YouTube, etc., or a combined total."
+        },
+        {
+          "question": "Does Klippy collect my social use?",
+          "answer": "No. Nothing is sent to Klippy or your accounts."
+        },
+        {
+          "question": "What if I need it for work?",
+          "answer": "Keep work use and focus the boundary on checks outside that purpose."
+        }
+      ]
+    },
+    "how-to-check-screen-time-iphone": {
+      "title": "How to Check Screen Time on iPhone — Daily, weekly & by app | Klippy",
+      "description": "How to find Screen Time on iPhone: see daily average, weekly total and per-app breakdown, then use it in Klippy’s calculator.",
+      "eyebrow": "How to check screen time on iPhone",
+      "h1": "How to find your Screen Time on iPhone.",
+      "lead": "Your iPhone already tracks a daily average, weekly trend and per-app breakdown. Here is where to find it and which number to use in the calculator.",
+      "answer": "Go to Settings → Screen Time → See All App & Website Activity. Toggle Day/Week to find a typical average. The breakdown by app is on the same screen.",
+      "sections": [
+        {
+          "title": "Pick a typical week, not a single day",
+          "paragraphs": [
+            "One day can be misleading — travel, a long call, or a weekend binge can skew it. The Week view smooths those outliers.",
+            "Use the daily average shown at the top for Week. That is the most useful input for the calculator and for the days view."
+          ]
+        },
+        {
+          "title": "Check the breakdown, not just the total",
+          "paragraphs": [
+            "The total tells you how much, the breakdown tells you where. Compare the apps you intentionally use with those you open without planning.",
+            "That split helps you choose one realistic next step instead of a broad ‘use phone less’ goal."
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "title": "Open Settings",
+          "copy": "Tap Screen Time in the main Settings list."
+        },
+        {
+          "title": "Open App & Website Activity",
+          "copy": "Choose See All to see Day/Week and the per-app list."
+        },
+        {
+          "title": "Copy a typical daily number",
+          "copy": "Use it in the calculator to see weekly/yearly totals."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Can I see time for one app?",
+          "answer": "Yes. The activity list shows each app and category; tap an app for its daily/weekly detail."
+        },
+        {
+          "question": "Why is Screen Time missing?",
+          "answer": "It may be turned off. In Screen Time, tap Turn On and choose your device."
+        },
+        {
+          "question": "Can I use the weekly total?",
+          "answer": "Yes. Divide the weekly total by 7 to get a daily average."
+        }
+      ]
+    },
+    "how-to-reduce-screen-time-iphone": {
+      "title": "How to Reduce Screen Time on iPhone (without over-blocking) | Klippy",
+      "description": "Practical ways to reduce screen time on iPhone: find the cue, quiet notifications, use Focus, or add a boundary for one app.",
+      "eyebrow": "How to reduce screen time on iPhone",
+      "h1": "Reduce screen time by changing one useful thing first.",
+      "lead": "‘Use phone less’ is vague. A smaller change — fewer alerts, a Focus schedule, or a boundary for one app — is easier to keep and easier to measure.",
+      "answer": "Start with your Screen Time breakdown, pick one repeating cue (notifications, boredom, a time of day), and match the tool: quiet alerts, Focus, App Limits/Downtime, or a selected-app blocker for the few apps that open automatically.",
+      "sections": [
+        {
+          "title": "Choose a behaviour, not just a number",
+          "paragraphs": [
+            "‘Stop opening TikTok after 10pm’ is clearer than ‘use phone 1h less’. The first points to a setting; the second requires willpower in the moment.",
+            "Once the behaviour is specific, you can leave useful apps alone and make the rule only where the problem happens."
+          ]
+        },
+        {
+          "title": "Keep the setup practical",
+          "paragraphs": [
+            "If a rule blocks apps you need, you will bypass it. Focus on the 1–2 apps that create the automatic check.",
+            "Notice what makes you abandon the setup — too broad, too easy to ignore, or solving the wrong cue. Adjust that, not your motivation. Compare Screen Time vs a selected-app blocker to pick the right tool."
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "title": "Find the repeating moment",
+          "copy": "Use Screen Time to spot one habit (e.g., work, bedtime, waiting)."
+        },
+        {
+          "title": "Remove the cue if you can",
+          "copy": "Try notification settings or Focus for alert-driven checks."
+        },
+        {
+          "title": "Add a boundary if needed",
+          "copy": "Use App Limits/Downtime or a blocker for the automatic open."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Should I use App Limits?",
+          "answer": "Use them when a time budget helps. If the same app opens at random times all day, a selected-app boundary may fit better."
+        },
+        {
+          "question": "Can I keep calls and texts?",
+          "answer": "Yes. Leave Phone, Messages and essentials outside any restriction."
+        },
+        {
+          "question": "What is the smallest useful change?",
+          "answer": "The one that targets a real problem without making the rest of your phone inconvenient."
+        }
+      ]
+    },
+    "how-to-limit-social-media-on-iphone": {
+      "title": "How to Limit Social Media on iPhone — Keep essentials open | Klippy",
+      "description": "Limit social media on iPhone without blocking your whole phone: alerts, Focus, App Limits, Downtime and app blockers compared.",
+      "eyebrow": "Limit social media on iPhone",
+      "h1": "Limit social media without limiting your whole phone.",
+      "lead": "You do not need an all-or-nothing rule. Pick whether you want fewer alerts, a daily allowance, a scheduled break, or to make selected apps harder to open.",
+      "answer": "Match the tool to the cue: notifications → quiet alerts/Focus; time budget → App Limits; predictable schedule → Downtime; repeated automatic opens → selected-app blocker. Keep unselected apps available.",
+      "sections": [
+        {
+          "title": "Different tools, different problems",
+          "paragraphs": [
+            "Notifications are a cue, App Limits are a budget, Downtime is a schedule, and a selected-app blocker makes those apps unavailable by default. They are not interchangeable.",
+            "If the same app opens without a notification or schedule, the blocker is often more direct than a timer you can extend. See when each helps in Screen Time vs app blocker."
+          ]
+        },
+        {
+          "title": "Keep what you need",
+          "paragraphs": [
+            "Maps, Messages, calls, banking and family apps rarely need to be part of a social rule.",
+            "A narrow rule is easier to keep because it changes the problem app without making every normal task inconvenient. If you are unsure, start with how much social time you actually have."
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "title": "Name the problem app",
+          "copy": "Find the one that turns a quick check into a long session."
+        },
+        {
+          "title": "Match the setting",
+          "copy": "Choose alerts, limits, schedule or blocker deliberately."
+        },
+        {
+          "title": "Keep essentials open",
+          "copy": "Leave useful apps outside the rule."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Can Focus block apps?",
+          "answer": "Focus reduces notifications and can hide Home Screen pages, but does not generally prevent opening an app."
+        },
+        {
+          "question": "Can I keep Messages?",
+          "answer": "Yes. With a selected-app approach, unselected apps stay available."
+        },
+        {
+          "question": "What if I need it for work?",
+          "answer": "Keep work use and apply the boundary only outside those windows."
+        }
+      ]
+    },
+    "digital-detox-plan": {
+      "title": "Digital Detox Plan — A smaller reset you can keep | Klippy",
+      "description": "Build a realistic digital detox plan: pick one reason, one trigger and one small boundary to test for a week.",
+      "eyebrow": "Digital detox plan",
+      "h1": "A digital detox plan that can fit real life.",
+      "lead": "You do not need to delete everything or go away for a week. Pick one part of your day you want back and one trigger to change, then test it.",
+      "answer": "Choose one reason (e.g., fewer interruptions at work, calmer bedtime), one trigger (an app, notification or time window), and one boundary you can keep for seven days. Review and adjust.",
+      "sections": [
+        {
+          "title": "Avoid the all-or-nothing trap",
+          "paragraphs": [
+            "Broad detoxes feel decisive but often fail when you still need your phone for work, family and travel.",
+            "A narrow test gives better data. If late-night scrolling is the issue, change only that window — not every app all day. See how to stop checking so often for cue ideas."
+          ]
+        },
+        {
+          "title": "Decide what you are making room for",
+          "paragraphs": [
+            "A plan sticks better with a clear purpose: more focused work, present meals, or an easier bedtime wind-down.",
+            "Use that purpose to choose the boundary. It should support the life you want, not become another rule you resent."
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "title": "Pick one reason",
+          "copy": "Name the part of your day you want to protect."
+        },
+        {
+          "title": "Pick one trigger",
+          "copy": "Choose the app, notification or place that repeatedly gets in the way."
+        },
+        {
+          "title": "Test one boundary",
+          "copy": "Keep it small enough to use for a real week."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "How long should a detox last?",
+          "answer": "A one-week test is more useful than a broad plan you cannot keep. Extend only what helps."
+        },
+        {
+          "question": "Do I need to delete social media?",
+          "answer": "Usually not. A boundary around the automatic moments is often enough."
+        },
+        {
+          "question": "What if I need my phone for work?",
+          "answer": "Keep work functions and focus the detox on the distracting checks outside that."
+        }
+      ]
+    },
+    "stop-checking-phone": {
+      "title": "How to Stop Checking Your Phone So Much — The cue before the check | Klippy",
+      "description": "Stop checking your phone by changing the cue: alerts, boredom or habit loops. Practical steps you can test today.",
+      "eyebrow": "Stop checking your phone",
+      "h1": "Stop checking by changing the moment before the check.",
+      "lead": "Most checks are not a decision to use your phone. They are an automatic reach during a pause, a notification or a moment of boredom — and that cue can be changed.",
+      "answer": "Notice the cue, then change the setup around it: quiet the alerts that trigger it, make the app a little harder to open, or put a more useful next action in the same spot.",
+      "sections": [
+        {
+          "title": "A check is often a loop, not a choice",
+          "paragraphs": [
+            "The hand moves before you have decided what you want from the phone. That is why willpower in the moment feels hard.",
+            "Create a small pause by changing the cue, the access or the environment — enough to choose, not to rely on perfect control."
+          ]
+        },
+        {
+          "title": "Make the better action easier",
+          "paragraphs": [
+            "If you check while waiting, put a book or notebook there. If you check in bed, charge the phone outside the room. Make the alternative as easy as the old habit.",
+            "If one app is the usual destination, a selected-app boundary can make that automatic open less convenient while everything else stays open. Compare tools in Screen Time vs app blocker."
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "title": "Notice the cue",
+          "copy": "What time, feeling or notification comes right before the reach?"
+        },
+        {
+          "title": "Change one part of the loop",
+          "copy": "Silence the alert, move the app, or add distance."
+        },
+        {
+          "title": "Review the real result",
+          "copy": "Keep what helps, adjust what makes life harder."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Why do I check with no notification?",
+          "answer": "Checking can become a learned response to pauses, stress or boredom — not just alerts."
+        },
+        {
+          "question": "Should I turn off all notifications?",
+          "answer": "Start with the few that pull you into unwanted checks; keep the useful ones."
+        },
+        {
+          "question": "Can a blocker help?",
+          "answer": "Yes, when the same 1–2 apps are the repeated destination."
+        }
+      ]
+    },
+    "screen-time-vs-app-blocker": {
+      "title": "Screen Time vs App Blocker — Which iPhone tool fits your habit? | Klippy",
+      "description": "Screen Time App Limits & Downtime vs Focus vs a selected-app blocker. Learn which iPhone tool matches your cue.",
+      "eyebrow": "Screen Time vs app blocker",
+      "h1": "Screen Time and app blockers solve different problems.",
+      "lead": "App Limits, Downtime, Focus and a selected-app blocker are often confused. The right choice depends on whether you need a budget, a schedule, fewer alerts, or to make selected apps unavailable by default.",
+      "answer": "Use Screen Time for reports, App Limits and Downtime; Focus for notifications and Home Screen; a selected-app blocker when a few apps need to be blocked by default while the rest of your phone stays useful.",
+      "sections": [
+        {
+          "title": "When Screen Time fits well",
+          "paragraphs": [
+            "App Limits set a daily allowance, Downtime sets a schedule, and Screen Time shows where time goes. Great for awareness, budgets and predictable windows.",
+            "For random, automatic opens of the same 1–2 apps, a time budget may be easy to extend — a default block is more direct."
+          ]
+        },
+        {
+          "title": "When a selected-app boundary fits well",
+          "paragraphs": [
+            "A blocker asks: which installed apps create the problem, and can the rest stay useful? Fella keeps the apps you select blocked by default; unselected apps stay available.",
+            "It is not a website blocker or MDM system. It is a narrow boundary for the habit you named in how to reduce or your detox plan."
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "title": "Name the problem",
+          "copy": "Alerts, daily total, schedule or repeated automatic opens?"
+        },
+        {
+          "title": "Pick the matching tool",
+          "copy": "Focus, App Limits/Downtime or a blocker."
+        },
+        {
+          "title": "Keep it narrow",
+          "copy": "Leave useful apps available."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Can Screen Time block apps?",
+          "answer": "It has App Limits and Downtime. Use them for budgets/schedules; a blocker is for default-unavailable selected apps."
+        },
+        {
+          "question": "Does Focus block apps?",
+          "answer": "Focus quiets notifications and can hide pages, but generally does not block opening an app."
+        },
+        {
+          "question": "Can I keep calls and texts?",
+          "answer": "Yes. With a selected-app approach, only the apps you select are blocked."
+        }
+      ]
+    }
+  },
+  "guidePage": {
+    "shortAnswer": "The short answer",
+    "nextStepEyebrow": "A practical next step",
+    "useCalculatorCta": "Use the screen time calculator",
+    "faqTitle": "Common questions"
+  },
+  "notFound": {
+    "title": "Page not found",
+    "description": "The page you are looking for does not exist."
+  }
+}

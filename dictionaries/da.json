@@ -1,0 +1,778 @@
+{
+  "site": {
+    "name": "Klippy",
+    "title": "Klippy | Gratis værktøjer til en roligere telefon",
+    "description": "Enkle, gratis værktøjer til at ændre de telefonvaner, der bliver ved med at trække dig tilbage."
+  },
+  "header": {
+    "howItWorks": "Sådan virker det",
+    "guides": "Vejledninger",
+    "about": "Om os",
+    "calculator": "Beregner",
+    "tryFella": "Prøv Fella",
+    "homeAria": "Klippy startside"
+  },
+  "footer": {
+    "privacy": "Privatliv",
+    "terms": "Vilkår",
+    "support": "Hjælp",
+    "builtByFella": "Skabt af Fella",
+    "guidesLabel": "Vejledninger",
+    "guidesAria": "Vejledninger om skærmtid"
+  },
+  "guides": [
+    {
+      "label": "Skærmtid efter alder",
+      "slug": "screen-time-by-age-calculator"
+    },
+    {
+      "label": "Skærmtid i dage",
+      "slug": "screen-time-in-days"
+    },
+    {
+      "label": "Beregner til telefonforbrug",
+      "slug": "phone-use-calculator"
+    },
+    {
+      "label": "Tid på sociale medier",
+      "slug": "social-media-time-calculator"
+    },
+    {
+      "label": "Tjek skærmtid på iPhone",
+      "slug": "how-to-check-screen-time-iphone"
+    },
+    {
+      "label": "Reducer skærmtid på iPhone",
+      "slug": "how-to-reduce-screen-time-iphone"
+    },
+    {
+      "label": "Begræns sociale medier på iPhone",
+      "slug": "how-to-limit-social-media-on-iphone"
+    },
+    {
+      "label": "Digital detox-plan",
+      "slug": "digital-detox-plan"
+    },
+    {
+      "label": "Stop med at tjekke telefonen",
+      "slug": "stop-checking-phone"
+    },
+    {
+      "label": "Skærmtid vs. app-blokering",
+      "slug": "screen-time-vs-app-blocker"
+    }
+  ],
+  "home": {
+    "title": "Gør din telefon\nlettere at lægge fra dig.",
+    "lead": "Et gratis værktøj til at finde den telefonvane, der bliver ved med at trække dig tilbage. Vælg derefter en mindre grænse, der passer til din hverdag.",
+    "cta": "Prøv det gratis værktøj",
+    "sub": "Ingen login. Ingen download. Bare et nyttigt sted at starte.",
+    "howItWorksAria": "Sådan virker det",
+    "steps": [
+      {
+        "number": "01",
+        "title": "Sæt navn på øjeblikket",
+        "description": "En konkret vane er lettere at ændre end et vagt mål om at bruge telefonen mindre."
+      },
+      {
+        "number": "02",
+        "title": "Vælg en mindre grænse",
+        "description": "Behold de apps, du har brug for. Tilføj kun friktion der, hvor det automatiske tjek starter."
+      },
+      {
+        "number": "03",
+        "title": "Afprøv det i hverdagen",
+        "description": "Brug resultatet som et praktisk udgangspunkt, og tilpas det derefter til din hverdag."
+      }
+    ],
+    "aboutEyebrow": "En roligere telefon starter småt.",
+    "aboutTitle": "Du behøver ikke slette hele dit digitale liv.",
+    "aboutCopy": "Klippy udvikler enkle, gratis værktøjer, der hjælper dig med at finde de få apps og øjeblikke, der er værd at ændre først.",
+    "aboutCta": "Udforsk Fella"
+  },
+  "about": {
+    "metaTitle": "Om Klippy — Små værktøjer til en roligere telefon",
+    "metaDescription": "Klippy laver gratis, private værktøjer, der hjælper dig med at se dine telefonvaner klart og vælge et mindre, realistisk næste skridt.",
+    "eyebrow": "Om Klippy",
+    "h1": "Små værktøjer til en telefon, der føles mere nyttig.",
+    "lead": "Klippy er til dig, der vil ændre en telefonvane uden at gøre det til et fuldtidsprojekt. Værktøjerne starter med et enkelt spørgsmål og sigter mod ét brugbart svar.",
+    "whyEyebrow": "Hvorfor Klippy findes",
+    "whyTitle": "De fleste råd om telefonen kræver for meget, for tidligt.",
+    "whyParagraphs": [
+      "Det er let at sige, at du bør bruge telefonen mindre. Det er meget sværere at beslutte, hvad det betyder på en helt almindelig dag, hvor telefonen også er den måde, du taler med folk på, finder vej, betaler, arbejder, lærer og slapper af.",
+      "Klippy tager udgangspunkt i et smallere perspektiv. Nogle dele af din telefon er nyttige. Nogle apps eller øjeblikke trækker dig måske ind i en vane, du ikke selv har valgt. Det er forskellige problemer, og de fortjener forskellige svar.",
+      "Målet er ikke at få teknologi til at føles som en moralsk fiasko. Det er at gøre afvejningerne mere synlige, så du selv kan beslutte, hvad der er værd at ændre."
+    ],
+    "values": [
+      {
+        "title": "Gratis før alt andet",
+        "copy": "Et resultat bør ikke gemmes bag en tilmelding. Klippy-værktøjer er designet til at virke uden konto, betaling eller installation af en app."
+      },
+      {
+        "title": "Privat som standard",
+        "copy": "Beregneren til skærmtid kører med de tal, du indtaster i din browser. Den forbinder ikke til din iPhone og har ikke brug for dine private aktivitetsdata."
+      },
+      {
+        "title": "Nyttigt uden hårdt salg",
+        "copy": "Et værktøj skal kunne stå alene. Hvis et andet produkt er relevant bagefter, skal det næste skridt være tydeligt og valgfrit."
+      }
+    ],
+    "nextEyebrow": "Hvad kommer nu",
+    "nextTitle": "Start med et ærligt billede af vanen.",
+    "nextParagraphs": [
+      "Det første Klippy-værktøj er en beregner til skærmtid. Den omdanner et gennemsnitligt dagstal til overskuelige totaler på tværs af en uge, et år og en længere periode. Den kan ikke fortælle dig, hvilke timer der er værd at beholde. Den kan give dig et klarere udgangspunkt for selv at beslutte det.",
+      "Fremtidige værktøjer følger samme princip. De skal være enkle nok til at bruge på et minut og specifikke nok til at hjælpe med et reelt valg. Ingen generisk score. Intet løfte om, at én indstilling løser alt."
+    ],
+    "nextCta": "Brug beregneren til skærmtid",
+    "fellaEyebrow": "Skabt med Fella",
+    "fellaTitle": "Når svaret er en stærkere grænse omkring få apps, er Fella klar til næste skridt.",
+    "fellaCopy": "Fella er en app-blokering til iPhone for udvalgte forstyrrende apps. Apps, du ikke vælger, kan forblive tilgængelige, så de nyttige dele af din telefon ikke bliver en del af grænsen, medmindre du selv vælger det.",
+    "fellaCta": "Udforsk Fella"
+  },
+  "howItWorks": {
+    "metaTitle": "Sådan virker Klippy — Start med vanen, ikke en total nulstilling",
+    "metaDescription": "Sådan virker Klippy: gratis, private værktøjer i browseren, der omdanner et dagligt telefontal til et brugbart næste skridt — ingen konto, ingen sporing.",
+    "eyebrow": "Sådan virker det",
+    "h1": "Start med vanen, ikke en kæmpe nulstilling.",
+    "lead": "Klippy laver enkle, gratis værktøjer til at se på telefonvaner på en mere praktisk måde. Pointen er ikke at få hvert minut foran en skærm til at føles forkert. Det er at lægge mærke til de øjeblikke, der sker uden at du tænker over det, og beslutte om de stadig fungerer for dig.",
+    "ideaEyebrow": "Grundidéen",
+    "ideaTitle": "Et brugbart svar bør være tydeligt, før det kræver noget af dig.",
+    "ideaCopy": "Derfor kører Klippy-værktøjer i din browser. Du skal ikke oprette en konto, nå en betalingsmur for at se resultatet eller forbinde dine private telefondata. Du indtaster en lille mængde information og får en konkret måde at tænke over det på.",
+    "steps": [
+      {
+        "number": "01",
+        "title": "Se på ét øjeblik",
+        "copy": "Start med en specifik app, et tidspunkt på dagen eller en situation. At tjekke et feed i sengen er lettere at forstå end en bred plan om at bruge telefonen mindre."
+      },
+      {
+        "number": "02",
+        "title": "Gør tallet brugbart",
+        "copy": "Beregneren til skærmtid omdanner et gennemsnitligt dagstal til totaler pr. uge, år og længere sigt. Regnestykket er simpelt. At se det samlet kan gøre afvejningen lettere at få øje på."
+      },
+      {
+        "number": "03",
+        "title": "Vælg det mindste næste skridt",
+        "copy": "Måske beholder du alt, som det er. Måske flytter du en app, slår en notifikation fra eller gør én distraktion lidt sværere at åbne. Den nyttige forandring er den, der passer til din hverdag."
+      }
+    ],
+    "calcEyebrow": "Hvad beregneren gør",
+    "calcTitle": "Den gør et velkendt tal lettere at forestille sig.",
+    "calcParagraphs": [
+      "Indtast et gennemsnitligt antal daglige skærmtimer. Klippy beregner de tilsvarende totaler pr. uge, måned og år og estimerer derefter, hvordan det ser ud fra din nuværende alder til du er 75.",
+      "Beregneren ved ikke, hvilke apps du bruger, hvad du arbejder med, eller om tid på telefonen er hyggelig, nødvendig eller distraherende. Den behandler hver time ens. Det er med vilje. Den er et simpelt opmærksomhedsværktøj, ikke en score eller en diagnose.",
+      "Hvis resultatet føles højt, er næste spørgsmål ikke nødvendigvis, hvordan du fjerner al den tid. Et bedre spørgsmål er, hvilken del der føles automatisk, uplanlagt eller svær at stoppe, når den først er startet."
+    ],
+    "calcCta": "Brug beregneren til skærmtid",
+    "faqEyebrow": "Spørgsmål mange stiller",
+    "faqTitle": "En mindre grænse kan stadig betyde noget.",
+    "faqs": [
+      {
+        "question": "Skal jeg oprette en konto?",
+        "answer": "Nej. Klippy-værktøjer virker direkte i din browser. Beregneren kræver hverken tilmelding eller betaling."
+      },
+      {
+        "question": "Læser Klippy min telefonaktivitet?",
+        "answer": "Nej. Den bruger kun det tal, du indtaster i beregneren. Den forbinder ikke til din iPhone og indsamler ikke en detaljeret oversigt pr. app."
+      },
+      {
+        "question": "Hvad skal jeg gøre, når jeg har set mit resultat?",
+        "answer": "Kig efter ét tydeligt mønster. Det kan være en app, du tjekker på arbejdet, et feed du åbner i sengen, eller en vane der starter, hver gang du venter på noget."
+      },
+      {
+        "question": "Hvad hvis jeg stadig har brug for det meste af min telefon?",
+        "answer": "Det er helt normalt. En nyttig grænse behøver ikke gøre hele telefonen utilgængelig. Start med de få apps eller øjeblikke, der skaber problemet."
+      }
+    ],
+    "fellaEyebrow": "Når få apps er problemet",
+    "fellaTitle": "Fella holder udvalgte forstyrrende iPhone-apps blokeret som standard, mens de apps, du ikke vælger, kan forblive tilgængelige.",
+    "fellaCopy": "Det er et andet skridt end at beregne din skærmtid. Det kan være nyttigt, når du allerede har fundet de apps, du vil gøre mindre automatiske.",
+    "fellaCta": "Udforsk Fella"
+  },
+  "calculator": {
+    "metaTitle": "Beregner til skærmtid — Se din telefontid pr. uge, år og til 75 år | Klippy",
+    "metaDescription": "Gratis beregner til skærmtid: indtast daglige timer og alder for at se totaler pr. uge, år og levetid. Privat, ingen login, kører i din browser.",
+    "eyebrow": "Gratis beregner til skærmtid",
+    "h1": "Se, hvordan din telefontid løber op.",
+    "lead": "Indtast din gennemsnitlige daglige skærmtid. Få et enkelt overblik over de timer, dage og år det kan blive til — og vælg derefter én lille ændring at afprøve.",
+    "inputLabel": "Gennemsnitlig daglig skærmtid",
+    "reduceAria": "Reducer skærmtid",
+    "increaseAria": "Øg skærmtid",
+    "help": "Tjek Indstillinger → Skærmtid på din iPhone, hvis du er i tvivl om, hvad du skal indtaste. Brug en typisk dag, ikke din bedste eller værste.",
+    "ageLabel": "Din alder",
+    "ageHelp": "Bruges kun til at estimere skærmtid fra nu til du er 75 år. Intet gemmes.",
+    "calcCta": "Beregn min tid",
+    "results": {
+      "everyWeek": "Hver uge",
+      "everyMonth": "Hver måned",
+      "everyYear": "Hvert år",
+      "fullDays": "Hele dage pr. år"
+    },
+    "atThisRate": "Med dette forbrug",
+    "atThisRateValue": "Omkring {years} år med skærmtid fra nu til du er 75 år.",
+    "atThisRateCopy": "Estimatet tæller hver time ens. Det er et groft opmærksomhedsværktøj, ikke en vurdering af hvordan du bruger din telefon.",
+    "wakingLabel": "Andel af en vågen dag på 16 timer",
+    "smallReductionTitle": "En lille reduktion giver meget",
+    "smallReductionCopy": "Én time mindre om dagen sparer omkring {days} hele dage om året.",
+    "smallReductionDesc": "Du behøver ikke fjerne hver skærm. Start med den ene app eller det ene øjeblik, der bliver til en uplanlagt session.",
+    "fellaTitle": "Hvis få apps er problemet",
+    "fellaCopyTitle": "Fella kan blokere de udvalgte apps, der bliver ved med at trække dig tilbage.",
+    "fellaCopy": "Apps, du ikke vælger, kan forblive tilgængelige, så din nyttige telefon forbliver nyttig.",
+    "fellaCta": "Se Fella i App Store",
+    "faqTitle": "Ofte stillede spørgsmål om beregneren til skærmtid",
+    "axisLabels": {
+      "zero": "0 t",
+      "middle": "8 t",
+      "max": "16 t"
+    },
+    "faqs": [
+      {
+        "question": "Hvordan beregnes estimatet?",
+        "answer": "Vi ganger dit daglige gennemsnit med 7, 30,44 og 365 for uge/måned/år og med antallet af år fra din alder til 75 for livstidsperspektivet. Divider årlige timer med 24 for at få hele dage."
+      },
+      {
+        "question": "Sporer dette værktøj min iPhone?",
+        "answer": "Nej. Beregningen sker i din browser ud fra det tal, du indtaster. Intet forbindes til din telefon eller gemmes af Klippy."
+      },
+      {
+        "question": "Hvor finder jeg min skærmtid på iPhone?",
+        "answer": "Åbn Indstillinger → Skærmtid → Se al aktivitet for apps og websites. Skift mellem Dag og Uge for at finde et typisk dagligt gennemsnit."
+      },
+      {
+        "question": "Hvad skal jeg gøre med resultatet?",
+        "answer": "Kig efter den mindst bevidste tid — et feed du åbner mens du venter, et spil du bruger til at udskyde en opgave, eller et sent aften-scroll — og afprøv én lille grænse dér."
+      }
+    ]
+  },
+  "seoPages": {
+    "screen-time-by-age-calculator": {
+      "title": "Beregner til skærmtid efter alder — Hvor meget fra nu til 75 år? | Klippy",
+      "description": "Se, hvordan din daglige skærmtid løber op fra din nuværende alder til 75 år. Indtast daglige timer og alder for et privat, øjeblikkeligt estimat.",
+      "eyebrow": "Beregner til skærmtid efter alder",
+      "h1": "Se, hvad din skærmtid bliver til fra nu til du er 75.",
+      "lead": "Et dagligt gennemsnit ser anderledes ud ved siden af årene forude. Indtast din alder og daglige skærmtid for et enkelt, privat estimat — og vælg derefter én vane at afprøve.",
+      "answer": "Klippy ganger dit daglige gennemsnit med antallet af år fra din nuværende alder til 75. Den tæller hver time ens, så brug det som et udgangspunkt for opmærksomhed, ikke som en score.",
+      "sections": [
+        {
+          "title": "Hvorfor aldersperspektivet hjælper",
+          "paragraphs": [
+            "Den samme daglige vane får mere tid til at gentage sig, når du er yngre. At se totalen frem til 75 gør en abstrakt rutine konkret uden at gøre den alarmerende.",
+            "Når du har set totalen, kan du stille et mere præcist spørgsmål: er der én app, et tidspunkt på dagen eller et signal, der skaber det meste af den automatiske tid? En lille grænse dér er lettere at holde end en bred begrænsning."
+          ]
+        },
+        {
+          "title": "Gør det brugbart, ikke dømmende",
+          "paragraphs": [
+            "Beregneren ved ikke, hvilke timer der går til arbejde, familie, læring eller afslapning. Brug tallet til at adskille den telefonbrug, du sætter pris på, fra de tjek der sker uden en klar grund.",
+            "Hvis resultatet overrasker dig, så start med den mindst bevidste tid. Behold de nyttige dele af din telefon og tilføj kun friktion der, hvor det automatiske tjek starter. Se også: skærmtid i hele dage og hvordan du finder dit gennemsnit på iPhone."
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "title": "Tjek dit daglige gennemsnit",
+          "copy": "Åbn Indstillinger → Skærmtid → Se al aktivitet og brug et typisk dagstal."
+        },
+        {
+          "title": "Indtast din alder",
+          "copy": "Bruges kun til estimatet frem til 75 år. Intet gemmes."
+        },
+        {
+          "title": "Vælg én lille ændring",
+          "copy": "Vælg én app eller ét øjeblik, der føles automatisk, ikke alt på én gang."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Er estimatet præcist?",
+          "answer": "Nej. Det er simpel matematik ud fra det dagstal, du indtaster, ganget med antallet af år til 75. Brug det til opmærksomhed, ikke som en præcis forudsigelse."
+        },
+        {
+          "question": "Ser Klippy mine telefondata?",
+          "answer": "Nej. Værktøjet kører i din browser og forbinder aldrig til din iPhone."
+        },
+        {
+          "question": "Hvad skal jeg afprøve bagefter?",
+          "answer": "Afprøv én grænse i en uge — for eksempel intet socialt feed i sengen eller mere ro på notifikationer i arbejdstiden — og behold det, der hjælper."
+        }
+      ]
+    },
+    "screen-time-in-days": {
+      "title": "Skærmtid i dage — Omregn timer til hele 24-timers dage | Klippy",
+      "description": "Omregn daglig skærmtid til hele dage pr. uge, måned og år. Se årlige timer som 24-timers dage — gratis og privat.",
+      "eyebrow": "Skærmtid i dage",
+      "h1": "Omregn din skærmtid til hele dage.",
+      "lead": "Timer fordelt over en dag kan føles almindelige. Klippy omregner dit daglige gennemsnit til hele 24-timers dage pr. år, så afvejningen er lettere at forestille sig.",
+      "answer": "Vi ganger dine daglige timer med 365 for årlige timer og dividerer derefter med 24. Det giver ækvivalenten i hele dage. Regnestykket sker øjeblikkeligt i din browser.",
+      "sections": [
+        {
+          "title": "Hvorfor hele dage er lettere at forestille sig",
+          "paragraphs": [
+            "Fire timer om dagen lyder af lidt, indtil du ser det som over 60 hele dage om året. Dage-perspektivet giver samme tid et nyt billede uden at kalde den spildt.",
+            "De dage inkluderer arbejde, kort, beskeder, læring og hvile. Pointen er ikke at stemple al skærmtid som dårlig, men at se totalen så du kan vælge én del at ændre. Prøv visningen efter alder, hvis du vil se det længere perspektiv."
+          ]
+        },
+        {
+          "title": "Hvis tallet overrasker dig",
+          "paragraphs": [
+            "Start med den mindst bevidste tid: et feed der åbnes mens du venter, et spil brugt til at udskyde en opgave, eller et sent aften-scroll der trækker ud.",
+            "Afprøv den mindste grænse, der passer til din hverdag. Behold vigtige apps tilgængelige og ændr kun det øjeblik, der skaber mest friktion. Praktiske måder at reducere på iPhone kan hjælpe."
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "title": "Find dit gennemsnit",
+          "copy": "Brug det daglige gennemsnit i Skærmtid på iPhone (visning for dag/uge)."
+        },
+        {
+          "title": "Se den årlige total",
+          "copy": "Beregneren viser timer og ækvivalenten i 24-timers dage."
+        },
+        {
+          "title": "Vælg ét eksperiment",
+          "copy": "Reducer ét automatisk tjek i stedet for at jagte et perfekt tal."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Hvordan beregnes hele dage?",
+          "answer": "Årlige timer ÷ 24. For eksempel 4 t/dag × 365 = 1.460 t/år ÷ 24 ≈ 60,8 hele dage."
+        },
+        {
+          "question": "Betyder det, at skærmtid er spildt?",
+          "answer": "Nej. Dage-visningen er en neutral måde at se det på. Arbejde, familie og hvile kan alt sammen ske på skærmen."
+        },
+        {
+          "question": "Kan jeg gøre det for én app?",
+          "answer": "Ja. Indtast det daglige gennemsnit for en enkelt app eller kategori fra oversigten i Skærmtid."
+        }
+      ]
+    },
+    "phone-use-calculator": {
+      "title": "Beregner til telefonforbrug — Dagligt til årligt forbrug | Klippy",
+      "description": "Se, hvordan din daglige telefontid løber op på tværs af en uge, måned og et år. Ét tal, øjeblikkelige totaler — ingen login.",
+      "eyebrow": "Beregner til telefonforbrug",
+      "h1": "En enkel beregner til din telefontid.",
+      "lead": "Indtast ét dagligt gennemsnit og se det som totaler pr. uge, måned og år. Brug det til at finde den del af telefonforbruget, du faktisk gerne vil ændre.",
+      "answer": "Klippy omregner dine daglige telefontimer til totaler pr. uge (×7), måned (×30,44) og år (×365). Ingen konto, ingen sporing — bare matematik i din browser.",
+      "sections": [
+        {
+          "title": "Din telefon er ikke én ting",
+          "paragraphs": [
+            "Den er et kort, kamera, messenger, pung og et sted at koble af. Én samlet total kan ikke afgøre, hvilke former for brug der betyder noget for dig.",
+            "Brug totalen til at spørge, om den tid du gerne vil beholde, bliver fortrængt af tjek der sker på autopilot. Den sondring er mere nyttig end en samlet skærmtids-score."
+          ]
+        },
+        {
+          "title": "Kig efter mønstre før regler",
+          "paragraphs": [
+            "Læg mærke til signalet før appen åbnes: kedsomhed, en notifikation, en pause mellem opgaver eller en svær arbejdsopgave.",
+            "En regel, der matcher signalet, virker bedre — mere ro på notifikationer, en anden startskærm eller en grænse omkring én app. Hvis du vil begrænse sociale medier specifikt, så se tid på sociale medier og hvordan du begrænser det på iPhone."
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "title": "Indtast dagligt telefonforbrug",
+          "copy": "Brug en typisk dag, ikke din bedste eller værste."
+        },
+        {
+          "title": "Læs totalerne",
+          "copy": "Tjek uge og år for at se vanen i større skala."
+        },
+        {
+          "title": "Find det, der skal ændres",
+          "copy": "Adskil nyttig brug fra tjek, du ikke havde planlagt."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Er den gratis?",
+          "answer": "Ja. Den kører i din browser uden konto eller betaling."
+        },
+        {
+          "question": "Hvor finder jeg mit daglige gennemsnit?",
+          "answer": "Indstillinger → Skærmtid → Se al aktivitet for apps og websites. Brug visningen for dag eller uge."
+        },
+        {
+          "question": "Kan den se mine apps?",
+          "answer": "Nej. Du indtaster selv tallet; Klippy forbinder aldrig til din telefon."
+        }
+      ]
+    },
+    "social-media-time-calculator": {
+      "title": "Beregner til tid på sociale medier — Totaler pr. uge, måned og år | Klippy",
+      "description": "Beregn tid på sociale medier pr. uge, måned og år. Indtast dagligt gennemsnit for én app eller alle sociale medier — privat og øjeblikkeligt.",
+      "eyebrow": "Beregner til tid på sociale medier",
+      "h1": "Se, hvordan tid på sociale medier løber op.",
+      "lead": "Indtast dit daglige gennemsnit for sociale medier og se det som totaler pr. uge, måned og år. Behold det, du sætter pris på, og ændr det, der føles automatisk.",
+      "answer": "Læg dine sociale apps sammen i Skærmtid på iPhone, indtast det daglige gennemsnit, og Klippy omregner det til totaler på længere sigt. Brug det til én app eller en hel kategori.",
+      "sections": [
+        {
+          "title": "En total er tydeligere end en fornemmelse",
+          "paragraphs": [
+            "‘Jeg bruger for meget tid på sociale medier’ er svært at handle på. Et tal — for eksempel 1,5 t/dag ≈ 22 hele dage om året — giver dig noget konkret at forholde dig til.",
+            "Ikke alt det er spildt; sociale medier er også der, mange arbejder, lærer og holder kontakt. Det nyttige spørgsmål er, om tiden matcher det, du havde tænkt dig."
+          ]
+        },
+        {
+          "title": "Gør næste skridt konkret",
+          "paragraphs": [
+            "Vælg én app, der forvandler et hurtigt tjek til en længere session. Læg mærke til, hvornår du åbner den, og hvad du lavede lige inden.",
+            "Hvis du beslutter at tilføje en grænse, så behold nyttige apps åbne og fokuser på de få, der trækker dig tilbage. For muligheder på iPhone, se hvordan du begrænser sociale medier på iPhone og Skærmtid vs. app-blokering."
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "title": "Åbn oversigten",
+          "copy": "I Skærmtid kan du tjekke kategorien Sociale medier eller en enkelt app."
+        },
+        {
+          "title": "Indtast det daglige gennemsnit",
+          "copy": "Brug én app eller den samlede total."
+        },
+        {
+          "title": "Vælg én grænse",
+          "copy": "Start med den app, der føles mest automatisk."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Kan jeg beregne for én app?",
+          "answer": "Ja. Indtast gennemsnittet for Instagram, TikTok, YouTube osv. eller en samlet total."
+        },
+        {
+          "question": "Indsamler Klippy mit forbrug på sociale medier?",
+          "answer": "Nej. Intet sendes til Klippy eller dine konti."
+        },
+        {
+          "question": "Hvad hvis jeg har brug for det til arbejde?",
+          "answer": "Behold forbruget til arbejde og fokuser grænsen på tjek uden for det formål."
+        }
+      ]
+    },
+    "how-to-check-screen-time-iphone": {
+      "title": "Sådan tjekker du skærmtid på iPhone — Dagligt, ugentligt og pr. app | Klippy",
+      "description": "Sådan finder du Skærmtid på iPhone: se dagligt gennemsnit, ugentlig total og oversigt pr. app, og brug det derefter i Klippys beregner.",
+      "eyebrow": "Sådan tjekker du skærmtid på iPhone",
+      "h1": "Sådan finder du din skærmtid på iPhone.",
+      "lead": "Din iPhone tracker allerede et dagligt gennemsnit, en ugentlig udvikling og en oversigt pr. app. Her kan du se, hvor du finder det, og hvilket tal du skal bruge i beregneren.",
+      "answer": "Gå til Indstillinger → Skærmtid → Se al aktivitet for apps og websites. Skift mellem Dag/Uge for at finde et typisk gennemsnit. Oversigten pr. app finder du på samme skærm.",
+      "sections": [
+        {
+          "title": "Vælg en typisk uge, ikke en enkelt dag",
+          "paragraphs": [
+            "Én dag kan være misvisende — rejse, et langt opkald eller en weekend med ekstra forbrug kan skævvride tallet. Uge-visningen udjævner de udsving.",
+            "Brug det daglige gennemsnit vist øverst for Uge. Det er det mest brugbare input til beregneren og til visningen i dage."
+          ]
+        },
+        {
+          "title": "Tjek oversigten, ikke kun totalen",
+          "paragraphs": [
+            "Totalen fortæller hvor meget, oversigten fortæller hvor. Sammenlign de apps, du bruger bevidst, med dem du åbner uden at planlægge det.",
+            "Den opdeling hjælper dig med at vælge ét realistisk næste skridt i stedet for et bredt mål om at ‘bruge telefonen mindre’."
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "title": "Åbn Indstillinger",
+          "copy": "Tryk på Skærmtid i hovedlisten i Indstillinger."
+        },
+        {
+          "title": "Åbn aktivitet for apps og websites",
+          "copy": "Vælg Se alt for at se Dag/Uge og listen pr. app."
+        },
+        {
+          "title": "Kopier et typisk dagstal",
+          "copy": "Brug det i beregneren for at se totaler pr. uge/år."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Kan jeg se tid for én app?",
+          "answer": "Ja. Aktivitetslisten viser hver app og kategori; tryk på en app for detaljer pr. dag/uge."
+        },
+        {
+          "question": "Hvorfor mangler Skærmtid?",
+          "answer": "Den er måske slået fra. I Skærmtid skal du trykke på Slå til og vælge din enhed."
+        },
+        {
+          "question": "Kan jeg bruge den ugentlige total?",
+          "answer": "Ja. Divider den ugentlige total med 7 for at få et dagligt gennemsnit."
+        }
+      ]
+    },
+    "how-to-reduce-screen-time-iphone": {
+      "title": "Sådan reducerer du skærmtid på iPhone (uden at blokere for meget) | Klippy",
+      "description": "Praktiske måder at reducere skærmtid på iPhone: find signalet, dæmp notifikationer, brug Fokus, eller tilføj en grænse for én app.",
+      "eyebrow": "Sådan reducerer du skærmtid på iPhone",
+      "h1": "Reducer skærmtid ved at ændre én nyttig ting først.",
+      "lead": "‘Brug telefonen mindre’ er vagt. En mindre ændring — færre notifikationer, en Fokus-plan eller en grænse for én app — er lettere at holde og lettere at måle.",
+      "answer": "Start med din oversigt i Skærmtid, vælg ét gentagende signal (notifikationer, kedsomhed, et tidspunkt på dagen), og match værktøjet: dæmp notifikationer, Fokus, Appgrænser/Nedetid eller en selektiv app-blokering til de få apps, der åbnes automatisk.",
+      "sections": [
+        {
+          "title": "Vælg en adfærd, ikke kun et tal",
+          "paragraphs": [
+            "‘Stop med at åbne TikTok efter kl. 22’ er tydeligere end ‘brug telefonen 1 time mindre’. Det første peger på en indstilling; det andet kræver viljestyrke i øjeblikket.",
+            "Når adfærden er konkret, kan du lade nyttige apps være og kun lave reglen der, hvor problemet opstår."
+          ]
+        },
+        {
+          "title": "Hold opsætningen praktisk",
+          "paragraphs": [
+            "Hvis en regel blokerer apps, du har brug for, vil du omgå den. Fokuser på de 1–2 apps, der skaber det automatiske tjek.",
+            "Læg mærke til hvad der får dig til at droppe opsætningen — for bred, for let at ignorere eller løser det forkerte signal. Juster det, ikke din motivation. Sammenlign Skærmtid vs. selektiv app-blokering for at vælge det rigtige værktøj."
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "title": "Find det gentagende øjeblik",
+          "copy": "Brug Skærmtid til at finde én vane (f.eks. arbejde, sengetid, ventetid)."
+        },
+        {
+          "title": "Fjern signalet hvis du kan",
+          "copy": "Prøv indstillinger for notifikationer eller Fokus til tjek drevet af notifikationer."
+        },
+        {
+          "title": "Tilføj en grænse hvis nødvendigt",
+          "copy": "Brug Appgrænser/Nedetid eller en blokering til den automatiske åbning."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Skal jeg bruge Appgrænser?",
+          "answer": "Brug dem, når et tidsbudget hjælper. Hvis den samme app åbnes tilfældigt hele dagen, passer en selektiv app-grænse måske bedre."
+        },
+        {
+          "question": "Kan jeg beholde opkald og beskeder?",
+          "answer": "Ja. Lad Telefon, Beskeder og det vigtigste stå uden for enhver begrænsning."
+        },
+        {
+          "question": "Hvad er den mindste nyttige ændring?",
+          "answer": "Den der rammer et reelt problem uden at gøre resten af din telefon besværlig."
+        }
+      ]
+    },
+    "how-to-limit-social-media-on-iphone": {
+      "title": "Sådan begrænser du sociale medier på iPhone — Behold det vigtigste åbent | Klippy",
+      "description": "Begræns sociale medier på iPhone uden at blokere hele telefonen: notifikationer, Fokus, Appgrænser, Nedetid og app-blokeringer sammenlignet.",
+      "eyebrow": "Begræns sociale medier på iPhone",
+      "h1": "Begræns sociale medier uden at begrænse hele telefonen.",
+      "lead": "Du behøver ikke en alt-eller-intet-regel. Vælg om du vil have færre notifikationer, et dagligt råderum, en planlagt pause eller at gøre udvalgte apps sværere at åbne.",
+      "answer": "Match værktøjet til signalet: notifikationer → dæmp notifikationer/Fokus; tidsbudget → Appgrænser; fast skema → Nedetid; gentagne automatiske åbninger → selektiv app-blokering. Lad ikke-valgte apps forblive tilgængelige.",
+      "sections": [
+        {
+          "title": "Forskellige værktøjer, forskellige problemer",
+          "paragraphs": [
+            "Notifikationer er et signal, Appgrænser er et budget, Nedetid er et skema, og en selektiv app-blokering gør de valgte apps utilgængelige som standard. De kan ikke erstatte hinanden.",
+            "Hvis den samme app åbnes uden notifikation eller skema, er blokeringen ofte mere direkte end en timer, du kan forlænge. Se hvornår hvert værktøj hjælper i Skærmtid vs. app-blokering."
+          ]
+        },
+        {
+          "title": "Behold det, du har brug for",
+          "paragraphs": [
+            "Kort, Beskeder, opkald, bank og familie-apps behøver sjældent at være en del af en regel for sociale medier.",
+            "En smal regel er lettere at holde, fordi den ændrer problem-appen uden at gøre enhver almindelig opgave besværlig. Hvis du er i tvivl, så start med hvor meget tid du faktisk bruger på sociale medier."
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "title": "Sæt navn på problem-appen",
+          "copy": "Find den ene app, der forvandler et hurtigt tjek til en lang session."
+        },
+        {
+          "title": "Match indstillingen",
+          "copy": "Vælg bevidst mellem notifikationer, grænser, skema eller blokering."
+        },
+        {
+          "title": "Behold det vigtigste åbent",
+          "copy": "Lad nyttige apps stå uden for reglen."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Kan Fokus blokere apps?",
+          "answer": "Fokus dæmper notifikationer og kan skjule sider på hjemmeskærmen, men forhindrer som regel ikke at åbne en app."
+        },
+        {
+          "question": "Kan jeg beholde Beskeder?",
+          "answer": "Ja. Med en selektiv tilgang forbliver ikke-valgte apps tilgængelige."
+        },
+        {
+          "question": "Hvad hvis jeg har brug for det til arbejde?",
+          "answer": "Behold forbruget til arbejde og anvend kun grænsen uden for de tidsrum."
+        }
+      ]
+    },
+    "digital-detox-plan": {
+      "title": "Digital detox-plan — En mindre nulstilling du kan holde | Klippy",
+      "description": "Lav en realistisk digital detox-plan: vælg én grund, ét signal og én lille grænse at afprøve i en uge.",
+      "eyebrow": "Digital detox-plan",
+      "h1": "En digital detox-plan, der kan passe til hverdagen.",
+      "lead": "Du behøver ikke slette alt eller tage væk i en uge. Vælg én del af din dag, du gerne vil have tilbage, og ét signal at ændre — og afprøv det derefter.",
+      "answer": "Vælg én grund (f.eks. færre afbrydelser på arbejdet, roligere sengetid), ét signal (en app, notifikation eller et tidsrum) og én grænse, du kan holde i syv dage. Evaluer og juster derefter.",
+      "sections": [
+        {
+          "title": "Undgå alt-eller-intet-fælden",
+          "paragraphs": [
+            "Brede detox-planer føles beslutsomme, men fejler ofte, når du stadig har brug for telefonen til arbejde, familie og transport.",
+            "En snæver test giver bedre data. Hvis sen aften-scroll er problemet, så ændr kun det tidsrum — ikke hver app hele dagen. Se hvordan du stopper med at tjekke så ofte for idéer til signaler."
+          ]
+        },
+        {
+          "title": "Beslut hvad du giver plads til",
+          "paragraphs": [
+            "En plan holder bedre med et tydeligt formål: mere fokuseret arbejde, mere nærværende måltider eller en lettere vind-ned-rutine ved sengetid.",
+            "Brug det formål til at vælge grænsen. Den skal understøtte det liv, du ønsker, ikke blive endnu en regel, du er træt af."
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "title": "Vælg én grund",
+          "copy": "Sæt navn på den del af din dag, du vil beskytte."
+        },
+        {
+          "title": "Vælg ét signal",
+          "copy": "Vælg den app, notifikation eller det sted, der gentagne gange kommer i vejen."
+        },
+        {
+          "title": "Afprøv én grænse",
+          "copy": "Hold den lille nok til at kunne bruges i en hel uge."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Hvor længe skal en detox vare?",
+          "answer": "En test på én uge er mere nyttig end en bred plan, du ikke kan holde. Forlæng kun det, der hjælper."
+        },
+        {
+          "question": "Skal jeg slette sociale medier?",
+          "answer": "Som regel ikke. En grænse omkring de automatiske øjeblikke er ofte nok."
+        },
+        {
+          "question": "Hvad hvis jeg har brug for telefonen til arbejde?",
+          "answer": "Behold funktionerne til arbejde og fokuser din detox på de distraherende tjek uden for det."
+        }
+      ]
+    },
+    "stop-checking-phone": {
+      "title": "Sådan stopper du med at tjekke telefonen hele tiden — Signalet før tjekket | Klippy",
+      "description": "Stop med at tjekke telefonen ved at ændre signalet: notifikationer, kedsomhed eller vane-loops. Praktiske skridt du kan afprøve i dag.",
+      "eyebrow": "Stop med at tjekke telefonen",
+      "h1": "Stop med at tjekke ved at ændre øjeblikket lige før tjekket.",
+      "lead": "De fleste tjek er ikke en beslutning om at bruge telefonen. De er en automatisk række-ud under en pause, en notifikation eller et øjebliks kedsomhed — og det signal kan ændres.",
+      "answer": "Læg mærke til signalet, og ændr derefter opsætningen omkring det: dæmp de notifikationer der udløser det, gør appen lidt sværere at åbne, eller læg en mere nyttig næste handling samme sted.",
+      "sections": [
+        {
+          "title": "Et tjek er ofte et loop, ikke et valg",
+          "paragraphs": [
+            "Hånden bevæger sig, før du har besluttet, hvad du vil have fra telefonen. Derfor føles viljestyrke i øjeblikket så svært.",
+            "Skab en lille pause ved at ændre signalet, adgangen eller omgivelserne — nok til at kunne vælge, ikke til at kræve perfekt kontrol."
+          ]
+        },
+        {
+          "title": "Gør den bedre handling lettere",
+          "paragraphs": [
+            "Hvis du tjekker mens du venter, så læg en bog eller notesbog samme sted. Hvis du tjekker i sengen, så oplad telefonen uden for soveværelset. Gør alternativet lige så let som den gamle vane.",
+            "Hvis én app er det sædvanlige mål, kan en selektiv app-grænse gøre den automatiske åbning mindre bekvem, mens alt andet forbliver åbent. Sammenlign værktøjer i Skærmtid vs. app-blokering."
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "title": "Læg mærke til signalet",
+          "copy": "Hvilket tidspunkt, hvilken følelse eller notifikation kommer lige før du rækker ud?"
+        },
+        {
+          "title": "Ændr én del af loopet",
+          "copy": "Slå notifikationen fra, flyt appen eller skab afstand."
+        },
+        {
+          "title": "Evaluer det reelle resultat",
+          "copy": "Behold det, der hjælper, og juster det, der gør hverdagen sværere."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Hvorfor tjekker jeg uden notifikation?",
+          "answer": "Tjek kan blive en tillært reaktion på pauser, stress eller kedsomhed — ikke kun på notifikationer."
+        },
+        {
+          "question": "Skal jeg slå alle notifikationer fra?",
+          "answer": "Start med de få, der trækker dig ind i uønskede tjek; behold de nyttige."
+        },
+        {
+          "question": "Kan en blokering hjælpe?",
+          "answer": "Ja, når de samme 1–2 apps er det gentagne mål."
+        }
+      ]
+    },
+    "screen-time-vs-app-blocker": {
+      "title": "Skærmtid vs. app-blokering — Hvilket iPhone-værktøj passer til din vane? | Klippy",
+      "description": "Skærmtids Appgrænser og Nedetid vs. Fokus vs. en selektiv app-blokering. Lær hvilket iPhone-værktøj der matcher dit signal.",
+      "eyebrow": "Skærmtid vs. app-blokering",
+      "h1": "Skærmtid og app-blokeringer løser forskellige problemer.",
+      "lead": "Appgrænser, Nedetid, Fokus og en selektiv app-blokering forveksles ofte. Det rigtige valg afhænger af, om du har brug for et budget, et skema, færre notifikationer eller at gøre udvalgte apps utilgængelige som standard.",
+      "answer": "Brug Skærmtid til rapporter, Appgrænser og Nedetid; Fokus til notifikationer og hjemmeskærm; en selektiv app-blokering når få apps skal være blokeret som standard, mens resten af telefonen forbliver nyttig.",
+      "sections": [
+        {
+          "title": "Hvornår Skærmtid passer godt",
+          "paragraphs": [
+            "Appgrænser sætter et dagligt råderum, Nedetid sætter et skema, og Skærmtid viser hvor tiden går hen. Godt til overblik, budgetter og faste tidsrum.",
+            "Ved tilfældige, automatiske åbninger af de samme 1–2 apps kan et tidsbudget være let at forlænge — en standard-blokering er mere direkte."
+          ]
+        },
+        {
+          "title": "Hvornår en selektiv grænse passer godt",
+          "paragraphs": [
+            "En blokering spørger: hvilke installerede apps skaber problemet, og kan resten forblive nyttige? Fella holder de apps, du vælger, blokeret som standard; ikke-valgte apps forbliver tilgængelige.",
+            "Det er ikke en website-blokering eller et MDM-system. Det er en smal grænse for den vane, du satte navn på i hvordan du reducerer eller i din detox-plan."
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "title": "Sæt navn på problemet",
+          "copy": "Notifikationer, daglig total, skema eller gentagne automatiske åbninger?"
+        },
+        {
+          "title": "Vælg det matchende værktøj",
+          "copy": "Fokus, Appgrænser/Nedetid eller en blokering."
+        },
+        {
+          "title": "Hold det smalt",
+          "copy": "Lad nyttige apps forblive tilgængelige."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Kan Skærmtid blokere apps?",
+          "answer": "Den har Appgrænser og Nedetid. Brug dem til budgetter/skemaer; en blokering er til som standard utilgængelige udvalgte apps."
+        },
+        {
+          "question": "Blokerer Fokus apps?",
+          "answer": "Fokus dæmper notifikationer og kan skjule sider, men forhindrer som regel ikke at åbne en app."
+        },
+        {
+          "question": "Kan jeg beholde opkald og beskeder?",
+          "answer": "Ja. Med en selektiv tilgang er det kun de apps, du vælger, der blokeres."
+        }
+      ]
+    }
+  },
+  "guidePage": {
+    "shortAnswer": "Det korte svar",
+    "nextStepEyebrow": "Et praktisk næste skridt",
+    "useCalculatorCta": "Brug beregneren til skærmtid",
+    "faqTitle": "Ofte stillede spørgsmål"
+  },
+  "notFound": {
+    "title": "Side ikke fundet",
+    "description": "Siden du leder efter findes ikke."
+  }
+}

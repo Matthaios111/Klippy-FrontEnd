@@ -1,0 +1,778 @@
+{
+  "site": {
+    "name": "Klippy",
+    "title": "Klippy | Ilmaisia työkaluja rauhallisempaan puhelimeen",
+    "description": "Yksinkertaisia, ilmaisia työkaluja puhelintottumusten muuttamiseen, jotka vetävät sinua yhä uudelleen puoleensa."
+  },
+  "header": {
+    "howItWorks": "Miten se toimii",
+    "guides": "Oppaat",
+    "about": "Tietoa",
+    "calculator": "Laskuri",
+    "tryFella": "Kokeile Fellaa",
+    "homeAria": "Klippy-etusivu"
+  },
+  "footer": {
+    "privacy": "Tietosuoja",
+    "terms": "Ehdot",
+    "support": "Tuki",
+    "builtByFella": "Fellan tekemä",
+    "guidesLabel": "Oppaat",
+    "guidesAria": "Ruutuajan oppaat"
+  },
+  "guides": [
+    {
+      "label": "Ruutuaika iän mukaan",
+      "slug": "screen-time-by-age-calculator"
+    },
+    {
+      "label": "Ruutuaika päivinä",
+      "slug": "screen-time-in-days"
+    },
+    {
+      "label": "Puhelimen käytön laskuri",
+      "slug": "phone-use-calculator"
+    },
+    {
+      "label": "Sosiaalisen median aika",
+      "slug": "social-media-time-calculator"
+    },
+    {
+      "label": "Ruutuajan tarkistaminen iPhonella",
+      "slug": "how-to-check-screen-time-iphone"
+    },
+    {
+      "label": "Ruutuajan vähentäminen iPhonella",
+      "slug": "how-to-reduce-screen-time-iphone"
+    },
+    {
+      "label": "Sosiaalisen median rajoittaminen iPhonella",
+      "slug": "how-to-limit-social-media-on-iphone"
+    },
+    {
+      "label": "Digitaalinen detox-suunnitelma",
+      "slug": "digital-detox-plan"
+    },
+    {
+      "label": "Lopeta puhelimen jatkuva selailu",
+      "slug": "stop-checking-phone"
+    },
+    {
+      "label": "Ruutuaika vs. sovellusesto",
+      "slug": "screen-time-vs-app-blocker"
+    }
+  ],
+  "home": {
+    "title": "Tee puhelimestasi\nhelpompi laskea kädestä.",
+    "lead": "Ilmainen työkalu sen puhelintottumuksen löytämiseen, joka vetää sinua yhä takaisin. Valitse sitten pienempi raja, joka sopii oikeasti arkeesi.",
+    "cta": "Kokeile ilmaista työkalua",
+    "sub": "Ei kirjautumista. Ei latausta. Vain hyödyllinen paikka aloittaa.",
+    "howItWorksAria": "Miten se toimii",
+    "steps": [
+      {
+        "number": "01",
+        "title": "Nimeä hetki",
+        "description": "Konkreettinen tapa on helpompi muuttaa kuin epämääräinen tavoite käyttää puhelinta vähemmän."
+      },
+      {
+        "number": "02",
+        "title": "Valitse pienempi raja",
+        "description": "Pidä tarvitsemasi sovellukset. Lisää kitkaa vain siihen, missä automaattinen selailu alkaa."
+      },
+      {
+        "number": "03",
+        "title": "Kokeile arjessa",
+        "description": "Käytä tulosta käytännön lähtökohtana ja mukauta sitä omaan arkeesi sopivaksi."
+      }
+    ],
+    "aboutEyebrow": "Rauhallisempi puhelin alkaa pienestä.",
+    "aboutTitle": "Sinun ei tarvitse poistaa koko digitaalista elämääsi.",
+    "aboutCopy": "Klippy kehittää yksinkertaisia ilmaisia työkaluja, jotka auttavat tunnistamaan ensin ne muutamat sovellukset ja hetket, jotka kannattaa muuttaa.",
+    "aboutCta": "Tutustu Fellaan"
+  },
+  "about": {
+    "metaTitle": "Tietoa Klippystä — Pieniä työkaluja rauhallisempaan puhelimeen",
+    "metaDescription": "Klippy tekee ilmaisia, yksityisiä työkaluja, jotka auttavat näkemään puhelintottumuksesi selkeästi ja valitsemaan pienemmän, realistisen seuraavan askeleen.",
+    "eyebrow": "Tietoa Klippystä",
+    "h1": "Pieniä työkaluja puhelimeen, joka tuntuu hyödyllisemmältä.",
+    "lead": "Klippy on niille, jotka haluavat muuttaa puhelintottumusta ilman että siitä tulee kokopäiväprojekti. Työkalut alkavat yksinkertaisesta kysymyksestä ja tähtäävät yhteen hyödylliseen vastaukseen.",
+    "whyEyebrow": "Miksi Klippy on olemassa",
+    "whyTitle": "Useimmat puhelinvinkit vaativat liikaa, liian aikaisin.",
+    "whyParagraphs": [
+      "On helppo sanoa, että puhelinta pitäisi käyttää vähemmän. On paljon vaikeampi päättää, mitä se tarkoittaa tavallisena päivänä, kun puhelin on myös tapa pitää yhteyttä ihmisiin, löytää perille, maksaa, tehdä töitä, oppia ja rentoutua.",
+      "Klippy lähtee kapeammasta näkökulmasta. Osa puhelimesta on hyödyllistä. Jotkin sovellukset tai hetket voivat vetää sinut tapaan, jota et ole itse valinnut. Ne ovat eri ongelmia ja ansaitsevat eri vastaukset.",
+      "Tavoite ei ole saada teknologia tuntumaan moraaliselta epäonnistumiselta. Tavoite on tehdä valinnoista näkyvämpiä, jotta voit itse päättää, mitä kannattaa muuttaa."
+    ],
+    "values": [
+      {
+        "title": "Ilmainen ennen kaikkea",
+        "copy": "Tuloksen ei pitäisi olla kirjautumislomakkeen takana. Klippyn työkalut on suunniteltu toimimaan ilman tiliä, maksua tai sovelluksen asentamista."
+      },
+      {
+        "title": "Yksityinen oletuksena",
+        "copy": "Ruutuaikalaskuri toimii selaimessasi kirjoittamillasi arvoilla. Se ei yhdistä iPhoneesi eikä tarvitse yksityisiä käyttötietojasi."
+      },
+      {
+        "title": "Hyödyllinen ilman tuputusta",
+        "copy": "Työkalun pitäisi pärjätä omillaan. Jos toinen tuote on aidosti hyödyllinen sen jälkeen, seuraavan askeleen pitää olla selkeä ja vapaaehtoinen."
+      }
+    ],
+    "nextEyebrow": "Mitä seuraavaksi",
+    "nextTitle": "Aloita rehellisestä kuvasta tavasta.",
+    "nextParagraphs": [
+      "Klippyn ensimmäinen työkalu on ruutuaikalaskuri. Se muuttaa keskimääräisen päivittäisen luvun viikko-, vuosi- ja pidemmän aikavälin kokonaisuuksiksi. Se ei kerro, mitkä tunnit kannattaa säilyttää. Se antaa selkeämmän lähtökohdan, jotta voit päättää sen itse.",
+      "Tulevat työkalut noudattavat samaa periaatetta. Niiden pitäisi olla tarpeeksi yksinkertaisia käytettäväksi minuutissa ja tarpeeksi täsmällisiä auttamaan oikeassa valinnassa. Ei yleistä pisteytystä. Ei lupausta, että yksi asetus ratkaisee kaiken."
+    ],
+    "nextCta": "Käytä ruutuaikalaskuria",
+    "fellaEyebrow": "Rakennettu Fellan kanssa",
+    "fellaTitle": "Kun vastaus on vahvempi raja muutaman sovelluksen ympärillä, Fella on sitä varten.",
+    "fellaCopy": "Fella on iPhonen sovellusesto valituille häiritseville sovelluksille. Sovellukset, joita et valitse, voivat pysyä käytettävissä, joten puhelimesi hyödylliset osat eivät kuulu rajan sisään ellet niin halua.",
+    "fellaCta": "Tutustu Fellaan"
+  },
+  "howItWorks": {
+    "metaTitle": "Miten Klippy toimii — Aloita tavasta, älä täysresetistä",
+    "metaDescription": "Miten Klippy toimii: ilmaisia, yksityisiä selaintyökaluja, jotka muuttavat päivittäisen puhelinluvun hyödylliseksi seuraavaksi askeleeksi — ilman tiliä tai seurantaa.",
+    "eyebrow": "Miten se toimii",
+    "h1": "Aloita tavasta, älä jättiresetistä.",
+    "lead": "Klippy tekee yksinkertaisia ilmaisia työkaluja puhelintottumusten tarkasteluun käytännöllisemmällä tavalla. Tarkoitus ei ole saada jokaista ruudulla vietettyä minuuttia tuntumaan pahalta. Tarkoitus on huomata hetket, jotka tapahtuvat lähes ajattelematta, ja päättää, toimivatko ne edelleen sinulle.",
+    "ideaEyebrow": "Perusajatus",
+    "ideaTitle": "Hyödyllisen vastauksen pitäisi olla selkeä ennen kuin se pyytää sinulta mitään.",
+    "ideaCopy": "Siksi Klippyn työkalut toimivat selaimessasi. Tilin luomista ei tarvita, maksusivua tulokseen pääsemiseksi ei ole, eikä yhteyttä yksityisiin puhelintietoihisi. Syötät pienen määrän tietoa ja saat konkreettisen tavan ajatella sitä.",
+    "steps": [
+      {
+        "number": "01",
+        "title": "Katso yhtä hetkeä",
+        "copy": "Aloita tietystä sovelluksesta, kellonajasta tai tilanteesta. Syötteen selaaminen sängyssä on helpompi ymmärtää kuin laaja suunnitelma käyttää puhelinta vähemmän."
+      },
+      {
+        "number": "02",
+        "title": "Tee luvusta hyödyllinen",
+        "copy": "Ruutuaikalaskuri muuttaa keskimääräisen päivittäisen luvun viikko-, vuosi- ja pidemmän aikavälin kokonaisuuksiksi. Laskutoimitus on yksinkertainen. Sen näkeminen yhdessä paikassa voi helpottaa valinnan hahmottamista."
+      },
+      {
+        "number": "03",
+        "title": "Valitse pienin seuraava askel",
+        "copy": "Voit pitää kaiken ennallaan. Voit siirtää sovellusta, mykistää ilmoituksen tai tehdä yhdestä häiriötekijästä hieman vaikeamman avata. Hyödyllinen muutos on se, joka sopii oikeaan arkeesi."
+      }
+    ],
+    "calcEyebrow": "Mitä laskuri tekee",
+    "calcTitle": "Se tekee tutusta luvusta helpommin hahmotettavan.",
+    "calcParagraphs": [
+      "Syötä keskimääräinen päivittäinen ruutuaikasi tunteina. Klippy laskee vastaavat viikko-, kuukausi- ja vuosikokonaisuudet ja arvioi, miltä sama tahti näyttää nykyiästäsi 75 ikävuoteen asti.",
+      "Laskuri ei tiedä, mitä sovelluksia käytät, mitä teet työksesi tai onko puhelimella vietetty aika nautinnollista, tarpeellista tai häiritsevää. Se kohtelee jokaista tuntia samalla tavalla. Se on tarkoituksellista. Se on yksinkertainen tiedostamisen työkalu, ei pisteytys tai diagnoosi.",
+      "Jos tulos tuntuu korkealta, seuraava kysymys ei välttämättä ole, miten poistat kaiken sen ajan. Parempi kysymys on, mikä osa siitä tuntuu automaattiselta, suunnittelemattomalta tai vaikealta lopettaa kun se on alkanut."
+    ],
+    "calcCta": "Käytä ruutuaikalaskuria",
+    "faqEyebrow": "Usein kysyttyjä kysymyksiä",
+    "faqTitle": "Pienempikin raja voi merkitä paljon.",
+    "faqs": [
+      {
+        "question": "Pitääkö minun luoda tili?",
+        "answer": "Ei. Klippyn työkalut on tarkoitettu toimimaan heti selaimessa. Laskuri ei vaadi rekisteröitymistä tai maksua."
+      },
+      {
+        "question": "Lukeeko Klippy puhelimeni käyttötietoja?",
+        "answer": "Ei. Se käyttää vain laskuriin kirjoittamaasi lukua. Se ei yhdistä iPhoneesi eikä kerää sovelluskohtaista erittelyä."
+      },
+      {
+        "question": "Mitä teen tuloksen nähtyäni?",
+        "answer": "Etsi yksi selkeä kaava. Se voi olla sovellus, jonka tarkistat työn aikana, syöte jonka avaat sängyssä tai tapa joka alkaa aina kun odotat jotain."
+      },
+      {
+        "question": "Entä jos tarvitsen yhä suurinta osaa puhelimestani?",
+        "answer": "Se on normaalia. Hyödyllisen rajan ei tarvitse tehdä koko puhelimestasi saavuttamatonta. Aloita niistä muutamista sovelluksista tai hetkistä, jotka aiheuttavat ongelman."
+      }
+    ],
+    "fellaEyebrow": "Kun muutama sovellus on ongelma",
+    "fellaTitle": "Fella pitää valitut häiritsevät iPhone-sovellukset oletuksena estettyinä, kun taas sovellukset joita et valitse voivat pysyä käytettävissä.",
+    "fellaCopy": "Se on eri askel kuin ruutuajan laskeminen. Siitä voi olla hyötyä, kun olet jo tunnistanut sovellukset, joiden käytön haluat tehdä vähemmän automaattiseksi.",
+    "fellaCta": "Tutustu Fellaan"
+  },
+  "calculator": {
+    "metaTitle": "Ruutuaikalaskuri — Näe puhelinaikasi viikkoina, vuosina ja 75 ikävuoteen asti",
+    "metaDescription": "Ilmainen ruutuaikalaskuri: syötä päivittäiset tunnit ja ikä nähdäksesi viikko-, vuosi- ja elinaikakokonaisuudet. Yksityinen, ei kirjautumista, toimii selaimessasi.",
+    "eyebrow": "Ilmainen ruutuaikalaskuri",
+    "h1": "Näe miten puhelinaikasi kertyy.",
+    "lead": "Syötä keskimääräinen päivittäinen ruutuaikasi. Saat yksinkertaisen näkymän tunneista, päivistä ja vuosista joiksi se kertyy — valitse sitten yksi pieni muutos kokeiltavaksi.",
+    "inputLabel": "Keskimääräinen päivittäinen ruutuaika",
+    "reduceAria": "Vähennä ruutuaikaa",
+    "increaseAria": "Lisää ruutuaikaa",
+    "help": "Tarkista Asetukset → Ruutuaika iPhonellasi, jos et ole varma mitä syöttää. Käytä tyypillistä päivää, älä parasta tai huonointa.",
+    "ageLabel": "Ikäsi",
+    "ageHelp": "Käytetään vain ruutuajan arviointiin tästä hetkestä 75 ikävuoteen asti. Mitään ei tallenneta.",
+    "calcCta": "Laske aikani",
+    "results": {
+      "everyWeek": "Joka viikko",
+      "everyMonth": "Joka kuukausi",
+      "everyYear": "Joka vuosi",
+      "fullDays": "Kokonaisia päiviä vuodessa"
+    },
+    "atThisRate": "Tällä tahdilla",
+    "atThisRateValue": "Noin {years} vuotta ruutuaikaa tästä hetkestä 75 ikävuoteen asti.",
+    "atThisRateCopy": "Arvio laskee jokaisen tunnin samalla tavalla. Se on karkea tiedostamisen työkalu, ei arvio puhelimesi käytöstä.",
+    "wakingLabel": "Osuus 16-tuntisesta valveillaolopäivästä",
+    "smallReductionTitle": "Pieni vähennys kertyy paljon",
+    "smallReductionCopy": "Tunti vähemmän päivässä säästää noin {days} kokonaista päivää vuodessa.",
+    "smallReductionDesc": "Sinun ei tarvitse poistaa jokaista ruutua. Aloita siitä yhdestä sovelluksesta tai hetkestä, joka venyy suunnittelemattomaksi sessioksi.",
+    "fellaTitle": "Jos muutama sovellus on ongelma",
+    "fellaCopyTitle": "Fella voi estää valitut sovellukset, jotka vetävät sinua takaisin.",
+    "fellaCopy": "Sovellukset joita et valitse voivat pysyä käytettävissä, joten hyödyllinen puhelimesi pysyy hyödyllisenä.",
+    "fellaCta": "Katso Fella App Storessa",
+    "faqTitle": "Ruutuaikalaskurin UKK",
+    "axisLabels": {
+      "zero": "0h",
+      "middle": "8h",
+      "max": "16h"
+    },
+    "faqs": [
+      {
+        "question": "Miten arvio lasketaan?",
+        "answer": "Kerromme päivittäisen keskiarvosi luvuilla 7, 30,44 ja 365 viikko-, kuukausi- ja vuosiluvuiksi, ja vuosilla iästäsi 75 ikävuoteen elinaikanäkymää varten. Jaa vuositunnit 24:llä saadaksesi kokonaiset päivät."
+      },
+      {
+        "question": "Seuraako tämä työkalu iPhoneani?",
+        "answer": "Ei. Laskenta tapahtuu selaimessasi syöttämälläsi luvulla. Mitään ei yhdistetä puhelimeesi tai tallenneta Klippyyn."
+      },
+      {
+        "question": "Mistä löydän iPhoneni ruutuajan?",
+        "answer": "Avaa Asetukset → Ruutuaika → Näytä kaikki appi- ja verkkosivustoaktiivisuus. Vaihda Päivä- ja Viikkonäkymän välillä löytääksesi tyypillisen päiväkeskiarvon."
+      },
+      {
+        "question": "Mitä teen tuloksella?",
+        "answer": "Etsi vähiten tarkoituksellinen aika — syöte jonka avaat odottaessa, peli jolla vältät tehtävää tai myöhäisillan selailu — ja kokeile yhtä pientä rajaa siinä."
+      }
+    ]
+  },
+  "seoPages": {
+    "screen-time-by-age-calculator": {
+      "title": "Ruutuaika iän mukaan -laskuri — Kuinka paljon tästä hetkestä 75 ikävuoteen? | Klippy",
+      "description": "Näe kuinka päivittäinen ruutuaikasi kertyy nykyiästäsi 75 ikävuoteen asti. Syötä päivittäiset tunnit ja ikä yksityistä, välitöntä arviota varten.",
+      "eyebrow": "Ruutuaika iän mukaan -laskuri",
+      "h1": "Näe mihin ruutuaikasi kertyy tästä hetkestä 75 ikävuoteen.",
+      "lead": "Päivittäinen keskiarvo näyttää erilaiselta tulevien vuosien rinnalla. Syötä ikäsi ja päivittäinen ruutuaikasi yksinkertaista, yksityistä arviota varten — valitse sitten yksi tapa kokeiltavaksi.",
+      "answer": "Klippy kertoo päivittäisen keskiarvosi vuosilla nykyiästäsi 75 ikävuoteen asti. Se laskee jokaisen tunnin samalla tavalla, joten pidä sitä tiedostamisen lähtökohtana, et pisteytyksenä.",
+      "sections": [
+        {
+          "title": "Miksi ikänäkymä auttaa",
+          "paragraphs": [
+            "Sama päivittäinen tapa ehtii toistua pidempään kun olet nuorempi. Kokonaisuuden näkeminen 75 ikävuoteen asti tekee abstraktista rutiinista konkreettisen ilman että siitä tarvitsee tehdä hälyttävää.",
+            "Kun näet kokonaisuuden, voit kysyä tarkemman kysymyksen: onko yksi sovellus, kellonaika tai ärsyke, joka aiheuttaa suurimman osan automaattisesta ajasta? Pieni raja siinä on helpompi pitää kuin laaja rajoitus."
+          ]
+        },
+        {
+          "title": "Tee siitä hyödyllinen, ei tuomitseva",
+          "paragraphs": [
+            "Laskuri ei tiedä, mitkä tunnit ovat työtä, perhettä, oppimista tai rentoutumista varten. Käytä lukua erottaaksesi arvostamasi puhelimen käytön tarkistuksista, jotka tapahtuvat ilman selkeää syytä.",
+            "Jos tulos yllättää, aloita vähiten tarkoituksellisesta ajasta. Pidä puhelimesi hyödylliset osat ja lisää kitkaa vain siihen, missä automaattinen tarkistus alkaa. Katso myös: ruutuaika kokonaisina päivinä ja kuinka löydät keskiarvosi iPhonella."
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "title": "Tarkista päivittäinen keskiarvosi",
+          "copy": "Avaa Asetukset → Ruutuaika → Näytä kaikki aktiivisuus ja käytä tyypillistä päivittäistä lukua."
+        },
+        {
+          "title": "Syötä ikäsi",
+          "copy": "Käytetään vain arviota varten 75 ikävuoteen asti. Mitään ei tallenneta."
+        },
+        {
+          "title": "Valitse yksi pieni muutos",
+          "copy": "Valitse yksi sovellus tai hetki, joka tuntuu automaattiselta, älä kaikkea kerralla."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Onko arvio tarkka?",
+          "answer": "Ei. Se on yksinkertaista matematiikkaa syöttämästäsi päivittäisestä luvusta kerrottuna vuosilla 75 ikävuoteen asti. Käytä sitä tiedostamiseen, älä tarkkana ennusteena."
+        },
+        {
+          "question": "Näkeekö Klippy puhelintietoni?",
+          "answer": "Ei. Työkalu toimii selaimessasi eikä koskaan yhdistä iPhoneesi."
+        },
+        {
+          "question": "Mitä kannattaa kokeilla seuraavaksi?",
+          "answer": "Kokeile yhtä rajaa viikon ajan — esimerkiksi ei sosiaalista syötettä sängyssä tai hiljaisemmat ilmoitukset työn aikana — ja pidä se mikä auttaa."
+        }
+      ]
+    },
+    "screen-time-in-days": {
+      "title": "Ruutuaika päivinä — Muunna tunnit kokonaisiksi 24 tunnin päiviksi | Klippy",
+      "description": "Muunna päivittäinen ruutuaika kokonaisiksi päiviksi viikossa, kuukaudessa ja vuodessa. Näe vuositunnit 24 tunnin päivinä — ilmainen ja yksityinen.",
+      "eyebrow": "Ruutuaika päivinä",
+      "h1": "Muuta ruutuaikasi kokonaisiksi päiviksi.",
+      "lead": "Päivään ripotellut tunnit voivat tuntua tavallisilta. Klippy muuntaa päivittäisen keskiarvosi kokonaisiksi 24 tunnin päiviksi vuodessa, jotta valinta on helpompi hahmottaa.",
+      "answer": "Kerromme päivittäiset tuntisi 365:llä vuositunneiksi ja jaamme sitten 24:llä. Näin saat kokonaisten päivien vastaavuuden. Laskutoimitus tapahtuu heti selaimessasi.",
+      "sections": [
+        {
+          "title": "Miksi kokonaiset päivät on helpompi hahmottaa",
+          "paragraphs": [
+            "Neljä tuntia päivässä kuulostaa vähältä, kunnes näet sen yli 60 kokonaisena päivänä vuodessa. Päivänäkymä kehystää saman ajan uudelleen leimaamatta sitä hukatuksi.",
+            "Niihin päiviin sisältyy työtä, karttoja, viestejä, oppimista ja lepoa. Tarkoitus ei ole leimata kaikkea ruutuaikaa pahaksi, vaan nähdä kokonaisuus jotta voit valita yhden osan muutettavaksi. Kokeile ikänäkymää jos haluat pidemmän aikavälin kuvan."
+          ]
+        },
+        {
+          "title": "Jos luku yllättää",
+          "paragraphs": [
+            "Aloita vähiten tarkoituksellisesta ajasta: syöte joka avataan odottaessa, peli jolla vältetään tehtävää tai myöhäisillan selailu joka venyy pitkäksi.",
+            "Kokeile pienintä rajaa, joka sopii arkeesi. Pidä tärkeät sovellukset saatavilla ja muuta vain hetkeä, joka aiheuttaa eniten kitkaa. Käytännön vinkkejä vähentämiseen iPhonella voi auttaa."
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "title": "Selvitä keskiarvosi",
+          "copy": "Käytä päivittäistä keskiarvoa iPhonen Ruutuajassa (Päivä/Viikko-näkymä)."
+        },
+        {
+          "title": "Katso vuosikokonaisuus",
+          "copy": "Laskuri näyttää tunnit ja 24 tunnin päivien vastaavuuden."
+        },
+        {
+          "title": "Valitse yksi kokeilu",
+          "copy": "Vähennä yhtä automaattista tarkistusta täydellisen luvun jahtaamisen sijaan."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Miten kokonaiset päivät lasketaan?",
+          "answer": "Vuositunnit ÷ 24. Esimerkiksi 4h/päivä × 365 = 1460h/vuosi ÷ 24 ≈ 60,8 kokonaista päivää."
+        },
+        {
+          "question": "Tarkoittaako tämä että ruutuaika on hukattua?",
+          "answer": "Ei. Päivänäkymä on neutraali kehystys. Työ, perhe ja lepo voivat kaikki tapahtua ruudulla."
+        },
+        {
+          "question": "Voinko tehdä tämän yhdelle sovellukselle?",
+          "answer": "Kyllä. Syötä yhden sovelluksen tai kategorian päivittäinen keskiarvo Ruutuajan erittelystä."
+        }
+      ]
+    },
+    "phone-use-calculator": {
+      "title": "Puhelimen käytön laskuri — Päivittäisestä ajasta vuotuiseen | Klippy",
+      "description": "Näe kuinka päivittäinen puhelinaikasi kertyy viikossa, kuukaudessa ja vuodessa. Yksi luku, välittömät kokonaisuudet — ei kirjautumista.",
+      "eyebrow": "Puhelimen käytön laskuri",
+      "h1": "Yksinkertainen laskuri puhelinajallesi.",
+      "lead": "Syötä yksi päivittäinen keskiarvo ja näe se viikko-, kuukausi- ja vuosikokonaisuuksina. Käytä sitä löytääksesi sen osan puhelimen käytöstä, jota oikeasti haluaisit muuttaa.",
+      "answer": "Klippy muuntaa päivittäiset puhelintuntisi viikko- (×7), kuukausi- (×30,44) ja vuosi- (×365) kokonaisuuksiksi. Ei tiliä, ei seurantaa — vain laskentaa selaimessasi.",
+      "sections": [
+        {
+          "title": "Puhelimesi ei ole yksi asia",
+          "paragraphs": [
+            "Se on kartta, kamera, viestisovellus, lompakko ja paikka rentoutua. Yksi kokonaisluku ei voi päättää, mitkä käytöt ovat sinulle merkityksellisiä.",
+            "Käytä kokonaisuutta kysyäksesi, viekö tilaa se aika jonka haluat säilyttää, vai tarkistukset jotka tapahtuvat automaattisesti. Se erottelu on hyödyllisempi kuin yksittäinen ruutuaikapisteytys."
+          ]
+        },
+        {
+          "title": "Etsi kaavat ennen sääntöjä",
+          "paragraphs": [
+            "Huomaa ärsyke ennen sovelluksen avaamista: tylsyys, ilmoitus, tauko tehtävien välissä tai vaikea työtehtävä.",
+            "Ärsykkeeseen sopiva sääntö toimii paremmin — hiljaisemmat ilmoitukset, erilainen kotinäyttö tai raja yhden sovelluksen ympärille. Jos haluat rajoittaa erityisesti sosiaalista mediaa, katso sosiaalisen median aika ja kuinka rajoittaa sitä iPhonella."
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "title": "Syötä päivittäinen puhelimen käyttö",
+          "copy": "Käytä tyypillistä päivää, älä parasta tai huonointa."
+        },
+        {
+          "title": "Lue kokonaisuudet",
+          "copy": "Tarkista viikko- ja vuosiluvut nähdäksesi tavan laajemmassa mittakaavassa."
+        },
+        {
+          "title": "Löydä muutettava osa",
+          "copy": "Erota hyödyllinen käyttö suunnittelemattomista tarkistuksista."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Onko se ilmainen?",
+          "answer": "Kyllä. Se toimii selaimessasi ilman tiliä tai maksua."
+        },
+        {
+          "question": "Mistä löydän päivittäisen keskiarvoni?",
+          "answer": "Asetukset → Ruutuaika → Näytä kaikki appi- ja verkkosivustoaktiivisuus. Käytä Päivä- tai Viikkonäkymää."
+        },
+        {
+          "question": "Näkeekö se sovellukseni?",
+          "answer": "Ei. Syötät luvun itse; Klippy ei koskaan yhdistä puhelimeesi."
+        }
+      ]
+    },
+    "social-media-time-calculator": {
+      "title": "Sosiaalisen median aikalaskuri — Viikko-, kuukausi- ja vuosikokonaisuudet | Klippy",
+      "description": "Laske sosiaalisen median aika viikossa, kuukaudessa ja vuodessa. Syötä päivittäinen keskiarvo yhdelle sovellukselle tai koko some-käytölle — yksityinen ja välitön.",
+      "eyebrow": "Sosiaalisen median aikalaskuri",
+      "h1": "Näe kuinka some-aikasi kertyy.",
+      "lead": "Syötä päivittäinen some-keskiarvosi ja näe se viikko-, kuukausi- ja vuosikokonaisuuksina. Pidä se mitä arvostat, muuta se mikä tuntuu automaattiselta.",
+      "answer": "Laske yhteen sosiaaliset sovelluksesi iPhonen Ruutuajassa, syötä päivittäinen keskiarvo ja Klippy muuntaa sen pidemmän aikavälin kokonaisuuksiksi. Käytä sitä yhdelle sovellukselle tai kokonaiselle kategorialle.",
+      "sections": [
+        {
+          "title": "Kokonaisluku on selkeämpi kuin tunne",
+          "paragraphs": [
+            "”Vietän liikaa aikaa somessa” on vaikea muuttaa teoiksi. Luku — esimerkiksi 1,5h/päivä ≈ 22 kokonaista päivää vuodessa — antaa sinulle jotain konkreettista pohdittavaksi.",
+            "Kaikki siitä ei ole hukattua; some on myös monille tapa tehdä työtä, oppia ja pitää yhteyttä. Hyödyllinen kysymys on, vastaako aika sitä mitä tarkoitit."
+          ]
+        },
+        {
+          "title": "Tee seuraavasta askeleesta täsmällinen",
+          "paragraphs": [
+            "Valitse yksi sovellus, joka muuttaa nopean tarkistuksen pidemmäksi sessioksi. Pane merkille milloin avaat sen ja mitä teit juuri ennen.",
+            "Jos päätät lisätä rajan, pidä hyödylliset sovellukset auki ja keskity niihin harvoihin jotka vetävät sinua takaisin. iPhone-vaihtoehdoista katso sosiaalisen median rajoittaminen iPhonella ja Ruutuaika vs. sovellusesto."
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "title": "Avaa erittely",
+          "copy": "Tarkista Ruutuajassa Sosiaalinen-kategoria tai yksittäinen sovellus."
+        },
+        {
+          "title": "Syötä päivittäinen keskiarvo",
+          "copy": "Käytä yhtä sovellusta tai yhdistettyä kokonaisuutta."
+        },
+        {
+          "title": "Valitse yksi raja",
+          "copy": "Aloita sovelluksesta, joka tuntuu automaattisimmalta."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Voinko laskea yhden sovelluksen?",
+          "answer": "Kyllä. Syötä keskiarvo Instagramissa, TikTokissa, YouTubessa tms. tai yhdistetty kokonaisuus."
+        },
+        {
+          "question": "Kerääkö Klippy some-käyttöäni?",
+          "answer": "Ei. Mitään ei lähetetä Klippyyn tai tileihisi."
+        },
+        {
+          "question": "Entä jos tarvitsen sitä työhön?",
+          "answer": "Pidä työkäyttö ja kohdista raja tarkistuksiin sen ulkopuolella."
+        }
+      ]
+    },
+    "how-to-check-screen-time-iphone": {
+      "title": "Ruutuajan tarkistaminen iPhonella — Päivittäin, viikoittain ja sovelluksittain | Klippy",
+      "description": "Näin löydät Ruutuajan iPhonella: näe päiväkeskiarvo, viikkokokonaisuus ja sovelluskohtainen erittely ja käytä sitä Klippyn laskurissa.",
+      "eyebrow": "Ruutuajan tarkistaminen iPhonella",
+      "h1": "Näin löydät Ruutuajasi iPhonella.",
+      "lead": "iPhonesi seuraa jo päiväkeskiarvoa, viikkokehitystä ja sovelluskohtaista erittelyä. Tässä missä löydät ne ja mitä lukua käyttää laskurissa.",
+      "answer": "Mene Asetukset → Ruutuaika → Näytä kaikki appi- ja verkkosivustoaktiivisuus. Vaihda Päivä/Viikko löytääksesi tyypillisen keskiarvon. Sovelluskohtainen erittely on samalla näytöllä.",
+      "sections": [
+        {
+          "title": "Valitse tyypillinen viikko, älä yksittäistä päivää",
+          "paragraphs": [
+            "Yksi päivä voi johtaa harhaan — matkustaminen, pitkä puhelu tai viikonlopun putki voi vääristää sitä. Viikkonäkymä tasoittaa poikkeamat.",
+            "Käytä Viikon yläreunassa näkyvää päiväkeskiarvoa. Se on hyödyllisin syöte laskurille ja päivänäkymälle."
+          ]
+        },
+        {
+          "title": "Tarkista erittely, älä vain kokonaisuutta",
+          "paragraphs": [
+            "Kokonaisuus kertoo kuinka paljon, erittely kertoo missä. Vertaa sovelluksia joita käytät tarkoituksella niihin jotka avaat suunnittelematta.",
+            "Se jako auttaa valitsemaan yhden realistisen seuraavan askeleen laajan ”käytä puhelinta vähemmän” -tavoitteen sijaan."
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "title": "Avaa Asetukset",
+          "copy": "Napauta Ruutuaikaa Asetusten päälistassa."
+        },
+        {
+          "title": "Avaa appi- ja verkkosivustoaktiivisuus",
+          "copy": "Valitse Näytä kaikki nähdäksesi Päivä/Viikko ja sovelluslistan."
+        },
+        {
+          "title": "Kopioi tyypillinen päiväluku",
+          "copy": "Käytä sitä laskurissa nähdäksesi viikko-/vuosikokonaisuudet."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Voinko nähdä ajan yhdelle sovellukselle?",
+          "answer": "Kyllä. Aktiivisuuslista näyttää jokaisen sovelluksen ja kategorian; napauta sovellusta nähdäksesi sen päivä-/viikkotiedot."
+        },
+        {
+          "question": "Miksi Ruutuaika puuttuu?",
+          "answer": "Se voi olla pois päältä. Napauta Ruutuajassa Ota käyttöön ja valitse laitteesi."
+        },
+        {
+          "question": "Voinko käyttää viikkokokonaisuutta?",
+          "answer": "Kyllä. Jaa viikkokokonaisuus 7:llä saadaksesi päiväkeskiarvon."
+        }
+      ]
+    },
+    "how-to-reduce-screen-time-iphone": {
+      "title": "Ruutuajan vähentäminen iPhonella (ilman yliestoa) | Klippy",
+      "description": "Käytännön tapoja vähentää ruutuaikaa iPhonella: löydä ärsyke, hiljennä ilmoitukset, käytä Keskittyminen-tilaa tai lisää raja yhdelle sovellukselle.",
+      "eyebrow": "Ruutuajan vähentäminen iPhonella",
+      "h1": "Vähennä ruutuaikaa muuttamalla ensin yksi hyödyllinen asia.",
+      "lead": "”Käytä puhelinta vähemmän” on epämääräinen. Pienempi muutos — vähemmän ilmoituksia, Keskittyminen-aikataulu tai raja yhdelle sovellukselle — on helpompi pitää ja helpompi mitata.",
+      "answer": "Aloita Ruutuajan erittelystäsi, valitse yksi toistuva ärsyke (ilmoitukset, tylsyys, kellonaika) ja sovita työkalu: hiljennä ilmoitukset, Keskittyminen, Appirajat/Käyttötauko tai valittujen sovellusten esto niille harvoille sovelluksille jotka avautuvat automaattisesti.",
+      "sections": [
+        {
+          "title": "Valitse käyttäytyminen, älä vain lukua",
+          "paragraphs": [
+            "”Älä avaa TikTokia klo 22 jälkeen” on selkeämpi kuin ”käytä puhelinta tunti vähemmän”. Ensimmäinen osoittaa asetukseen; toinen vaatii tahdonvoimaa hetkessä.",
+            "Kun käyttäytyminen on täsmällinen, voit jättää hyödylliset sovellukset rauhaan ja tehdä säännön vain siihen missä ongelma ilmenee."
+          ]
+        },
+        {
+          "title": "Pidä toteutus käytännöllisenä",
+          "paragraphs": [
+            "Jos sääntö estää tarvitsemasi sovellukset, kierrät sen. Keskity 1–2 sovellukseen jotka aiheuttavat automaattisen tarkistuksen.",
+            "Huomaa mikä saa sinut hylkäämään asetuksen — liian laaja, liian helppo ohittaa tai väärän ärsykkeen ratkaisu. Muuta sitä, älä motivaatiotasi. Vertaa Ruutuaika vs. valittujen sovellusten esto löytääksesi oikean työkalun."
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "title": "Löydä toistuva hetki",
+          "copy": "Käytä Ruutuaikaa löytääksesi yhden tavan (esim. työ, nukkumaanmeno, odottaminen)."
+        },
+        {
+          "title": "Poista ärsyke jos voit",
+          "copy": "Kokeile ilmoitusasetuksia tai Keskittyminen-tilaa ilmoitusten laukaisemiin tarkistuksiin."
+        },
+        {
+          "title": "Lisää raja tarvittaessa",
+          "copy": "Käytä Appirajoja/Käyttötaukoa tai estoa automaattiseen avaamiseen."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Pitäisikö minun käyttää Appirajoja?",
+          "answer": "Käytä niitä kun aikabudjetti auttaa. Jos sama sovellus avautuu satunnaisesti pitkin päivää, valittujen sovellusten raja voi sopia paremmin."
+        },
+        {
+          "question": "Voinko pitää puhelut ja viestit?",
+          "answer": "Kyllä. Jätä Puhelin, Viestit ja välttämättömät sovellukset rajoituksen ulkopuolelle."
+        },
+        {
+          "question": "Mikä on pienin hyödyllinen muutos?",
+          "answer": "Se joka kohdistuu oikeaan ongelmaan tekemättä muusta puhelimestasi hankalaa."
+        }
+      ]
+    },
+    "how-to-limit-social-media-on-iphone": {
+      "title": "Sosiaalisen median rajoittaminen iPhonella — Pidä tärkeät auki | Klippy",
+      "description": "Rajoita somea iPhonella estämättä koko puhelinta: ilmoitukset, Keskittyminen, Appirajat, Käyttötauko ja sovellusestot vertailussa.",
+      "eyebrow": "Sosiaalisen median rajoittaminen iPhonella",
+      "h1": "Rajoita somea rajoittamatta koko puhelinta.",
+      "lead": "Et tarvitse kaikki tai ei mitään -sääntöä. Valitse haluatko vähemmän ilmoituksia, päivittäisen kiintiön, ajastetun tauon vai tehdä valituista sovelluksista vaikeammin avattavia.",
+      "answer": "Sovita työkalu ärsykkeeseen: ilmoitukset → hiljaiset ilmoitukset/Keskittyminen; aikabudjetti → Appirajat; ennakoitava aikataulu → Käyttötauko; toistuvat automaattiset avaukset → valittujen sovellusten esto. Pidä valitsemattomat sovellukset saatavilla.",
+      "sections": [
+        {
+          "title": "Eri työkalut, eri ongelmat",
+          "paragraphs": [
+            "Ilmoitukset ovat ärsyke, Appirajat ovat budjetti, Käyttötauko on aikataulu ja valittujen sovellusten esto tekee kyseisistä sovelluksista oletuksena saavuttamattomia. Ne eivät ole keskenään vaihdettavissa.",
+            "Jos sama sovellus avautuu ilman ilmoitusta tai aikataulua, esto on usein suorempi kuin ajastin jota voit jatkaa. Katso milloin mikäkin auttaa kohdassa Ruutuaika vs. sovellusesto."
+          ]
+        },
+        {
+          "title": "Pidä se mitä tarvitset",
+          "paragraphs": [
+            "Kartat, Viestit, puhelut, pankki ja perhesovellukset harvoin tarvitsevat kuulua somesääntöön.",
+            "Kapea sääntö on helpompi pitää, koska se muuttaa ongelmasovellusta tekemättä jokaisesta normaalista tehtävästä hankalaa. Jos olet epävarma, aloita selvittämällä kuinka paljon some-aikaa sinulla oikeasti on."
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "title": "Nimeä ongelmasovellus",
+          "copy": "Löydä se joka muuttaa nopean tarkistuksen pitkäksi sessioksi."
+        },
+        {
+          "title": "Sovita asetus",
+          "copy": "Valitse ilmoitukset, rajat, aikataulu tai esto harkiten."
+        },
+        {
+          "title": "Pidä tärkeät auki",
+          "copy": "Jätä hyödylliset sovellukset säännön ulkopuolelle."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Voiko Keskittyminen estää sovelluksia?",
+          "answer": "Keskittyminen vähentää ilmoituksia ja voi piilottaa kotinäytön sivuja, mutta ei yleensä estä sovelluksen avaamista."
+        },
+        {
+          "question": "Voinko pitää Viestit?",
+          "answer": "Kyllä. Valittujen sovellusten lähestymistavalla valitsemattomat sovellukset pysyvät saatavilla."
+        },
+        {
+          "question": "Entä jos tarvitsen sitä työhön?",
+          "answer": "Pidä työkäyttö ja sovella rajaa vain noiden aikojen ulkopuolella."
+        }
+      ]
+    },
+    "digital-detox-plan": {
+      "title": "Digitaalinen detox-suunnitelma — Pienempi tauko jonka voit pitää | Klippy",
+      "description": "Rakenna realistinen digidetox-suunnitelma: valitse yksi syy, yksi ärsyke ja yksi pieni raja kokeiltavaksi viikoksi.",
+      "eyebrow": "Digitaalinen detox-suunnitelma",
+      "h1": "Digitaalinen detox-suunnitelma joka sopii oikeaan elämään.",
+      "lead": "Sinun ei tarvitse poistaa kaikkea tai lähteä viikoksi pois. Valitse yksi osa päivästä jonka haluat takaisin ja yksi ärsyke jonka muutat, ja kokeile sitä.",
+      "answer": "Valitse yksi syy (esim. vähemmän keskeytyksiä työssä, rauhallisempi ilta), yksi ärsyke (sovellus, ilmoitus tai aikaikkuna) ja yksi raja jonka voit pitää seitsemän päivää. Arvioi ja säädä.",
+      "sections": [
+        {
+          "title": "Vältä kaikki tai ei mitään -ansa",
+          "paragraphs": [
+            "Laajat detoxit tuntuvat päättäväisiltä mutta usein epäonnistuvat kun tarvitset yhä puhelinta työhön, perheeseen ja matkustamiseen.",
+            "Kapea kokeilu antaa parempaa dataa. Jos myöhäisillan selailu on ongelma, muuta vain sitä ikkunaa — älä jokaista sovellusta koko päivän. Katso kuinka lopettaa jatkuva tarkistaminen ärsykeideoita varten."
+          ]
+        },
+        {
+          "title": "Päätä mille teet tilaa",
+          "paragraphs": [
+            "Suunnitelma pysyy paremmin kun tarkoitus on selkeä: keskittyneempi työ, läsnä olevat ateriat tai helpompi iltarutiini.",
+            "Käytä tarkoitusta rajan valintaan. Sen pitäisi tukea haluamaasi elämää, ei muuttua säännöksi jota inhoat."
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "title": "Valitse yksi syy",
+          "copy": "Nimeä se osa päivästä jonka haluat suojata."
+        },
+        {
+          "title": "Valitse yksi ärsyke",
+          "copy": "Valitse sovellus, ilmoitus tai paikka joka toistuvasti tulee tielle."
+        },
+        {
+          "title": "Kokeile yhtä rajaa",
+          "copy": "Pidä se tarpeeksi pienenä jotta voit käyttää sitä oikean viikon ajan."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Kuinka kauan detoxin pitäisi kestää?",
+          "answer": "Viikon kokeilu on hyödyllisempi kuin laaja suunnitelma jota et voi pitää. Jatka vain sitä mikä auttaa."
+        },
+        {
+          "question": "Pitääkö minun poistaa some?",
+          "answer": "Yleensä ei. Raja automaattisten hetkien ympärillä riittää usein."
+        },
+        {
+          "question": "Entä jos tarvitsen puhelinta työhön?",
+          "answer": "Pidä työtoiminnot ja kohdista detox häiritseviin tarkistuksiin sen ulkopuolella."
+        }
+      ]
+    },
+    "stop-checking-phone": {
+      "title": "Puhelimen jatkuvan selailun lopettaminen — Ärsyke ennen tarkistusta | Klippy",
+      "description": "Lopeta puhelimen selailu muuttamalla ärsykettä: ilmoitukset, tylsyys tai tapa. Käytännön askeleita joita voit kokeilla tänään.",
+      "eyebrow": "Lopeta puhelimen selailu",
+      "h1": "Lopeta tarkistaminen muuttamalla hetkeä ennen tarkistusta.",
+      "lead": "Useimmat tarkistukset eivät ole päätös käyttää puhelinta. Ne ovat automaattinen kurkotus tauon, ilmoituksen tai tylsyyden hetkellä — ja tuota ärsykettä voi muuttaa.",
+      "answer": "Huomaa ärsyke ja muuta sen ympärillä olevaa asetusta: hiljennä sen laukaisevat ilmoitukset, tee sovelluksesta hieman vaikeampi avata tai aseta hyödyllisempi seuraava teko samalle paikalle.",
+      "sections": [
+        {
+          "title": "Tarkistus on usein kierre, ei valinta",
+          "paragraphs": [
+            "Käsi liikkuu ennen kuin olet päättänyt mitä haluat puhelimelta. Siksi tahdonvoima hetkessä tuntuu vaikealta.",
+            "Luo pieni tauko muuttamalla ärsykettä, pääsyä tai ympäristöä — tarpeeksi valitaksesi, ei luottaaksesi täydelliseen hallintaan."
+          ]
+        },
+        {
+          "title": "Tee paremmasta teosta helpompi",
+          "paragraphs": [
+            "Jos tarkistat odottaessa, laita kirja tai muistikirja siihen. Jos tarkistat sängyssä, lataa puhelinta huoneen ulkopuolella. Tee vaihtoehdosta yhtä helppo kuin vanhasta tavasta.",
+            "Jos yksi sovellus on tavallinen määränpää, valittujen sovellusten raja voi tehdä automaattisesta avaamisesta vähemmän kätevää kun kaikki muu pysyy auki. Vertaa työkaluja kohdassa Ruutuaika vs. sovellusesto."
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "title": "Huomaa ärsyke",
+          "copy": "Mikä aika, tunne tai ilmoitus tulee juuri ennen kurkotusta?"
+        },
+        {
+          "title": "Muuta yhtä osaa kierteestä",
+          "copy": "Mykistä ilmoitus, siirrä sovellus tai lisää etäisyyttä."
+        },
+        {
+          "title": "Arvioi oikea tulos",
+          "copy": "Pidä se mikä auttaa, säädä sitä mikä vaikeuttaa elämää."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Miksi tarkistan ilman ilmoitusta?",
+          "answer": "Tarkistamisesta voi tulla opittu vastaus taukoihin, stressiin tai tylsyyteen — ei vain ilmoituksiin."
+        },
+        {
+          "question": "Pitäisikö sammuttaa kaikki ilmoitukset?",
+          "answer": "Aloita niistä harvoista jotka vetävät sinut ei-toivottuihin tarkistuksiin; pidä hyödylliset."
+        },
+        {
+          "question": "Voiko esto auttaa?",
+          "answer": "Kyllä, kun samat 1–2 sovellusta ovat toistuva määränpää."
+        }
+      ]
+    },
+    "screen-time-vs-app-blocker": {
+      "title": "Ruutuaika vs. sovellusesto — Kumpi iPhone-työkalu sopii tapaasi? | Klippy",
+      "description": "Ruutuajan Appirajat ja Käyttötauko vs. Keskittyminen vs. valittujen sovellusten esto. Opi mikä iPhone-työkalu sopii ärsykkeeseesi.",
+      "eyebrow": "Ruutuaika vs. sovellusesto",
+      "h1": "Ruutuaika ja sovellusestot ratkaisevat eri ongelmia.",
+      "lead": "Appirajat, Käyttötauko, Keskittyminen ja valittujen sovellusten esto sekoitetaan usein. Oikea valinta riippuu siitä tarvitsetko budjetin, aikataulun, vähemmän ilmoituksia vai tehdäksesi valituista sovelluksista oletuksena saavuttamattomia.",
+      "answer": "Käytä Ruutuaikaa raportteihin, Appirajoihin ja Käyttötaukoon; Keskittymistä ilmoituksiin ja kotinäyttöön; valittujen sovellusten estoa kun muutama sovellus pitää olla oletuksena estettynä kun muu puhelimesi pysyy hyödyllisenä.",
+      "sections": [
+        {
+          "title": "Milloin Ruutuaika sopii hyvin",
+          "paragraphs": [
+            "Appirajat asettavat päiväkiintiön, Käyttötauko asettaa aikataulun ja Ruutuaika näyttää mihin aika kuluu. Erinomainen tietoisuuteen, budjetteihin ja ennakoitaviin aikaväleihin.",
+            "Satunnaisiin, automaattisiin avauksiin samoissa 1–2 sovelluksessa aikabudjetti voi olla helppo ohittaa — oletusesto on suorempi."
+          ]
+        },
+        {
+          "title": "Milloin valittujen sovellusten raja sopii hyvin",
+          "paragraphs": [
+            "Esto kysyy: mitkä asennetut sovellukset aiheuttavat ongelman ja voivatko muut pysyä hyödyllisinä? Fella pitää valitsemasi sovellukset oletuksena estettyinä; valitsemattomat sovellukset pysyvät saatavilla.",
+            "Se ei ole verkkosivujen esto tai MDM-järjestelmä. Se on kapea raja tavalle jonka nimesit kohdassa vähentäminen tai detox-suunnitelmasi."
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "title": "Nimeä ongelma",
+          "copy": "Ilmoitukset, päiväkokonaisuus, aikataulu vai toistuvat automaattiset avaukset?"
+        },
+        {
+          "title": "Valitse sopiva työkalu",
+          "copy": "Keskittyminen, Appirajat/Käyttötauko tai esto."
+        },
+        {
+          "title": "Pidä se kapeana",
+          "copy": "Jätä hyödylliset sovellukset saataville."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Voiko Ruutuaika estää sovelluksia?",
+          "answer": "Siinä on Appirajat ja Käyttötauko. Käytä niitä budjetteihin/aikatauluihin; esto on valittujen sovellusten oletus-estoon."
+        },
+        {
+          "question": "Estääkö Keskittyminen sovelluksia?",
+          "answer": "Keskittyminen hiljentää ilmoitukset ja voi piilottaa sivuja, mutta ei yleensä estä sovelluksen avaamista."
+        },
+        {
+          "question": "Voinko pitää puhelut ja viestit?",
+          "answer": "Kyllä. Valittujen sovellusten lähestymistavalla vain valitsemasi sovellukset estetään."
+        }
+      ]
+    }
+  },
+  "guidePage": {
+    "shortAnswer": "Lyhyt vastaus",
+    "nextStepEyebrow": "Käytännön seuraava askel",
+    "useCalculatorCta": "Käytä ruutuaikalaskuria",
+    "faqTitle": "Usein kysyttyä"
+  },
+  "notFound": {
+    "title": "Sivua ei löytynyt",
+    "description": "Etsimääsi sivua ei ole olemassa."
+  }
+}

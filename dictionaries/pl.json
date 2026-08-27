@@ -1,0 +1,778 @@
+{
+  "site": {
+    "name": "Klippy",
+    "title": "Klippy | Darmowe narzędzia dla spokojniejszego telefonu",
+    "description": "Proste, darmowe narzędzia do zmiany nawyków związanych z telefonem, które ciągle Cię wciągają."
+  },
+  "header": {
+    "howItWorks": "Jak to działa",
+    "guides": "Poradniki",
+    "about": "O nas",
+    "calculator": "Kalkulator",
+    "tryFella": "Wypróbuj Fella",
+    "homeAria": "Strona główna Klippy"
+  },
+  "footer": {
+    "privacy": "Prywatność",
+    "terms": "Regulamin",
+    "support": "Wsparcie",
+    "builtByFella": "Stworzone przez Fella",
+    "guidesLabel": "Poradniki",
+    "guidesAria": "Poradniki o czasie przed ekranem"
+  },
+  "guides": [
+    {
+      "label": "Czas przed ekranem według wieku",
+      "slug": "screen-time-by-age-calculator"
+    },
+    {
+      "label": "Czas przed ekranem w dniach",
+      "slug": "screen-time-in-days"
+    },
+    {
+      "label": "Kalkulator czasu na telefonie",
+      "slug": "phone-use-calculator"
+    },
+    {
+      "label": "Czas w mediach społecznościowych",
+      "slug": "social-media-time-calculator"
+    },
+    {
+      "label": "Jak sprawdzić czas przed ekranem na iPhonie",
+      "slug": "how-to-check-screen-time-iphone"
+    },
+    {
+      "label": "Jak ograniczyć czas przed ekranem na iPhonie",
+      "slug": "how-to-reduce-screen-time-iphone"
+    },
+    {
+      "label": "Jak ograniczyć media społecznościowe na iPhonie",
+      "slug": "how-to-limit-social-media-on-iphone"
+    },
+    {
+      "label": "Plan cyfrowego detoksu",
+      "slug": "digital-detox-plan"
+    },
+    {
+      "label": "Jak przestać ciągle sprawdzać telefon",
+      "slug": "stop-checking-phone"
+    },
+    {
+      "label": "Czas przed ekranem vs blokada aplikacji",
+      "slug": "screen-time-vs-app-blocker"
+    }
+  ],
+  "home": {
+    "title": "Spraw, by telefon\nłatwiej było odłożyć.",
+    "lead": "Darmowe narzędzie, które pomaga odkryć nawyk telefoniczny, który ciągle Cię wciąga. A potem wybrać mniejszą granicę, która naprawdę pasuje do Twojego dnia.",
+    "cta": "Wypróbuj darmowe narzędzie",
+    "sub": "Bez logowania. Bez pobierania. Po prostu przydatny punkt wyjścia.",
+    "howItWorksAria": "Jak to działa",
+    "steps": [
+      {
+        "number": "01",
+        "title": "Nazwij moment",
+        "description": "Konkretny nawyk łatwiej zmienić niż ogólny cel, by rzadziej używać telefonu."
+      },
+      {
+        "number": "02",
+        "title": "Wybierz mniejszą granicę",
+        "description": "Zachowaj potrzebne aplikacje. Dodaj opór tylko tam, gdzie zaczyna się automatyczne sprawdzanie."
+      },
+      {
+        "number": "03",
+        "title": "Wypróbuj w codziennym życiu",
+        "description": "Potraktuj wynik jako praktyczny punkt wyjścia, a potem dopasuj go do swojego dnia."
+      }
+    ],
+    "aboutEyebrow": "Spokojniejszy telefon zaczyna się od małych kroków.",
+    "aboutTitle": "Nie musisz kasować całego swojego cyfrowego życia.",
+    "aboutCopy": "Klippy tworzy proste, darmowe narzędzia, które pomagają wskazać te kilka aplikacji i momentów, które warto zmienić w pierwszej kolejności.",
+    "aboutCta": "Poznaj Fella"
+  },
+  "about": {
+    "metaTitle": "O Klippy — Małe narzędzia dla spokojniejszego telefonu",
+    "metaDescription": "Klippy tworzy darmowe, prywatne narzędzia, które pomagają jasno zobaczyć nawyki telefoniczne i wybrać mniejszy, realistyczny kolejny krok.",
+    "eyebrow": "O Klippy",
+    "h1": "Małe narzędzia, by telefon był bardziej pożyteczny.",
+    "lead": "Klippy jest dla osób, które chcą zmienić nawyk związany z telefonem, nie zamieniając tego w projekt na pełen etat. Narzędzia zaczynają się od prostego pytania i dążą do jednej przydatnej odpowiedzi.",
+    "whyEyebrow": "Dlaczego Klippy powstało",
+    "whyTitle": "Większość porad dotyczących telefonu wymaga za dużo, za wcześnie.",
+    "whyParagraphs": [
+      "Łatwo powiedzieć, że powinieneś rzadziej używać telefonu. Znacznie trudniej zdecydować, co to znaczy w zwykły dzień, kiedy telefon służy też do rozmów, nawigacji, płacenia, pracy, nauki i odpoczynku.",
+      "Klippy wychodzi z węższego spojrzenia. Niektóre funkcje telefonu są przydatne. Niektóre aplikacje lub momenty mogą wciągać Cię w nawyk, którego nie wybrałeś. To różne problemy i zasługują na różne odpowiedzi.",
+      "Celem nie jest sprawienie, by technologia wydawała się porażką moralną. Chodzi o to, by kompromisy stały się bardziej widoczne, abyś mógł zdecydować, co warto zmienić."
+    ],
+    "values": [
+      {
+        "title": "Najpierw darmowe",
+        "copy": "Wynik nie powinien być schowany za formularzem rejestracji. Narzędzia Klippy działają bez konta, płatności i instalacji aplikacji."
+      },
+      {
+        "title": "Domyślnie prywatne",
+        "copy": "Kalkulator czasu przed ekranem działa na liczbach, które wpisujesz w przeglądarce. Nie łączy się z Twoim iPhonem i nie potrzebuje Twoich prywatnych danych o aktywności."
+      },
+      {
+        "title": "Przydatne bez nachalnej sprzedaży",
+        "copy": "Narzędzie powinno bronić się samo. Jeśli inny produkt okaże się potem naprawdę przydatny, ten kolejny krok powinien być oczywisty i opcjonalny."
+      }
+    ],
+    "nextEyebrow": "Co dalej",
+    "nextTitle": "Zacznij od uczciwego obrazu nawyku.",
+    "nextParagraphs": [
+      "Pierwszym narzędziem Klippy jest kalkulator czasu przed ekranem. Zamienia średnią dzienną liczbę w sumy widoczne w skali tygodnia, roku i dłuższego okresu. Nie powie Ci, które godziny warto zachować. Może dać Ci jaśniejszy punkt wyjścia, by zdecydować o tym samodzielnie.",
+      "Przyszłe narzędzia będą kierować się tą samą zasadą. Powinny być na tyle proste, by użyć ich w minutę, i na tyle konkretne, by pomóc w prawdziwym wyborze. Bez ogólnego wyniku. Bez obietnicy, że jedno ustawienie rozwiąże wszystko."
+    ],
+    "nextCta": "Użyj kalkulatora czasu przed ekranem",
+    "fellaEyebrow": "Stworzone z Fella",
+    "fellaTitle": "Gdy odpowiedzią jest silniejsza granica wokół kilku aplikacji, Fella jest na ten kolejny krok.",
+    "fellaCopy": "Fella to blokada wybranych rozpraszających aplikacji na iPhone'a. Aplikacje, których nie wybierzesz, mogą pozostać dostępne, więc przydatne części Twojego telefonu nie staną się częścią granicy, dopóki sam tego nie zdecydujesz.",
+    "fellaCta": "Poznaj Fella"
+  },
+  "howItWorks": {
+    "metaTitle": "Jak działa Klippy — Zacznij od nawyku, nie od resetu",
+    "metaDescription": "Jak działa Klippy: darmowe, prywatne narzędzia w przeglądarce, które zamieniają dzienną liczbę z telefonu w przydatny kolejny krok — bez konta, bez śledzenia.",
+    "eyebrow": "Jak to działa",
+    "h1": "Zacznij od nawyku, nie od wielkiego resetu.",
+    "lead": "Klippy tworzy proste, darmowe narzędzia, by spojrzeć na nawyki telefoniczne w bardziej praktyczny sposób. Nie chodzi o to, by każda minuta przed ekranem wydawała się zła. Chodzi o zauważenie momentów, które dzieją się bez większego namysłu, i decyzję, czy nadal Ci odpowiadają.",
+    "ideaEyebrow": "Podstawowa idea",
+    "ideaTitle": "Przydatna odpowiedź powinna być jasna, zanim o cokolwiek poprosi.",
+    "ideaCopy": "Dlatego narzędzia Klippy działają w Twojej przeglądarce. Nie ma konta do założenia, ekranu płatności, by zobaczyć wynik, ani połączenia z prywatnymi danymi z telefonu. Wpisujesz niewielką ilość informacji i otrzymujesz konkretny sposób, by o tym pomyśleć.",
+    "steps": [
+      {
+        "number": "01",
+        "title": "Przyjrzyj się jednemu momentowi",
+        "copy": "Zacznij od konkretnej aplikacji, pory dnia lub sytuacji. Sprawdzanie feeda w łóżku łatwiej zrozumieć niż ogólny plan, by rzadziej używać telefonu."
+      },
+      {
+        "number": "02",
+        "title": "Spraw, by liczba stała się przydatna",
+        "copy": "Kalkulator czasu przed ekranem zamienia średnią dzienną liczbę w sumy tygodniowe, roczne i długoterminowe. Obliczenia są proste. Zobaczenie ich w jednym miejscu może ułatwić dostrzeżenie kompromisu."
+      },
+      {
+        "number": "03",
+        "title": "Wybierz najmniejszy kolejny krok",
+        "copy": "Możesz zostawić wszystko tak, jak jest. Możesz przenieść aplikację, wyciszyć bodziec lub sprawić, by jedno rozproszenie było nieco trudniejsze do otwarcia. Przydatna zmiana to ta, która pasuje do Twojego prawdziwego dnia."
+      }
+    ],
+    "calcEyebrow": "Co robi kalkulator",
+    "calcTitle": "Sprawia, że znajoma liczba staje się łatwiejsza do wyobrażenia.",
+    "calcParagraphs": [
+      "Wpisz średnią dzienną liczbę godzin czasu przed ekranem. Klippy obliczy odpowiadające sumy tygodniowe, miesięczne i roczne, a następnie oszacuje, jak ta średnia wygląda między Twoim obecnym wiekiem a 75. rokiem życia.",
+      "Kalkulator nie wie, z jakich aplikacji korzystasz, czym się zajmujesz zawodowo ani czy czas na telefonie jest przyjemny, konieczny czy rozpraszający. Każdą godzinę traktuje tak samo. To celowe. To proste narzędzie zwiększające świadomość, a nie ocena ani diagnoza.",
+      "Jeśli wynik wydaje się wysoki, kolejnym pytaniem nie musi być, jak usunąć cały ten czas. Lepszym pytaniem jest, która jego część wydaje się automatyczna, nieplanowana lub trudna do przerwania, gdy już się zacznie."
+    ],
+    "calcCta": "Użyj kalkulatora czasu przed ekranem",
+    "faqEyebrow": "Najczęstsze pytania",
+    "faqTitle": "Nawet mała granica może mieć znaczenie.",
+    "faqs": [
+      {
+        "question": "Czy muszę zakładać konto?",
+        "answer": "Nie. Narzędzia Klippy działają od razu w przeglądarce. Kalkulator nie wymaga rejestracji ani płatności."
+      },
+      {
+        "question": "Czy Klippy odczytuje aktywność mojego telefonu?",
+        "answer": "Nie. Wykorzystuje tylko liczbę, którą wpisujesz do kalkulatora. Nie łączy się z Twoim iPhonem ani nie zbiera podziału na poszczególne aplikacje."
+      },
+      {
+        "question": "Co zrobić po zobaczeniu wyniku?",
+        "answer": "Poszukaj jednego wyraźnego wzorca. Może to być aplikacja, którą sprawdzasz w pracy, feed otwierany w łóżku lub nawyk, który uruchamia się za każdym razem, gdy na coś czekasz."
+      },
+      {
+        "question": "A co jeśli nadal potrzebuję większości funkcji telefonu?",
+        "answer": "To normalne. Przydatna granica nie musi sprawiać, że cały telefon stanie się niedostępny. Zacznij od kilku aplikacji lub momentów, które sprawiają problem."
+      }
+    ],
+    "fellaEyebrow": "Gdy problemem jest kilka aplikacji",
+    "fellaTitle": "Fella domyślnie blokuje wybrane rozpraszające aplikacje na iPhonie, a aplikacje, których nie wybierzesz, mogą pozostać dostępne.",
+    "fellaCopy": "To inny krok niż obliczanie czasu przed ekranem. Może być przydatny, gdy już wiesz, które aplikacje chcesz uczynić mniej automatycznymi.",
+    "fellaCta": "Poznaj Fella"
+  },
+  "calculator": {
+    "metaTitle": "Kalkulator czasu przed ekranem — Zobacz swój czas na telefonie w tygodniach, latach i do 75. roku życia",
+    "metaDescription": "Darmowy kalkulator czasu przed ekranem: wpisz dzienne godziny i wiek, by zobaczyć sumy tygodniowe, roczne i w całym życiu. Prywatnie, bez logowania, działa w przeglądarce.",
+    "eyebrow": "Darmowy kalkulator czasu przed ekranem",
+    "h1": "Zobacz, jak sumuje się Twój czas na telefonie.",
+    "lead": "Wpisz swój średni dzienny czas przed ekranem. Zobacz prosty podgląd godzin, dni i lat, na które może się to przełożyć — a potem wybierz jedną małą zmianę do przetestowania.",
+    "inputLabel": "Średni dzienny czas przed ekranem",
+    "reduceAria": "Zmniejsz czas przed ekranem",
+    "increaseAria": "Zwiększ czas przed ekranem",
+    "help": "Sprawdź Ustawienia → Czas przed ekranem na iPhonie, jeśli nie wiesz, co wpisać. Użyj typowego dnia, nie najlepszego ani najgorszego.",
+    "ageLabel": "Twój wiek",
+    "ageHelp": "Używane tylko do oszacowania czasu przed ekranem od teraz do 75. roku życia. Nic nie jest zapisywane.",
+    "calcCta": "Oblicz mój czas",
+    "results": {
+      "everyWeek": "Każdego tygodnia",
+      "everyMonth": "Każdego miesiąca",
+      "everyYear": "Każdego roku",
+      "fullDays": "Pełnych dni w roku"
+    },
+    "atThisRate": "W tym tempie",
+    "atThisRateValue": "Około {years} lat czasu przed ekranem od teraz do 75. roku życia.",
+    "atThisRateCopy": "To oszacowanie liczy każdą godzinę tak samo. To przybliżone narzędzie zwiększające świadomość, a nie ocena Twojego korzystania z telefonu.",
+    "wakingLabel": "Udział w 16-godzinnym dniu czuwania",
+    "smallReductionTitle": "Małe ograniczenie robi różnicę",
+    "smallReductionCopy": "Jedna godzina mniej dziennie to około {days} pełnych dni oszczędzonych w roku.",
+    "smallReductionDesc": "Nie musisz rezygnować ze wszystkich ekranów. Zacznij od jednej aplikacji lub momentu, który zamienia się w nieplanowaną sesję.",
+    "fellaTitle": "Jeśli problemem jest kilka aplikacji",
+    "fellaCopyTitle": "Fella może zablokować wybrane aplikacje, które ciągle Cię wciągają.",
+    "fellaCopy": "Aplikacje, których nie wybierzesz, mogą pozostać dostępne, więc Twój przydatny telefon pozostanie przydatny.",
+    "fellaCta": "Zobacz Fella w App Store",
+    "faqTitle": "FAQ kalkulatora czasu przed ekranem",
+    "axisLabels": {
+      "zero": "0h",
+      "middle": "8h",
+      "max": "16h"
+    },
+    "faqs": [
+      {
+        "question": "Jak obliczane jest oszacowanie?",
+        "answer": "Mnożymy Twoją średnią dzienną przez 7, 30,44 i 365 dla tygodnia/miesiąca/roku oraz przez liczbę lat od Twojego wieku do 75 lat dla widoku całego życia. Podziel roczne godziny przez 24, by uzyskać pełne dni."
+      },
+      {
+        "question": "Czy to narzędzie śledzi mojego iPhone'a?",
+        "answer": "Nie. Obliczenia odbywają się w Twojej przeglądarce na podstawie liczby, którą wpisujesz. Nic nie jest połączone z Twoim telefonem ani zapisywane przez Klippy."
+      },
+      {
+        "question": "Gdzie znaleźć czas przed ekranem na iPhonie?",
+        "answer": "Otwórz Ustawienia → Czas przed ekranem → Zobacz całą aktywność aplikacji i stron. Przełączaj się między widokiem Dzień i Tydzień, aby znaleźć typową średnią dzienną."
+      },
+      {
+        "question": "Co zrobić z wynikiem?",
+        "answer": "Poszukaj najmniej intencjonalnego czasu — feeda otwieranego w oczekiwaniu, gry używanej do unikania zadania lub nocnego scrollowania — i przetestuj jedną małą granicę właśnie tam."
+      }
+    ]
+  },
+  "seoPages": {
+    "screen-time-by-age-calculator": {
+      "title": "Kalkulator czasu przed ekranem według wieku — Ile od teraz do 75. roku życia? | Klippy",
+      "description": "Zobacz, jak Twój dzienny czas przed ekranem sumuje się od obecnego wieku do 75 lat. Wpisz dzienne godziny i wiek, by uzyskać prywatne, natychmiastowe oszacowanie.",
+      "eyebrow": "Kalkulator czasu przed ekranem według wieku",
+      "h1": "Zobacz, na ile złoży się Twój czas przed ekranem od teraz do 75. roku życia.",
+      "lead": "Dzienna średnia wygląda inaczej w zestawieniu z nadchodzącymi latami. Wpisz swój wiek i dzienny czas przed ekranem, by uzyskać proste, prywatne oszacowanie — a potem wybierz jeden nawyk do przetestowania.",
+      "answer": "Klippy mnoży Twoją średnią dzienną przez liczbę lat od obecnego wieku do 75 lat. Każdą godzinę liczy tak samo, więc potraktuj to jako punkt wyjścia dla świadomości, a nie ocenę.",
+      "sections": [
+        {
+          "title": "Dlaczego widok według wieku pomaga",
+          "paragraphs": [
+            "Ten sam dzienny nawyk ma więcej czasu, by się powtarzać, gdy jesteś młodszy. Zobaczenie sumy do 75 lat sprawia, że abstrakcyjna rutyna staje się konkretna, bez potrzeby wywoływania niepokoju.",
+            "Gdy już zobaczysz sumę, możesz zadać węższe pytanie: czy jest jedna aplikacja, pora dnia lub bodziec, który tworzy większość automatycznego czasu? Mała granica właśnie tam jest łatwiejsza do utrzymania niż ogólne ograniczenie."
+          ]
+        },
+        {
+          "title": "Spraw, by było to przydatne, nie oceniające",
+          "paragraphs": [
+            "Kalkulator nie wie, które godziny są na pracę, rodzinę, naukę czy odpoczynek. Użyj liczby, by oddzielić korzystanie z telefonu, które cenisz, od sprawdzeń dziejących się bez wyraźnego powodu.",
+            "Jeśli wynik Cię zaskoczy, zacznij od najmniej intencjonalnego czasu. Zachowaj przydatne funkcje telefonu i dodaj opór tylko tam, gdzie zaczyna się automatyczne sprawdzanie. Zobacz też: czas przed ekranem w pełnych dniach i jak znaleźć swoją średnią na iPhonie."
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "title": "Sprawdź swoją dzienną średnią",
+          "copy": "Otwórz Ustawienia → Czas przed ekranem → Zobacz całą aktywność i użyj typowej dziennej liczby."
+        },
+        {
+          "title": "Wpisz swój wiek",
+          "copy": "Używane tylko do oszacowania do 75. roku życia. Nic nie jest zapisywane."
+        },
+        {
+          "title": "Wybierz jedną małą zmianę",
+          "copy": "Wybierz jedną aplikację lub moment, który wydaje się automatyczny, nie wszystko naraz."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Czy oszacowanie jest dokładne?",
+          "answer": "Nie. To prosta matematyka na podstawie dziennej liczby, którą wpisujesz, pomnożonej przez liczbę lat do 75. Potraktuj to jako narzędzie świadomości, a nie precyzyjną prognozę."
+        },
+        {
+          "question": "Czy Klippy widzi dane z mojego telefonu?",
+          "answer": "Nie. Narzędzie działa w Twojej przeglądarce i nigdy nie łączy się z Twoim iPhonem."
+        },
+        {
+          "question": "Co wypróbować dalej?",
+          "answer": "Przetestuj jedną granicę przez tydzień — na przykład brak feeda społecznościowego w łóżku lub cichsze powiadomienia w pracy — i zachowaj to, co pomaga."
+        }
+      ]
+    },
+    "screen-time-in-days": {
+      "title": "Czas przed ekranem w dniach — Przelicz godziny na pełne doby | Klippy",
+      "description": "Przelicz dzienny czas przed ekranem na pełne dni w tygodniu, miesiącu i roku. Zobacz roczne godziny jako doby 24-godzinne — za darmo i prywatnie.",
+      "eyebrow": "Czas przed ekranem w dniach",
+      "h1": "Zamień swój czas przed ekranem na pełne dni.",
+      "lead": "Godziny rozproszone w ciągu dnia mogą wydawać się zwyczajne. Klippy przelicza Twoją dzienną średnią na pełne doby 24-godzinne w roku, by łatwiej dostrzec kompromis.",
+      "answer": "Mnożymy Twoje dzienne godziny przez 365, by uzyskać roczne godziny, a następnie dzielimy przez 24. To daje ekwiwalent w pełnych dniach. Obliczenia dzieją się natychmiast w przeglądarce.",
+      "sections": [
+        {
+          "title": "Dlaczego pełne dni łatwiej sobie wyobrazić",
+          "paragraphs": [
+            "Cztery godziny dziennie brzmią niewinnie, dopóki nie zobaczysz, że to ponad 60 pełnych dni w roku. Widok w dniach przedstawia ten sam czas w innej perspektywie, nie nazywając go zmarnowanym.",
+            "Te dni obejmują pracę, mapy, wiadomości, naukę i odpoczynek. Nie chodzi o to, by cały czas przed ekranem uznać za zły, ale by zobaczyć sumę, aby wybrać jedną część do zmiany. Wypróbuj widok według wieku, jeśli chcesz dłuższej perspektywy."
+          ]
+        },
+        {
+          "title": "Jeśli liczba Cię zaskoczy",
+          "paragraphs": [
+            "Zacznij od najmniej intencjonalnego czasu: feeda otwieranego w oczekiwaniu, gry używanej do odwlekania zadania lub nocnego scrollowania, które się przedłuża.",
+            "Przetestuj najmniejszą granicę, która pasuje do Twojego dnia. Zachowaj niezbędne aplikacje i zmień tylko moment, który powoduje najwięcej trudności. Pomocne mogą być praktyczne sposoby ograniczania na iPhonie."
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "title": "Znajdź swoją średnią",
+          "copy": "Użyj dziennej średniej z Czasu przed ekranem na iPhonie (widok Dzień/Tydzień)."
+        },
+        {
+          "title": "Zobacz roczną sumę",
+          "copy": "Kalkulator pokazuje godziny oraz ekwiwalent w dobach 24-godzinnych."
+        },
+        {
+          "title": "Wybierz jeden eksperyment",
+          "copy": "Ogranicz jedno automatyczne sprawdzenie zamiast gonić za idealną liczbą."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Jak obliczane są pełne dni?",
+          "answer": "Roczne godziny ÷ 24. Na przykład 4 godz./dzień × 365 = 1460 godz./rok ÷ 24 ≈ 60,8 pełnych dni."
+        },
+        {
+          "question": "Czy to znaczy, że czas przed ekranem jest zmarnowany?",
+          "answer": "Nie. Widok w dniach to neutralne przedstawienie. Praca, rodzina i odpoczynek mogą odbywać się na ekranie."
+        },
+        {
+          "question": "Czy mogę to zrobić dla jednej aplikacji?",
+          "answer": "Tak. Wpisz średnią dzienną dla pojedynczej aplikacji lub kategorii z podziału Czasu przed ekranem."
+        }
+      ]
+    },
+    "phone-use-calculator": {
+      "title": "Kalkulator czasu na telefonie — Od dziennego do rocznego czasu na telefonie | Klippy",
+      "description": "Zobacz, jak Twój dzienny czas na telefonie sumuje się w tygodniu, miesiącu i roku. Jedna liczba, natychmiastowe sumy — bez logowania.",
+      "eyebrow": "Kalkulator czasu na telefonie",
+      "h1": "Prosty kalkulator Twojego czasu na telefonie.",
+      "lead": "Wpisz jedną dzienną średnią i zobacz ją jako sumy tygodniowe, miesięczne i roczne. Wykorzystaj to, by dostrzec część korzystania z telefonu, którą naprawdę chciałbyś zmienić.",
+      "answer": "Klippy przelicza Twoje dzienne godziny na telefonie na sumy tygodniowe (×7), miesięczne (×30,44) i roczne (×365). Bez konta, bez śledzenia — tylko obliczenia w przeglądarce.",
+      "sections": [
+        {
+          "title": "Twój telefon to nie jedna rzecz",
+          "paragraphs": [
+            "To mapa, aparat, komunikator, portfel i miejsce na odpoczynek. Jedna suma nie może zdecydować, które sposoby użycia są dla Ciebie ważne.",
+            "Wykorzystaj sumę, by zapytać, czy czas, który chcesz zachować, nie jest wypierany przez sprawdzenia dziejące się na autopilocie. To rozróżnienie jest bardziej przydatne niż pojedynczy wynik czasu przed ekranem."
+          ]
+        },
+        {
+          "title": "Szukaj wzorców przed zasadami",
+          "paragraphs": [
+            "Zauważ bodziec, zanim aplikacja się otworzy: nuda, powiadomienie, przerwa między zadaniami lub trudny fragment pracy.",
+            "Zasada dopasowana do bodźca działa lepiej — cichsze powiadomienia, inny ekran początkowy lub granica wokół jednej aplikacji. Jeśli chcesz ograniczyć zwłaszcza media społecznościowe, zobacz czas w mediach społecznościowych i jak go ograniczyć na iPhonie."
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "title": "Wpisz dzienny czas na telefonie",
+          "copy": "Użyj typowego dnia, nie najlepszego ani najgorszego."
+        },
+        {
+          "title": "Sprawdź sumy",
+          "copy": "Sprawdź tydzień i rok, by zobaczyć nawyk w większej skali."
+        },
+        {
+          "title": "Znajdź część do zmiany",
+          "copy": "Oddziel przydatne użycie od nieplanowanych sprawdzeń."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Czy to jest darmowe?",
+          "answer": "Tak. Działa w przeglądarce bez konta i płatności."
+        },
+        {
+          "question": "Gdzie znajdę swoją dzienną średnią?",
+          "answer": "Ustawienia → Czas przed ekranem → Zobacz całą aktywność aplikacji i stron. Użyj widoku Dzień lub Tydzień."
+        },
+        {
+          "question": "Czy widzi moje aplikacje?",
+          "answer": "Nie. Liczbę wpisujesz sam; Klippy nigdy nie łączy się z Twoim telefonem."
+        }
+      ]
+    },
+    "social-media-time-calculator": {
+      "title": "Kalkulator czasu w mediach społecznościowych — Sumy tygodniowe, miesięczne i roczne | Klippy",
+      "description": "Oblicz czas w mediach społecznościowych w tygodniu, miesiącu i roku. Wpisz dzienną średnią dla jednej aplikacji lub wszystkich mediów — prywatnie i natychmiast.",
+      "eyebrow": "Kalkulator czasu w mediach społecznościowych",
+      "h1": "Zobacz, jak sumuje się czas w mediach społecznościowych.",
+      "lead": "Wpisz swoją dzienną średnią z mediów społecznościowych i zobacz ją jako sumy tygodniowe, miesięczne i roczne. Zachowaj to, co cenisz, zmień to, co wydaje się automatyczne.",
+      "answer": "Zsumuj swoje aplikacje społecznościowe w Czasie przed ekranem na iPhonie, wpisz dzienną średnią, a Klippy przeliczy to na sumy długoterminowe. Użyj do jednej aplikacji lub całej kategorii.",
+      "sections": [
+        {
+          "title": "Suma jest jaśniejsza niż wrażenie",
+          "paragraphs": [
+            "„Spędzam za dużo czasu w mediach społecznościowych” trudno przełożyć na działanie. Liczba — na przykład 1,5 godz./dzień ≈ 22 pełne dni w roku — daje Ci coś konkretnego do rozważenia.",
+            "Nie wszystko z tego jest zmarnowane; media społecznościowe to dla wielu osób także praca, nauka i kontakt z bliskimi. Przydatne pytanie brzmi, czy czas zgadza się z Twoim zamiarem."
+          ]
+        },
+        {
+          "title": "Spraw, by kolejny krok był konkretny",
+          "paragraphs": [
+            "Wybierz jedną aplikację, która zamienia szybkie sprawdzenie w dłuższą sesję. Zanotuj, kiedy ją otwierasz i co robiłeś tuż przedtem.",
+            "Jeśli zdecydujesz się dodać granicę, pozostaw przydatne aplikacje otwarte i skup się na tych kilku, które Cię wciągają. Opcje na iPhonie znajdziesz w poradnikach jak ograniczyć media społecznościowe na iPhonie oraz Czas przed ekranem vs blokada aplikacji."
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "title": "Otwórz podział",
+          "copy": "W Czasie przed ekranem sprawdź kategorię Społecznościowe lub pojedynczą aplikację."
+        },
+        {
+          "title": "Wpisz dzienną średnią",
+          "copy": "Użyj jednej aplikacji lub łącznej sumy."
+        },
+        {
+          "title": "Wybierz jedną granicę",
+          "copy": "Zacznij od aplikacji, która wydaje się najbardziej automatyczna."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Czy mogę obliczyć czas dla jednej aplikacji?",
+          "answer": "Tak. Wpisz średnią dla Instagrama, TikToka, YouTube’a itp. lub łączną sumę."
+        },
+        {
+          "question": "Czy Klippy zbiera dane o moim korzystaniu z mediów społecznościowych?",
+          "answer": "Nie. Nic nie jest wysyłane do Klippy ani do Twoich kont."
+        },
+        {
+          "question": "A co jeśli potrzebuję tego do pracy?",
+          "answer": "Zachowaj użycie służbowe i skup granicę na sprawdzeniach poza tym celem."
+        }
+      ]
+    },
+    "how-to-check-screen-time-iphone": {
+      "title": "Jak sprawdzić czas przed ekranem na iPhonie — Dziennie, tygodniowo i według aplikacji | Klippy",
+      "description": "Jak znaleźć Czas przed ekranem na iPhonie: zobacz średnią dzienną, sumę tygodniową i podział na aplikacje, a potem użyj tego w kalkulatorze Klippy.",
+      "eyebrow": "Jak sprawdzić czas przed ekranem na iPhonie",
+      "h1": "Jak znaleźć Czas przed ekranem na iPhonie.",
+      "lead": "Twój iPhone już śledzi dzienną średnią, trend tygodniowy i podział na aplikacje. Oto gdzie to znaleźć i której liczby użyć w kalkulatorze.",
+      "answer": "Przejdź do Ustawienia → Czas przed ekranem → Zobacz całą aktywność aplikacji i stron. Przełączaj Dzień/Tydzień, by znaleźć typową średnią. Podział na aplikacje jest na tym samym ekranie.",
+      "sections": [
+        {
+          "title": "Wybierz typowy tydzień, nie pojedynczy dzień",
+          "paragraphs": [
+            "Jeden dzień może wprowadzać w błąd — podróż, długa rozmowa lub weekendowy maraton mogą go zaburzyć. Widok Tydzień wygładza takie odstępstwa.",
+            "Użyj dziennej średniej pokazanej u góry dla widoku Tydzień. To najbardziej przydatna wartość do kalkulatora i widoku w dniach."
+          ]
+        },
+        {
+          "title": "Sprawdź podział, nie tylko sumę",
+          "paragraphs": [
+            "Suma mówi Ci ile, podział mówi gdzie. Porównaj aplikacje, których używasz intencjonalnie, z tymi, które otwierasz bez planu.",
+            "Ten podział pomaga wybrać jeden realistyczny kolejny krok zamiast ogólnego celu „rzadziej używać telefonu”."
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "title": "Otwórz Ustawienia",
+          "copy": "Stuknij Czas przed ekranem na głównej liście Ustawień."
+        },
+        {
+          "title": "Otwórz Aktywność aplikacji i stron",
+          "copy": "Wybierz Zobacz wszystko, by zobaczyć Dzień/Tydzień i listę aplikacji."
+        },
+        {
+          "title": "Skopiuj typową dzienną liczbę",
+          "copy": "Użyj jej w kalkulatorze, by zobaczyć sumy tygodniowe/roczne."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Czy mogę zobaczyć czas dla jednej aplikacji?",
+          "answer": "Tak. Lista aktywności pokazuje każdą aplikację i kategorię; stuknij aplikację, by zobaczyć jej szczegóły dzienne/tygodniowe."
+        },
+        {
+          "question": "Dlaczego brakuje Czasu przed ekranem?",
+          "answer": "Może być wyłączony. W sekcji Czas przed ekranem stuknij Włącz i wybierz swoje urządzenie."
+        },
+        {
+          "question": "Czy mogę użyć sumy tygodniowej?",
+          "answer": "Tak. Podziel sumę tygodniową przez 7, by uzyskać średnią dzienną."
+        }
+      ]
+    },
+    "how-to-reduce-screen-time-iphone": {
+      "title": "Jak ograniczyć czas przed ekranem na iPhonie (bez przesadnego blokowania) | Klippy",
+      "description": "Praktyczne sposoby na ograniczenie czasu przed ekranem na iPhonie: znajdź bodziec, wycisz powiadomienia, użyj Trybu skupienia lub dodaj granicę dla jednej aplikacji.",
+      "eyebrow": "Jak ograniczyć czas przed ekranem na iPhonie",
+      "h1": "Ogranicz czas przed ekranem, zmieniając najpierw jedną przydatną rzecz.",
+      "lead": "„Rzadziej używać telefonu” jest niejasne. Mniejsza zmiana — mniej alertów, harmonogram Skupienia lub granica dla jednej aplikacji — jest łatwiejsza do utrzymania i łatwiejsza do zmierzenia.",
+      "answer": "Zacznij od podziału Czasu przed ekranem, wybierz jeden powtarzający się bodziec (powiadomienia, nuda, pora dnia) i dopasuj narzędzie: cichsze alerty, Skupienie, Limity aplikacji/Czas bez urządzenia lub blokada wybranych aplikacji dla tych kilku, które otwierają się automatycznie.",
+      "sections": [
+        {
+          "title": "Wybierz zachowanie, nie tylko liczbę",
+          "paragraphs": [
+            "„Przestań otwierać TikToka po 22:00” jest jaśniejsze niż „używaj telefonu o godzinę mniej”. Pierwsze wskazuje na ustawienie; drugie wymaga silnej woli w danym momencie.",
+            "Gdy zachowanie jest konkretne, możesz zostawić przydatne aplikacje w spokoju i zastosować zasadę tylko tam, gdzie pojawia się problem."
+          ]
+        },
+        {
+          "title": "Zadbaj, by konfiguracja była praktyczna",
+          "paragraphs": [
+            "Jeśli zasada blokuje potrzebne aplikacje, będziesz ją omijać. Skup się na 1–2 aplikacjach, które tworzą automatyczne sprawdzenie.",
+            "Zauważ, co sprawia, że porzucasz konfigurację — zbyt szeroka, zbyt łatwa do zignorowania lub rozwiązująca niewłaściwy bodziec. Popraw to, a nie swoją motywację. Porównaj Czas przed ekranem vs blokada wybranych aplikacji, by wybrać właściwe narzędzie."
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "title": "Znajdź powtarzający się moment",
+          "copy": "Użyj Czasu przed ekranem, by dostrzec jeden nawyk (np. praca, pora snu, oczekiwanie)."
+        },
+        {
+          "title": "Usuń bodziec, jeśli możesz",
+          "copy": "Wypróbuj ustawienia powiadomień lub Skupienie przy sprawdzeniach wywołanych alertami."
+        },
+        {
+          "title": "Dodaj granicę, jeśli trzeba",
+          "copy": "Użyj Limitów aplikacji/Czasu bez urządzenia lub blokady do automatycznego otwierania."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Czy powinienem używać Limitów aplikacji?",
+          "answer": "Używaj ich, gdy pomaga budżet czasowy. Jeśli ta sama aplikacja otwiera się o losowych porach przez cały dzień, granica dla wybranych aplikacji może pasować lepiej."
+        },
+        {
+          "question": "Czy mogę zachować połączenia i wiadomości?",
+          "answer": "Tak. Zostaw Telefon, Wiadomości i niezbędne rzeczy poza wszelkimi ograniczeniami."
+        },
+        {
+          "question": "Jaka jest najmniejsza przydatna zmiana?",
+          "answer": "Taka, która celuje w prawdziwy problem, nie utrudniając reszty korzystania z telefonu."
+        }
+      ]
+    },
+    "how-to-limit-social-media-on-iphone": {
+      "title": "Jak ograniczyć media społecznościowe na iPhonie — Zostaw niezbędne rzeczy dostępne | Klippy",
+      "description": "Ogranicz media społecznościowe na iPhonie, nie blokując całego telefonu: alerty, Skupienie, Limity aplikacji, Czas bez urządzenia i blokady aplikacji — porównanie.",
+      "eyebrow": "Jak ograniczyć media społecznościowe na iPhonie",
+      "h1": "Ogranicz media społecznościowe, nie ograniczając całego telefonu.",
+      "lead": "Nie potrzebujesz zasady wszystko-albo-nic. Wybierz, czy chcesz mniej alertów, dzienny limit, zaplanowaną przerwę, czy sprawić, by wybrane aplikacje trudniej było otworzyć.",
+      "answer": "Dopasuj narzędzie do bodźca: powiadomienia → cichsze alerty/Skupienie; budżet czasowy → Limity aplikacji; przewidywalny harmonogram → Czas bez urządzenia; powtarzające się automatyczne otwarcia → blokada wybranych aplikacji. Pozostaw niewybrane aplikacje dostępne.",
+      "sections": [
+        {
+          "title": "Różne narzędzia, różne problemy",
+          "paragraphs": [
+            "Powiadomienia to bodziec, Limity aplikacji to budżet, Czas bez urządzenia to harmonogram, a blokada wybranych aplikacji sprawia, że te aplikacje są domyślnie niedostępne. Nie są wymienne.",
+            "Jeśli ta sama aplikacja otwiera się bez powiadomienia czy harmonogramu, blokada jest często bardziej bezpośrednia niż licznik, który możesz przedłużyć. Zobacz, kiedy każde z nich pomaga w Czas przed ekranem vs blokada aplikacji."
+          ]
+        },
+        {
+          "title": "Zachowaj to, czego potrzebujesz",
+          "paragraphs": [
+            "Mapy, Wiadomości, połączenia, bankowość i aplikacje rodzinne rzadko muszą być częścią zasady dotyczącej mediów społecznościowych.",
+            "Wąska zasada jest łatwiejsza do utrzymania, ponieważ zmienia problematyczną aplikację, nie utrudniając każdego normalnego zadania. Jeśli nie masz pewności, zacznij od sprawdzenia, ile faktycznie czasu spędzasz w mediach społecznościowych."
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "title": "Nazwij problematyczną aplikację",
+          "copy": "Znajdź tę, która zamienia szybkie sprawdzenie w długą sesję."
+        },
+        {
+          "title": "Dopasuj ustawienie",
+          "copy": "Wybierz świadomie alerty, limity, harmonogram lub blokadę."
+        },
+        {
+          "title": "Zostaw niezbędne rzeczy dostępne",
+          "copy": "Pozostaw przydatne aplikacje poza zasadą."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Czy Skupienie blokuje aplikacje?",
+          "answer": "Skupienie ogranicza powiadomienia i może ukrywać strony ekranu początkowego, ale generalnie nie uniemożliwia otwarcia aplikacji."
+        },
+        {
+          "question": "Czy mogę zachować Wiadomości?",
+          "answer": "Tak. Przy podejściu opartym na wybranych aplikacjach niewybrane aplikacje pozostają dostępne."
+        },
+        {
+          "question": "A co jeśli potrzebuję tego do pracy?",
+          "answer": "Zachowaj użycie służbowe i stosuj granicę tylko poza tymi oknami."
+        }
+      ]
+    },
+    "digital-detox-plan": {
+      "title": "Plan cyfrowego detoksu — Mniejszy reset, który możesz utrzymać | Klippy",
+      "description": "Stwórz realistyczny plan cyfrowego detoksu: wybierz jeden powód, jeden wyzwalacz i jedną małą granicę do przetestowania przez tydzień.",
+      "eyebrow": "Plan cyfrowego detoksu",
+      "h1": "Plan cyfrowego detoksu, który zmieści się w prawdziwym życiu.",
+      "lead": "Nie musisz kasować wszystkiego ani wyjeżdżać na tydzień. Wybierz jedną część dnia, którą chcesz odzyskać, i jeden wyzwalacz do zmiany, a potem to przetestuj.",
+      "answer": "Wybierz jeden powód (np. mniej przerw w pracy, spokojniejszy wieczór), jeden wyzwalacz (aplikację, powiadomienie lub przedział czasowy) i jedną granicę, którą możesz utrzymać przez siedem dni. Przeanalizuj i dostosuj.",
+      "sections": [
+        {
+          "title": "Unikaj pułapki wszystko-albo-nic",
+          "paragraphs": [
+            "Szerokie detoksy wydają się zdecydowane, ale często zawodzą, gdy nadal potrzebujesz telefonu do pracy, rodziny i podróży.",
+            "Wąski test daje lepsze dane. Jeśli problemem jest nocne scrollowanie, zmień tylko to okno — nie każdą aplikację przez cały dzień. Zobacz, jak przestać tak często sprawdzać, by znaleźć pomysły na bodźce."
+          ]
+        },
+        {
+          "title": "Zdecyduj, na co robisz miejsce",
+          "paragraphs": [
+            "Plan lepiej się utrzymuje, gdy ma jasny cel: bardziej skupiona praca, uważniejsze posiłki czy łatwiejsze wieczorne wyciszenie.",
+            "Wykorzystaj ten cel, by wybrać granicę. Powinna wspierać życie, jakie chcesz prowadzić, a nie stać się kolejną zasadą, której nie lubisz."
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "title": "Wybierz jeden powód",
+          "copy": "Nazwij część dnia, którą chcesz chronić."
+        },
+        {
+          "title": "Wybierz jeden wyzwalacz",
+          "copy": "Wybierz aplikację, powiadomienie lub miejsce, które wielokrotnie przeszkadza."
+        },
+        {
+          "title": "Przetestuj jedną granicę",
+          "copy": "Niech będzie na tyle mała, by dało się jej używać przez prawdziwy tydzień."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Jak długo powinien trwać detoks?",
+          "answer": "Jednotygodniowy test jest bardziej przydatny niż szeroki plan, którego nie możesz utrzymać. Przedłużaj tylko to, co pomaga."
+        },
+        {
+          "question": "Czy muszę usuwać media społecznościowe?",
+          "answer": "Zazwyczaj nie. Granica wokół automatycznych momentów często wystarcza."
+        },
+        {
+          "question": "A co jeśli potrzebuję telefonu do pracy?",
+          "answer": "Zachowaj funkcje służbowe i skup detoks na rozpraszających sprawdzeniach poza nimi."
+        }
+      ]
+    },
+    "stop-checking-phone": {
+      "title": "Jak przestać tak często sprawdzać telefon — Bodziec przed sprawdzeniem | Klippy",
+      "description": "Przestań sprawdzać telefon, zmieniając bodziec: alerty, nuda lub pętle nawyków. Praktyczne kroki, które możesz przetestować już dziś.",
+      "eyebrow": "Jak przestać sprawdzać telefon",
+      "h1": "Przestań sprawdzać, zmieniając moment tuż przed sprawdzeniem.",
+      "lead": "Większość sprawdzeń to nie decyzja o użyciu telefonu. To automatyczny odruch w przerwie, po powiadomieniu lub w chwili nudy — a ten bodziec można zmienić.",
+      "answer": "Zauważ bodziec, a potem zmień otoczenie wokół niego: wycisz alerty, które go wywołują, spraw, by aplikację było nieco trudniej otworzyć, lub umieść bardziej przydatne działanie w tym samym miejscu.",
+      "sections": [
+        {
+          "title": "Sprawdzenie to często pętla, nie wybór",
+          "paragraphs": [
+            "Ręka rusza się, zanim zdecydujesz, czego chcesz od telefonu. Dlatego silna wola w danym momencie wydaje się trudna.",
+            "Stwórz małą pauzę, zmieniając bodziec, dostęp lub otoczenie — wystarczająco, by wybrać, a nie polegać na idealnej kontroli."
+          ]
+        },
+        {
+          "title": "Spraw, by lepsze działanie było łatwiejsze",
+          "paragraphs": [
+            "Jeśli sprawdzasz w oczekiwaniu, połóż tam książkę lub notatnik. Jeśli sprawdzasz w łóżku, ładuj telefon poza sypialnią. Spraw, by alternatywa była tak łatwa jak stary nawyk.",
+            "Jeśli jedną aplikacją jest zwykły cel, granica dla wybranych aplikacji może sprawić, że to automatyczne otwarcie będzie mniej wygodne, podczas gdy wszystko inne pozostanie otwarte. Porównaj narzędzia w Czas przed ekranem vs blokada aplikacji."
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "title": "Zauważ bodziec",
+          "copy": "Jaka pora, uczucie lub powiadomienie pojawia się tuż przed sięgnięciem?"
+        },
+        {
+          "title": "Zmień jedną część pętli",
+          "copy": "Wycisz alert, przenieś aplikację lub zwiększ dystans."
+        },
+        {
+          "title": "Przeanalizuj prawdziwy efekt",
+          "copy": "Zachowaj to, co pomaga, popraw to, co utrudnia życie."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Dlaczego sprawdzam bez powiadomienia?",
+          "answer": "Sprawdzanie może stać się wyuczoną reakcją na przerwy, stres lub nudę — nie tylko na alerty."
+        },
+        {
+          "question": "Czy powinienem wyłączyć wszystkie powiadomienia?",
+          "answer": "Zacznij od tych kilku, które wciągają Cię w niechciane sprawdzenia; zachowaj przydatne."
+        },
+        {
+          "question": "Czy blokada może pomóc?",
+          "answer": "Tak, gdy te same 1–2 aplikacje są powtarzającym się celem."
+        }
+      ]
+    },
+    "screen-time-vs-app-blocker": {
+      "title": "Czas przed ekranem vs blokada aplikacji — Które narzędzie iPhone'a pasuje do Twojego nawyku? | Klippy",
+      "description": "Limity aplikacji i Czas bez urządzenia w Czasie przed ekranem vs Skupienie vs blokada wybranych aplikacji. Dowiedz się, które narzędzie iPhone'a pasuje do Twojego bodźca.",
+      "eyebrow": "Czas przed ekranem vs blokada aplikacji",
+      "h1": "Czas przed ekranem i blokady aplikacji rozwiązują różne problemy.",
+      "lead": "Limity aplikacji, Czas bez urządzenia, Skupienie i blokada wybranych aplikacji są często mylone. Właściwy wybór zależy od tego, czy potrzebujesz budżetu, harmonogramu, mniej alertów, czy sprawienia, by wybrane aplikacje były domyślnie niedostępne.",
+      "answer": "Używaj Czasu przed ekranem do raportów, Limitów aplikacji i Czasu bez urządzenia; Skupienia do powiadomień i ekranu początkowego; blokady wybranych aplikacji, gdy kilka aplikacji ma być domyślnie zablokowanych, a reszta telefonu ma pozostać przydatna.",
+      "sections": [
+        {
+          "title": "Kiedy Czas przed ekranem sprawdza się dobrze",
+          "paragraphs": [
+            "Limity aplikacji ustalają dzienny limit, Czas bez urządzenia ustala harmonogram, a Czas przed ekranem pokazuje, gdzie idzie czas. Świetne do świadomości, budżetów i przewidywalnych okien czasowych.",
+            "Przy losowych, automatycznych otwarciach tych samych 1–2 aplikacji budżet czasowy może być łatwy do przedłużenia — domyślna blokada jest bardziej bezpośrednia."
+          ]
+        },
+        {
+          "title": "Kiedy granica dla wybranych aplikacji sprawdza się dobrze",
+          "paragraphs": [
+            "Blokada pyta: które zainstalowane aplikacje tworzą problem i czy reszta może pozostać przydatna? Fella utrzymuje wybrane aplikacje domyślnie zablokowane; niewybrane aplikacje pozostają dostępne.",
+            "To nie jest blokada stron ani system MDM. To wąska granica dla nawyku, który nazwałeś w poradniku jak ograniczyć lub w planie detoksu."
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "title": "Nazwij problem",
+          "copy": "Alerty, suma dzienna, harmonogram czy powtarzające się automatyczne otwarcia?"
+        },
+        {
+          "title": "Wybierz pasujące narzędzie",
+          "copy": "Skupienie, Limity aplikacji/Czas bez urządzenia lub blokada."
+        },
+        {
+          "title": "Zachowaj wąski zakres",
+          "copy": "Pozostaw przydatne aplikacje dostępne."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Czy Czas przed ekranem może blokować aplikacje?",
+          "answer": "Ma Limity aplikacji i Czas bez urządzenia. Używaj ich do budżetów/harmonogramów; blokada służy do domyślnie niedostępnych wybranych aplikacji."
+        },
+        {
+          "question": "Czy Skupienie blokuje aplikacje?",
+          "answer": "Skupienie wycisza powiadomienia i może ukrywać strony, ale generalnie nie blokuje otwierania aplikacji."
+        },
+        {
+          "question": "Czy mogę zachować połączenia i wiadomości?",
+          "answer": "Tak. Przy podejściu opartym na wybranych aplikacjach tylko wybrane aplikacje są blokowane."
+        }
+      ]
+    }
+  },
+  "guidePage": {
+    "shortAnswer": "Krótka odpowiedź",
+    "nextStepEyebrow": "Praktyczny kolejny krok",
+    "useCalculatorCta": "Użyj kalkulatora czasu przed ekranem",
+    "faqTitle": "Najczęstsze pytania"
+  },
+  "notFound": {
+    "title": "Nie znaleziono strony",
+    "description": "Strona, której szukasz, nie istnieje."
+  }
+}

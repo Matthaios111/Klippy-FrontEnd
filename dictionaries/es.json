@@ -1,0 +1,778 @@
+{
+  "site": {
+    "name": "Klippy",
+    "title": "Klippy | Herramientas gratuitas para un móvil más tranquilo",
+    "description": "Herramientas sencillas y gratuitas para cambiar los hábitos del móvil que te hacen volver una y otra vez."
+  },
+  "header": {
+    "howItWorks": "Cómo funciona",
+    "guides": "Guías",
+    "about": "Sobre nosotros",
+    "calculator": "Calculadora",
+    "tryFella": "Probar Fella",
+    "homeAria": "Inicio de Klippy"
+  },
+  "footer": {
+    "privacy": "Privacidad",
+    "terms": "Términos",
+    "support": "Soporte",
+    "builtByFella": "Creado por Fella",
+    "guidesLabel": "Guías",
+    "guidesAria": "Guías sobre tiempo de pantalla"
+  },
+  "guides": [
+    {
+      "label": "Tiempo de pantalla por edad",
+      "slug": "screen-time-by-age-calculator"
+    },
+    {
+      "label": "Tiempo de pantalla en días",
+      "slug": "screen-time-in-days"
+    },
+    {
+      "label": "Calculadora de uso del móvil",
+      "slug": "phone-use-calculator"
+    },
+    {
+      "label": "Tiempo en redes sociales",
+      "slug": "social-media-time-calculator"
+    },
+    {
+      "label": "Consultar el tiempo de pantalla en iPhone",
+      "slug": "how-to-check-screen-time-iphone"
+    },
+    {
+      "label": "Reducir el tiempo de pantalla en iPhone",
+      "slug": "how-to-reduce-screen-time-iphone"
+    },
+    {
+      "label": "Limitar redes sociales en iPhone",
+      "slug": "how-to-limit-social-media-on-iphone"
+    },
+    {
+      "label": "Plan de detox digital",
+      "slug": "digital-detox-plan"
+    },
+    {
+      "label": "Dejar de mirar el móvil a cada rato",
+      "slug": "stop-checking-phone"
+    },
+    {
+      "label": "Tiempo de pantalla vs bloqueador de apps",
+      "slug": "screen-time-vs-app-blocker"
+    }
+  ],
+  "home": {
+    "title": "Haz que tu móvil\nsea más fácil de soltar.",
+    "lead": "Una herramienta gratuita para encontrar el hábito del móvil que te hace volver una y otra vez. Después, elige un límite más pequeño que realmente encaje en tu día a día.",
+    "cta": "Probar la herramienta gratuita",
+    "sub": "Sin registro. Sin descarga. Solo un buen punto de partida.",
+    "howItWorksAria": "Cómo funciona",
+    "steps": [
+      {
+        "number": "01",
+        "title": "Ponle nombre al momento",
+        "description": "Un hábito concreto es más fácil de cambiar que un objetivo vago de usar menos el móvil."
+      },
+      {
+        "number": "02",
+        "title": "Elige un límite más pequeño",
+        "description": "Conserva las apps que necesitas. Añade fricción solo donde empieza la consulta automática."
+      },
+      {
+        "number": "03",
+        "title": "Pruébalo en tu día a día",
+        "description": "Usa el resultado como punto de partida práctico y adáptalo a tu rutina real."
+      }
+    ],
+    "aboutEyebrow": "Un móvil más tranquilo empieza por poco.",
+    "aboutTitle": "No necesitas borrar toda tu vida digital.",
+    "aboutCopy": "Klippy explora herramientas gratuitas y sencillas que te ayudan a identificar las pocas apps y momentos que merece la pena cambiar primero.",
+    "aboutCta": "Descubrir Fella"
+  },
+  "about": {
+    "metaTitle": "Sobre Klippy — Herramientas pequeñas para un móvil más tranquilo",
+    "metaDescription": "Klippy crea herramientas gratuitas y privadas para que veas con claridad tus hábitos con el móvil y elijas un siguiente paso pequeño y realista.",
+    "eyebrow": "Sobre Klippy",
+    "h1": "Herramientas pequeñas para un móvil que te resulte más útil.",
+    "lead": "Klippy es para quienes quieren cambiar un hábito del móvil sin convertirlo en un proyecto a tiempo completo. Las herramientas parten de una pregunta sencilla y buscan una respuesta útil.",
+    "whyEyebrow": "Por qué existe Klippy",
+    "whyTitle": "La mayoría de consejos sobre el móvil piden demasiado y demasiado pronto.",
+    "whyParagraphs": [
+      "Es fácil decir que deberías usar menos el móvil. Lo difícil es decidir qué significa eso en un día normal, cuando el móvil también es como hablas con la gente, te orientas, pagas, trabajas, aprendes y te relajas.",
+      "Klippy parte de una visión más acotada. Algunas partes de tu móvil son útiles. Algunas apps o momentos quizá te estén arrastrando a un hábito que no elegiste. Son problemas distintos y merecen respuestas distintas.",
+      "El objetivo no es hacer que la tecnología parezca un fallo moral. Es hacer más visibles los equilibrios para que decidas qué merece la pena cambiar."
+    ],
+    "values": [
+      {
+        "title": "Gratis ante todo",
+        "copy": "Un resultado no debería esconderse tras un formulario de registro. Las herramientas de Klippy están pensadas para funcionar sin cuenta, sin pago y sin instalar nada."
+      },
+      {
+        "title": "Privado por defecto",
+        "copy": "La calculadora de tiempo de pantalla funciona con los valores que escribes en tu navegador. No se conecta a tu iPhone ni necesita tus datos privados de actividad."
+      },
+      {
+        "title": "Útil sin venta agresiva",
+        "copy": "Una herramienta debería sostenerse por sí sola. Si después otro producto te resulta realmente útil, ese siguiente paso debería ser obvio y opcional."
+      }
+    ],
+    "nextEyebrow": "Qué viene ahora",
+    "nextTitle": "Empieza con una imagen honesta del hábito.",
+    "nextParagraphs": [
+      "La primera herramienta de Klippy es una calculadora de tiempo de pantalla. Convierte un número medio diario en totales que puedes ver por semana, por año y a más largo plazo. No puede decirte qué horas merece la pena conservar. Sí puede darte un punto de partida más claro para decidirlo tú.",
+      "Las próximas herramientas seguirán el mismo principio. Deberían ser lo bastante sencillas para usarlas en un minuto y lo bastante concretas para ayudarte en una decisión real. Sin puntuación genérica. Sin prometer que un solo ajuste lo arregla todo."
+    ],
+    "nextCta": "Usar la calculadora de tiempo de pantalla",
+    "fellaEyebrow": "Creado con Fella",
+    "fellaTitle": "Cuando la respuesta es un límite más firme alrededor de unas pocas apps, Fella está ahí para ese siguiente paso.",
+    "fellaCopy": "Fella es un bloqueador de apps para iPhone para apps concretas que te distraen. Las apps que no selecciones pueden seguir disponibles, así que la parte útil de tu móvil no entra dentro del límite a menos que tú lo elijas.",
+    "fellaCta": "Descubrir Fella"
+  },
+  "howItWorks": {
+    "metaTitle": "Cómo funciona Klippy — Empieza por el hábito, no por un reinicio total",
+    "metaDescription": "Cómo funciona Klippy: herramientas gratuitas y privadas en el navegador que convierten un número diario del móvil en un siguiente paso útil — sin cuenta ni rastreo.",
+    "eyebrow": "Cómo funciona",
+    "h1": "Empieza por el hábito, no por un gran reinicio.",
+    "lead": "Klippy crea herramientas gratuitas y sencillas para mirar los hábitos del móvil de forma más práctica. No se trata de hacer que cada minuto de pantalla te haga sentir mal. Se trata de notar los momentos que ocurren casi sin pensar y decidir si te siguen compensando.",
+    "ideaEyebrow": "La idea básica",
+    "ideaTitle": "Una respuesta útil debería ser clara antes de pedirte nada.",
+    "ideaCopy": "Por eso las herramientas de Klippy funcionan en tu navegador. No hay cuenta que crear, ni pantalla de pago para ver el resultado, ni conexión con tus datos privados del móvil. Introduces una pequeña cantidad de información y obtienes una forma concreta de interpretarla.",
+    "steps": [
+      {
+        "number": "01",
+        "title": "Fíjate en un solo momento",
+        "copy": "Empieza por una app concreta, una hora del día o una situación. Revisar un feed en la cama es más fácil de entender que un plan general de usar menos el móvil."
+      },
+      {
+        "number": "02",
+        "title": "Haz que el número sirva de algo",
+        "copy": "La calculadora de tiempo de pantalla convierte un número medio diario en totales semanales, anuales y a más largo plazo. El cálculo es simple. Verlo todo en un mismo sitio hace que el equilibrio sea más fácil de percibir."
+      },
+      {
+        "number": "03",
+        "title": "Elige el siguiente paso más pequeño",
+        "copy": "Quizá lo dejes todo como está. Quizá muevas una app, silencies un aviso o hagas que una distracción sea un poco más difícil de abrir. El cambio útil es el que encaja en tu día real."
+      }
+    ],
+    "calcEyebrow": "Qué hace la calculadora",
+    "calcTitle": "Hace que un número familiar sea más fácil de imaginar.",
+    "calcParagraphs": [
+      "Introduce un número medio de horas diarias de tiempo de pantalla. Klippy calcula los totales semanales, mensuales y anuales correspondientes y estima cómo se vería ese ritmo entre tu edad actual y los 75 años.",
+      "La calculadora no sabe qué apps usas, a qué te dedicas ni si el tiempo en el móvil es placentero, necesario o una distracción. Trata cada hora por igual. Es intencionado. Es una herramienta simple para tomar conciencia, no una puntuación ni un diagnóstico.",
+      "Si el resultado te parece alto, la siguiente pregunta no es necesariamente cómo eliminar todo ese tiempo. Una pregunta mejor es qué parte te resulta automática, no planificada o difícil de parar una vez que empieza."
+    ],
+    "calcCta": "Usar la calculadora de tiempo de pantalla",
+    "faqEyebrow": "Preguntas frecuentes",
+    "faqTitle": "Un límite pequeño también puede importar.",
+    "faqs": [
+      {
+        "question": "¿Necesito crear una cuenta?",
+        "answer": "No. Las herramientas de Klippy están pensadas para funcionar al momento en tu navegador. La calculadora no requiere registro ni pago."
+      },
+      {
+        "question": "¿Klippy lee la actividad de mi móvil?",
+        "answer": "No. Solo utiliza el número que escribes en la calculadora. No se conecta a tu iPhone ni recopila un desglose por apps."
+      },
+      {
+        "question": "¿Qué hago después de ver mi resultado?",
+        "answer": "Busca un patrón claro. Puede ser una app que consultas en el trabajo, un feed que abres en la cama o un hábito que aparece cada vez que estás esperando algo."
+      },
+      {
+        "question": "¿Y si sigo necesitando la mayor parte del móvil?",
+        "answer": "Es normal. Un límite útil no tiene por qué dejar todo tu móvil inaccesible. Empieza por las pocas apps o momentos que causan el problema."
+      }
+    ],
+    "fellaEyebrow": "Cuando unas pocas apps son el problema",
+    "fellaTitle": "Fella mantiene bloqueadas por defecto las apps que te distraen en el iPhone que selecciones, mientras que las apps que dejas sin seleccionar pueden seguir disponibles.",
+    "fellaCopy": "Es un paso distinto a calcular tu tiempo de pantalla. Puede ser útil cuando ya has identificado las apps que quieres que sean menos automáticas.",
+    "fellaCta": "Descubrir Fella"
+  },
+  "calculator": {
+    "metaTitle": "Calculadora de Tiempo de Pantalla — Ve tu tiempo de móvil por semana, año y hasta los 75 años",
+    "metaDescription": "Calculadora gratuita de tiempo de pantalla: introduce tus horas diarias y tu edad para ver totales semanales, anuales y de por vida. Privada, sin registro, funciona en tu navegador.",
+    "eyebrow": "Calculadora gratuita de tiempo de pantalla",
+    "h1": "Ve cómo se acumula tu tiempo de pantalla.",
+    "lead": "Introduce tu tiempo medio diario de pantalla. Obtén una visión sencilla de las horas, días y años que puede sumar — y luego elige un pequeño cambio para probar.",
+    "inputLabel": "Tiempo medio diario de pantalla",
+    "reduceAria": "Reducir tiempo de pantalla",
+    "increaseAria": "Aumentar tiempo de pantalla",
+    "help": "Consulta Ajustes → Tiempo de uso en tu iPhone si no sabes qué poner. Usa un día típico, no tu mejor ni tu peor día.",
+    "ageLabel": "Tu edad",
+    "ageHelp": "Solo se usa para estimar el tiempo de pantalla desde ahora hasta los 75 años. No se guarda nada.",
+    "calcCta": "Calcular mi tiempo",
+    "results": {
+      "everyWeek": "Cada semana",
+      "everyMonth": "Cada mes",
+      "everyYear": "Cada año",
+      "fullDays": "Días completos al año"
+    },
+    "atThisRate": "A este ritmo",
+    "atThisRateValue": "Unos {years} años de tiempo de pantalla desde ahora hasta los 75.",
+    "atThisRateCopy": "Esta estimación cuenta cada hora por igual. Es una herramienta aproximada para tomar conciencia, no un juicio sobre cómo usas el móvil.",
+    "wakingLabel": "Porcentaje de un día despierto de 16 horas",
+    "smallReductionTitle": "Una pequeña reducción suma mucho",
+    "smallReductionCopy": "Una hora menos al día ahorra unos {days} días completos al año.",
+    "smallReductionDesc": "No tienes que eliminar todas las pantallas. Empieza por la app o el momento que se convierte en una sesión no planificada.",
+    "fellaTitle": "Si unas pocas apps son el problema",
+    "fellaCopyTitle": "Fella puede bloquear las apps seleccionadas que te hacen volver una y otra vez.",
+    "fellaCopy": "Las apps que dejes sin seleccionar pueden seguir disponibles, así que tu móvil útil sigue siendo útil.",
+    "fellaCta": "Ver Fella en el App Store",
+    "faqTitle": "Preguntas frecuentes sobre la calculadora de tiempo de pantalla",
+    "axisLabels": {
+      "zero": "0 h",
+      "middle": "8 h",
+      "max": "16 h"
+    },
+    "faqs": [
+      {
+        "question": "¿Cómo se calcula la estimación?",
+        "answer": "Multiplicamos tu media diaria por 7, por 30,44 y por 365 para semana/mes/año, y por los años que te quedan hasta los 75 para la vista de por vida. Dividimos las horas anuales entre 24 para obtener los días completos."
+      },
+      {
+        "question": "¿Esta herramienta rastrea mi iPhone?",
+        "answer": "No. El cálculo se hace en tu navegador con el número que introduces. Nada se conecta a tu móvil ni lo guarda Klippy."
+      },
+      {
+        "question": "¿Dónde encuentro mi tiempo de pantalla en el iPhone?",
+        "answer": "Abre Ajustes → Tiempo de uso → Ver toda la actividad de apps y webs. Cambia entre Día y Semana para encontrar una media diaria típica."
+      },
+      {
+        "question": "¿Qué hago con el resultado?",
+        "answer": "Busca el tiempo menos intencional — un feed que abres mientras esperas, un juego que usas para evitar una tarea o el scroll nocturno — y prueba un pequeño límite ahí."
+      }
+    ]
+  },
+  "seoPages": {
+    "screen-time-by-age-calculator": {
+      "title": "Calculadora de Tiempo de Pantalla por Edad — ¿Cuánto hasta los 75? | Klippy",
+      "description": "Descubre cuánto se acumula tu tiempo de pantalla diario desde tu edad actual hasta los 75. Introduce tus horas diarias y tu edad para una estimación privada e instantánea.",
+      "eyebrow": "Calculadora de tiempo de pantalla por edad",
+      "h1": "Ve cuánto se acumula tu tiempo de pantalla desde ahora hasta los 75.",
+      "lead": "Una media diaria se ve distinta junto a los años que tienes por delante. Introduce tu edad y tu tiempo de pantalla diario para una estimación sencilla y privada — y luego elige un hábito para probar.",
+      "answer": "Klippy multiplica tu media diaria por los años que te quedan hasta los 75. Cuenta cada hora por igual, así que tómatelo como un punto de partida para tomar conciencia, no como una puntuación.",
+      "sections": [
+        {
+          "title": "Por qué ayuda verlo por edad",
+          "paragraphs": [
+            "El mismo hábito diario tiene más tiempo para repetirse cuando eres más joven. Ver el total hasta los 75 hace que una rutina abstracta se vuelva concreta sin necesidad de volverla alarmante.",
+            "Una vez que ves el total, puedes hacerte una pregunta más acotada: ¿hay una app, una hora del día o un disparador que genera la mayor parte del tiempo automático? Un pequeño límite ahí es más fácil de mantener que una restricción general."
+          ]
+        },
+        {
+          "title": "Haz que sea útil, no un juicio",
+          "paragraphs": [
+            "La calculadora no sabe qué horas son de trabajo, familia, aprendizaje o descanso. Usa el número para separar el uso del móvil que valoras de las consultas que ocurren sin un motivo claro.",
+            "Si el resultado te sorprende, empieza por el tiempo menos intencional. Conserva la parte útil de tu móvil y añade fricción solo donde empieza la consulta automática. Ver también: tiempo de pantalla en días completos y cómo encontrar tu media en el iPhone."
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "title": "Consulta tu media diaria",
+          "copy": "Abre Ajustes → Tiempo de uso → Ver toda la actividad y usa un número diario típico."
+        },
+        {
+          "title": "Introduce tu edad",
+          "copy": "Solo se usa para la estimación hasta los 75. No se guarda nada."
+        },
+        {
+          "title": "Elige un pequeño cambio",
+          "copy": "Elige una app o un momento que te resulte automático, no todo a la vez."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "¿Es exacta la estimación?",
+          "answer": "No. Es un cálculo sencillo a partir del número diario que introduces, multiplicado por los años hasta los 75. Úsala para tomar conciencia, no como una previsión precisa."
+        },
+        {
+          "question": "¿Klippy ve los datos de mi móvil?",
+          "answer": "No. La herramienta funciona en tu navegador y nunca se conecta a tu iPhone."
+        },
+        {
+          "question": "¿Qué puedo probar después?",
+          "answer": "Prueba un límite durante una semana — por ejemplo, sin feed social en la cama, o notificaciones más silenciosas durante el trabajo — y quédate con lo que te ayude."
+        }
+      ]
+    },
+    "screen-time-in-days": {
+      "title": "Tiempo de Pantalla en Días — Convierte horas en días completos de 24 horas | Klippy",
+      "description": "Convierte tu tiempo de pantalla diario en días completos por semana, mes y año. Ve las horas anuales como días de 24 horas — gratis y privado.",
+      "eyebrow": "Tiempo de pantalla en días",
+      "h1": "Convierte tu tiempo de pantalla en días completos.",
+      "lead": "Las horas repartidas a lo largo del día pueden parecer poca cosa. Klippy convierte tu media diaria en días completos de 24 horas al año para que el equilibrio sea más fácil de imaginar.",
+      "answer": "Multiplicamos tus horas diarias por 365 para obtener las horas anuales y luego dividimos entre 24. Así obtenemos el equivalente en días completos. El cálculo es instantáneo en tu navegador.",
+      "sections": [
+        {
+          "title": "Por qué los días completos son más fáciles de imaginar",
+          "paragraphs": [
+            "Cuatro horas al día suenan a poco hasta que ves que son más de 60 días completos al año. La vista en días replantea el mismo tiempo sin calificarlo como perdido.",
+            "Esos días incluyen trabajo, mapas, mensajes, aprendizaje y descanso. No se trata de etiquetar todo el tiempo de pantalla como malo, sino de ver el total para que puedas elegir qué parte cambiar. Prueba la vista por edad si quieres la perspectiva a más largo plazo."
+          ]
+        },
+        {
+          "title": "Si el número te sorprende",
+          "paragraphs": [
+            "Empieza por el tiempo menos intencional: un feed que abres mientras esperas, un juego que usas para evitar una tarea o el scroll nocturno que se alarga.",
+            "Prueba el límite más pequeño que encaje en tu día. Mantén las apps esenciales disponibles y cambia solo el momento que genera más fricción. Las formas prácticas de reducirlo en iPhone pueden ayudarte."
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "title": "Encuentra tu media",
+          "copy": "Usa la media diaria en Tiempo de uso del iPhone (vista Día/Semana)."
+        },
+        {
+          "title": "Ve el total anual",
+          "copy": "La calculadora muestra las horas y el equivalente en días de 24 horas."
+        },
+        {
+          "title": "Elige un experimento",
+          "copy": "Reduce una consulta automática en lugar de perseguir un número perfecto."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "¿Cómo se calculan los días completos?",
+          "answer": "Horas anuales ÷ 24. Por ejemplo, 4 h/día × 365 = 1460 h/año ÷ 24 ≈ 60,8 días completos."
+        },
+        {
+          "question": "¿Significa que el tiempo de pantalla es tiempo perdido?",
+          "answer": "No. La vista en días es un replanteamiento neutro. El trabajo, la familia y el descanso también pueden ocurrir en pantalla."
+        },
+        {
+          "question": "¿Puedo hacerlo para una sola app?",
+          "answer": "Sí. Introduce la media diaria de una sola app o categoría del desglose de Tiempo de uso."
+        }
+      ]
+    },
+    "phone-use-calculator": {
+      "title": "Calculadora de Uso del Móvil — De horas diarias a totales anuales | Klippy",
+      "description": "Descubre cómo se acumula tu tiempo diario con el móvil por semana, mes y año. Un solo número, totales instantáneos — sin registro.",
+      "eyebrow": "Calculadora de uso del móvil",
+      "h1": "Una calculadora sencilla para tu tiempo con el móvil.",
+      "lead": "Introduce una sola media diaria y vela como totales semanales, mensuales y anuales. Úsala para detectar la parte del uso del móvil que realmente te gustaría cambiar.",
+      "answer": "Klippy convierte tus horas diarias con el móvil en totales semanales (×7), mensuales (×30,44) y anuales (×365). Sin cuenta, sin rastreo — solo cálculo en tu navegador.",
+      "sections": [
+        {
+          "title": "Tu móvil no es una sola cosa",
+          "paragraphs": [
+            "Es mapa, cámara, mensajería, cartera y lugar para desconectar. Un solo total no puede decidir qué usos te importan.",
+            "Usa el total para preguntarte si el tiempo que sí quieres conservar está siendo desplazado por consultas que ocurren en piloto automático. Esa distinción es más útil que una única puntuación de tiempo de pantalla."
+          ]
+        },
+        {
+          "title": "Busca patrones antes que normas",
+          "paragraphs": [
+            "Fíjate en el disparador antes de que se abra la app: aburrimiento, una notificación, una pausa entre tareas o una tarea difícil que estás evitando.",
+            "Una norma que encaje con el disparador funciona mejor — notificaciones más silenciosas, una pantalla de inicio distinta o un límite alrededor de una sola app. Si quieres limitar sobre todo lo social, consulta tiempo en redes sociales y cómo limitarlo en iPhone."
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "title": "Introduce el uso diario del móvil",
+          "copy": "Usa un día típico, no tu mejor ni tu peor día."
+        },
+        {
+          "title": "Lee los totales",
+          "copy": "Revisa semana y año para ver el hábito a mayor escala."
+        },
+        {
+          "title": "Encuentra la parte que quieres cambiar",
+          "copy": "Separa el uso útil de las consultas que no planeaste."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "¿Es gratis?",
+          "answer": "Sí. Funciona en tu navegador sin cuenta ni pago."
+        },
+        {
+          "question": "¿Dónde encuentro mi media diaria?",
+          "answer": "Ajustes → Tiempo de uso → Ver toda la actividad de apps y webs. Usa la vista Día o Semana."
+        },
+        {
+          "question": "¿Puede ver mis apps?",
+          "answer": "No. Tú introduces el número; Klippy nunca se conecta a tu móvil."
+        }
+      ]
+    },
+    "social-media-time-calculator": {
+      "title": "Calculadora de Tiempo en Redes Sociales — Totales semanales, mensuales y anuales | Klippy",
+      "description": "Calcula tu tiempo en redes sociales por semana, mes y año. Introduce la media diaria de una app o de todas tus redes — privado e instantáneo.",
+      "eyebrow": "Calculadora de tiempo en redes sociales",
+      "h1": "Ve cómo se acumula tu tiempo en redes sociales.",
+      "lead": "Introduce tu media diaria en redes sociales y vela como totales semanales, mensuales y anuales. Conserva lo que valoras, cambia lo que te resulta automático.",
+      "answer": "Suma tus apps sociales en Tiempo de uso del iPhone, introduce la media diaria y Klippy la convierte en totales a más largo plazo. Úsalo para una sola app o para toda una categoría.",
+      "sections": [
+        {
+          "title": "Un total es más claro que una sensación",
+          "paragraphs": [
+            "Decir “paso demasiado tiempo en redes sociales” es difícil de llevar a la práctica. Un número — por ejemplo, 1,5 h/día ≈ 22 días completos al año — te da algo concreto sobre lo que reflexionar.",
+            "No todo eso es tiempo perdido; las redes también son cómo mucha gente trabaja, aprende y se mantiene en contacto. La pregunta útil es si el tiempo coincide con lo que tenías previsto."
+          ]
+        },
+        {
+          "title": "Haz que el siguiente paso sea concreto",
+          "paragraphs": [
+            "Elige una app en la que una consulta rápida se convierta en una sesión larga. Fíjate en cuándo la abres y qué estabas haciendo justo antes.",
+            "Si decides poner un límite, mantén las apps útiles abiertas y céntrate en las pocas que te hacen volver. Para opciones en iPhone, consulta cómo limitar redes sociales en iPhone y tiempo de pantalla vs bloqueador de apps."
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "title": "Abre el desglose",
+          "copy": "En Tiempo de uso, revisa la categoría Redes sociales o una sola app."
+        },
+        {
+          "title": "Introduce la media diaria",
+          "copy": "Usa una sola app o el total combinado."
+        },
+        {
+          "title": "Elige un límite",
+          "copy": "Empieza por la app que te resulte más automática."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "¿Puedo calcular una sola app?",
+          "answer": "Sí. Introduce la media de Instagram, TikTok, YouTube, etc., o un total combinado."
+        },
+        {
+          "question": "¿Klippy recopila mi uso de redes?",
+          "answer": "No. Nada se envía a Klippy ni a tus cuentas."
+        },
+        {
+          "question": "¿Y si lo necesito para trabajar?",
+          "answer": "Mantén el uso laboral y centra el límite en las consultas fuera de ese propósito."
+        }
+      ]
+    },
+    "how-to-check-screen-time-iphone": {
+      "title": "Cómo Ver el Tiempo de Pantalla en iPhone — Media diaria, semanal y por app | Klippy",
+      "description": "Cómo encontrar el tiempo de pantalla en iPhone: consulta la media diaria, el total semanal y el desglose por app, y luego úsalo en la calculadora de Klippy.",
+      "eyebrow": "Cómo ver el tiempo de pantalla en iPhone",
+      "h1": "Cómo encontrar tu tiempo de pantalla en iPhone.",
+      "lead": "Tu iPhone ya registra una media diaria, la tendencia semanal y el desglose por app. Aquí te explicamos dónde encontrarlo y qué número usar en la calculadora.",
+      "answer": "Ve a Ajustes → Tiempo de uso → Ver toda la actividad de apps y webs. Cambia entre Día y Semana para encontrar una media típica. El desglose por app está en la misma pantalla.",
+      "sections": [
+        {
+          "title": "Elige una semana típica, no un solo día",
+          "paragraphs": [
+            "Un solo día puede confundir: un viaje, una llamada larga o un fin de semana de uso intenso pueden distorsionarlo. La vista Semana suaviza esos valores atípicos.",
+            "Usa la media diaria que aparece arriba en la vista Semana. Es el dato más útil para la calculadora y para la vista en días."
+          ]
+        },
+        {
+          "title": "Revisa el desglose, no solo el total",
+          "paragraphs": [
+            "El total te dice cuánto; el desglose te dice dónde. Compara las apps que usas con intención con las que abres sin planearlo.",
+            "Esa diferencia te ayuda a elegir un siguiente paso realista en lugar de un objetivo genérico de “usar menos el móvil”."
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "title": "Abre Ajustes",
+          "copy": "Toca Tiempo de uso en la lista principal de Ajustes."
+        },
+        {
+          "title": "Abre Actividad de apps y webs",
+          "copy": "Elige Ver todo para ver Día/Semana y la lista por app."
+        },
+        {
+          "title": "Copia un número diario típico",
+          "copy": "Úsalo en la calculadora para ver los totales semanales y anuales."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "¿Puedo ver el tiempo de una sola app?",
+          "answer": "Sí. La lista de actividad muestra cada app y categoría; toca una app para ver su detalle diario y semanal."
+        },
+        {
+          "question": "¿Por qué no aparece Tiempo de uso?",
+          "answer": "Puede que esté desactivado. En Tiempo de uso, toca Activar y elige tu dispositivo."
+        },
+        {
+          "question": "¿Puedo usar el total semanal?",
+          "answer": "Sí. Divide el total semanal entre 7 para obtener una media diaria."
+        }
+      ]
+    },
+    "how-to-reduce-screen-time-iphone": {
+      "title": "Cómo Reducir el Tiempo de Pantalla en iPhone (sin bloquear de más) | Klippy",
+      "description": "Formas prácticas de reducir el tiempo de pantalla en iPhone: encuentra el disparador, silencia notificaciones, usa Enfoque o añade un límite para una sola app.",
+      "eyebrow": "Cómo reducir el tiempo de pantalla en iPhone",
+      "h1": "Reduce el tiempo de pantalla cambiando primero una cosa útil.",
+      "lead": "“Usar menos el móvil” es vago. Un cambio más pequeño — menos avisos, un horario de Enfoque o un límite para una sola app — es más fácil de mantener y más fácil de medir.",
+      "answer": "Empieza por tu desglose de Tiempo de uso, elige un disparador que se repita (notificaciones, aburrimiento, una hora del día) y aplica la herramienta correspondiente: silencia avisos, Enfoque, Límites de uso/Tiempo de inactividad o un bloqueador de apps seleccionadas para las pocas apps que se abren automáticamente.",
+      "sections": [
+        {
+          "title": "Elige un comportamiento, no solo un número",
+          "paragraphs": [
+            "“No abrir TikTok después de las 22:00” es más claro que “usar el móvil 1 h menos”. Lo primero apunta a un ajuste; lo segundo requiere fuerza de voluntad en el momento.",
+            "Una vez que el comportamiento es concreto, puedes dejar las apps útiles tal cual y aplicar la norma solo donde ocurre el problema."
+          ]
+        },
+        {
+          "title": "Haz que la configuración sea práctica",
+          "paragraphs": [
+            "Si una norma bloquea apps que necesitas, acabarás saltándotela. Céntrate en las 1 o 2 apps que generan la consulta automática.",
+            "Fíjate en qué hace que abandones la configuración — demasiado amplia, demasiado fácil de ignorar o centrada en el disparador equivocado. Ajusta eso, no tu motivación. Compara tiempo de pantalla vs bloqueador de apps para elegir la herramienta adecuada."
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "title": "Encuentra el momento que se repite",
+          "copy": "Usa Tiempo de uso para detectar un hábito (p. ej., trabajo, hora de dormir, ratos de espera)."
+        },
+        {
+          "title": "Elimina el disparador si puedes",
+          "copy": "Prueba los ajustes de notificaciones o Enfoque para las consultas provocadas por avisos."
+        },
+        {
+          "title": "Añade un límite si lo necesitas",
+          "copy": "Usa Límites de uso/Tiempo de inactividad o un bloqueador para la apertura automática."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "¿Debería usar Límites de uso?",
+          "answer": "Úsalos cuando un presupuesto de tiempo te ayude. Si la misma app se abre a horas aleatorias todo el día, un límite para apps seleccionadas suele encajar mejor."
+        },
+        {
+          "question": "¿Puedo mantener llamadas y mensajes?",
+          "answer": "Sí. Deja Teléfono, Mensajes y lo esencial fuera de cualquier restricción."
+        },
+        {
+          "question": "¿Cuál es el cambio útil más pequeño?",
+          "answer": "El que ataca un problema real sin hacer que el resto del móvil resulte incómodo."
+        }
+      ]
+    },
+    "how-to-limit-social-media-on-iphone": {
+      "title": "Cómo Limitar Redes Sociales en iPhone — Mantén lo esencial abierto | Klippy",
+      "description": "Limita las redes sociales en iPhone sin bloquear todo el móvil: avisos, Enfoque, Límites de uso, Tiempo de inactividad y bloqueadores de apps comparados.",
+      "eyebrow": "Limitar redes sociales en iPhone",
+      "h1": "Limita las redes sociales sin limitar todo tu móvil.",
+      "lead": "No necesitas una norma de todo o nada. Decide si quieres menos avisos, un presupuesto diario, una pausa programada o hacer que ciertas apps sean más difíciles de abrir.",
+      "answer": "Adapta la herramienta al disparador: notificaciones → silencia avisos/Enfoque; presupuesto de tiempo → Límites de uso; horario predecible → Tiempo de inactividad; aperturas automáticas repetidas → bloqueador de apps seleccionadas. Mantén las apps no seleccionadas disponibles.",
+      "sections": [
+        {
+          "title": "Herramientas distintas para problemas distintos",
+          "paragraphs": [
+            "Las notificaciones son un disparador, los Límites de uso son un presupuesto, el Tiempo de inactividad es un horario y un bloqueador de apps seleccionadas hace que esas apps no estén disponibles por defecto. No son intercambiables.",
+            "Si la misma app se abre sin notificación ni horario, el bloqueador suele ser más directo que un temporizador que puedes ampliar. Consulta cuándo ayuda cada uno en tiempo de pantalla vs bloqueador de apps."
+          ]
+        },
+        {
+          "title": "Conserva lo que necesitas",
+          "paragraphs": [
+            "Mapas, Mensajes, llamadas, banca y apps familiares rara vez necesitan formar parte de una norma sobre redes sociales.",
+            "Una norma acotada es más fácil de mantener porque cambia la app problemática sin hacer que cada tarea normal sea incómoda. Si dudas, empieza por ver cuánto tiempo real pasas en redes."
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "title": "Identifica la app problemática",
+          "copy": "Encuentra la que convierte una consulta rápida en una sesión larga."
+        },
+        {
+          "title": "Elige el ajuste adecuado",
+          "copy": "Decide deliberadamente entre avisos, límites, horario o bloqueador."
+        },
+        {
+          "title": "Mantén lo esencial abierto",
+          "copy": "Deja las apps útiles fuera de la norma."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "¿Puede Enfoque bloquear apps?",
+          "answer": "Enfoque reduce notificaciones y puede ocultar páginas de la pantalla de inicio, pero generalmente no impide abrir una app."
+        },
+        {
+          "question": "¿Puedo mantener Mensajes?",
+          "answer": "Sí. Con un enfoque de apps seleccionadas, las no seleccionadas siguen disponibles."
+        },
+        {
+          "question": "¿Y si lo necesito para trabajar?",
+          "answer": "Mantén el uso laboral y aplica el límite solo fuera de esos intervalos."
+        }
+      ]
+    },
+    "digital-detox-plan": {
+      "title": "Plan de Detox Digital — Un reinicio más pequeño que puedas mantener | Klippy",
+      "description": "Crea un plan de detox digital realista: elige un motivo, un disparador y un pequeño límite para probar durante una semana.",
+      "eyebrow": "Plan de detox digital",
+      "h1": "Un plan de detox digital que encaje en la vida real.",
+      "lead": "No necesitas borrarlo todo ni irte una semana fuera. Elige una parte de tu día que quieras recuperar y un disparador que quieras cambiar, y luego pruébalo.",
+      "answer": "Elige un motivo (p. ej., menos interrupciones en el trabajo, una noche más tranquila), un disparador (una app, una notificación o una franja horaria) y un límite que puedas mantener siete días. Luego revisa y ajusta.",
+      "sections": [
+        {
+          "title": "Evita la trampa del todo o nada",
+          "paragraphs": [
+            "Los detox amplios parecen decididos, pero a menudo fallan cuando sigues necesitando el móvil para el trabajo, la familia y los desplazamientos.",
+            "Una prueba acotada te da mejores datos. Si el problema es el scroll nocturno, cambia solo esa franja — no todas las apps todo el día. Consulta cómo dejar de consultar el móvil a cada rato para ideas sobre disparadores."
+          ]
+        },
+        {
+          "title": "Decide para qué quieres hacer hueco",
+          "paragraphs": [
+            "Un plan se mantiene mejor con un propósito claro: trabajo más concentrado, comidas más presentes o una forma más sencilla de desconectar por la noche.",
+            "Usa ese propósito para elegir el límite. Debería apoyar la vida que quieres, no convertirse en otra norma que te incomode."
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "title": "Elige un motivo",
+          "copy": "Ponle nombre a la parte de tu día que quieres proteger."
+        },
+        {
+          "title": "Elige un disparador",
+          "copy": "Elige la app, la notificación o el lugar que se interpone una y otra vez."
+        },
+        {
+          "title": "Prueba un límite",
+          "copy": "Que sea lo bastante pequeño para mantenerlo una semana real."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "¿Cuánto debería durar un detox?",
+          "answer": "Una prueba de una semana es más útil que un plan amplio que no puedas mantener. Alarga solo lo que te ayude."
+        },
+        {
+          "question": "¿Necesito borrar las redes sociales?",
+          "answer": "Normalmente no. Un límite alrededor de los momentos automáticos suele ser suficiente."
+        },
+        {
+          "question": "¿Y si necesito el móvil para trabajar?",
+          "answer": "Mantén las funciones de trabajo y centra el detox en las consultas que te distraen fuera de eso."
+        }
+      ]
+    },
+    "stop-checking-phone": {
+      "title": "Cómo Dejar de Mirar el Móvil a Cada Rato — El disparador antes de la consulta | Klippy",
+      "description": "Deja de mirar el móvil cambiando el disparador: avisos, aburrimiento o bucles de hábito. Pasos prácticos que puedes probar hoy.",
+      "eyebrow": "Dejar de mirar el móvil a cada rato",
+      "h1": "Deja de mirarlo cambiando el momento justo antes.",
+      "lead": "La mayoría de consultas no son una decisión de usar el móvil. Son un gesto automático durante una pausa, una notificación o un momento de aburrimiento — y ese disparador se puede cambiar.",
+      "answer": "Detecta el disparador y luego cambia lo que lo rodea: silencia los avisos que lo provocan, haz que la app sea un poco más difícil de abrir o pon una acción alternativa más útil en el mismo sitio.",
+      "sections": [
+        {
+          "title": "Una consulta suele ser un bucle, no una elección",
+          "paragraphs": [
+            "La mano se mueve antes de que hayas decidido qué quieres del móvil. Por eso la fuerza de voluntad en el momento resulta tan difícil.",
+            "Crea una pequeña pausa cambiando el disparador, el acceso o el entorno — lo justo para poder elegir, sin depender de un control perfecto."
+          ]
+        },
+        {
+          "title": "Haz que la acción mejor sea más fácil",
+          "paragraphs": [
+            "Si consultas mientras esperas, deja ahí un libro o una libreta. Si consultas en la cama, carga el móvil fuera del dormitorio. Haz que la alternativa sea tan accesible como el viejo hábito.",
+            "Si una sola app es el destino habitual, un límite para apps seleccionadas puede hacer que esa apertura automática sea menos cómoda mientras todo lo demás sigue abierto. Compara herramientas en tiempo de pantalla vs bloqueador de apps."
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "title": "Detecta el disparador",
+          "copy": "¿Qué hora, emoción o notificación aparece justo antes del gesto?"
+        },
+        {
+          "title": "Cambia una parte del bucle",
+          "copy": "Silencia el aviso, mueve la app o añade distancia."
+        },
+        {
+          "title": "Revisa el resultado real",
+          "copy": "Quédate con lo que ayuda, ajusta lo que hace la vida más difícil."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "¿Por qué miro el móvil sin ninguna notificación?",
+          "answer": "Consultar puede convertirse en una respuesta aprendida a pausas, estrés o aburrimiento — no solo a avisos."
+        },
+        {
+          "question": "¿Debería desactivar todas las notificaciones?",
+          "answer": "Empieza por las pocas que te arrastran a consultas no deseadas; conserva las útiles."
+        },
+        {
+          "question": "¿Puede ayudar un bloqueador?",
+          "answer": "Sí, cuando las mismas 1 o 2 apps son el destino repetido."
+        }
+      ]
+    },
+    "screen-time-vs-app-blocker": {
+      "title": "Tiempo de Pantalla vs Bloqueador de Apps — ¿Qué herramienta de iPhone encaja con tu hábito? | Klippy",
+      "description": "Límites de uso y Tiempo de inactividad de Tiempo de uso vs Enfoque vs bloqueador de apps seleccionadas. Descubre qué herramienta de iPhone encaja con tu disparador.",
+      "eyebrow": "Tiempo de pantalla vs bloqueador de apps",
+      "h1": "Tiempo de uso y los bloqueadores de apps resuelven problemas distintos.",
+      "lead": "Límites de uso, Tiempo de inactividad, Enfoque y un bloqueador de apps seleccionadas suelen confundirse. La elección correcta depende de si necesitas un presupuesto, un horario, menos avisos o hacer que ciertas apps no estén disponibles por defecto.",
+      "answer": "Usa Tiempo de uso para informes, Límites de uso y Tiempo de inactividad; Enfoque para notificaciones y pantalla de inicio; un bloqueador de apps seleccionadas cuando unas pocas apps necesitan estar bloqueadas por defecto mientras el resto del móvil sigue siendo útil.",
+      "sections": [
+        {
+          "title": "Cuándo encaja bien Tiempo de uso",
+          "paragraphs": [
+            "Los Límites de uso establecen un presupuesto diario, el Tiempo de inactividad marca un horario y Tiempo de uso muestra a dónde va tu tiempo. Genial para tomar conciencia, presupuestos y franjas predecibles.",
+            "Para aperturas automáticas y aleatorias de las mismas 1 o 2 apps, un presupuesto de tiempo puede ser fácil de ampliar — un bloqueo por defecto es más directo."
+          ]
+        },
+        {
+          "title": "Cuándo encaja bien un límite para apps seleccionadas",
+          "paragraphs": [
+            "Un bloqueador pregunta: ¿qué apps instaladas crean el problema y puede el resto seguir siendo útil? Fella mantiene bloqueadas por defecto las apps que selecciones; las no seleccionadas siguen disponibles.",
+            "No es un bloqueador de webs ni un sistema MDM. Es un límite acotado para el hábito que identificaste en cómo reducirlo o en tu plan de detox."
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "title": "Ponle nombre al problema",
+          "copy": "¿Avisos, total diario, horario o aperturas automáticas repetidas?"
+        },
+        {
+          "title": "Elige la herramienta correspondiente",
+          "copy": "Enfoque, Límites de uso/Tiempo de inactividad o bloqueador."
+        },
+        {
+          "title": "Mantenlo acotado",
+          "copy": "Deja las apps útiles disponibles."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "¿Puede Tiempo de uso bloquear apps?",
+          "answer": "Tiene Límites de uso y Tiempo de inactividad. Úsalos para presupuestos/horarios; un bloqueador es para apps seleccionadas no disponibles por defecto."
+        },
+        {
+          "question": "¿Enfoque bloquea apps?",
+          "answer": "Enfoque silencia notificaciones y puede ocultar páginas, pero generalmente no bloquea la apertura de una app."
+        },
+        {
+          "question": "¿Puedo mantener llamadas y mensajes?",
+          "answer": "Sí. Con un enfoque de apps seleccionadas, solo se bloquean las apps que selecciones."
+        }
+      ]
+    }
+  },
+  "guidePage": {
+    "shortAnswer": "La respuesta corta",
+    "nextStepEyebrow": "Un siguiente paso práctico",
+    "useCalculatorCta": "Usar la calculadora de tiempo de pantalla",
+    "faqTitle": "Preguntas frecuentes"
+  },
+  "notFound": {
+    "title": "Página no encontrada",
+    "description": "La página que buscas no existe."
+  }
+}

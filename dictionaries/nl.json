@@ -1,0 +1,778 @@
+{
+  "site": {
+    "name": "Klippy",
+    "title": "Klippy | Gratis tools voor een rustigere telefoon",
+    "description": "Eenvoudige, gratis tools om de telefoongewoontes die je steeds weer terugtrekken te veranderen."
+  },
+  "header": {
+    "howItWorks": "Hoe het werkt",
+    "guides": "Gidsen",
+    "about": "Over ons",
+    "calculator": "Rekenmachine",
+    "tryFella": "Probeer Fella",
+    "homeAria": "Klippy startpagina"
+  },
+  "footer": {
+    "privacy": "Privacy",
+    "terms": "Voorwaarden",
+    "support": "Ondersteuning",
+    "builtByFella": "Gemaakt door Fella",
+    "guidesLabel": "Gidsen",
+    "guidesAria": "Gidsen over schermtijd"
+  },
+  "guides": [
+    {
+      "label": "Schermtijd per leeftijd",
+      "slug": "screen-time-by-age-calculator"
+    },
+    {
+      "label": "Schermtijd in dagen",
+      "slug": "screen-time-in-days"
+    },
+    {
+      "label": "Telefoongebruik-calculator",
+      "slug": "phone-use-calculator"
+    },
+    {
+      "label": "Tijd op sociale media",
+      "slug": "social-media-time-calculator"
+    },
+    {
+      "label": "Schermtijd bekijken op iPhone",
+      "slug": "how-to-check-screen-time-iphone"
+    },
+    {
+      "label": "Schermtijd verminderen op iPhone",
+      "slug": "how-to-reduce-screen-time-iphone"
+    },
+    {
+      "label": "Sociale media beperken op iPhone",
+      "slug": "how-to-limit-social-media-on-iphone"
+    },
+    {
+      "label": "Digitale detox-plan",
+      "slug": "digital-detox-plan"
+    },
+    {
+      "label": "Stoppen met je telefoon checken",
+      "slug": "stop-checking-phone"
+    },
+    {
+      "label": "Schermtijd vs app-blokkering",
+      "slug": "screen-time-vs-app-blocker"
+    }
+  ],
+  "home": {
+    "title": "Maak je telefoon\nmakkelijker weg te leggen.",
+    "lead": "Een gratis tool om de telefoongewoonte te vinden die je steeds weer terugtrekt. Kies daarna een kleinere grens die echt bij je dag past.",
+    "cta": "Probeer de gratis tool",
+    "sub": "Geen account. Geen download. Gewoon een nuttig begin.",
+    "howItWorksAria": "Hoe het werkt",
+    "steps": [
+      {
+        "number": "01",
+        "title": "Benoem het moment",
+        "description": "Een concrete gewoonte is makkelijker te veranderen dan het vage doel om minder op je telefoon te zitten."
+      },
+      {
+        "number": "02",
+        "title": "Kies een kleinere grens",
+        "description": "Houd de apps die je nodig hebt. Voeg alleen wrijving toe waar het automatisch checken begint."
+      },
+      {
+        "number": "03",
+        "title": "Probeer het in het echt",
+        "description": "Gebruik het resultaat als praktisch startpunt en pas het aan je echte dag aan."
+      }
+    ],
+    "aboutEyebrow": "Een rustigere telefoon begint klein.",
+    "aboutTitle": "Je hoeft niet je hele digitale leven te wissen.",
+    "aboutCopy": "Klippy verkent eenvoudige gratis tools die je helpen de paar apps en momenten te vinden die het eerst de moeite waard zijn om te veranderen.",
+    "aboutCta": "Ontdek Fella"
+  },
+  "about": {
+    "metaTitle": "Over Klippy — Kleine tools voor een rustigere telefoon",
+    "metaDescription": "Klippy maakt gratis, privé tools die je helpen je telefoongewoontes helder te zien en een kleine, realistische volgende stap te kiezen.",
+    "eyebrow": "Over Klippy",
+    "h1": "Kleine tools voor een telefoon die nuttiger voelt.",
+    "lead": "Klippy is voor mensen die een telefoongewoonte willen veranderen zonder er een fulltime project van te maken. De tools beginnen met een eenvoudige vraag en mikken op één nuttig antwoord.",
+    "whyEyebrow": "Waarom Klippy bestaat",
+    "whyTitle": "De meeste telefoonadviezen vragen te veel, te vroeg.",
+    "whyParagraphs": [
+      "Het is makkelijk te zeggen dat je minder op je telefoon moet zitten. Veel moeilijker is om te bepalen wat dat betekent op een normale dag waarop je telefoon ook is hoe je met mensen praat, de weg vindt, betaalt, werkt, leert en ontspant.",
+      "Klippy vertrekt vanuit een nauwere blik. Sommige dingen op je telefoon zijn nuttig. Sommige apps of momenten trekken je misschien in een gewoonte die je niet bewust hebt gekozen. Dat zijn verschillende problemen en ze verdienen verschillende antwoorden.",
+      "Het doel is niet om technologie als moreel falen te laten voelen. Het is om de afwegingen zichtbaarder te maken zodat je zelf kunt beslissen wat de moeite waard is om te veranderen."
+    ],
+    "values": [
+      {
+        "title": "Eerst gratis",
+        "copy": "Een resultaat hoort niet achter een aanmeldformulier te zitten. Klippy-tools werken zonder account, betaling of installatie van een app."
+      },
+      {
+        "title": "Standaard privé",
+        "copy": "De schermtijd-calculator werkt met de waarden die je in je browser invoert. Hij maakt geen verbinding met je iPhone en heeft je privé activiteitsgegevens niet nodig."
+      },
+      {
+        "title": "Nuttig zonder opdringerige verkoop",
+        "copy": "Een tool moet op zichzelf staan. Als daarna een ander product echt nuttig blijkt, moet die volgende stap logisch en optioneel zijn."
+      }
+    ],
+    "nextEyebrow": "Wat er hierna komt",
+    "nextTitle": "Begin met een eerlijk beeld van de gewoonte.",
+    "nextParagraphs": [
+      "De eerste tool van Klippy is een schermtijd-calculator. Hij zet een gemiddeld dagcijfer om in totalen die je kunt zien per week, per jaar en over een langere periode. Hij kan je niet vertellen welke uren het waard zijn om te houden. Hij kan je wel een duidelijker startpunt geven om dat zelf te beslissen.",
+      "Toekomstige tools volgen hetzelfde principe. Ze moeten eenvoudig genoeg zijn om in een minuut te gebruiken en concreet genoeg om te helpen bij een echte keuze. Geen generieke score. Geen belofte dat één instelling alles oplost."
+    ],
+    "nextCta": "Gebruik de schermtijd-calculator",
+    "fellaEyebrow": "Gebouwd met Fella",
+    "fellaTitle": "Wanneer het antwoord een sterkere grens om een paar apps is, is Fella er voor die volgende stap.",
+    "fellaCopy": "Fella is een iPhone app-blokkering voor geselecteerde afleidende apps. Apps die je niet selecteert kunnen beschikbaar blijven, dus de nuttige delen van je telefoon vallen niet binnen de grens tenzij je dat zelf kiest.",
+    "fellaCta": "Ontdek Fella"
+  },
+  "howItWorks": {
+    "metaTitle": "Hoe Klippy werkt — Begin bij de gewoonte, niet bij een reset",
+    "metaDescription": "Hoe Klippy werkt: gratis, privé browser-tools die een dagelijks telefooncijfer omzetten in een nuttige volgende stap — geen account, geen tracking.",
+    "eyebrow": "Hoe het werkt",
+    "h1": "Begin bij de gewoonte, niet bij een grote reset.",
+    "lead": "Klippy maakt eenvoudige gratis tools om op een praktischere manier naar telefoongewoontes te kijken. Het gaat er niet om elk schermminuutje slecht te laten voelen. Het gaat erom de momenten op te merken die bijna zonder nadenken gebeuren en te beslissen of ze nog bij je passen.",
+    "ideaEyebrow": "Het basisidee",
+    "ideaTitle": "Een nuttig antwoord moet helder zijn voordat het iets van je vraagt.",
+    "ideaCopy": "Daarom draaien Klippy-tools in je browser. Er is geen account om aan te maken, geen betaalscherm om het resultaat te zien en geen verbinding met je privé telefoongegevens. Je vult een kleine hoeveelheid informatie in en krijgt een concrete manier om erover na te denken.",
+    "steps": [
+      {
+        "number": "01",
+        "title": "Kijk naar één moment",
+        "copy": "Begin met een specifieke app, tijdstip of situatie. Een feed checken in bed is makkelijker te begrijpen dan een breed plan om minder op je telefoon te zitten."
+      },
+      {
+        "number": "02",
+        "title": "Maak het getal nuttig",
+        "copy": "De schermtijd-calculator zet een gemiddeld dagcijfer om in wekelijkse, jaarlijkse en langetermijntotalen. De rekensom is simpel. Het op één plek zien kan de afweging makkelijker zichtbaar maken."
+      },
+      {
+        "number": "03",
+        "title": "Kies de kleinste volgende stap",
+        "copy": "Misschien laat je alles zoals het is. Misschien verplaats je een app, demp je een signaal of maak je één afleiding iets moeilijker te openen. De nuttige verandering is degene die past bij je echte dag."
+      }
+    ],
+    "calcEyebrow": "Wat de calculator doet",
+    "calcTitle": "Hij maakt een vertrouwd getal beter voor te stellen.",
+    "calcParagraphs": [
+      "Voer een gemiddeld aantal dagelijkse schermtijduren in. Klippy berekent de bijbehorende wekelijkse, maandelijkse en jaarlijkse totalen en schat hoe dat tempo eruitziet tussen je huidige leeftijd en 75 jaar.",
+      "De calculator weet niet welke apps je gebruikt, wat je voor werk doet of of tijd op je telefoon plezierig, noodzakelijk of afleidend is. Hij behandelt elk uur hetzelfde. Dat is expres. Het is een eenvoudig hulpmiddel om je bewust te worden, geen score of diagnose.",
+      "Als het resultaat hoog voelt, is de volgende vraag niet per se hoe je al die tijd kunt schrappen. Een betere vraag is welk deel ervan automatisch, ongepland of moeilijk te stoppen voelt zodra het begonnen is."
+    ],
+    "calcCta": "Gebruik de schermtijd-calculator",
+    "faqEyebrow": "Vragen die mensen vaak hebben",
+    "faqTitle": "Een kleinere grens kan al verschil maken.",
+    "faqs": [
+      {
+        "question": "Moet ik een account aanmaken?",
+        "answer": "Nee. Klippy-tools werken direct in je browser. De calculator vraagt geen registratie of betaling."
+      },
+      {
+        "question": "Leest Klippy mijn telefoonactiviteit?",
+        "answer": "Nee. Hij gebruikt alleen het getal dat je in de calculator invoert. Hij maakt geen verbinding met je iPhone en verzamelt geen overzicht per app."
+      },
+      {
+        "question": "Wat moet ik doen nadat ik mijn resultaat heb gezien?",
+        "answer": "Zoek naar één duidelijk patroon. Misschien is het een app die je tijdens je werk checkt, een feed die je in bed opent of een gewoonte die start telkens wanneer je ergens op wacht."
+      },
+      {
+        "question": "Wat als ik het grootste deel van mijn telefoon nog nodig heb?",
+        "answer": "Dat is normaal. Een nuttige grens hoeft niet je hele telefoon onbeschikbaar te maken. Begin met de paar apps of momenten die het probleem veroorzaken."
+      }
+    ],
+    "fellaEyebrow": "Wanneer een paar apps het probleem zijn",
+    "fellaTitle": "Fella houdt geselecteerde afleidende iPhone-apps standaard geblokkeerd terwijl apps die je niet selecteert beschikbaar kunnen blijven.",
+    "fellaCopy": "Het is een andere stap dan je schermtijd berekenen. Het kan nuttig zijn wanneer je al hebt bepaald welke apps je minder automatisch wilt maken.",
+    "fellaCta": "Ontdek Fella"
+  },
+  "calculator": {
+    "metaTitle": "Schermtijd-calculator — Bekijk je telefoontijd per week, jaar en tot 75 jaar",
+    "metaDescription": "Gratis schermtijd-calculator: voer dagelijkse uren en leeftijd in en zie wekelijkse, jaarlijkse en lifetime totalen. Privé, geen login, draait in je browser.",
+    "eyebrow": "Gratis schermtijd-calculator",
+    "h1": "Zie hoe je telefoontijd zich opstapelt.",
+    "lead": "Voer je gemiddelde dagelijkse schermtijd in. Krijg een eenvoudig overzicht van de uren, dagen en jaren die het kan worden — en kies daarna één kleine verandering om te testen.",
+    "inputLabel": "Gemiddelde dagelijkse schermtijd",
+    "reduceAria": "Schermtijd verlagen",
+    "increaseAria": "Schermtijd verhogen",
+    "help": "Kijk bij Instellingen → Schermtijd op je iPhone als je niet zeker weet wat je moet invullen. Gebruik een typische dag, niet je beste of slechtste.",
+    "ageLabel": "Je leeftijd",
+    "ageHelp": "Wordt alleen gebruikt om schermtijd te schatten van nu tot 75 jaar. Er wordt niets opgeslagen.",
+    "calcCta": "Bereken mijn tijd",
+    "results": {
+      "everyWeek": "Elke week",
+      "everyMonth": "Elke maand",
+      "everyYear": "Elk jaar",
+      "fullDays": "Volledige dagen per jaar"
+    },
+    "atThisRate": "In dit tempo",
+    "atThisRateValue": "Ongeveer {years} jaar schermtijd van nu tot 75 jaar.",
+    "atThisRateCopy": "Die schatting telt elk uur even zwaar. Het is een grof hulpmiddel om je bewust te worden, geen oordeel over hoe je je telefoon gebruikt.",
+    "wakingLabel": "Aandeel van een wakkere dag van 16 uur",
+    "smallReductionTitle": "Een kleine vermindering telt op",
+    "smallReductionCopy": "Een uur minder per dag bespaart ongeveer {days} volledige dagen per jaar.",
+    "smallReductionDesc": "Je hoeft niet elk scherm te schrappen. Begin met die ene app of dat ene moment dat uitloopt in een ongeplande sessie.",
+    "fellaTitle": "Als een paar apps het probleem zijn",
+    "fellaCopyTitle": "Fella kan de geselecteerde apps blokkeren die je steeds weer terugtrekken.",
+    "fellaCopy": "Apps die je niet selecteert kunnen beschikbaar blijven, dus je nuttige telefoon blijft nuttig.",
+    "fellaCta": "Bekijk Fella in de App Store",
+    "faqTitle": "Veelgestelde vragen over de schermtijd-calculator",
+    "axisLabels": {
+      "zero": "0u",
+      "middle": "8u",
+      "max": "16u"
+    },
+    "faqs": [
+      {
+        "question": "Hoe wordt de schatting berekend?",
+        "answer": "We vermenigvuldigen je daggemiddelde met 7, 30,44 en 365 voor week/maand/jaar, en met de jaren van je leeftijd tot 75 voor het lifetime-overzicht. Deel de jaarlijkse uren door 24 voor volledige dagen."
+      },
+      {
+        "question": "Volgt deze tool mijn iPhone?",
+        "answer": "Nee. De berekening gebeurt in je browser met het getal dat je invoert. Er wordt niets verbonden met je telefoon of opgeslagen door Klippy."
+      },
+      {
+        "question": "Waar vind ik mijn schermtijd op de iPhone?",
+        "answer": "Open Instellingen → Schermtijd → Bekijk alle app- en websiteactiviteit. Wissel tussen Dag en Week om een typisch daggemiddelde te vinden."
+      },
+      {
+        "question": "Wat moet ik met het resultaat doen?",
+        "answer": "Zoek naar de minst bewuste tijd — een feed die je opent tijdens het wachten, een game om een taak te vermijden of laat scrollen ’s avonds — en test daar één kleine grens."
+      }
+    ]
+  },
+  "seoPages": {
+    "screen-time-by-age-calculator": {
+      "title": "Schermtijd per leeftijd calculator — Hoeveel van nu tot 75? | Klippy",
+      "description": "Zie hoeveel je dagelijkse schermtijd zich opstapelt van je huidige leeftijd tot 75 jaar. Voer dagelijkse uren en leeftijd in voor een privé, directe schatting.",
+      "eyebrow": "Schermtijd per leeftijd calculator",
+      "h1": "Zie wat je schermtijd bij elkaar opgeteld betekent van nu tot 75.",
+      "lead": "Een daggemiddelde ziet er anders uit naast de jaren die voor je liggen. Voer je leeftijd en dagelijkse schermtijd in voor een eenvoudige, privé schatting — en kies daarna één gewoonte om te testen.",
+      "answer": "Klippy vermenigvuldigt je daggemiddelde met de jaren van je huidige leeftijd tot 75. Elk uur telt even zwaar, dus zie het als startpunt om je bewust te worden, niet als score.",
+      "sections": [
+        {
+          "title": "Waarom het leeftijdsbeeld helpt",
+          "paragraphs": [
+            "Dezelfde dagelijkse gewoonte krijgt meer tijd om zich te herhalen wanneer je jonger bent. Het totaal tot 75 maakt een abstracte routine concreet zonder het alarmerend te hoeven maken.",
+            "Zodra je het totaal ziet, kun je een specifiekere vraag stellen: is er één app, tijdstip of trigger die het grootste deel van de automatische tijd veroorzaakt? Een kleine grens daar is makkelijker vol te houden dan een brede beperking."
+          ]
+        },
+        {
+          "title": "Maak het nuttig, niet veroordelend",
+          "paragraphs": [
+            "De calculator weet niet welke uren voor werk, familie, leren of ontspanning zijn. Gebruik het getal om het telefoongebruik dat je waardeert te scheiden van de checks die zonder duidelijke reden gebeuren.",
+            "Als het resultaat je verrast, begin met de minst bewuste tijd. Houd de nuttige delen van je telefoon en voeg alleen wrijving toe waar het automatische checken begint. Zie ook: schermtijd in volledige dagen en hoe je je gemiddelde vindt op iPhone."
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "title": "Check je daggemiddelde",
+          "copy": "Open Instellingen → Schermtijd → Bekijk alle activiteit en gebruik een typisch dagcijfer."
+        },
+        {
+          "title": "Voer je leeftijd in",
+          "copy": "Wordt alleen gebruikt voor de schatting tot 75. Er wordt niets opgeslagen."
+        },
+        {
+          "title": "Kies één kleine verandering",
+          "copy": "Kies één app of moment dat automatisch voelt, niet alles tegelijk."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Is de schatting exact?",
+          "answer": "Nee. Het is eenvoudige wiskunde op basis van het dagcijfer dat je invoert, vermenigvuldigd met de jaren tot 75. Gebruik het om je bewust te worden, niet als precieze voorspelling."
+        },
+        {
+          "question": "Ziet Klippy mijn telefoongegevens?",
+          "answer": "Nee. De tool draait in je browser en maakt nooit verbinding met je iPhone."
+        },
+        {
+          "question": "Wat kan ik hierna proberen?",
+          "answer": "Test één grens een week lang — bijvoorbeeld geen sociale feed in bed, of rustigere meldingen tijdens werk — en behoud wat helpt."
+        }
+      ]
+    },
+    "screen-time-in-days": {
+      "title": "Schermtijd in dagen — Zet uren om in volledige dagen van 24 uur | Klippy",
+      "description": "Zet dagelijkse schermtijd om in volledige dagen per week, maand en jaar. Bekijk jaarlijkse uren als dagen van 24 uur — gratis en privé.",
+      "eyebrow": "Schermtijd in dagen",
+      "h1": "Zet je schermtijd om in volledige dagen.",
+      "lead": "Uren verspreid over een dag kunnen gewoon lijken. Klippy zet je daggemiddelde om in volledige dagen van 24 uur per jaar zodat de afweging makkelijker voor te stellen is.",
+      "answer": "We vermenigvuldigen je dagelijkse uren met 365 voor de jaarlijkse uren en delen daarna door 24. Dat geeft het equivalent in volledige dagen. De berekening is direct in je browser.",
+      "sections": [
+        {
+          "title": "Waarom volledige dagen makkelijker voor te stellen zijn",
+          "paragraphs": [
+            "Vier uur per dag klinkt weinig tot je ziet dat het meer dan 60 volledige dagen per jaar is. Het dagbeeld plaatst dezelfde tijd in een ander kader zonder het verspild te noemen.",
+            "Die dagen omvatten werk, kaarten, berichten, leren en rust. Het gaat er niet om alle schermtijd als slecht te bestempelen, maar om het totaal te zien zodat je kunt kiezen welk deel je wilt veranderen. Probeer het leeftijdsbeeld als je het langetermijnplaatje wilt."
+          ]
+        },
+        {
+          "title": "Als het getal je verrast",
+          "paragraphs": [
+            "Begin met de minst bewuste tijd: een feed die je opent tijdens het wachten, een game om een taak te ontwijken of laat scrollen dat uitloopt.",
+            "Test de kleinste grens die bij je dag past. Houd essentiële apps beschikbaar en verander alleen het moment dat de meeste wrijving geeft. Praktische manieren om te minderen op iPhone kunnen helpen."
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "title": "Vind je gemiddelde",
+          "copy": "Gebruik het daggemiddelde in Schermtijd op iPhone (Dag/Week-weergave)."
+        },
+        {
+          "title": "Bekijk het jaartotaal",
+          "copy": "De calculator toont uren en het equivalent in dagen van 24 uur."
+        },
+        {
+          "title": "Kies één experiment",
+          "copy": "Verminder één automatische check in plaats van een perfect getal na te jagen."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Hoe worden volledige dagen berekend?",
+          "answer": "Jaarlijkse uren ÷ 24. Bijvoorbeeld 4u/dag × 365 = 1.460u/jaar ÷ 24 ≈ 60,8 volledige dagen."
+        },
+        {
+          "question": "Betekent dit dat schermtijd verspild is?",
+          "answer": "Nee. Het dagbeeld is een neutrale herformulering. Werk, familie en rust kunnen allemaal op een scherm gebeuren."
+        },
+        {
+          "question": "Kan ik dit voor één app doen?",
+          "answer": "Ja. Voer het daggemiddelde in voor één app of categorie uit het Schermtijd-overzicht."
+        }
+      ]
+    },
+    "phone-use-calculator": {
+      "title": "Telefoongebruik-calculator — Van dagelijks tot jaarlijks telefoongebruik | Klippy",
+      "description": "Zie hoe je dagelijkse telefoontijd zich opstapelt per week, maand en jaar. Eén getal, directe totalen — geen account nodig.",
+      "eyebrow": "Telefoongebruik-calculator",
+      "h1": "Een eenvoudige calculator voor je telefoontijd.",
+      "lead": "Voer één daggemiddelde in en zie het als wekelijkse, maandelijkse en jaarlijkse totalen. Gebruik het om het deel van je telefoongebruik te ontdekken dat je echt zou willen veranderen.",
+      "answer": "Klippy zet je dagelijkse telefoontijd om in wekelijkse (×7), maandelijkse (×30,44) en jaarlijkse (×365) totalen. Geen account, geen tracking — gewoon rekenen in je browser.",
+      "sections": [
+        {
+          "title": "Je telefoon is niet één ding",
+          "paragraphs": [
+            "Het is een kaart, camera, messenger, portemonnee en plek om te ontspannen. Eén totaal kan niet bepalen welke gebruiken voor jou belangrijk zijn.",
+            "Gebruik het totaal om te vragen of de tijd die je wilt houden wordt verdrongen door checks die op de automatische piloot gebeuren. Dat onderscheid is nuttiger dan één schermtijdscore."
+          ]
+        },
+        {
+          "title": "Zoek naar patronen voordat je regels maakt",
+          "paragraphs": [
+            "Let op de trigger voordat de app opengaat: verveling, een melding, een pauze tussen taken of een lastig stuk werk.",
+            "Een regel die bij de trigger past werkt beter — stillere meldingen, een ander beginscherm of een grens om één app. Als je vooral sociale media wilt beperken, zie tijd op sociale media en hoe je dat beperkt op iPhone."
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "title": "Voer dagelijks telefoongebruik in",
+          "copy": "Gebruik een typische dag, niet je beste of slechtste."
+        },
+        {
+          "title": "Lees de totalen",
+          "copy": "Check week en jaar om de gewoonte op grotere schaal te zien."
+        },
+        {
+          "title": "Vind het deel om te veranderen",
+          "copy": "Scheid nuttig gebruik van checks die je niet had gepland."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Is het gratis?",
+          "answer": "Ja. Het draait in je browser zonder account of betaling."
+        },
+        {
+          "question": "Waar vind ik mijn daggemiddelde?",
+          "answer": "Instellingen → Schermtijd → Bekijk alle app- en websiteactiviteit. Gebruik de Dag- of Weekweergave."
+        },
+        {
+          "question": "Kan het mijn apps zien?",
+          "answer": "Nee. Je voert het getal zelf in; Klippy maakt nooit verbinding met je telefoon."
+        }
+      ]
+    },
+    "social-media-time-calculator": {
+      "title": "Tijd op sociale media calculator — Wekelijkse, maandelijkse & jaarlijkse totalen | Klippy",
+      "description": "Bereken tijd op sociale media per week, maand en jaar. Voer het daggemiddelde in voor één app of alle sociale media — privé en direct.",
+      "eyebrow": "Tijd op sociale media calculator",
+      "h1": "Zie hoe je tijd op sociale media zich opstapelt.",
+      "lead": "Voer je dagelijkse gemiddelde voor sociale media in en zie het als wekelijkse, maandelijkse en jaarlijkse totalen. Houd wat je waardevol vindt, verander wat automatisch voelt.",
+      "answer": "Tel je sociale apps op in Schermtijd op iPhone, voer het daggemiddelde in en Klippy zet het om in totalen over langere termijn. Gebruik het voor één app of een hele categorie.",
+      "sections": [
+        {
+          "title": "Een totaal is duidelijker dan een gevoel",
+          "paragraphs": [
+            "‘Ik zit te veel op sociale media’ is moeilijk om naar te handelen. Een getal — bijvoorbeeld 1,5u/dag ≈ 22 volledige dagen per jaar — geeft je iets concreets om te overwegen.",
+            "Niet alles daarvan is verspild; sociale media is ook hoe veel mensen werken, leren en contact houden. De nuttige vraag is of de tijd overeenkomt met wat je van plan was."
+          ]
+        },
+        {
+          "title": "Maak de volgende stap concreet",
+          "paragraphs": [
+            "Kies één app waarbij een snelle check uitloopt in een langere sessie. Let op wanneer je hem opent en wat je vlak daarvoor deed.",
+            "Als je besluit een grens toe te voegen, houd nuttige apps open en focus op de paar die je steeds terugtrekken. Voor iPhone-opties, zie hoe je sociale media beperkt op iPhone en Schermtijd vs app-blokkering."
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "title": "Open het overzicht",
+          "copy": "Check in Schermtijd de categorie Sociaal of één app."
+        },
+        {
+          "title": "Voer het daggemiddelde in",
+          "copy": "Gebruik één app of het gecombineerde totaal."
+        },
+        {
+          "title": "Kies één grens",
+          "copy": "Begin met de app die het meest automatisch voelt."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Kan ik één app berekenen?",
+          "answer": "Ja. Voer het gemiddelde in voor Instagram, TikTok, YouTube enz., of een gecombineerd totaal."
+        },
+        {
+          "question": "Verzamelt Klippy mijn gebruik van sociale media?",
+          "answer": "Nee. Er wordt niets naar Klippy of je accounts gestuurd."
+        },
+        {
+          "question": "Wat als ik het nodig heb voor werk?",
+          "answer": "Houd het werkgebruik en richt de grens op checks buiten dat doel."
+        }
+      ]
+    },
+    "how-to-check-screen-time-iphone": {
+      "title": "Schermtijd bekijken op iPhone — Dagelijks, wekelijks & per app | Klippy",
+      "description": "Zo vind je Schermtijd op iPhone: bekijk daggemiddelde, wekelijks totaal en overzicht per app en gebruik het daarna in de calculator van Klippy.",
+      "eyebrow": "Schermtijd bekijken op iPhone",
+      "h1": "Zo vind je je Schermtijd op iPhone.",
+      "lead": "Je iPhone houdt al een daggemiddelde, wekelijkse trend en overzicht per app bij. Hier zie je waar je het vindt en welk getal je in de calculator gebruikt.",
+      "answer": "Ga naar Instellingen → Schermtijd → Bekijk alle app- en websiteactiviteit. Wissel tussen Dag/Week om een typisch gemiddelde te vinden. Het overzicht per app staat op hetzelfde scherm.",
+      "sections": [
+        {
+          "title": "Kies een typische week, niet één dag",
+          "paragraphs": [
+            "Eén dag kan misleidend zijn — reizen, een lang telefoongesprek of een weekend met veel gebruik kan het beeld vertekenen. De Week-weergave vlakt die uitschieters af.",
+            "Gebruik het daggemiddelde dat bovenaan bij Week wordt getoond. Dat is het nuttigste getal voor de calculator en voor het dagenoverzicht."
+          ]
+        },
+        {
+          "title": "Check het overzicht, niet alleen het totaal",
+          "paragraphs": [
+            "Het totaal zegt je hoeveel, het overzicht zegt je waar. Vergelijk de apps die je bewust gebruikt met die je zonder plan opent.",
+            "Die opsplitsing helpt je één realistische volgende stap te kiezen in plaats van een breed ‘minder op mijn telefoon’-doel."
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "title": "Open Instellingen",
+          "copy": "Tik op Schermtijd in de hoofdlijst van Instellingen."
+        },
+        {
+          "title": "Open app- en websiteactiviteit",
+          "copy": "Kies Bekijk alle om Dag/Week en de lijst per app te zien."
+        },
+        {
+          "title": "Noteer een typisch dagcijfer",
+          "copy": "Gebruik het in de calculator om wekelijkse/jaarlijkse totalen te zien."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Kan ik de tijd voor één app zien?",
+          "answer": "Ja. De activiteitenlijst toont elke app en categorie; tik op een app voor het dag- en weekdetail."
+        },
+        {
+          "question": "Waarom ontbreekt Schermtijd?",
+          "answer": "Het staat misschien uit. Tik bij Schermtijd op Schakel in en kies je apparaat."
+        },
+        {
+          "question": "Kan ik het weektotaal gebruiken?",
+          "answer": "Ja. Deel het weektotaal door 7 om een daggemiddelde te krijgen."
+        }
+      ]
+    },
+    "how-to-reduce-screen-time-iphone": {
+      "title": "Schermtijd verminderen op iPhone (zonder te veel te blokkeren) | Klippy",
+      "description": "Praktische manieren om schermtijd op iPhone te verminderen: vind de trigger, demp meldingen, gebruik Focus of voeg een grens toe voor één app.",
+      "eyebrow": "Schermtijd verminderen op iPhone",
+      "h1": "Verminder schermtijd door eerst één nuttig ding te veranderen.",
+      "lead": "‘Minder op mijn telefoon zitten’ is vaag. Een kleinere verandering — minder meldingen, een Focus-schema of een grens voor één app — is makkelijker vol te houden en makkelijker te meten.",
+      "answer": "Begin met je Schermtijd-overzicht, kies één terugkerende trigger (meldingen, verveling, tijdstip) en koppel het juiste hulpmiddel eraan: demp meldingen, Focus, Applimieten/Schermtijd slot of een blokkering voor geselecteerde apps voor de paar apps die automatisch opengaan.",
+      "sections": [
+        {
+          "title": "Kies een gedrag, niet alleen een getal",
+          "paragraphs": [
+            "‘TikTok niet meer openen na 22:00’ is duidelijker dan ‘1 uur minder op mijn telefoon’. Het eerste wijst naar een instelling; het tweede vraagt wilskracht op het moment zelf.",
+            "Zodra het gedrag concreet is, kun je nuttige apps met rust laten en de regel alleen toepassen waar het probleem zich voordoet."
+          ]
+        },
+        {
+          "title": "Houd de opzet praktisch",
+          "paragraphs": [
+            "Als een regel apps blokkeert die je nodig hebt, zul je hem omzeilen. Focus op de 1–2 apps die het automatisch checken veroorzaken.",
+            "Let op waardoor je de opzet loslaat — te breed, te makkelijk te negeren of gericht op de verkeerde trigger. Pas dat aan, niet je motivatie. Vergelijk Schermtijd vs app-blokkering om het juiste hulpmiddel te kiezen."
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "title": "Vind het terugkerende moment",
+          "copy": "Gebruik Schermtijd om één gewoonte te spotten (bijv. werk, bedtijd, wachten)."
+        },
+        {
+          "title": "Haal de trigger weg als het kan",
+          "copy": "Probeer meldingsinstellingen of Focus voor checks die door meldingen komen."
+        },
+        {
+          "title": "Voeg een grens toe indien nodig",
+          "copy": "Gebruik Applimieten/Schermtijd slot of een blokkering voor het automatisch openen."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Moet ik Applimieten gebruiken?",
+          "answer": "Gebruik ze wanneer een tijdsbudget helpt. Als dezelfde app de hele dag door op willekeurige momenten opengaat, past een grens voor geselecteerde apps vaak beter."
+        },
+        {
+          "question": "Kan ik bellen en berichten houden?",
+          "answer": "Ja. Laat Telefoon, Berichten en essentiële apps buiten elke beperking."
+        },
+        {
+          "question": "Wat is de kleinste nuttige verandering?",
+          "answer": "Degene die een echt probleem aanpakt zonder de rest van je telefoon onhandig te maken."
+        }
+      ]
+    },
+    "how-to-limit-social-media-on-iphone": {
+      "title": "Sociale media beperken op iPhone — Houd essentiële apps open | Klippy",
+      "description": "Beperk sociale media op iPhone zonder je hele telefoon te blokkeren: meldingen, Focus, Applimieten, Schermtijd slot en app-blokkeringen vergeleken.",
+      "eyebrow": "Sociale media beperken op iPhone",
+      "h1": "Beperk sociale media zonder je hele telefoon te beperken.",
+      "lead": "Je hebt geen alles-of-niets-regel nodig. Kies of je minder meldingen, een dagelijks budget, een geplande pauze of geselecteerde apps die moeilijker te openen zijn wilt.",
+      "answer": "Koppel het hulpmiddel aan de trigger: meldingen → demp meldingen/Focus; tijdsbudget → Applimieten; voorspelbaar schema → Schermtijd slot; herhaald automatisch openen → blokkering voor geselecteerde apps. Houd niet-geselecteerde apps beschikbaar.",
+      "sections": [
+        {
+          "title": "Verschillende hulpmiddelen, verschillende problemen",
+          "paragraphs": [
+            "Meldingen zijn een trigger, Applimieten zijn een budget, Schermtijd slot is een schema en een blokkering voor geselecteerde apps maakt die apps standaard onbeschikbaar. Ze zijn niet uitwisselbaar.",
+            "Als dezelfde app zonder melding of schema opengaat, is de blokkering vaak directer dan een timer die je kunt verlengen. Zie wanneer elk helpt in Schermtijd vs app-blokkering."
+          ]
+        },
+        {
+          "title": "Houd wat je nodig hebt",
+          "paragraphs": [
+            "Kaarten, Berichten, bellen, bankieren en familie-apps hoeven zelden deel te zijn van een regel voor sociale media.",
+            "Een smalle regel is makkelijker vol te houden omdat hij de probleem-app verandert zonder elke normale taak onhandig te maken. Als je twijfelt, begin met hoeveel tijd je echt op sociale media doorbrengt."
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "title": "Benoem de probleem-app",
+          "copy": "Vind degene waarbij een snelle check uitloopt in een lange sessie."
+        },
+        {
+          "title": "Koppel de juiste instelling",
+          "copy": "Kies bewust tussen meldingen, limieten, schema of blokkering."
+        },
+        {
+          "title": "Houd essentiële apps open",
+          "copy": "Laat nuttige apps buiten de regel."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Kan Focus apps blokkeren?",
+          "answer": "Focus dempt meldingen en kan beginschermpagina’s verbergen, maar voorkomt meestal niet dat je een app opent."
+        },
+        {
+          "question": "Kan ik Berichten houden?",
+          "answer": "Ja. Met een aanpak voor geselecteerde apps blijven niet-geselecteerde apps beschikbaar."
+        },
+        {
+          "question": "Wat als ik het nodig heb voor werk?",
+          "answer": "Houd het werkgebruik en pas de grens alleen buiten die vensters toe."
+        }
+      ]
+    },
+    "digital-detox-plan": {
+      "title": "Digitale detox-plan — Een kleinere reset die je kunt volhouden | Klippy",
+      "description": "Maak een realistisch digitaal detox-plan: kies één reden, één trigger en één kleine grens om een week te testen.",
+      "eyebrow": "Digitale detox-plan",
+      "h1": "Een digitaal detox-plan dat in het echte leven past.",
+      "lead": "Je hoeft niet alles te verwijderen of een week weg te gaan. Kies één deel van je dag dat je terug wilt en één trigger om te veranderen, en test het dan.",
+      "answer": "Kies één reden (bijv. minder onderbrekingen op werk, rustigere bedtijd), één trigger (een app, melding of tijdvenster) en één grens die je zeven dagen kunt volhouden. Evalueer en stel bij.",
+      "sections": [
+        {
+          "title": "Vermijd de alles-of-niets-valkuil",
+          "paragraphs": [
+            "Brede detoxen lijken daadkrachtig maar mislukken vaak wanneer je je telefoon nog nodig hebt voor werk, familie en onderweg.",
+            "Een smalle test geeft betere gegevens. Als laat scrollen het probleem is, verander alleen dat venster — niet elke app de hele dag. Zie hoe je kunt stoppen met zo vaak checken voor ideeën over triggers."
+          ]
+        },
+        {
+          "title": "Bepaal waar je ruimte voor wilt maken",
+          "paragraphs": [
+            "Een plan houdt beter stand met een duidelijk doel: meer gefocust werken, meer aanwezige maaltijden of makkelijker tot rust komen voor het slapen.",
+            "Gebruik dat doel om de grens te kiezen. Hij moet het leven dat je wilt ondersteunen, niet nog een regel worden waar je een hekel aan krijgt."
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "title": "Kies één reden",
+          "copy": "Benoem het deel van je dag dat je wilt beschermen."
+        },
+        {
+          "title": "Kies één trigger",
+          "copy": "Kies de app, melding of plek die steeds weer in de weg zit."
+        },
+        {
+          "title": "Test één grens",
+          "copy": "Houd hem klein genoeg om een echte week te gebruiken."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Hoe lang moet een detox duren?",
+          "answer": "Een test van één week is nuttiger dan een breed plan dat je niet kunt volhouden. Verleng alleen wat helpt."
+        },
+        {
+          "question": "Moet ik sociale media verwijderen?",
+          "answer": "Meestal niet. Een grens om de automatische momenten is vaak voldoende."
+        },
+        {
+          "question": "Wat als ik mijn telefoon nodig heb voor werk?",
+          "answer": "Houd werkfuncties en richt de detox op de afleidende checks daarbuiten."
+        }
+      ]
+    },
+    "stop-checking-phone": {
+      "title": "Stoppen met je telefoon zo vaak checken — De trigger vóór het checken | Klippy",
+      "description": "Stop met je telefoon checken door de trigger te veranderen: meldingen, verveling of gewoontelussen. Praktische stappen die je vandaag kunt testen.",
+      "eyebrow": "Stoppen met je telefoon checken",
+      "h1": "Stop met checken door het moment vóór het checken te veranderen.",
+      "lead": "De meeste checks zijn geen beslissing om je telefoon te gebruiken. Ze zijn een automatisch gebaar tijdens een pauze, een melding of een moment van verveling — en die trigger kun je veranderen.",
+      "answer": "Let op de trigger en verander daarna de opzet eromheen: demp de meldingen die hem activeren, maak de app iets moeilijker te openen of zet een nuttigere volgende actie op dezelfde plek.",
+      "sections": [
+        {
+          "title": "Een check is vaak een lus, geen keuze",
+          "paragraphs": [
+            "De hand beweegt voordat je hebt besloten wat je van de telefoon wilt. Daarom voelt wilskracht op het moment zelf zo moeilijk.",
+            "Creëer een kleine pauze door de trigger, de toegang of de omgeving te veranderen — genoeg om te kiezen, niet om op perfecte controle te vertrouwen."
+          ]
+        },
+        {
+          "title": "Maak de betere actie makkelijker",
+          "paragraphs": [
+            "Als je checkt tijdens het wachten, leg daar een boek of notitieboekje neer. Als je in bed checkt, laad je telefoon buiten de slaapkamer op. Maak het alternatief net zo makkelijk als de oude gewoonte.",
+            "Als één app de gebruikelijke bestemming is, kan een grens voor geselecteerde apps dat automatisch openen minder handig maken terwijl al het andere open blijft. Vergelijk hulpmiddelen in Schermtijd vs app-blokkering."
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "title": "Let op de trigger",
+          "copy": "Welke tijd, welk gevoel of welke melding komt vlak vóór het gebaar?"
+        },
+        {
+          "title": "Verander één deel van de lus",
+          "copy": "Demp de melding, verplaats de app of creëer afstand."
+        },
+        {
+          "title": "Bekijk het echte resultaat",
+          "copy": "Behoud wat helpt, pas aan wat het leven moeilijker maakt."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Waarom check ik zonder melding?",
+          "answer": "Checken kan een aangeleerde reactie worden op pauzes, stress of verveling — niet alleen op meldingen."
+        },
+        {
+          "question": "Moet ik alle meldingen uitzetten?",
+          "answer": "Begin met de paar die je naar ongewenste checks trekken; houd de nuttige."
+        },
+        {
+          "question": "Kan een blokkering helpen?",
+          "answer": "Ja, wanneer dezelfde 1–2 apps de herhaalde bestemming zijn."
+        }
+      ]
+    },
+    "screen-time-vs-app-blocker": {
+      "title": "Schermtijd vs app-blokkering — Welke iPhone-tool past bij je gewoonte? | Klippy",
+      "description": "Schermtijd Applimieten & Schermtijd slot vs Focus vs blokkering voor geselecteerde apps. Ontdek welke iPhone-tool bij je trigger past.",
+      "eyebrow": "Schermtijd vs app-blokkering",
+      "h1": "Schermtijd en app-blokkeringen lossen verschillende problemen op.",
+      "lead": "Applimieten, Schermtijd slot, Focus en een blokkering voor geselecteerde apps worden vaak verward. De juiste keuze hangt af van of je een budget, een schema, minder meldingen nodig hebt of geselecteerde apps standaard onbeschikbaar wilt maken.",
+      "answer": "Gebruik Schermtijd voor rapporten, Applimieten en Schermtijd slot; Focus voor meldingen en beginscherm; een blokkering voor geselecteerde apps wanneer een paar apps standaard geblokkeerd moeten zijn terwijl de rest van je telefoon nuttig blijft.",
+      "sections": [
+        {
+          "title": "Wanneer Schermtijd goed past",
+          "paragraphs": [
+            "Applimieten stellen een dagelijks budget in, Schermtijd slot stelt een schema in en Schermtijd laat zien waar de tijd naartoe gaat. Geweldig voor bewustwording, budgetten en voorspelbare vensters.",
+            "Voor willekeurig, automatisch openen van dezelfde 1–2 apps kan een tijdsbudget makkelijk te verlengen zijn — een standaardblokkering is directer."
+          ]
+        },
+        {
+          "title": "Wanneer een grens voor geselecteerde apps goed past",
+          "paragraphs": [
+            "Een blokkering vraagt: welke geïnstalleerde apps veroorzaken het probleem en kan de rest nuttig blijven? Fella houdt de apps die je selecteert standaard geblokkeerd; niet-geselecteerde apps blijven beschikbaar.",
+            "Het is geen websiteblokkering of MDM-systeem. Het is een smalle grens voor de gewoonte die je benoemde in hoe te verminderen of je detox-plan."
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "title": "Benoem het probleem",
+          "copy": "Meldingen, dagtotaal, schema of herhaald automatisch openen?"
+        },
+        {
+          "title": "Kies het juiste hulpmiddel",
+          "copy": "Focus, Applimieten/Schermtijd slot of een blokkering."
+        },
+        {
+          "title": "Houd het smal",
+          "copy": "Laat nuttige apps beschikbaar."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Kan Schermtijd apps blokkeren?",
+          "answer": "Het heeft Applimieten en Schermtijd slot. Gebruik ze voor budgetten/schema’s; een blokkering is voor geselecteerde apps die standaard onbeschikbaar zijn."
+        },
+        {
+          "question": "Blokkeert Focus apps?",
+          "answer": "Focus dempt meldingen en kan pagina’s verbergen, maar blokkeert meestal niet het openen van een app."
+        },
+        {
+          "question": "Kan ik bellen en berichten houden?",
+          "answer": "Ja. Met een aanpak voor geselecteerde apps worden alleen de apps die je selecteert geblokkeerd."
+        }
+      ]
+    }
+  },
+  "guidePage": {
+    "shortAnswer": "Het korte antwoord",
+    "nextStepEyebrow": "Een praktische volgende stap",
+    "useCalculatorCta": "Gebruik de schermtijd-calculator",
+    "faqTitle": "Veelgestelde vragen"
+  },
+  "notFound": {
+    "title": "Pagina niet gevonden",
+    "description": "De pagina die je zoekt bestaat niet."
+  }
+}

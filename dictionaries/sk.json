@@ -1,0 +1,778 @@
+{
+  "site": {
+    "name": "Klippy",
+    "title": "Klippy | Bezplatné nástroje pre pokojnejší telefón",
+    "description": "Jednoduché, bezplatné nástroje na zmenu telefónnych návykov, ktoré vás stále sťahujú späť."
+  },
+  "header": {
+    "howItWorks": "Ako to funguje",
+    "guides": "Návody",
+    "about": "O nás",
+    "calculator": "Kalkulačka",
+    "tryFella": "Vyskúšaj Fella",
+    "homeAria": "Domov Klippy"
+  },
+  "footer": {
+    "privacy": "Ochrana súkromia",
+    "terms": "Podmienky",
+    "support": "Podpora",
+    "builtByFella": "Vytvorené pomocou Fella",
+    "guidesLabel": "Návody",
+    "guidesAria": "Návody na čas pred obrazovkou"
+  },
+  "guides": [
+    {
+      "label": "Čas pred obrazovkou podľa veku",
+      "slug": "screen-time-by-age-calculator"
+    },
+    {
+      "label": "Čas pred obrazovkou v dňoch",
+      "slug": "screen-time-in-days"
+    },
+    {
+      "label": "Kalkulačka používania telefónu",
+      "slug": "phone-use-calculator"
+    },
+    {
+      "label": "Čas na sociálnych sieťach",
+      "slug": "social-media-time-calculator"
+    },
+    {
+      "label": "Ako zistiť čas pred obrazovkou na iPhone",
+      "slug": "how-to-check-screen-time-iphone"
+    },
+    {
+      "label": "Ako skrátiť čas pred obrazovkou na iPhone",
+      "slug": "how-to-reduce-screen-time-iphone"
+    },
+    {
+      "label": "Ako obmedziť sociálne siete na iPhone",
+      "slug": "how-to-limit-social-media-on-iphone"
+    },
+    {
+      "label": "Plán digitálneho detoxu",
+      "slug": "digital-detox-plan"
+    },
+    {
+      "label": "Ako prestať neustále kontrolovať telefón",
+      "slug": "stop-checking-phone"
+    },
+    {
+      "label": "Čas pred obrazovkou vs. blokovanie aplikácií",
+      "slug": "screen-time-vs-app-blocker"
+    }
+  ],
+  "home": {
+    "title": "Nech sa telefón\nľahšie odkladá.",
+    "lead": "Bezplatný nástroj, ktorý vám pomôže nájsť návyk pri telefóne, ktorý vás stále sťahuje späť. Potom zvoľte menšiu hranicu, ktorá naozaj zapadne do vášho dňa.",
+    "cta": "Vyskúšať bezplatný nástroj",
+    "sub": "Bez prihlásenia. Bez sťahovania. Len užitočný začiatok.",
+    "howItWorksAria": "Ako to funguje",
+    "steps": [
+      {
+        "number": "01",
+        "title": "Pomenujte moment",
+        "description": "Konkrétny návyk sa mení ľahšie než vágny cieľ používať telefón menej."
+      },
+      {
+        "number": "02",
+        "title": "Zvoľte menšiu hranicu",
+        "description": "Ponechajte si aplikácie, ktoré potrebujete. Pridajte prekážku len tam, kde začína automatická kontrola."
+      },
+      {
+        "number": "03",
+        "title": "Vyskúšajte v reálnom živote",
+        "description": "Berite výsledok ako praktický východiskový bod a potom ho upravte podľa svojho bežného dňa."
+      }
+    ],
+    "aboutEyebrow": "Pokojnejší telefón začína v malom.",
+    "aboutTitle": "Nemusíte mazať celý svoj digitálny život.",
+    "aboutCopy": "Klippy skúma jednoduché bezplatné nástroje, ktoré vám pomôžu určiť tých pár aplikácií a momentov, ktoré stoja za zmenu ako prvé.",
+    "aboutCta": "Objavte Fella"
+  },
+  "about": {
+    "metaTitle": "O Klippy — Malé nástroje pre pokojnejší telefón",
+    "metaDescription": "Klippy tvorí bezplatné, súkromné nástroje, ktoré vám pomôžu jasne vidieť telefónne návyky a zvoliť si menší, realistický ďalší krok.",
+    "eyebrow": "O Klippy",
+    "h1": "Malé nástroje pre telefón, ktorý je užitočnejší.",
+    "lead": "Klippy je pre ľudí, ktorí chcú zmeniť návyk pri telefóne bez toho, aby sa z toho stal projekt na plný úväzok. Nástroje začínajú jednoduchou otázkou a smerujú k jednej užitočnej odpovedi.",
+    "whyEyebrow": "Prečo Klippy existuje",
+    "whyTitle": "Väčšina rád o telefóne žiada príliš veľa, príliš skoro.",
+    "whyParagraphs": [
+      "Ľahko sa povie, že by ste mali používať telefón menej. Oveľa ťažšie je rozhodnúť, čo to znamená v bežný deň, keď je telefón zároveň spôsob, ako sa rozprávate s ľuďmi, hľadáte cestu, platíte, pracujete, učíte sa a oddychujete.",
+      "Klippy vychádza z užšieho pohľadu. Niektoré časti vášho telefónu sú užitočné. Niektoré aplikácie alebo momenty vás môžu vťahovať do návyku, ktorý ste si nevybrali. To sú odlišné problémy a zaslúžia si odlišné odpovede.",
+      "Cieľom nie je, aby technológie pôsobili ako morálne zlyhanie. Cieľom je zviditeľniť kompromisy, aby ste sa mohli rozhodnúť, čo stojí za zmenu."
+    ],
+    "values": [
+      {
+        "title": "Najprv zadarmo",
+        "copy": "Výsledok by nemal byť skrytý za registračným formulárom. Nástroje Klippy fungujú bez účtu, platby či inštalácie aplikácie."
+      },
+      {
+        "title": "Súkromie ako základ",
+        "copy": "Kalkulačka času pred obrazovkou funguje s hodnotami, ktoré zadáte v prehliadači. Nepripája sa k vášmu iPhonu ani nepotrebuje vaše súkromné údaje o aktivite."
+      },
+      {
+        "title": "Užitočné bez nátlaku",
+        "copy": "Nástroj by mal obstáť sám osebe. Ak je potom iný produkt naozaj užitočný, ďalší krok by mal byť zrejmý a dobrovoľný."
+      }
+    ],
+    "nextEyebrow": "Čo bude ďalej",
+    "nextTitle": "Začnite úprimným pohľadom na návyk.",
+    "nextParagraphs": [
+      "Prvým nástrojom Klippy je kalkulačka času pred obrazovkou. Premení priemerné denné číslo na súčty za týždeň, rok a dlhšie obdobie. Nepovie vám, ktoré hodiny stoja za to si ponechať. Môže vám dať jasnejší východiskový bod, aby ste sa o tom rozhodli sami.",
+      "Budúce nástroje budú nasledovať rovnaký princíp. Mali by byť dosť jednoduché na použitie za minútu a dosť konkrétne, aby pomohli pri reálnom rozhodnutí. Žiadne všeobecné skóre. Žiadny sľub, že jedno nastavenie vyrieši všetko."
+    ],
+    "nextCta": "Použiť kalkulačku času pred obrazovkou",
+    "fellaEyebrow": "Vytvorené s Fella",
+    "fellaTitle": "Keď je odpoveďou silnejšia hranica okolo niekoľkých aplikácií, Fella je tu pre ďalší krok.",
+    "fellaCopy": "Fella je blokovač vybraných rušivých aplikácií pre iPhone. Aplikácie, ktoré nevyberiete, môžu zostať dostupné, takže užitočné časti vášho telefónu nie sú súčasťou hranice, kým sa tak sami nerozhodnete.",
+    "fellaCta": "Objavte Fella"
+  },
+  "howItWorks": {
+    "metaTitle": "Ako Klippy funguje — Začnite návykom, nie reštartom",
+    "metaDescription": "Ako Klippy funguje: bezplatné, súkromné nástroje v prehliadači, ktoré premenia denné číslo z telefónu na užitočný ďalší krok — bez účtu, bez sledovania.",
+    "eyebrow": "Ako to funguje",
+    "h1": "Začnite návykom, nie veľkým reštartom.",
+    "lead": "Klippy tvorí jednoduché bezplatné nástroje pre praktickejší pohľad na návyky pri telefóne. Nejde o to, aby každá minúta pred obrazovkou pôsobila zle. Ide o to všimnúť si momenty, ktoré prebiehajú takmer bez premýšľania, a rozhodnúť, či vám stále vyhovujú.",
+    "ideaEyebrow": "Základná myšlienka",
+    "ideaTitle": "Užitočná odpoveď by mala byť jasná skôr, než si od vás niečo vyžiada.",
+    "ideaCopy": "Preto nástroje Klippy bežia vo vašom prehliadači. Nie je potrebné zakladať účet, prechádzať platobnou obrazovkou, aby ste videli výsledok, ani sa pripájať k vašim súkromným údajom z telefónu. Zadáte malé množstvo informácií a získate konkrétny spôsob, ako o tom premýšľať.",
+    "steps": [
+      {
+        "number": "01",
+        "title": "Pozrite sa na jeden moment",
+        "copy": "Začnite konkrétnou aplikáciou, dennou dobou alebo situáciou. Kontrolovanie feedu v posteli je ľahšie pochopiť než všeobecný plán používať telefón menej."
+      },
+      {
+        "number": "02",
+        "title": "Urobte z čísla užitočný údaj",
+        "copy": "Kalkulačka času pred obrazovkou premení priemerné denné číslo na týždenné, ročné a dlhodobé súčty. Výpočet je jednoduchý. Vidieť ho na jednom mieste môže uľahčiť vnímanie kompromisu."
+      },
+      {
+        "number": "03",
+        "title": "Zvoľte najmenší ďalší krok",
+        "copy": "Môžete nechať všetko tak, ako je. Môžete presunúť aplikáciu, stíšiť podnet alebo sťažiť otvorenie jedného rozptýlenia. Užitočná zmena je tá, ktorá sadne vášmu reálnemu dňu."
+      }
+    ],
+    "calcEyebrow": "Čo kalkulačka robí",
+    "calcTitle": "Robí známe číslo ľahšie predstaviteľným.",
+    "calcParagraphs": [
+      "Zadajte priemerný denný počet hodín času pred obrazovkou. Klippy vypočíta zodpovedajúce týždenné, mesačné a ročné súčty a potom odhadne, ako táto hodnota vyzerá medzi vaším súčasným vekom a 75 rokmi.",
+      "Kalkulačka nevie, aké aplikácie používate, čím sa živíte ani či je čas na telefóne príjemný, nutný alebo rozptyľujúci. Ku každej hodine pristupuje rovnako. Je to zámer. Je to jednoduchý nástroj na uvedomenie, nie hodnotenie ani diagnóza.",
+      "Ak výsledok pôsobí vysoko, ďalšia otázka nemusí byť, ako všetok ten čas odstrániť. Lepšia otázka je, ktorá jeho časť pôsobí automaticky, neplánovane alebo sa ťažko zastavuje, keď už začne."
+    ],
+    "calcCta": "Použiť kalkulačku času pred obrazovkou",
+    "faqEyebrow": "Časté otázky",
+    "faqTitle": "Aj malá hranica môže mať význam.",
+    "faqs": [
+      {
+        "question": "Musím si vytvoriť účet?",
+        "answer": "Nie. Nástroje Klippy fungujú okamžite v prehliadači. Kalkulačka nevyžaduje registráciu ani platbu."
+      },
+      {
+        "question": "Číta Klippy aktivitu môjho telefónu?",
+        "answer": "Nie. Používa len číslo, ktoré zadáte do kalkulačky. Nepripája sa k vášmu iPhonu ani nezbiera rozpis podľa aplikácií."
+      },
+      {
+        "question": "Čo mám robiť potom, ako uvidím svoj výsledok?",
+        "answer": "Hľadajte jeden jasný vzorec. Môže to byť aplikácia, ktorú kontrolujete v práci, feed, ktorý otvárate v posteli, alebo návyk, ktorý sa spustí vždy, keď na niečo čakáte."
+      },
+      {
+        "question": "Čo ak stále potrebujem väčšinu svojho telefónu?",
+        "answer": "To je normálne. Užitočná hranica nemusí zneprístupniť celý telefón. Začnite s niekoľkými aplikáciami alebo momentmi, ktoré spôsobujú problém."
+      }
+    ],
+    "fellaEyebrow": "Keď je problémom zopár aplikácií",
+    "fellaTitle": "Fella štandardne blokuje vybrané rušivé aplikácie pre iPhone, zatiaľ čo aplikácie, ktoré nevyberiete, môžu zostať dostupné.",
+    "fellaCopy": "Je to iný krok než výpočet času pred obrazovkou. Môže byť užitočný, keď už viete, ktoré aplikácie chcete urobiť menej automatickými.",
+    "fellaCta": "Objavte Fella"
+  },
+  "calculator": {
+    "metaTitle": "Kalkulačka času pred obrazovkou — Pozrite si svoj čas pri telefóne za týždeň, rok a do 75 rokov",
+    "metaDescription": "Bezplatná kalkulačka času pred obrazovkou: zadajte denné hodiny a vek a pozrite si týždenné, ročné a celoživotné súčty. Súkromné, bez prihlásenia, beží v prehliadači.",
+    "eyebrow": "Bezplatná kalkulačka času pred obrazovkou",
+    "h1": "Pozrite sa, ako sa váš čas pri telefóne sčítava.",
+    "lead": "Zadajte svoj priemerný denný čas pred obrazovkou. Získajte jednoduchý prehľad hodín, dní a rokov, na ktoré sa môže nazbierať — a potom zvoľte jednu malú zmenu na vyskúšanie.",
+    "inputLabel": "Priemerný denný čas pred obrazovkou",
+    "reduceAria": "Znížiť čas pred obrazovkou",
+    "increaseAria": "Zvýšiť čas pred obrazovkou",
+    "help": "Pozrite sa do Nastavení → Čas pred obrazovkou na iPhone, ak si nie ste istí, čo zadať. Použite typický deň, nie svoj najlepší ani najhorší.",
+    "ageLabel": "Váš vek",
+    "ageHelp": "Používa sa len na odhad času pred obrazovkou odteraz do 75 rokov. Nič sa neukladá.",
+    "calcCta": "Vypočítať môj čas",
+    "results": {
+      "everyWeek": "Každý týždeň",
+      "everyMonth": "Každý mesiac",
+      "everyYear": "Každý rok",
+      "fullDays": "Plných dní za rok"
+    },
+    "atThisRate": "Týmto tempom",
+    "atThisRateValue": "Asi {years} rokov času pred obrazovkou odteraz do 75 rokov.",
+    "atThisRateCopy": "Tento odhad počíta každú hodinu rovnako. Je to hrubý nástroj na uvedomenie, nie hodnotenie toho, ako telefón používate.",
+    "wakingLabel": "Podiel na 16-hodinovom bdelom dni",
+    "smallReductionTitle": "Malé obmedzenie sa nazbiera",
+    "smallReductionCopy": "O hodinu menej denne ušetrí asi {days} plných dní za rok.",
+    "smallReductionDesc": "Nemusíte rušiť všetky obrazovky. Začnite s jednou aplikáciou alebo momentom, ktorý sa mení na neplánované posúvanie.",
+    "fellaTitle": "Ak je problémom zopár aplikácií",
+    "fellaCopyTitle": "Fella dokáže blokovať vybrané aplikácie, ktoré vás stále sťahujú späť.",
+    "fellaCopy": "Aplikácie, ktoré nevyberiete, môžu zostať dostupné, takže váš užitočný telefón zostane užitočný.",
+    "fellaCta": "Zobraziť Fella v App Store",
+    "faqTitle": "Často kladené otázky ku kalkulačke času pred obrazovkou",
+    "axisLabels": {
+      "zero": "0 h",
+      "middle": "8 h",
+      "max": "16 h"
+    },
+    "faqs": [
+      {
+        "question": "Ako sa odhad počíta?",
+        "answer": "Vynásobíme váš denný priemer 7, 30,44 a 365 pre týždeň/mesiac/rok a počtom rokov od vášho veku do 75 rokov pre celoživotný pohľad. Ročné hodiny vydeľte 24 pre plné dni."
+      },
+      {
+        "question": "Sleduje tento nástroj môj iPhone?",
+        "answer": "Nie. Výpočet prebieha vo vašom prehliadači z čísla, ktoré zadáte. Nič sa nepripája k vášmu telefónu ani sa neukladá v Klippy."
+      },
+      {
+        "question": "Kde nájdem svoj čas pred obrazovkou na iPhone?",
+        "answer": "Otvorte Nastavenia → Čas pred obrazovkou → Zobraziť všetku aktivitu aplikácií a webov. Prepínajte medzi zobrazeniami Deň a Týždeň, aby ste našli typický denný priemer."
+      },
+      {
+        "question": "Čo mám s výsledkom robiť?",
+        "answer": "Hľadajte najmenej zámerný čas — feed, ktorý otvárate pri čakaní, hru používanú na odkladanie úlohy alebo nočné scrollovanie — a vyskúšajte tam jednu malú hranicu."
+      }
+    ]
+  },
+  "seoPages": {
+    "screen-time-by-age-calculator": {
+      "title": "Kalkulačka času pred obrazovkou podľa veku — Koľko odteraz do 75 rokov? | Klippy",
+      "description": "Pozrite sa, ako sa váš denný čas pred obrazovkou nazbiera od súčasného veku do 75 rokov. Zadajte denné hodiny a vek pre súkromný, okamžitý odhad.",
+      "eyebrow": "Kalkulačka času pred obrazovkou podľa veku",
+      "h1": "Pozrite sa, na koľko sa nazbiera váš čas pred obrazovkou odteraz do 75 rokov.",
+      "lead": "Denný priemer vyzerá inak vedľa rokov, ktoré máte pred sebou. Zadajte svoj vek a denný čas pred obrazovkou pre jednoduchý, súkromný odhad — a potom zvoľte jeden návyk na vyskúšanie.",
+      "answer": "Klippy vynásobí váš denný priemer počtom rokov od vášho súčasného veku do 75 rokov. Každú hodinu počíta rovnako, takže to berte ako východiskový bod na uvedomenie, nie ako hodnotenie.",
+      "sections": [
+        {
+          "title": "Prečo pohľad podľa veku pomáha",
+          "paragraphs": [
+            "Rovnaký denný návyk má viac času sa opakovať, keď ste mladší. Vidieť súčet do 75 rokov robí abstraktnú rutinu konkrétnou, bez toho aby musela pôsobiť alarmujúco.",
+            "Keď uvidíte súčet, môžete si položiť užšiu otázku: existuje jedna aplikácia, denná doba alebo podnet, ktorý vytvára väčšinu automatického času? Malá hranica práve tam sa udržuje ľahšie než všeobecné obmedzenie."
+          ]
+        },
+        {
+          "title": "Nech je to užitočné, nie odsudzujúce",
+          "paragraphs": [
+            "Kalkulačka nevie, ktoré hodiny sú na prácu, rodinu, učenie alebo oddych. Použite číslo na oddelenie používania telefónu, ktoré si ceníte, od kontrol, ktoré prebiehajú bez jasného dôvodu.",
+            "Ak vás výsledok prekvapí, začnite s najmenej zámerným časom. Ponechajte si užitočné časti telefónu a pridajte prekážku len tam, kde začína automatická kontrola. Pozrite si aj: čas pred obrazovkou v plných dňoch a ako zistiť svoj priemer na iPhone."
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "title": "Skontrolujte svoj denný priemer",
+          "copy": "Otvorte Nastavenia → Čas pred obrazovkou → Zobraziť všetku aktivitu a použite typické denné číslo."
+        },
+        {
+          "title": "Zadajte svoj vek",
+          "copy": "Používa sa len pre odhad do 75 rokov. Nič sa neukladá."
+        },
+        {
+          "title": "Zvoľte jednu malú zmenu",
+          "copy": "Vyberte jednu aplikáciu alebo moment, ktorý pôsobí automaticky, nie všetko naraz."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Je odhad presný?",
+          "answer": "Nie. Je to jednoduchá matematika z denného čísla, ktoré zadáte, vynásobeného počtom rokov do 75. Berte to ako pomôcku na uvedomenie, nie ako presnú predpoveď."
+        },
+        {
+          "question": "Vidí Klippy údaje z môjho telefónu?",
+          "answer": "Nie. Nástroj beží vo vašom prehliadači a nikdy sa nepripája k vášmu iPhonu."
+        },
+        {
+          "question": "Čo vyskúšať potom?",
+          "answer": "Vyskúšajte jednu hranicu na týždeň — napríklad žiadny feed zo sociálnych sietí v posteli alebo tichšie oznámenia počas práce — a ponechajte si to, čo pomáha."
+        }
+      ]
+    },
+    "screen-time-in-days": {
+      "title": "Čas pred obrazovkou v dňoch — Prevod hodín na plné 24-hodinové dni | Klippy",
+      "description": "Preveďte denný čas pred obrazovkou na plné dni za týždeň, mesiac a rok. Pozrite si ročné hodiny ako 24-hodinové dni — zadarmo a súkromne.",
+      "eyebrow": "Čas pred obrazovkou v dňoch",
+      "h1": "Premeňte svoj čas pred obrazovkou na plné dni.",
+      "lead": "Hodiny rozptýlené počas dňa môžu pôsobiť bežne. Klippy prevádza váš denný priemer na plné 24-hodinové dni za rok, aby bol kompromis ľahšie predstaviteľný.",
+      "answer": "Vynásobíme vaše denné hodiny 365 pre ročné hodiny a potom vydelíme 24. To dá ekvivalent v plných dňoch. Výpočet prebehne okamžite vo vašom prehliadači.",
+      "sections": [
+        {
+          "title": "Prečo sú plné dni ľahšie predstaviteľné",
+          "paragraphs": [
+            "Štyri hodiny denne znejú málo, kým ich neuvidíte ako viac než 60 plných dní za rok. Pohľad v dňoch rámuje rovnaký čas inak, bez toho aby ho označoval za premárnený.",
+            "Tieto dni zahŕňajú prácu, mapy, správy, učenie aj oddych. Nejde o to označiť všetok čas pred obrazovkou za zlý, ale vidieť súčet, aby ste mohli zvoliť jednu časť na zmenu. Vyskúšajte pohľad podľa veku, ak chcete dlhodobejší obraz."
+          ]
+        },
+        {
+          "title": "Ak vás číslo prekvapí",
+          "paragraphs": [
+            "Začnite s najmenej zámerným časom: feedom otváraným pri čakaní, hrou používanou na odkladanie úlohy alebo nočným scrollovaním, ktoré sa natiahne.",
+            "Vyskúšajte najmenšiu hranicu, ktorá sadne vášmu dňu. Ponechajte nevyhnutné aplikácie dostupné a zmeňte len moment, ktorý vytvára najväčšie trenie. Pomôcť môžu praktické spôsoby, ako obmedziť čas na iPhone."
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "title": "Zistite svoj priemer",
+          "copy": "Použite denný priemer v Čase pred obrazovkou na iPhone (zobrazenie Deň/Týždeň)."
+        },
+        {
+          "title": "Pozrite si ročný súčet",
+          "copy": "Kalkulačka zobrazí hodiny a ekvivalent v 24-hodinových dňoch."
+        },
+        {
+          "title": "Zvoľte jeden experiment",
+          "copy": "Obmedzte jednu automatickú kontrolu namiesto naháňania dokonalého čísla."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Ako sa počítajú plné dni?",
+          "answer": "Ročné hodiny ÷ 24. Napríklad 4 h/deň × 365 = 1 460 h/rok ÷ 24 ≈ 60,8 plného dňa."
+        },
+        {
+          "question": "Znamená to, že je čas pred obrazovkou premárnený?",
+          "answer": "Nie. Pohľad v dňoch je neutrálny prevod. Práca, rodina aj oddych môžu prebiehať na obrazovke."
+        },
+        {
+          "question": "Môžem to urobiť pre jednu aplikáciu?",
+          "answer": "Áno. Zadajte denný priemer pre jednu aplikáciu alebo kategóriu z rozpisu Času pred obrazovkou."
+        }
+      ]
+    },
+    "phone-use-calculator": {
+      "title": "Kalkulačka používania telefónu — Denný až ročný čas pri telefóne | Klippy",
+      "description": "Pozrite sa, ako sa váš denný čas pri telefóne sčíta za týždeň, mesiac a rok. Jedno číslo, okamžité súčty — bez prihlásenia.",
+      "eyebrow": "Kalkulačka používania telefónu",
+      "h1": "Jednoduchá kalkulačka pre váš čas pri telefóne.",
+      "lead": "Zadajte jeden denný priemer a pozrite si ho ako týždenné, mesačné a ročné súčty. Použite to na odhalenie časti používania telefónu, ktorú by ste naozaj chceli zmeniť.",
+      "answer": "Klippy prevádza vaše denné hodiny pri telefóne na týždenné (×7), mesačné (×30,44) a ročné (×365) súčty. Bez účtu, bez sledovania — len matematika vo vašom prehliadači.",
+      "sections": [
+        {
+          "title": "Váš telefón nie je jedna vec",
+          "paragraphs": [
+            "Je to mapa, fotoaparát, messenger, peňaženka aj miesto na oddych. Jediný súčet nemôže rozhodnúť, ktoré spôsoby použitia sú pre vás dôležité.",
+            "Použite súčet na otázku, či čas, ktorý si chcete ponechať, nie je vytláčaný kontrolami, ktoré prebiehajú na autopilota. Toto rozlíšenie je užitočnejšie než jediné skóre času pred obrazovkou."
+          ]
+        },
+        {
+          "title": "Hľadajte vzorce skôr než pravidlá",
+          "paragraphs": [
+            "Všimnite si podnet skôr, než sa aplikácia otvorí: nuda, oznámenie, pauza medzi úlohami alebo náročná práca.",
+            "Pravidlo, ktoré zodpovedá podnetu, funguje lepšie — tichšie oznámenia, iná plocha alebo hranica okolo jednej aplikácie. Ak chcete obmedziť najmä sociálne siete, pozrite si čas na sociálnych sieťach a ako ho obmedziť na iPhone."
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "title": "Zadajte denný čas pri telefóne",
+          "copy": "Použite typický deň, nie svoj najlepší ani najhorší."
+        },
+        {
+          "title": "Prejdite si súčty",
+          "copy": "Skontrolujte týždeň a rok, aby ste videli návyk vo väčšom meradle."
+        },
+        {
+          "title": "Nájdite časť na zmenu",
+          "copy": "Oddeľte užitočné používanie od neplánovaných kontrol."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Je to zadarmo?",
+          "answer": "Áno. Beží vo vašom prehliadači bez účtu a platby."
+        },
+        {
+          "question": "Kde nájdem svoj denný priemer?",
+          "answer": "Nastavenia → Čas pred obrazovkou → Zobraziť všetku aktivitu aplikácií a webov. Použite zobrazenie Deň alebo Týždeň."
+        },
+        {
+          "question": "Vidí moje aplikácie?",
+          "answer": "Nie. Číslo zadávate sami; Klippy sa nikdy nepripája k vášmu telefónu."
+        }
+      ]
+    },
+    "social-media-time-calculator": {
+      "title": "Kalkulačka času na sociálnych sieťach — Týždenné, mesačné a ročné súčty | Klippy",
+      "description": "Vypočítajte si čas na sociálnych sieťach za týždeň, mesiac a rok. Zadajte denný priemer pre jednu aplikáciu alebo všetky sociálne siete — súkromne a okamžite.",
+      "eyebrow": "Kalkulačka času na sociálnych sieťach",
+      "h1": "Pozrite sa, ako sa sčíta čas na sociálnych sieťach.",
+      "lead": "Zadajte svoj denný priemer na sociálnych sieťach a pozrite si ho ako týždenné, mesačné a ročné súčty. Ponechajte si to, čo si ceníte, zmeňte to, čo pôsobí automaticky.",
+      "answer": "Spočítajte svoje sociálne aplikácie v Čase pred obrazovkou na iPhone, zadajte denný priemer a Klippy ho prevedie na dlhodobejšie súčty. Použite to pre jednu aplikáciu alebo celú kategóriu.",
+      "sections": [
+        {
+          "title": "Súčet je jasnejší než pocit",
+          "paragraphs": [
+            "„Trávim príliš veľa času na sociálnych sieťach“ sa ťažko premieňa na čin. Číslo — napríklad 1,5 h/deň ≈ 22 plných dní za rok — vám dá niečo konkrétne na zamyslenie.",
+            "Nie všetko z toho je premárnené; sociálne siete sú pre mnohých ľudí aj práca, učenie a kontakt s blízkymi. Užitočná otázka je, či čas zodpovedá tomu, čo ste zamýšľali."
+          ]
+        },
+        {
+          "title": "Nech je ďalší krok konkrétny",
+          "paragraphs": [
+            "Vyberte jednu aplikáciu, ktorá mení rýchlu kontrolu na dlhšie sedenie. Všimnite si, kedy ju otvárate a čo ste robili tesne predtým.",
+            "Ak sa rozhodnete pridať hranicu, ponechajte užitočné aplikácie otvorené a zamerajte sa na tých pár, ktoré vás sťahujú späť. Možnosti pre iPhone nájdete v návodoch ako obmedziť sociálne siete na iPhone a Čas pred obrazovkou vs. blokovanie aplikácií."
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "title": "Otvorte rozpis",
+          "copy": "V Čase pred obrazovkou skontrolujte kategóriu Sociálne siete alebo jednu aplikáciu."
+        },
+        {
+          "title": "Zadajte denný priemer",
+          "copy": "Použite jednu aplikáciu alebo celkový súčet."
+        },
+        {
+          "title": "Zvoľte jednu hranicu",
+          "copy": "Začnite s aplikáciou, ktorá pôsobí najviac automaticky."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Môžem spočítať jednu aplikáciu?",
+          "answer": "Áno. Zadajte priemer pre Instagram, TikTok, YouTube a pod. alebo celkový súčet."
+        },
+        {
+          "question": "Zbiera Klippy moje používanie sociálnych sietí?",
+          "answer": "Nie. Nič sa neodosiela do Klippy ani k vašim účtom."
+        },
+        {
+          "question": "Čo ak to potrebujem na prácu?",
+          "answer": "Ponechajte si pracovné používanie a zamerajte hranicu na kontroly mimo tento účel."
+        }
+      ]
+    },
+    "how-to-check-screen-time-iphone": {
+      "title": "Ako zistiť čas pred obrazovkou na iPhone — Denne, týždenne a podľa aplikácií | Klippy",
+      "description": "Ako nájsť Čas pred obrazovkou na iPhone: pozrite si denný priemer, týždenný súčet a rozpis podľa aplikácií a potom ho použite v kalkulačke Klippy.",
+      "eyebrow": "Ako zistiť čas pred obrazovkou na iPhone",
+      "h1": "Ako nájsť Čas pred obrazovkou na iPhone.",
+      "lead": "Váš iPhone už sleduje denný priemer, týždenný trend a rozpis podľa aplikácií. Tu nájdete, kde to nájsť a ktoré číslo použiť v kalkulačke.",
+      "answer": "Prejdite do Nastavenia → Čas pred obrazovkou → Zobraziť všetku aktivitu aplikácií a webov. Prepínajte Deň/Týždeň, aby ste našli typický priemer. Rozpis podľa aplikácií je na tej istej obrazovke.",
+      "sections": [
+        {
+          "title": "Vyberte typický týždeň, nie jeden deň",
+          "paragraphs": [
+            "Jeden deň môže skresľovať — cestovanie, dlhý hovor alebo víkendové flákanie ho môžu vychýliť. Týždenné zobrazenie tieto výkyvy vyhladí.",
+            "Použite denný priemer zobrazený hore pre Týždeň. To je najužitočnejší vstup pre kalkulačku a pre zobrazenie v dňoch."
+          ]
+        },
+        {
+          "title": "Skontrolujte rozpis, nie len súčet",
+          "paragraphs": [
+            "Súčet vám povie koľko, rozpis vám povie kde. Porovnajte aplikácie, ktoré používate zámerne, s tými, ktoré otvárate bez plánu.",
+            "Toto rozdelenie vám pomôže zvoliť jeden realistický ďalší krok namiesto všeobecného cieľa „používať telefón menej“."
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "title": "Otvorte Nastavenia",
+          "copy": "Klepnite na Čas pred obrazovkou v hlavnom zozname Nastavení."
+        },
+        {
+          "title": "Otvorte Aktivitu aplikácií a webov",
+          "copy": "Zvoľte Zobraziť všetko pre zobrazenie Deň/Týždeň a zoznamu podľa aplikácií."
+        },
+        {
+          "title": "Skopírujte typické denné číslo",
+          "copy": "Použite ho v kalkulačke na zobrazenie týždenných/ročných súčtov."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Môžem vidieť čas pre jednu aplikáciu?",
+          "answer": "Áno. Zoznam aktivity zobrazuje každú aplikáciu a kategóriu; klepnite na aplikáciu pre jej denný/týždenný detail."
+        },
+        {
+          "question": "Prečo chýba Čas pred obrazovkou?",
+          "answer": "Môže byť vypnutý. V časti Čas pred obrazovkou klepnite na Zapnúť a zvoľte svoje zariadenie."
+        },
+        {
+          "question": "Môžem použiť týždenný súčet?",
+          "answer": "Áno. Vydeľte týždenný súčet 7, aby ste získali denný priemer."
+        }
+      ]
+    },
+    "how-to-reduce-screen-time-iphone": {
+      "title": "Ako skrátiť čas pred obrazovkou na iPhone (bez prehnaného blokovania) | Klippy",
+      "description": "Praktické spôsoby, ako skrátiť čas pred obrazovkou na iPhone: nájdite podnet, stíšte oznámenia, použite Sústredenie alebo pridajte hranicu pre jednu aplikáciu.",
+      "eyebrow": "Ako skrátiť čas pred obrazovkou na iPhone",
+      "h1": "Skráťte čas pred obrazovkou tým, že najprv zmeníte jednu užitočnú vec.",
+      "lead": "„Používať telefón menej“ je vágne. Menšia zmena — menej upozornení, rozvrh Sústredenia alebo hranica pre jednu aplikáciu — sa ľahšie udrží a ľahšie meria.",
+      "answer": "Začnite s rozpisom Času pred obrazovkou, vyberte jeden opakujúci sa podnet (oznámenia, nuda, denná doba) a priraďte nástroj: tichšie upozornenia, Sústredenie, Limity aplikácií/Čas mimo obrazovky alebo blokovanie vybraných aplikácií pre tých pár, ktoré sa otvárajú automaticky.",
+      "sections": [
+        {
+          "title": "Zvoľte správanie, nie len číslo",
+          "paragraphs": [
+            "„Prestať otvárať TikTok po 22:00“ je jasnejšie než „používať telefón o hodinu menej“. Prvé ukazuje na nastavenie; druhé vyžaduje pevnú vôľu v danom momente.",
+            "Keď je správanie konkrétne, môžete užitočné aplikácie nechať tak a pravidlo uplatniť len tam, kde problém vzniká."
+          ]
+        },
+        {
+          "title": "Nech je nastavenie praktické",
+          "paragraphs": [
+            "Ak pravidlo blokuje aplikácie, ktoré potrebujete, budete ho obchádzať. Zamerajte sa na 1–2 aplikácie, ktoré vytvárajú automatickú kontrolu.",
+            "Všimnite si, čo vás núti nastavenie opustiť — príliš široké, príliš ľahké ignorovať alebo rieši nesprávny podnet. Upravte to, nie svoju motiváciu. Porovnajte Čas pred obrazovkou vs. blokovanie vybraných aplikácií, aby ste vybrali správny nástroj."
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "title": "Nájdite opakujúci sa moment",
+          "copy": "Použite Čas pred obrazovkou na odhalenie jedného návyku (napr. práca, čas pred spaním, čakanie)."
+        },
+        {
+          "title": "Odstráňte podnet, ak môžete",
+          "copy": "Vyskúšajte nastavenia oznámení alebo Sústredenie pre kontroly spúšťané upozorneniami."
+        },
+        {
+          "title": "Pridajte hranicu, ak treba",
+          "copy": "Použite Limity aplikácií/Čas mimo obrazovky alebo blokovanie pre automatické otváranie."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Mám používať Limity aplikácií?",
+          "answer": "Používajte ich, keď pomáha časový rozpočet. Ak sa rovnaká aplikácia otvára v náhodných časoch celý deň, hranica pre vybrané aplikácie môže sadnúť lepšie."
+        },
+        {
+          "question": "Môžem si ponechať hovory a správy?",
+          "answer": "Áno. Ponechajte Telefón, Správy a nevyhnutné veci mimo akéhokoľvek obmedzenia."
+        },
+        {
+          "question": "Aká je najmenšia užitočná zmena?",
+          "answer": "Tá, ktorá mieri na skutočný problém bez toho, aby zvyšok telefónu znepríjemnila."
+        }
+      ]
+    },
+    "how-to-limit-social-media-on-iphone": {
+      "title": "Ako obmedziť sociálne siete na iPhone — Ponechajte si nevyhnutné | Klippy",
+      "description": "Obmedzte sociálne siete na iPhone bez blokovania celého telefónu: upozornenia, Sústredenie, Limity aplikácií, Čas mimo obrazovky a blokátory aplikácií v porovnaní.",
+      "eyebrow": "Obmedziť sociálne siete na iPhone",
+      "h1": "Obmedzte sociálne siete bez obmedzenia celého telefónu.",
+      "lead": "Nepotrebujete pravidlo všetko alebo nič. Zvoľte, či chcete menej upozornení, denný limit, plánovanú prestávku, alebo aby sa vybrané aplikácie ťažšie otvárali.",
+      "answer": "Priraďte nástroj k podnetu: oznámenia → tichšie upozornenia/Sústredenie; časový rozpočet → Limity aplikácií; predvídateľný rozvrh → Čas mimo obrazovky; opakované automatické otváranie → blokovanie vybraných aplikácií. Ponechajte nevybrané aplikácie dostupné.",
+      "sections": [
+        {
+          "title": "Rôzne nástroje, rôzne problémy",
+          "paragraphs": [
+            "Oznámenia sú podnet, Limity aplikácií sú rozpočet, Čas mimo obrazovky je rozvrh a blokovanie vybraných aplikácií ich robí štandardne nedostupnými. Nie sú zameniteľné.",
+            "Ak sa rovnaká aplikácia otvára bez oznámenia či rozvrhu, blokovanie je často priamejšie než časovač, ktorý môžete predĺžiť. Pozrite si, kedy ktoré pomôže v Čas pred obrazovkou vs. blokovanie aplikácií."
+          ]
+        },
+        {
+          "title": "Ponechajte si to, čo potrebujete",
+          "paragraphs": [
+            "Mapy, Správy, hovory, bankovníctvo a rodinné aplikácie zriedka musia byť súčasťou pravidla pre sociálne siete.",
+            "Úzke pravidlo sa ľahšie dodržiava, pretože mení problémovú aplikáciu bez toho, aby každodenné úlohy znepríjemnilo. Ak si nie ste istí, začnite tým, koľko času na sociálnych sieťach naozaj máte."
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "title": "Pomenujte problémovú aplikáciu",
+          "copy": "Nájdite tú, ktorá mení rýchlu kontrolu na dlhé sedenie."
+        },
+        {
+          "title": "Priraďte nastavenie",
+          "copy": "Zvoľte premyslene upozornenia, limity, rozvrh alebo blokovanie."
+        },
+        {
+          "title": "Ponechajte nevyhnutné otvorené",
+          "copy": "Ponechajte užitočné aplikácie mimo pravidla."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Dokáže Sústredenie blokovať aplikácie?",
+          "answer": "Sústredenie obmedzuje oznámenia a môže skryť stránky plochy, ale vo všeobecnosti nezabráni otvoreniu aplikácie."
+        },
+        {
+          "question": "Môžem si ponechať Správy?",
+          "answer": "Áno. Pri prístupe s vybranými aplikáciami zostanú nevybrané aplikácie dostupné."
+        },
+        {
+          "question": "Čo ak to potrebujem na prácu?",
+          "answer": "Ponechajte si pracovné používanie a uplatnite hranicu len mimo týchto okien."
+        }
+      ]
+    },
+    "digital-detox-plan": {
+      "title": "Plán digitálneho detoxu — Menší reštart, ktorý vydrží | Klippy",
+      "description": "Vytvorte si realistický plán digitálneho detoxu: vyberte jeden dôvod, jeden spúšťač a jednu malú hranicu na otestovanie na týždeň.",
+      "eyebrow": "Plán digitálneho detoxu",
+      "h1": "Plán digitálneho detoxu, ktorý sadne do reálneho života.",
+      "lead": "Nemusíte mazať všetko ani odísť na týždeň. Vyberte si jednu časť dňa, ktorú chcete získať späť, a jeden spúšťač na zmenu, potom to vyskúšajte.",
+      "answer": "Zvoľte jeden dôvod (napr. menej vyrušovania v práci, pokojnejší večer), jeden spúšťač (aplikáciu, oznámenie alebo časové okno) a jednu hranicu, ktorú dokážete dodržať sedem dní. Vyhodnoťte a upravte.",
+      "sections": [
+        {
+          "title": "Vyhnite sa pasci všetko alebo nič",
+          "paragraphs": [
+            "Široké detoxy pôsobia rozhodne, ale často zlyhajú, keď stále potrebujete telefón do práce, pre rodinu a na cesty.",
+            "Úzky test prináša lepšie dáta. Ak je problémom nočné scrollovanie, zmeňte len toto okno — nie každú aplikáciu celý deň. Pozrite si, ako prestať tak často kontrolovať, pre nápady na podnety."
+          ]
+        },
+        {
+          "title": "Rozhodnite, pre čo robíte miesto",
+          "paragraphs": [
+            "Plán lepšie drží s jasným účelom: sústredenejšia práca, prítomnejšie jedlá alebo ľahšie večerné upokojenie.",
+            "Použite tento účel na voľbu hranice. Mala by podporovať život, aký chcete, nie sa stať ďalším pravidlom, ktoré vám prekáža."
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "title": "Vyberte jeden dôvod",
+          "copy": "Pomenujte časť dňa, ktorú chcete chrániť."
+        },
+        {
+          "title": "Vyberte jeden spúšťač",
+          "copy": "Zvoľte aplikáciu, oznámenie alebo miesto, ktoré opakovane prekáža."
+        },
+        {
+          "title": "Vyskúšajte jednu hranicu",
+          "copy": "Nech je dosť malá na to, aby ste ju používali celý týždeň."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Ako dlho by mal detox trvať?",
+          "answer": "Týždňový test je užitočnejší než široký plán, ktorý nevydržíte. Predĺžte len to, čo pomáha."
+        },
+        {
+          "question": "Musím vymazať sociálne siete?",
+          "answer": "Zvyčajne nie. Hranica okolo automatických momentov často stačí."
+        },
+        {
+          "question": "Čo ak potrebujem telefón do práce?",
+          "answer": "Ponechajte si pracovné funkcie a zamerajte detox na rozptyľujúce kontroly mimo nich."
+        }
+      ]
+    },
+    "stop-checking-phone": {
+      "title": "Ako prestať tak často kontrolovať telefón — Podnet pred kontrolou | Klippy",
+      "description": "Prestaňte neustále kontrolovať telefón zmenou podnetu: upozornenia, nuda alebo slučky návykov. Praktické kroky, ktoré môžete vyskúšať dnes.",
+      "eyebrow": "Prestať kontrolovať telefón",
+      "h1": "Prestaňte kontrolovať zmenou momentu pred kontrolou.",
+      "lead": "Väčšina kontrol nie je rozhodnutím použiť telefón. Je to automatické siahnutie počas pauzy, oznámenia alebo chvíle nudy — a tento podnet sa dá zmeniť.",
+      "answer": "Všimnite si podnet a potom zmeňte nastavenie okolo neho: stíšte upozornenia, ktoré ho spúšťajú, sťažte otvorenie aplikácie alebo vložte na rovnaké miesto užitočnejší ďalší krok.",
+      "sections": [
+        {
+          "title": "Kontrola je často slučka, nie voľba",
+          "paragraphs": [
+            "Ruka sa pohne skôr, než ste sa rozhodli, čo od telefónu chcete. Preto sa pevná vôľa v danom momente zdá ťažká.",
+            "Vytvorte malú pauzu zmenou podnetu, prístupu alebo prostredia — dosť na to, aby ste sa mohli rozhodnúť, nie aby ste sa spoliehali na dokonalú kontrolu."
+          ]
+        },
+        {
+          "title": "Uľahčite lepší krok",
+          "paragraphs": [
+            "Ak kontrolujete pri čakaní, položte si tam knihu alebo zápisník. Ak kontrolujete v posteli, nabíjajte telefón mimo spálne. Nech je alternatíva rovnako ľahká ako starý návyk.",
+            "Ak je zvyčajným cieľom jedna aplikácia, hranica pre vybrané aplikácie môže toto automatické otváranie znepríjemniť, zatiaľ čo všetko ostatné zostane otvorené. Porovnajte nástroje v Čas pred obrazovkou vs. blokovanie aplikácií."
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "title": "Všimnite si podnet",
+          "copy": "Aký čas, pocit alebo oznámenie prichádza tesne pred siahnutím?"
+        },
+        {
+          "title": "Zmeňte jednu časť slučky",
+          "copy": "Stíšte upozornenie, presuňte aplikáciu alebo zväčšite odstup."
+        },
+        {
+          "title": "Vyhodnoťte skutočný výsledok",
+          "copy": "Ponechajte si, čo pomáha, upravte to, čo život sťažuje."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Prečo kontrolujem bez oznámenia?",
+          "answer": "Kontrolovanie sa môže stať naučenou reakciou na pauzy, stres alebo nudu — nielen na upozornenia."
+        },
+        {
+          "question": "Mám vypnúť všetky oznámenia?",
+          "answer": "Začnite s tými niekoľkými, ktoré vás vťahujú do nechcených kontrol; užitočné si ponechajte."
+        },
+        {
+          "question": "Môže pomôcť blokovanie?",
+          "answer": "Áno, keď sú rovnaké 1–2 aplikácie opakovaným cieľom."
+        }
+      ]
+    },
+    "screen-time-vs-app-blocker": {
+      "title": "Čas pred obrazovkou vs. blokovanie aplikácií — Ktorý nástroj pre iPhone sadne vášmu návyku? | Klippy",
+      "description": "Limity aplikácií a Čas mimo obrazovky v Čase pred obrazovkou vs. Sústredenie vs. blokovanie vybraných aplikácií. Zistite, ktorý nástroj pre iPhone zodpovedá vášmu podnetu.",
+      "eyebrow": "Čas pred obrazovkou vs. blokovanie aplikácií",
+      "h1": "Čas pred obrazovkou a blokovanie aplikácií riešia rôzne problémy.",
+      "lead": "Limity aplikácií, Čas mimo obrazovky, Sústredenie a blokovanie vybraných aplikácií sa často zamieňajú. Správna voľba závisí od toho, či potrebujete rozpočet, rozvrh, menej upozornení, alebo aby vybrané aplikácie boli štandardne nedostupné.",
+      "answer": "Používajte Čas pred obrazovkou pre prehľady, Limity aplikácií a Čas mimo obrazovky; Sústredenie pre oznámenia a plochu; blokovanie vybraných aplikácií, keď má byť zopár aplikácií štandardne blokovaných, zatiaľ čo zvyšok telefónu zostane užitočný.",
+      "sections": [
+        {
+          "title": "Kedy sa hodí Čas pred obrazovkou",
+          "paragraphs": [
+            "Limity aplikácií nastavujú denný limit, Čas mimo obrazovky nastavuje rozvrh a Čas pred obrazovkou ukazuje, kam čas mizne. Skvelé na uvedomenie, rozpočty a predvídateľné okná.",
+            "Pri náhodnom, automatickom otváraní rovnakých 1–2 aplikácií môže byť časový rozpočet ľahké predĺžiť — štandardné blokovanie je priamejšie."
+          ]
+        },
+        {
+          "title": "Kedy sa hodí hranica pre vybrané aplikácie",
+          "paragraphs": [
+            "Blokovanie sa pýta: ktoré nainštalované aplikácie vytvárajú problém a môže zvyšok zostať užitočný? Fella ponecháva vami vybrané aplikácie štandardne blokované; nevybrané aplikácie zostávajú dostupné.",
+            "Nie je to blokátor webov ani systém MDM. Je to úzka hranica pre návyk, ktorý ste pomenovali v návode ako skrátiť alebo vo svojom pláne detoxu."
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "title": "Pomenujte problém",
+          "copy": "Upozornenia, denný súčet, rozvrh alebo opakované automatické otváranie?"
+        },
+        {
+          "title": "Vyberte zodpovedajúci nástroj",
+          "copy": "Sústredenie, Limity aplikácií/Čas mimo obrazovky alebo blokovanie."
+        },
+        {
+          "title": "Udržujte to úzke",
+          "copy": "Ponechajte užitočné aplikácie dostupné."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Dokáže Čas pred obrazovkou blokovať aplikácie?",
+          "answer": "Má Limity aplikácií a Čas mimo obrazovky. Používajte ich pre rozpočty/rozvrhy; blokovanie je pre štandardne nedostupné vybrané aplikácie."
+        },
+        {
+          "question": "Blokuje Sústredenie aplikácie?",
+          "answer": "Sústredenie stíši oznámenia a môže skryť stránky, ale vo všeobecnosti neblokuje otvorenie aplikácie."
+        },
+        {
+          "question": "Môžem si ponechať hovory a správy?",
+          "answer": "Áno. Pri prístupe s vybranými aplikáciami sú blokované len vami vybrané aplikácie."
+        }
+      ]
+    }
+  },
+  "guidePage": {
+    "shortAnswer": "Stručná odpoveď",
+    "nextStepEyebrow": "Praktický ďalší krok",
+    "useCalculatorCta": "Použiť kalkulačku času pred obrazovkou",
+    "faqTitle": "Časté otázky"
+  },
+  "notFound": {
+    "title": "Stránka nenájdená",
+    "description": "Stránka, ktorú hľadáte, neexistuje."
+  }
+}

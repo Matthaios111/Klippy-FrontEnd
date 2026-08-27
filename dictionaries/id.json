@@ -1,0 +1,778 @@
+{
+  "site": {
+    "name": "Klippy",
+    "title": "Klippy | Alat gratis untuk ponsel yang lebih tenang",
+    "description": "Alat sederhana dan gratis untuk mengubah kebiasaan ponsel yang terus menarikmu kembali."
+  },
+  "header": {
+    "howItWorks": "Cara kerja",
+    "guides": "Panduan",
+    "about": "Tentang",
+    "calculator": "Kalkulator",
+    "tryFella": "Coba Fella",
+    "homeAria": "Beranda Klippy"
+  },
+  "footer": {
+    "privacy": "Privasi",
+    "terms": "Syarat",
+    "support": "Dukungan",
+    "builtByFella": "Dibuat oleh Fella",
+    "guidesLabel": "Panduan",
+    "guidesAria": "Panduan waktu layar"
+  },
+  "guides": [
+    {
+      "label": "Waktu layar menurut usia",
+      "slug": "screen-time-by-age-calculator"
+    },
+    {
+      "label": "Waktu layar dalam hari",
+      "slug": "screen-time-in-days"
+    },
+    {
+      "label": "Kalkulator penggunaan ponsel",
+      "slug": "phone-use-calculator"
+    },
+    {
+      "label": "Waktu media sosial",
+      "slug": "social-media-time-calculator"
+    },
+    {
+      "label": "Cara cek Waktu Layar di iPhone",
+      "slug": "how-to-check-screen-time-iphone"
+    },
+    {
+      "label": "Cara mengurangi Waktu Layar di iPhone",
+      "slug": "how-to-reduce-screen-time-iphone"
+    },
+    {
+      "label": "Cara membatasi media sosial di iPhone",
+      "slug": "how-to-limit-social-media-on-iphone"
+    },
+    {
+      "label": "Rencana detox digital",
+      "slug": "digital-detox-plan"
+    },
+    {
+      "label": "Berhenti terus mengecek ponsel",
+      "slug": "stop-checking-phone"
+    },
+    {
+      "label": "Waktu Layar vs pemblokir aplikasi",
+      "slug": "screen-time-vs-app-blocker"
+    }
+  ],
+  "home": {
+    "title": "Buat ponselmu\nlebih mudah diletakkan.",
+    "lead": "Alat gratis untuk menemukan kebiasaan ponsel yang terus menarikmu kembali. Lalu pilih batasan yang lebih kecil yang benar-benar pas dengan harimu.",
+    "cta": "Coba alat gratis",
+    "sub": "Tanpa login. Tanpa unduhan. Hanya tempat awal yang berguna.",
+    "howItWorksAria": "Cara kerja",
+    "steps": [
+      {
+        "number": "01",
+        "title": "Namai momennya",
+        "description": "Kebiasaan yang spesifik lebih mudah diubah daripada tujuan samar untuk mengurangi penggunaan ponsel."
+      },
+      {
+        "number": "02",
+        "title": "Pilih batasan yang lebih kecil",
+        "description": "Pertahankan aplikasi yang kamu butuhkan. Tambahkan hambatan hanya di mana pengecekan otomatis dimulai."
+      },
+      {
+        "number": "03",
+        "title": "Coba di kehidupan nyata",
+        "description": "Gunakan hasilnya sebagai titik awal yang praktis, lalu sesuaikan dengan keseharianmu."
+      }
+    ],
+    "aboutEyebrow": "Ponsel yang lebih tenang dimulai dari hal kecil.",
+    "aboutTitle": "Kamu tidak perlu menghapus seluruh kehidupan digitalmu.",
+    "aboutCopy": "Klippy menghadirkan alat gratis sederhana yang membantumu mengenali beberapa aplikasi dan momen yang paling layak diubah terlebih dahulu.",
+    "aboutCta": "Jelajahi Fella"
+  },
+  "about": {
+    "metaTitle": "Tentang Klippy — Alat kecil untuk ponsel yang lebih tenang",
+    "metaDescription": "Klippy membuat alat gratis dan privat untuk membantumu melihat kebiasaan ponsel dengan lebih jelas dan memilih langkah kecil yang realistis selanjutnya.",
+    "eyebrow": "Tentang Klippy",
+    "h1": "Alat kecil untuk ponsel yang terasa lebih berguna.",
+    "lead": "Klippy untuk kamu yang ingin mengubah kebiasaan ponsel tanpa menjadikannya proyek seharian. Alatnya dimulai dari pertanyaan sederhana dan mengarah pada satu jawaban yang berguna.",
+    "whyEyebrow": "Kenapa Klippy ada",
+    "whyTitle": "Kebanyakan saran soal ponsel menuntut terlalu banyak, terlalu cepat.",
+    "whyParagraphs": [
+      "Mudah untuk bilang kamu harus mengurangi penggunaan ponsel. Jauh lebih sulit menentukan apa artinya itu di hari yang biasa, saat ponsel juga menjadi cara kamu berkomunikasi, mencari arah, membayar, bekerja, belajar, dan bersantai.",
+      "Klippy berangkat dari sudut pandang yang lebih sempit. Beberapa bagian dari ponselmu memang berguna. Beberapa aplikasi atau momen mungkin menyeretmu ke kebiasaan yang tidak kamu pilih. Itu masalah yang berbeda, dan butuh jawaban yang berbeda.",
+      "Tujuannya bukan membuat teknologi terasa seperti kegagalan moral. Tujuannya membuat konsekuensinya lebih terlihat sehingga kamu bisa memutuskan apa yang layak diubah."
+    ],
+    "values": [
+      {
+        "title": "Gratis di atas segalanya",
+        "copy": "Hasil tidak seharusnya tersembunyi di balik formulir pendaftaran. Alat Klippy dirancang untuk berfungsi tanpa akun, tanpa pembayaran, atau instalasi aplikasi."
+      },
+      {
+        "title": "Privat secara default",
+        "copy": "Kalkulator waktu layar berjalan dengan nilai yang kamu ketik di browser. Tidak terhubung ke iPhone-mu dan tidak memerlukan data aktivitas pribadimu."
+      },
+      {
+        "title": "Berguna tanpa harus menjual",
+        "copy": "Sebuah alat harus bisa berdiri sendiri. Jika setelahnya ada produk lain yang memang berguna, langkah selanjutnya itu harus jelas dan opsional."
+      }
+    ],
+    "nextEyebrow": "Apa selanjutnya",
+    "nextTitle": "Mulai dengan gambaran jujur tentang kebiasaanmu.",
+    "nextParagraphs": [
+      "Alat pertama Klippy adalah kalkulator waktu layar. Alat ini mengubah angka rata-rata harian menjadi total yang bisa kamu lihat per minggu, per tahun, dan untuk jangka yang lebih panjang. Alat ini tidak bisa memberi tahu jam mana yang layak dipertahankan. Tapi bisa memberimu titik awal yang lebih jelas untuk memutuskan sendiri.",
+      "Alat-alat selanjutnya akan mengikuti prinsip yang sama. Harus cukup sederhana untuk digunakan dalam satu menit dan cukup spesifik untuk membantu keputusan nyata. Tanpa skor generik. Tanpa janji bahwa satu pengaturan menyelesaikan semuanya."
+    ],
+    "nextCta": "Gunakan kalkulator waktu layar",
+    "fellaEyebrow": "Dibuat bersama Fella",
+    "fellaTitle": "Ketika jawabannya adalah batasan yang lebih kuat di sekitar beberapa aplikasi, Fella ada untuk langkah selanjutnya.",
+    "fellaCopy": "Fella adalah pemblokir aplikasi iPhone untuk aplikasi pengganggu pilihanmu. Aplikasi yang tidak kamu pilih tetap bisa tersedia, jadi bagian ponsel yang berguna tidak ikut terbatasi kecuali kamu menginginkannya.",
+    "fellaCta": "Jelajahi Fella"
+  },
+  "howItWorks": {
+    "metaTitle": "Cara kerja Klippy — Mulai dari kebiasaan, bukan reset total",
+    "metaDescription": "Cara kerja Klippy: alat browser gratis dan privat yang mengubah angka harian ponsel menjadi langkah selanjutnya yang berguna — tanpa akun, tanpa pelacakan.",
+    "eyebrow": "Cara kerja",
+    "h1": "Mulai dari kebiasaan, bukan reset besar-besaran.",
+    "lead": "Klippy membuat alat gratis sederhana untuk melihat kebiasaan ponsel dengan cara yang lebih praktis. Tujuannya bukan membuat setiap menit di layar terasa buruk. Tujuannya adalah menyadari momen-momen yang terjadi tanpa banyak pikiran dan memutuskan apakah masih cocok untukmu.",
+    "ideaEyebrow": "Ide dasarnya",
+    "ideaTitle": "Jawaban yang berguna harus jelas sebelum meminta apa pun darimu.",
+    "ideaCopy": "Itulah kenapa alat Klippy berjalan di browser-mu. Tidak ada akun yang perlu dibuat, tidak ada halaman pembayaran untuk melihat hasil, dan tidak ada koneksi ke data privat ponselmu. Kamu memasukkan sedikit informasi dan mendapatkan cara konkret untuk memikirkannya.",
+    "steps": [
+      {
+        "number": "01",
+        "title": "Perhatikan satu momen",
+        "copy": "Mulai dari aplikasi tertentu, jam tertentu, atau situasi tertentu. Mengecek feed di tempat tidur lebih mudah dipahami daripada rencana umum untuk mengurangi penggunaan ponsel."
+      },
+      {
+        "number": "02",
+        "title": "Buat angkanya jadi berguna",
+        "copy": "Kalkulator waktu layar mengubah angka rata-rata harian menjadi total mingguan, tahunan, dan jangka panjang. Hitungannya sederhana. Melihat semuanya di satu tempat bisa membuat konsekuensinya lebih mudah disadari."
+      },
+      {
+        "number": "03",
+        "title": "Pilih langkah terkecil selanjutnya",
+        "copy": "Kamu bisa membiarkan semuanya apa adanya. Kamu bisa memindahkan aplikasi, membisukan pemicu, atau membuat satu pengalih perhatian sedikit lebih sulit dibuka. Perubahan yang berguna adalah yang cocok dengan keseharianmu."
+      }
+    ],
+    "calcEyebrow": "Apa yang dilakukan kalkulator",
+    "calcTitle": "Membuat angka yang familiar lebih mudah dibayangkan.",
+    "calcParagraphs": [
+      "Masukkan rata-rata jam waktu layar harian. Klippy menghitung total mingguan, bulanan, dan tahunan yang sesuai, lalu memperkirakan seperti apa angka itu jika berlanjut dari usiamu sekarang hingga usia 75.",
+      "Kalkulator tidak tahu aplikasi apa yang kamu gunakan, pekerjaanmu apa, atau apakah waktu di ponsel itu menyenangkan, perlu, atau mengganggu. Semua jam diperlakukan sama. Itu memang disengaja. Ini adalah alat kesadaran sederhana, bukan skor atau diagnosis.",
+      "Jika hasilnya terasa tinggi, pertanyaan selanjutnya belum tentu bagaimana menghapus semua waktu itu. Pertanyaan yang lebih baik adalah bagian mana yang terasa otomatis, tidak direncanakan, atau sulit dihentikan begitu dimulai."
+    ],
+    "calcCta": "Gunakan kalkulator waktu layar",
+    "faqEyebrow": "Pertanyaan yang sering ditanyakan",
+    "faqTitle": "Batasan kecil pun tetap berarti.",
+    "faqs": [
+      {
+        "question": "Apakah saya perlu membuat akun?",
+        "answer": "Tidak. Alat Klippy dirancang untuk langsung berfungsi di browser-mu. Kalkulator tidak memerlukan pendaftaran atau pembayaran."
+      },
+      {
+        "question": "Apakah Klippy membaca aktivitas ponsel saya?",
+        "answer": "Tidak. Alat ini hanya menggunakan angka yang kamu ketik di kalkulator. Tidak terhubung ke iPhone-mu dan tidak mengumpulkan rincian per aplikasi."
+      },
+      {
+        "question": "Apa yang harus saya lakukan setelah melihat hasil?",
+        "answer": "Cari satu pola yang jelas. Bisa jadi aplikasi yang kamu cek saat bekerja, feed yang kamu buka di tempat tidur, atau kebiasaan yang muncul setiap kali kamu sedang menunggu sesuatu."
+      },
+      {
+        "question": "Bagaimana jika saya masih butuh sebagian besar ponsel saya?",
+        "answer": "Itu wajar. Batasan yang berguna tidak harus membuat seluruh ponselmu tidak tersedia. Mulai dari beberapa aplikasi atau momen yang menimbulkan masalah."
+      }
+    ],
+    "fellaEyebrow": "Ketika beberapa aplikasi jadi masalah",
+    "fellaTitle": "Fella membuat aplikasi iPhone pengganggu pilihanmu tetap diblokir secara default sementara aplikasi yang tidak kamu pilih tetap bisa tersedia.",
+    "fellaCopy": "Ini adalah langkah yang berbeda dari menghitung waktu layarmu. Ini bisa berguna ketika kamu sudah mengidentifikasi aplikasi yang ingin kamu buat tidak terlalu otomatis.",
+    "fellaCta": "Jelajahi Fella"
+  },
+  "calculator": {
+    "metaTitle": "Kalkulator Waktu Layar — Lihat waktu ponselmu per minggu, tahun, hingga usia 75",
+    "metaDescription": "Kalkulator waktu layar gratis: masukkan jam harian dan usia untuk melihat total mingguan, tahunan, dan seumur hidup. Privat, tanpa login, berjalan di browser-mu.",
+    "eyebrow": "Kalkulator waktu layar gratis",
+    "h1": "Lihat bagaimana waktu ponselmu terakumulasi.",
+    "lead": "Masukkan rata-rata waktu layar harianmu. Dapatkan gambaran sederhana tentang jam, hari, dan tahun yang bisa terkumpul — lalu pilih satu perubahan kecil untuk dicoba.",
+    "inputLabel": "Rata-rata waktu layar harian",
+    "reduceAria": "Kurangi waktu layar",
+    "increaseAria": "Tambah waktu layar",
+    "help": "Cek Pengaturan → Waktu Layar di iPhone-mu jika kamu tidak yakin harus memasukkan angka berapa. Gunakan hari yang biasa, bukan hari terbaik atau terburukmu.",
+    "ageLabel": "Usiamu",
+    "ageHelp": "Hanya digunakan untuk memperkirakan waktu layar dari sekarang hingga usia 75. Tidak ada yang disimpan.",
+    "calcCta": "Hitung waktuku",
+    "results": {
+      "everyWeek": "Setiap minggu",
+      "everyMonth": "Setiap bulan",
+      "everyYear": "Setiap tahun",
+      "fullDays": "Hari penuh setiap tahun"
+    },
+    "atThisRate": "Dengan ritme ini",
+    "atThisRateValue": "Sekitar {years} tahun waktu layar dari sekarang hingga usia 75.",
+    "atThisRateCopy": "Perkiraan ini menghitung setiap jam dengan bobot yang sama. Ini adalah alat kesadaran kasar, bukan penilaian tentang cara kamu menggunakan ponsel.",
+    "wakingLabel": "Bagian dari 16 jam waktu terjaga",
+    "smallReductionTitle": "Pengurangan kecil pun terakumulasi",
+    "smallReductionCopy": "Satu jam lebih sedikit per hari menghemat sekitar {days} hari penuh setiap tahun.",
+    "smallReductionDesc": "Kamu tidak harus menghapus semua layar. Mulai dari satu aplikasi atau momen yang berubah menjadi sesi tanpa rencana.",
+    "fellaTitle": "Jika beberapa aplikasi jadi masalah",
+    "fellaCopyTitle": "Fella bisa memblokir aplikasi pilihan yang terus menarikmu kembali.",
+    "fellaCopy": "Aplikasi yang tidak kamu pilih tetap bisa tersedia, jadi ponselmu yang berguna tetap berguna.",
+    "fellaCta": "Lihat Fella di App Store",
+    "faqTitle": "FAQ kalkulator waktu layar",
+    "axisLabels": {
+      "zero": "0j",
+      "middle": "8j",
+      "max": "16j"
+    },
+    "faqs": [
+      {
+        "question": "Bagaimana perkiraan dihitung?",
+        "answer": "Kami mengalikan rata-rata harianmu dengan 7, 30,44 dan 365 untuk minggu/bulan/tahun, dan dengan jumlah tahun dari usiamu hingga 75 untuk tampilan seumur hidup. Bagi jam tahunan dengan 24 untuk mendapatkan hari penuh."
+      },
+      {
+        "question": "Apakah alat ini melacak iPhone saya?",
+        "answer": "Tidak. Perhitungan terjadi di browser-mu menggunakan angka yang kamu masukkan. Tidak ada yang terhubung ke ponselmu atau disimpan oleh Klippy."
+      },
+      {
+        "question": "Di mana saya bisa menemukan waktu layar iPhone saya?",
+        "answer": "Buka Pengaturan → Waktu Layar → Lihat Semua Aktivitas Aplikasi & Situs Web. Beralih antara Hari dan Minggu untuk menemukan rata-rata harian yang biasa."
+      },
+      {
+        "question": "Apa yang harus saya lakukan dengan hasilnya?",
+        "answer": "Cari waktu yang paling tidak disengaja — feed yang kamu buka sambil menunggu, game yang dipakai untuk menunda tugas, atau scroll larut malam — dan coba satu batasan kecil di sana."
+      }
+    ]
+  },
+  "seoPages": {
+    "screen-time-by-age-calculator": {
+      "title": "Kalkulator Waktu Layar Menurut Usia — Berapa banyak dari sekarang hingga 75? | Klippy",
+      "description": "Lihat bagaimana waktu layar harianmu terakumulasi dari usiamu sekarang hingga 75. Masukkan jam harian dan usia untuk perkiraan privat yang instan.",
+      "eyebrow": "Kalkulator waktu layar menurut usia",
+      "h1": "Lihat berapa banyak waktu layarmu terkumpul dari sekarang hingga 75.",
+      "lead": "Rata-rata harian terlihat berbeda jika disandingkan dengan tahun-tahun ke depan. Masukkan usia dan waktu layar harianmu untuk perkiraan sederhana dan privat — lalu pilih satu kebiasaan untuk dicoba.",
+      "answer": "Klippy mengalikan rata-rata harianmu dengan jumlah tahun dari usiamu sekarang hingga 75. Setiap jam dihitung sama, jadi anggap ini sebagai titik awal kesadaran, bukan skor.",
+      "sections": [
+        {
+          "title": "Kenapa tampilan menurut usia membantu",
+          "paragraphs": [
+            "Kebiasaan harian yang sama punya lebih banyak waktu untuk berulang saat kamu lebih muda. Melihat total hingga usia 75 membuat rutinitas yang abstrak menjadi konkret tanpa harus dibuat mengkhawatirkan.",
+            "Begitu melihat totalnya, kamu bisa mengajukan pertanyaan yang lebih sempit: apakah ada satu aplikasi, jam tertentu, atau pemicu yang menciptakan sebagian besar waktu otomatis? Batasan kecil di sana lebih mudah dipertahankan daripada pembatasan umum."
+          ]
+        },
+        {
+          "title": "Buat jadi berguna, bukan menghakimi",
+          "paragraphs": [
+            "Kalkulator tidak tahu jam mana untuk pekerjaan, keluarga, belajar, atau bersantai. Gunakan angkanya untuk memisahkan penggunaan ponsel yang kamu hargai dari pengecekan yang terjadi tanpa alasan yang jelas.",
+            "Jika hasilnya mengejutkanmu, mulai dari waktu yang paling tidak disengaja. Pertahankan bagian ponsel yang berguna dan tambahkan hambatan hanya di mana pengecekan otomatis dimulai. Lihat juga: waktu layar dalam hari penuh dan cara menemukan rata-ratamu di iPhone."
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "title": "Cek rata-rata harianmu",
+          "copy": "Buka Pengaturan → Waktu Layar → Lihat Semua Aktivitas dan gunakan angka harian yang biasa."
+        },
+        {
+          "title": "Masukkan usiamu",
+          "copy": "Hanya digunakan untuk perkiraan hingga 75. Tidak ada yang disimpan."
+        },
+        {
+          "title": "Pilih satu perubahan kecil",
+          "copy": "Pilih satu aplikasi atau momen yang terasa otomatis, bukan semuanya sekaligus."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Apakah perkiraannya akurat?",
+          "answer": "Tidak. Ini adalah hitungan sederhana dari angka harian yang kamu masukkan, dikalikan dengan jumlah tahun hingga 75. Gunakan untuk kesadaran, bukan sebagai ramalan yang presisi."
+        },
+        {
+          "question": "Apakah Klippy melihat data ponsel saya?",
+          "answer": "Tidak. Alat ini berjalan di browser-mu dan tidak pernah terhubung ke iPhone-mu."
+        },
+        {
+          "question": "Apa yang bisa saya coba setelahnya?",
+          "answer": "Coba satu batasan selama seminggu — misalnya, tanpa feed sosial di tempat tidur, atau notifikasi yang lebih senyap saat bekerja — dan pertahankan yang membantu."
+        }
+      ]
+    },
+    "screen-time-in-days": {
+      "title": "Waktu Layar dalam Hari — Ubah jam menjadi hari penuh 24 jam | Klippy",
+      "description": "Ubah waktu layar harian menjadi hari penuh per minggu, bulan, dan tahun. Lihat jam tahunan sebagai hari 24 jam — gratis dan privat.",
+      "eyebrow": "Waktu layar dalam hari",
+      "h1": "Ubah waktu layarmu menjadi hari penuh.",
+      "lead": "Jam yang tersebar sepanjang hari bisa terasa biasa saja. Klippy mengubah rata-rata harianmu menjadi hari penuh 24 jam per tahun sehingga konsekuensinya lebih mudah dibayangkan.",
+      "answer": "Kami mengalikan jam harianmu dengan 365 untuk jam tahunan, lalu membaginya dengan 24. Itulah setara hari penuhnya. Hitungannya instan di browser-mu.",
+      "sections": [
+        {
+          "title": "Kenapa hari penuh lebih mudah dibayangkan",
+          "paragraphs": [
+            "Empat jam sehari terdengar kecil sampai kamu melihatnya sebagai 60+ hari penuh per tahun. Tampilan hari membingkai ulang waktu yang sama tanpa menyebutnya terbuang.",
+            "Hari-hari itu mencakup pekerjaan, peta, pesan, belajar, dan istirahat. Tujuannya bukan melabeli semua waktu layar sebagai buruk, tapi melihat totalnya agar kamu bisa memilih satu bagian untuk diubah. Coba tampilan menurut usia jika kamu ingin gambaran jangka panjang."
+          ]
+        },
+        {
+          "title": "Jika angkanya mengejutkanmu",
+          "paragraphs": [
+            "Mulai dari waktu yang paling tidak disengaja: feed yang dibuka sambil menunggu, game yang dipakai untuk menghindari tugas, atau scroll larut malam yang kebablasan.",
+            "Coba batasan terkecil yang pas dengan harimu. Biarkan aplikasi penting tetap tersedia dan ubah hanya momen yang paling menimbulkan gesekan. Cara praktis untuk mengurangi di iPhone mungkin bisa membantu."
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "title": "Temukan rata-ratamu",
+          "copy": "Gunakan rata-rata harian di Waktu Layar iPhone (tampilan Hari/Minggu)."
+        },
+        {
+          "title": "Lihat total tahunan",
+          "copy": "Kalkulator menampilkan jam dan setara hari 24 jam."
+        },
+        {
+          "title": "Pilih satu eksperimen",
+          "copy": "Kurangi satu pengecekan otomatis daripada mengejar angka sempurna."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Bagaimana hari penuh dihitung?",
+          "answer": "Jam tahunan ÷ 24. Misalnya, 4 jam/hari × 365 = 1.460 jam/tahun ÷ 24 ≈ 60,8 hari penuh."
+        },
+        {
+          "question": "Apakah ini berarti waktu layar terbuang sia-sia?",
+          "answer": "Tidak. Tampilan hari adalah pembingkaian ulang yang netral. Pekerjaan, keluarga, dan istirahat semuanya bisa terjadi di layar."
+        },
+        {
+          "question": "Bisakah saya menghitung untuk satu aplikasi saja?",
+          "answer": "Ya. Masukkan rata-rata harian untuk satu aplikasi atau kategori dari rincian Waktu Layar."
+        }
+      ]
+    },
+    "phone-use-calculator": {
+      "title": "Kalkulator Penggunaan Ponsel — Dari harian ke total tahunan | Klippy",
+      "description": "Lihat bagaimana waktu ponsel harianmu terakumulasi per minggu, bulan, dan tahun. Satu angka, total instan — tanpa login.",
+      "eyebrow": "Kalkulator penggunaan ponsel",
+      "h1": "Kalkulator sederhana untuk waktu ponselmu.",
+      "lead": "Masukkan satu rata-rata harian dan lihat sebagai total mingguan, bulanan, dan tahunan. Gunakan untuk menemukan bagian penggunaan ponsel yang benar-benar ingin kamu ubah.",
+      "answer": "Klippy mengubah jam ponsel harianmu menjadi total mingguan (×7), bulanan (×30,44) dan tahunan (×365). Tanpa akun, tanpa pelacakan — hanya hitungan di browser-mu.",
+      "sections": [
+        {
+          "title": "Ponselmu bukan satu hal saja",
+          "paragraphs": [
+            "Ia adalah peta, kamera, messenger, dompet, dan tempat untuk bersantai. Satu total saja tidak bisa menentukan penggunaan mana yang penting bagimu.",
+            "Gunakan totalnya untuk bertanya apakah waktu yang ingin kamu pertahankan sedang terdesak oleh pengecekan yang terjadi secara autopilot. Perbedaan itu lebih berguna daripada satu skor waktu layar."
+          ]
+        },
+        {
+          "title": "Cari pola sebelum aturan",
+          "paragraphs": [
+            "Perhatikan pemicu sebelum aplikasi terbuka: kebosanan, notifikasi, jeda antar tugas, atau pekerjaan sulit.",
+            "Aturan yang sesuai dengan pemicunya bekerja lebih baik — notifikasi yang lebih senyap, layar utama yang berbeda, atau batasan di sekitar satu aplikasi. Jika kamu ingin membatasi media sosial secara khusus, lihat waktu media sosial dan cara membatasinya di iPhone."
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "title": "Masukkan penggunaan ponsel harian",
+          "copy": "Gunakan hari yang biasa, bukan hari terbaik atau terburukmu."
+        },
+        {
+          "title": "Baca totalnya",
+          "copy": "Cek mingguan dan tahunan untuk melihat kebiasaan dalam skala besar."
+        },
+        {
+          "title": "Temukan bagian yang ingin diubah",
+          "copy": "Pisahkan penggunaan yang berguna dari pengecekan yang tidak kamu rencanakan."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Apakah gratis?",
+          "answer": "Ya. Berjalan di browser-mu tanpa akun atau pembayaran."
+        },
+        {
+          "question": "Di mana saya menemukan rata-rata harian saya?",
+          "answer": "Pengaturan → Waktu Layar → Lihat Semua Aktivitas Aplikasi & Situs Web. Gunakan tampilan Hari atau Minggu."
+        },
+        {
+          "question": "Apakah bisa melihat aplikasi saya?",
+          "answer": "Tidak. Kamu memasukkan angkanya sendiri; Klippy tidak pernah terhubung ke ponselmu."
+        }
+      ]
+    },
+    "social-media-time-calculator": {
+      "title": "Kalkulator Waktu Media Sosial — Total mingguan, bulanan & tahunan | Klippy",
+      "description": "Hitung waktu media sosial per minggu, bulan, dan tahun. Masukkan rata-rata harian untuk satu aplikasi atau semua media sosial — privat dan instan.",
+      "eyebrow": "Kalkulator waktu media sosial",
+      "h1": "Lihat bagaimana waktu media sosial terakumulasi.",
+      "lead": "Masukkan rata-rata harian media sosialmu dan lihat sebagai total mingguan, bulanan, dan tahunan. Pertahankan yang kamu hargai, ubah yang terasa otomatis.",
+      "answer": "Jumlahkan aplikasi media sosialmu di Waktu Layar iPhone, masukkan rata-rata harian, dan Klippy mengubahnya menjadi total jangka panjang. Gunakan untuk satu aplikasi atau seluruh kategori.",
+      "sections": [
+        {
+          "title": "Total lebih jelas daripada perasaan",
+          "paragraphs": [
+            "‘Saya terlalu banyak menghabiskan waktu di media sosial’ sulit untuk ditindaklanjuti. Sebuah angka — misalnya, 1,5 jam/hari ≈ 22 hari penuh per tahun — memberimu sesuatu yang konkret untuk dipertimbangkan.",
+            "Tidak semuanya terbuang; media sosial juga cara banyak orang bekerja, belajar, dan tetap terhubung. Pertanyaan yang berguna adalah apakah waktunya sesuai dengan yang kamu niatkan."
+          ]
+        },
+        {
+          "title": "Buat langkah selanjutnya jadi spesifik",
+          "paragraphs": [
+            "Pilih satu aplikasi yang mengubah cek cepat menjadi sesi yang panjang. Perhatikan kapan kamu membukanya dan apa yang kamu lakukan tepat sebelumnya.",
+            "Jika kamu memutuskan untuk menambahkan batasan, biarkan aplikasi yang berguna tetap terbuka dan fokus pada beberapa yang menarikmu kembali. Untuk opsi di iPhone, lihat cara membatasi media sosial di iPhone dan Waktu Layar vs pemblokir aplikasi."
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "title": "Buka rinciannya",
+          "copy": "Di Waktu Layar, cek kategori Sosial atau satu aplikasi."
+        },
+        {
+          "title": "Masukkan rata-rata harian",
+          "copy": "Gunakan satu aplikasi atau total gabungan."
+        },
+        {
+          "title": "Pilih satu batasan",
+          "copy": "Mulai dari aplikasi yang terasa paling otomatis."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Bisakah saya menghitung satu aplikasi saja?",
+          "answer": "Ya. Masukkan rata-rata untuk Instagram, TikTok, YouTube, dll., atau total gabungan."
+        },
+        {
+          "question": "Apakah Klippy mengumpulkan penggunaan media sosial saya?",
+          "answer": "Tidak. Tidak ada yang dikirim ke Klippy atau ke akunmu."
+        },
+        {
+          "question": "Bagaimana jika saya membutuhkannya untuk pekerjaan?",
+          "answer": "Pertahankan penggunaan untuk pekerjaan dan fokuskan batasan pada pengecekan di luar tujuan itu."
+        }
+      ]
+    },
+    "how-to-check-screen-time-iphone": {
+      "title": "Cara Cek Waktu Layar di iPhone — Harian, mingguan & per aplikasi | Klippy",
+      "description": "Cara menemukan Waktu Layar di iPhone: lihat rata-rata harian, total mingguan, dan rincian per aplikasi, lalu gunakan di kalkulator Klippy.",
+      "eyebrow": "Cara cek waktu layar di iPhone",
+      "h1": "Cara menemukan Waktu Layar di iPhone.",
+      "lead": "iPhone-mu sudah mencatat rata-rata harian, tren mingguan, dan rincian per aplikasi. Berikut tempat menemukannya dan angka mana yang digunakan di kalkulator.",
+      "answer": "Buka Pengaturan → Waktu Layar → Lihat Semua Aktivitas Aplikasi & Situs Web. Beralih antara Hari/Minggu untuk menemukan rata-rata yang biasa. Rincian per aplikasi ada di layar yang sama.",
+      "sections": [
+        {
+          "title": "Pilih minggu yang biasa, bukan satu hari saja",
+          "paragraphs": [
+            "Satu hari bisa menyesatkan — perjalanan, panggilan panjang, atau maraton akhir pekan bisa mengacaukannya. Tampilan Minggu meratakan outlier itu.",
+            "Gunakan rata-rata harian yang ditampilkan di atas untuk tampilan Minggu. Itu input paling berguna untuk kalkulator dan untuk tampilan hari."
+          ]
+        },
+        {
+          "title": "Cek rinciannya, bukan hanya totalnya",
+          "paragraphs": [
+            "Total memberi tahu seberapa banyak, rincian memberi tahu di mana. Bandingkan aplikasi yang kamu gunakan dengan sengaja dengan yang kamu buka tanpa rencana.",
+            "Perbedaan itu membantumu memilih langkah selanjutnya yang realistis daripada tujuan umum ‘kurangi penggunaan ponsel’."
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "title": "Buka Pengaturan",
+          "copy": "Ketuk Waktu Layar di daftar utama Pengaturan."
+        },
+        {
+          "title": "Buka Aktivitas Aplikasi & Situs Web",
+          "copy": "Pilih Lihat Semua untuk melihat Hari/Minggu dan daftar per aplikasi."
+        },
+        {
+          "title": "Salin angka harian yang biasa",
+          "copy": "Gunakan di kalkulator untuk melihat total mingguan/tahunan."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Bisakah saya melihat waktu untuk satu aplikasi?",
+          "answer": "Ya. Daftar aktivitas menampilkan setiap aplikasi dan kategori; ketuk aplikasi untuk detail harian/mingguannya."
+        },
+        {
+          "question": "Kenapa Waktu Layar tidak ada?",
+          "answer": "Mungkin belum diaktifkan. Di Waktu Layar, ketuk Nyalakan dan pilih perangkatmu."
+        },
+        {
+          "question": "Bisakah saya menggunakan total mingguan?",
+          "answer": "Ya. Bagi total mingguan dengan 7 untuk mendapatkan rata-rata harian."
+        }
+      ]
+    },
+    "how-to-reduce-screen-time-iphone": {
+      "title": "Cara Mengurangi Waktu Layar di iPhone (tanpa memblokir berlebihan) | Klippy",
+      "description": "Cara praktis mengurangi waktu layar di iPhone: temukan pemicunya, senyapkan notifikasi, gunakan Fokus, atau tambahkan batasan untuk satu aplikasi.",
+      "eyebrow": "Cara mengurangi waktu layar di iPhone",
+      "h1": "Kurangi waktu layar dengan mengubah satu hal yang berguna terlebih dahulu.",
+      "lead": "‘Kurangi penggunaan ponsel’ itu samar. Perubahan yang lebih kecil — lebih sedikit notifikasi, jadwal Fokus, atau batasan untuk satu aplikasi — lebih mudah dipertahankan dan lebih mudah diukur.",
+      "answer": "Mulai dari rincian Waktu Layarmu, pilih satu pemicu yang berulang (notifikasi, kebosanan, jam tertentu), dan sesuaikan alatnya: senyapkan notifikasi, Fokus, Batas App/Waktu Henti, atau pemblokir aplikasi pilihan untuk beberapa aplikasi yang terbuka otomatis.",
+      "sections": [
+        {
+          "title": "Pilih perilaku, bukan hanya angka",
+          "paragraphs": [
+            "‘Berhenti membuka TikTok setelah jam 10 malam’ lebih jelas daripada ‘kurangi penggunaan ponsel 1 jam’. Yang pertama menunjuk ke pengaturan; yang kedua membutuhkan kemauan keras saat itu juga.",
+            "Begitu perilakunya spesifik, kamu bisa membiarkan aplikasi yang berguna tetap apa adanya dan membuat aturan hanya di mana masalah terjadi."
+          ]
+        },
+        {
+          "title": "Buat pengaturan tetap praktis",
+          "paragraphs": [
+            "Jika aturan memblokir aplikasi yang kamu butuhkan, kamu akan melewatinya. Fokus pada 1–2 aplikasi yang menciptakan pengecekan otomatis.",
+            "Perhatikan apa yang membuatmu meninggalkan pengaturan — terlalu luas, terlalu mudah diabaikan, atau menyelesaikan pemicu yang salah. Sesuaikan itu, bukan motivasimu. Bandingkan Waktu Layar vs pemblokir aplikasi pilihan untuk memilih alat yang tepat."
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "title": "Temukan momen yang berulang",
+          "copy": "Gunakan Waktu Layar untuk menemukan satu kebiasaan (mis. saat kerja, waktu tidur, saat menunggu)."
+        },
+        {
+          "title": "Hilangkan pemicunya jika bisa",
+          "copy": "Coba pengaturan notifikasi atau Fokus untuk pengecekan yang dipicu notifikasi."
+        },
+        {
+          "title": "Tambahkan batasan jika perlu",
+          "copy": "Gunakan Batas App/Waktu Henti atau pemblokir untuk pembukaan otomatis."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Haruskah saya menggunakan Batas App?",
+          "answer": "Gunakan saat anggaran waktu membantu. Jika aplikasi yang sama terbuka di jam acak sepanjang hari, batasan aplikasi pilihan mungkin lebih cocok."
+        },
+        {
+          "question": "Bisakah saya tetap menerima panggilan dan pesan?",
+          "answer": "Ya. Biarkan Telepon, Pesan, dan yang penting di luar pembatasan apa pun."
+        },
+        {
+          "question": "Apa perubahan terkecil yang berguna?",
+          "answer": "Yang menargetkan masalah nyata tanpa membuat sisa ponselmu jadi tidak nyaman."
+        }
+      ]
+    },
+    "how-to-limit-social-media-on-iphone": {
+      "title": "Cara Membatasi Media Sosial di iPhone — Biarkan yang penting tetap terbuka | Klippy",
+      "description": "Batasi media sosial di iPhone tanpa memblokir seluruh ponsel: notifikasi, Fokus, Batas App, Waktu Henti, dan pemblokir aplikasi dibandingkan.",
+      "eyebrow": "Batasi media sosial di iPhone",
+      "h1": "Batasi media sosial tanpa membatasi seluruh ponselmu.",
+      "lead": "Kamu tidak butuh aturan serba atau tidak sama sekali. Pilih apakah kamu ingin lebih sedikit notifikasi, jatah harian, jeda terjadwal, atau membuat aplikasi tertentu lebih sulit dibuka.",
+      "answer": "Sesuaikan alat dengan pemicunya: notifikasi → senyapkan notifikasi/Fokus; anggaran waktu → Batas App; jadwal yang bisa diprediksi → Waktu Henti; pembukaan otomatis yang berulang → pemblokir aplikasi pilihan. Biarkan aplikasi yang tidak dipilih tetap tersedia.",
+      "sections": [
+        {
+          "title": "Alat berbeda untuk masalah berbeda",
+          "paragraphs": [
+            "Notifikasi adalah pemicu, Batas App adalah anggaran, Waktu Henti adalah jadwal, dan pemblokir aplikasi pilihan membuat aplikasi itu tidak tersedia secara default. Semuanya tidak bisa saling menggantikan.",
+            "Jika aplikasi yang sama terbuka tanpa notifikasi atau jadwal, pemblokir seringkali lebih langsung daripada timer yang bisa kamu perpanjang. Lihat kapan masing-masing membantu di Waktu Layar vs pemblokir aplikasi."
+          ]
+        },
+        {
+          "title": "Pertahankan yang kamu butuhkan",
+          "paragraphs": [
+            "Peta, Pesan, panggilan, perbankan, dan aplikasi keluarga jarang perlu menjadi bagian dari aturan media sosial.",
+            "Aturan yang sempit lebih mudah dipertahankan karena mengubah aplikasi bermasalah tanpa membuat setiap tugas normal jadi tidak nyaman. Jika ragu, mulai dari seberapa banyak waktu sosial yang sebenarnya kamu miliki."
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "title": "Sebutkan aplikasi bermasalah",
+          "copy": "Temukan yang mengubah cek cepat menjadi sesi panjang."
+        },
+        {
+          "title": "Sesuaikan pengaturannya",
+          "copy": "Pilih notifikasi, batas, jadwal, atau pemblokir dengan sengaja."
+        },
+        {
+          "title": "Biarkan yang penting tetap terbuka",
+          "copy": "Biarkan aplikasi berguna di luar aturan."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Bisakah Fokus memblokir aplikasi?",
+          "answer": "Fokus mengurangi notifikasi dan bisa menyembunyikan halaman Layar Utama, tapi umumnya tidak mencegah pembukaan aplikasi."
+        },
+        {
+          "question": "Bisakah saya tetap memakai Pesan?",
+          "answer": "Ya. Dengan pendekatan aplikasi pilihan, aplikasi yang tidak dipilih tetap tersedia."
+        },
+        {
+          "question": "Bagaimana jika saya membutuhkannya untuk pekerjaan?",
+          "answer": "Pertahankan penggunaan untuk pekerjaan dan terapkan batasan hanya di luar jam tersebut."
+        }
+      ]
+    },
+    "digital-detox-plan": {
+      "title": "Rencana Detox Digital — Reset kecil yang bisa kamu pertahankan | Klippy",
+      "description": "Buat rencana detox digital yang realistis: pilih satu alasan, satu pemicu, dan satu batasan kecil untuk dicoba selama seminggu.",
+      "eyebrow": "Rencana detox digital",
+      "h1": "Rencana detox digital yang bisa pas dengan kehidupan nyata.",
+      "lead": "Kamu tidak perlu menghapus semuanya atau pergi selama seminggu. Pilih satu bagian harimu yang ingin kamu dapatkan kembali dan satu pemicu yang ingin diubah, lalu coba.",
+      "answer": "Pilih satu alasan (mis. lebih sedikit gangguan saat bekerja, waktu tidur yang lebih tenang), satu pemicu (aplikasi, notifikasi, atau rentang waktu), dan satu batasan yang bisa kamu pertahankan selama tujuh hari. Tinjau dan sesuaikan.",
+      "sections": [
+        {
+          "title": "Hindari jebakan serba atau tidak sama sekali",
+          "paragraphs": [
+            "Detox yang terlalu luas terasa tegas tapi sering gagal ketika kamu masih butuh ponsel untuk pekerjaan, keluarga, dan perjalanan.",
+            "Uji coba yang sempit memberi data yang lebih baik. Jika masalahnya adalah scroll larut malam, ubah hanya jendela itu — bukan semua aplikasi sepanjang hari. Lihat cara berhenti mengecek terlalu sering untuk ide pemicu."
+          ]
+        },
+        {
+          "title": "Tentukan untuk apa kamu meluangkan ruang",
+          "paragraphs": [
+            "Rencana lebih mudah bertahan dengan tujuan yang jelas: pekerjaan yang lebih fokus, makan yang lebih hadir, atau waktu tidur yang lebih mudah.",
+            "Gunakan tujuan itu untuk memilih batasan. Seharusnya mendukung kehidupan yang kamu inginkan, bukan menjadi aturan lain yang kamu benci."
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "title": "Pilih satu alasan",
+          "copy": "Sebutkan bagian harimu yang ingin kamu lindungi."
+        },
+        {
+          "title": "Pilih satu pemicu",
+          "copy": "Pilih aplikasi, notifikasi, atau tempat yang berulang kali menghalangi."
+        },
+        {
+          "title": "Coba satu batasan",
+          "copy": "Buat cukup kecil untuk dijalani selama seminggu penuh."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Berapa lama detox harus berlangsung?",
+          "answer": "Uji coba satu minggu lebih berguna daripada rencana luas yang tidak bisa kamu pertahankan. Perpanjang hanya yang membantu."
+        },
+        {
+          "question": "Apakah saya perlu menghapus media sosial?",
+          "answer": "Biasanya tidak. Batasan di sekitar momen-momen otomatis seringkali sudah cukup."
+        },
+        {
+          "question": "Bagaimana jika saya butuh ponsel untuk bekerja?",
+          "answer": "Pertahankan fungsi kerja dan fokuskan detox pada pengecekan pengalih perhatian di luar itu."
+        }
+      ]
+    },
+    "stop-checking-phone": {
+      "title": "Cara Berhenti Terus Mengecek Ponsel — Pemicu sebelum pengecekan | Klippy",
+      "description": "Berhenti mengecek ponsel dengan mengubah pemicunya: notifikasi, kebosanan, atau lingkaran kebiasaan. Langkah praktis yang bisa kamu coba hari ini.",
+      "eyebrow": "Berhenti terus mengecek ponsel",
+      "h1": "Berhenti mengecek dengan mengubah momen sebelum pengecekan.",
+      "lead": "Sebagian besar pengecekan bukan keputusan untuk menggunakan ponsel. Itu adalah gerakan otomatis saat jeda, notifikasi, atau momen bosan — dan pemicu itu bisa diubah.",
+      "answer": "Perhatikan pemicunya, lalu ubah pengaturan di sekitarnya: senyapkan notifikasi yang memicunya, buat aplikasi sedikit lebih sulit dibuka, atau letakkan tindakan selanjutnya yang lebih berguna di tempat yang sama.",
+      "sections": [
+        {
+          "title": "Pengecekan sering kali adalah lingkaran, bukan pilihan",
+          "paragraphs": [
+            "Tangan bergerak sebelum kamu memutuskan apa yang kamu inginkan dari ponsel. Itulah kenapa kemauan keras saat itu terasa sulit.",
+            "Ciptakan jeda kecil dengan mengubah pemicu, akses, atau lingkungan — cukup untuk memilih, bukan mengandalkan kontrol sempurna."
+          ]
+        },
+        {
+          "title": "Buat tindakan yang lebih baik jadi lebih mudah",
+          "paragraphs": [
+            "Jika kamu mengecek sambil menunggu, letakkan buku atau catatan di sana. Jika kamu mengecek di tempat tidur, isi daya ponsel di luar kamar. Buat alternatifnya semudah kebiasaan lama.",
+            "Jika satu aplikasi adalah tujuan yang biasa, batasan aplikasi pilihan bisa membuat pembukaan otomatis itu jadi kurang nyaman sementara yang lain tetap terbuka. Bandingkan alat di Waktu Layar vs pemblokir aplikasi."
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "title": "Perhatikan pemicunya",
+          "copy": "Jam berapa, perasaan apa, atau notifikasi apa yang muncul tepat sebelum kamu meraih ponsel?"
+        },
+        {
+          "title": "Ubah satu bagian dari lingkarannya",
+          "copy": "Senyapkan notifikasi, pindahkan aplikasi, atau beri jarak."
+        },
+        {
+          "title": "Tinjau hasil yang nyata",
+          "copy": "Pertahankan yang membantu, sesuaikan yang membuat hidup lebih sulit."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Kenapa saya mengecek tanpa notifikasi?",
+          "answer": "Mengecek bisa menjadi respons yang dipelajari terhadap jeda, stres, atau kebosanan — bukan hanya notifikasi."
+        },
+        {
+          "question": "Haruskah saya mematikan semua notifikasi?",
+          "answer": "Mulai dari beberapa yang menarikmu ke pengecekan yang tidak diinginkan; pertahankan yang berguna."
+        },
+        {
+          "question": "Bisakah pemblokir membantu?",
+          "answer": "Ya, ketika 1–2 aplikasi yang sama adalah tujuan yang berulang."
+        }
+      ]
+    },
+    "screen-time-vs-app-blocker": {
+      "title": "Waktu Layar vs Pemblokir Aplikasi — Alat iPhone mana yang cocok untuk kebiasaanmu? | Klippy",
+      "description": "Batas App & Waktu Henti Waktu Layar vs Fokus vs pemblokir aplikasi pilihan. Pelajari alat iPhone mana yang cocok dengan pemicumu.",
+      "eyebrow": "Waktu Layar vs pemblokir aplikasi",
+      "h1": "Waktu Layar dan pemblokir aplikasi menyelesaikan masalah yang berbeda.",
+      "lead": "Batas App, Waktu Henti, Fokus, dan pemblokir aplikasi pilihan sering tertukar. Pilihan yang tepat tergantung apakah kamu butuh anggaran, jadwal, lebih sedikit notifikasi, atau membuat aplikasi tertentu tidak tersedia secara default.",
+      "answer": "Gunakan Waktu Layar untuk laporan, Batas App dan Waktu Henti; Fokus untuk notifikasi dan Layar Utama; pemblokir aplikasi pilihan ketika beberapa aplikasi perlu diblokir secara default sementara sisa ponselmu tetap berguna.",
+      "sections": [
+        {
+          "title": "Kapan Waktu Layar paling cocok",
+          "paragraphs": [
+            "Batas App menetapkan jatah harian, Waktu Henti menetapkan jadwal, dan Waktu Layar menunjukkan ke mana waktumu pergi. Bagus untuk kesadaran, anggaran, dan jendela yang bisa diprediksi.",
+            "Untuk pembukaan otomatis yang acak dari 1–2 aplikasi yang sama, anggaran waktu mungkin mudah diperpanjang — blokir default lebih langsung."
+          ]
+        },
+        {
+          "title": "Kapan batasan aplikasi pilihan paling cocok",
+          "paragraphs": [
+            "Pemblokir bertanya: aplikasi terpasang mana yang menimbulkan masalah, dan bisakah sisanya tetap berguna? Fella membuat aplikasi yang kamu pilih tetap diblokir secara default; aplikasi yang tidak dipilih tetap tersedia.",
+            "Ini bukan pemblokir situs web atau sistem MDM. Ini adalah batasan sempit untuk kebiasaan yang kamu sebutkan di cara mengurangi atau rencana detox-mu."
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "title": "Sebutkan masalahnya",
+          "copy": "Notifikasi, total harian, jadwal, atau pembukaan otomatis yang berulang?"
+        },
+        {
+          "title": "Pilih alat yang sesuai",
+          "copy": "Fokus, Batas App/Waktu Henti, atau pemblokir."
+        },
+        {
+          "title": "Buat tetap sempit",
+          "copy": "Biarkan aplikasi yang berguna tetap tersedia."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Bisakah Waktu Layar memblokir aplikasi?",
+          "answer": "Ada Batas App dan Waktu Henti. Gunakan untuk anggaran/jadwal; pemblokir untuk aplikasi pilihan yang tidak tersedia secara default."
+        },
+        {
+          "question": "Apakah Fokus memblokir aplikasi?",
+          "answer": "Fokus menyenyapkan notifikasi dan bisa menyembunyikan halaman, tapi umumnya tidak memblokir pembukaan aplikasi."
+        },
+        {
+          "question": "Bisakah saya tetap menerima panggilan dan pesan?",
+          "answer": "Ya. Dengan pendekatan aplikasi pilihan, hanya aplikasi yang kamu pilih yang diblokir."
+        }
+      ]
+    }
+  },
+  "guidePage": {
+    "shortAnswer": "Jawaban singkat",
+    "nextStepEyebrow": "Langkah praktis selanjutnya",
+    "useCalculatorCta": "Gunakan kalkulator waktu layar",
+    "faqTitle": "Pertanyaan umum"
+  },
+  "notFound": {
+    "title": "Halaman tidak ditemukan",
+    "description": "Halaman yang kamu cari tidak ada."
+  }
+}
